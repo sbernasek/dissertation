@@ -1,0 +1,157 @@
+\chapter{Methods}
+\label{ch:methods}
+
+\section{\nameref*{ch:collaboration}}
+\label{sec:methods:collaboration}
+
+\subsection{Co-author names matching}
+
+To calculate the number of distinct co-authors for a researcher, we used the following procedure. For each researcher, we maintain a set of standardized co-author names. For each co-author name, we convert the name to a string of last name and first name initials. For example, a co-author named ``Jane Linda Smith" will be converted to ``Smith JL". For each publication, we standardize the names of the co-authors, and add them to the set. We finally count the number of elements in the set.
+
+Note that using this procedure, we treat ``Jane Linda Smith" and ``Jane Lily Smith" as the same name, because they are both converted to the string ``Smith JL". Also, we treat ``Jane Linda Smith" and ``Jane Smith" as different names, since the former is converted to ``Smith JL", while the latter is converted to ``Smith J". In reality, for a single author's co-authors, the probability for either case to happen is very small, hence the error rate of our procedure is very low.
+
+
+\subsection{Confidence interval for the survival curve of total number of distinct co-authors}
+
+We use matched sampling to obtain the confidence interval for the survival curve of total number of distinct co-authors. We consider the null hypothesis that there is no difference in the total number of co-authors between females and the males with similar number of publications. To construct the confidence interval, we generate samples of $N_F$ males, where $N_F$ the number of females in our dataset. For a female with $n_F$ publications, we select a male whose number of publications falls in the range of $[0.8\;n_F,~1.2\;n_F]$, a range small enough to produce good matches but large enough that there is at least one match. We then compute the survival curve for the obtained sample of male authors. We obtain the confidence interval by repeating this procedure 1,000 times.
+
+The procedure is similar for the null hypothesis that there is no difference in the total number of co-authors between females and the males with equal number of publications, except that the sample of males consists of males who have the same number of publications as the females.
+
+
+\subsection{Measuring gender difference in the distribution of collaboration opportunities}
+
+We use two methods, the Gini coefficient and the disparity index, to measure how homogeneously each author distributes all her/his collaboration opportunities among her/his co-authors. A high Gini coefficient or disparity index indicates inhomogeneity of collaboration frequency distribution, where the author collaborates highly frequently with only a small portion of her/his co-authors, but only a few times with each of the remaining majority. Thus, this author has a high propensity to concentrate her/his collaboration opportunities on a few co-authors. A low Gini coefficient or disparity index indicates that the author collaborates with each of her/his co-authors about equally frequently.
+
+\textit{Gini coefficient}. Consider author $a$ with $n_c$ co-authors. For each co-author $c_i$ of $a$, we count the times of collaboration between $a$ and $c_i$, $y_i$. That is, the number of publications $a$ has co-authored with $c_i$. We next arrange $y_i$ in non-decreasing order, where $y_i \leq y_{i+1}$. The Gini coefficient of author $a$ is calculated as
+\begin{equation}
+G(a) = \frac{2\sum \limits_{i=1}^{n_c} iy_i}{n_c \sum \limits_{i=1}^{n_c} y_i} - \frac{n_c+1}{n_c}\;\;.
+\end{equation}
+
+\textit{Disparity index}. We first calculate the weight of collaboration (link) between $a$ and $c_i$ as given by Newman \cite{Newman2004},
+\begin{equation}
+w_{ac_i} = \sum \limits_{j=1}^{k_{c_i}} \frac{1}{l_j-1}\;\;,
+\end{equation}
+
+\noindent
+where $k_{c_i}$ is the number of publications authored by $a$ and $c_i$ together, and $l_j$ is the number of co-authors in publication $j$. Then we calculate for $a$ the summation of the weights of collaboration (strength),
+\begin{equation}
+s_a = \sum \limits_{i=1}^{n_c} w_{ac_i}\;\;.
+\end{equation}
+
+\noindent
+Finally, the disparity index is calculated as
+\begin{equation}
+\Upsilon(a) = \sum \limits_{i=1}^{n_c} \left( \frac{w_{ac_i}}{s_{a}} \right)^2 n_c\;\;.
+\end{equation}
+
+\noindent
+We obtain the sample of Gini coefficients for female authors, $\{G_F\}$, and that for male authors, $\{G_M\}$. We then can obtain the significance of the difference between the two samples, by performing a Kolmogorov-Smirnov test on the cumulative distribution function curves of the two samples. We perform the same hypothesis test for $\{\Upsilon_F\}$ and $\{\Upsilon_M\}$.
+
+
+\subsection{Simulating total number of distinct co-authors}
+
+We simulate the process of accumulating distinct co-authors and then calculate the total number of distinct co-authors. For each author, we calculate the fraction of repeated co-authors, $f_r$. We then generate a list of publications, and record the number of collaborations with each distinct co-author. For each co-author in each publication, we decide if this co-author is a previous co-author with probability $f_r$. If yes, we choose a previous co-author with a probability proportional to the times of collaboration with that co-author, and increase the times of collaboration with that co-author by one. Otherwise, we add a new co-author to the list of co-authors. We do not use equal probability when choosing a previous co-author because this would lead to larger number of distinct co-authors than observed.
+
+Initially, we assign to each author 100 publications, in each of which the author has 5 co-authors. The results show that, for most disciplines, females have significantly more distinct co-authors ($p<0.0006$, Fig.~\ref{fig:collaboration:sim_coau_a}). This is expected since females repeat co-authors less than males do. We next introduce the observed heterogeneity in the team size, by keeping the number of publications at 100 while using team sizes sampled from the author's publications. Figure \ref{fig:collaboration:sim_coau_b} shows that in this case the gender difference is no longer significant. Finally, we introduce the heterogeneity in the number of publications, by using the actual number of publications and the number of co-authors in each publication (Fig.~\ref{fig:collaboration:sim_coau_c}). Now, females have significantly fewer number of distinct co-authors for most disciplines. These results clearly expose the origins of the results presented in Fig.~\ref{fig:collaboration:coau} where by controlling for number of publications alone we observed no statistical significant difference between males and females in the number of distinct co-authors.
+
+
+\subsection{Confidence interval for the probability of greater number of co-authors per publication}
+
+We consider the probability that publications authored by female authors in our cohort have a larger number of co-authors than publications authored by male authors in our cohort as a function of the career stage of the authors. Since not all the publications are published at the same career stages of the authors, and the size of science teams is increasing with time, we do not consider raw numbers of co-authors but instead standard scores relative to career stages.
+
+Let $n_i(y)$ denote the number of co-authors of publication $i$ from discipline $j$ in year $y$, and let $N_j(y)$ denote the total number of publications published in year $y$. We calculate the standard score of publication $i$ in year $y$ as
+\begin{equation}
+z_i(y)=\frac{n_i(y)-\mu_j(y)}{\sigma_j (y)}\;\;,
+\end{equation}
+
+\noindent
+where $\mu_j(y)$ is the average number of co-authors per publication from discipline $j$ published in year $y$
+\begin{equation}
+\mu_j(y)=\frac{\sum\limits_k \, n_k(y)}{N_j(y)}\;\;,
+\end{equation}
+
+\noindent
+$\sigma_j(y)$ is the standard deviation of the number of co-authors per publication published in year $y$
+\begin{equation}
+\sigma_j(y)=\sqrt{\frac{1}{N_j(y)}\sum\limits_k \left[n_k(y) - \mu_j(y)\right]^2} \;\;.
+\end{equation}
+
+We finally consider $z_i^c(s)$, the standard score of publication $i$ as a function of the career stage $s=y-y_i$, where $y_i$ is the year of the first publication of $i$'s author. We then calculate for each career stage $s$ the quantity $P\left[z_F^c(s) > z_M^c(s) \right]$, representing the probability that a publication authored by a female author has a standard score higher than that of a publication authored by a male author at the same stage of the career as the female author. We also compute the confidence intervals for these probability values, in the null hypothesis that there is no gender difference in the standard scores:
+
+\begin{equation}
+H_0: z_F(t) = z_M(t).
+\end{equation}
+
+We generate the confidence interval valid under this hypothesis using a re-sampling method: The populations of females and males are fixed, the values of all standard scores are also fixed, but values of the standard score are randomly reassigned among publications (this is the same as randomly reassigning the genders to authors). For each random configuration, we compute again the probability $P\left[z_F^c(s) > z_M^c(s) \right]$ and obtain the confidence interval by repeating this procedure 1,000 times.
+
+
+\subsection{Statistical significance of the number of publications with a given team size}
+
+To measure the extent to which females have different team sizes than expected, we use the hypergeometric distribution as the null model. We first account for the increasing trend in the team size over years (Fig.~\ref{fig:collaboration:coau_growth}). For publication $i$ with $n_i$ co-authors from discipline $j$ in year $y$, we calculate the corrected team size, $\nu_i(y)$, by dividing $n_i$ by the average number of co-authors for all the publications published in year $y$, $\mu_j(y)$,
+\begin{equation}
+\nu_i(y)=\frac{n_i(y)}{\mu_j(y)}\;\;,\;\;\mu_j(y)=\frac{\sum\limits_k \, n_k(y)}{N_j(y)}\;\;,
+\end{equation}
+
+\noindent
+where $N_j(y)$ is the total number of publications published in year $y$. We then bin the publications according to $\nu(y)$.
+
+For the discipline being considered, suppose there are $N$ publications in total, of which $N_F$ are authored by females. Consider a bin $b$ in which there are $N_b$ publications. If the females collaborate with teams of different sizes with equal probability, then the expected number of publications by females in $b$ is
+\begin{equation}
+N_{F,b}^e=N_b\frac{N_F}{N}\;\;.
+\end{equation}
+
+Suppose that of the $N_b$ publications in bin $b$, $N_{F,b}^o$ are authored by females. The probability of observing $N_{F,b}^o$ publications by females given by the hypergeometric distribution is then
+\begin{equation}
+P(X=N_{F,b}^o)=\frac{\binom{N_F}{N_{F,b}^o}\binom{N-N_F}{N_b-N_{F,b}^o}}{\binom{N}{N_b}} \;\;.
+\end{equation}
+
+\noindent
+The p-value of observing $N_{F,b}^o$ is then $P(X\leq N_{F,b}^o)$. In Fig.~\ref{fig:collaboration:ratio_pub} we plot $\log\frac{N_{F,b}^o}{N_{F,b}^e}$ for each bin, and shade the regions where the p-value is significant. We use the Bonferroni correction in which the false discovery rate (FDR) is set to be $0.01$. We reject the null model if p-value $<\frac{0.01}{m}$, where $m$ is the number of bins and thus the number of hypotheses.
+
+
+\section{\nameref*{ch:movies}}
+\label{sec:methods:movies}
+
+\subsection{Assigning gender to individuals}
+
+The gender of actors is explicitly mentioned in their individual biographical pages, thus we are able to fully determine their gender. For producers and directors that do not also have acting credits, we use indirect methods to assign a gender. If present, we parse the individual's biographical text for gender-specific pronouns (he/his/him/himself, or she/her/hers/herself). If the number of (male-) female-specific pronouns exceeds that of (female-) male-specific ones, we assume the individual is a (male) female. If the previous attempt is inconclusive, we use the Python package \textit{gender-guesser} (version 0.4.0) \cite{Gender2016} to ``guess'' the gender based on the first name of the individual. The output of \textit{gender-guesser} is one of ``female'', ``mostly female'', ``androgynous'', ``unknown'', ``mostly male'', or ``male''. We only assign a gender if the guess is either ``male'' or ``female''. If we still have not been able to assign a gender, we try to find a photograph of the individual. If all attempts fail, we mark the individual's gender as ``unknown''.
+
+
+\subsection{Null model for assigning gender to movie directors}
+
+We build a null model for gender assignment that preserves the number and genres of the movies produced each year. We consider only movies directed by a single director. We extract the number of movies of each genre released each year. For each year $y$ in the period 1910--2000, we assign a director gender to each of $N_y$ movies released that year while keeping track of each movie's genre. The gender is female with probability $p^d_y$ (equal to the fraction of active female directors in year $y$). After repeating this procedure for every year, we record the total fraction $f_G$ of movies in genre $G$ directed by females. For each genre $G$, we bootstrap the evolution the number of movies directed by females using 1,000 samples, and extract the 95\% and 99\% confidence interval bounds from the bootstrap samples.
+
+
+\subsection{Confidence interval for the probability of selecting a female actor}
+
+For any given year $y$, we assume the gender breakdown of the cast $a_{i_y}$ for movie $i_y$ to be the result of a binomial process $B(a_{i_y}, p^a_y)$ where an actor is female with probability $p^a_y$. Then, movie $i_y$ has $f_{i_y}$ female and $(a_{i_y} - f_{i_y})$ male actors. If we assume that each movie's casting process within year $y$ is an independent stochastic process, we can take the total actors $A_y = \sum_{i} a_{i_y}$ and the total female actors $F_y = \sum_{i} f_{i_y}$, and estimate $\widehat{p^a_y}$ from the observed fraction of female actors in all movies in a given year. Therefore, we calculate a confidence interval for the binomial proportion $p^a_y$ using the Clopper-Pearson method \cite{Clopper1934} where $F_y$ is the number of successes of $B(A_y, \widehat{p^a_y})$.
+
+While the IMDb data violates the independence assumption, the error will be quite small because there are many more actors than those that can be cast within a single movie. Indeed, less than 12\% of actors ever acted in more than 1 movie in a single year.
+
+
+\subsection{Data Availability}
+
+The movies, actors, directors, and producers datasets analyzed in \autoref{ch:movies} are available in \textit{figshare} at \href{https://doi.org/10.6084/m9.figshare.4967876.v1}{doi.org/10.6084/m9.figshare.4967876.v1} \cite{Moreira2017}.
+
+
+\section{\nameref*{ch:lognormal}}
+\label{sec:methods:lognormal}
+
+\subsection{Model Fitting and Hypothesis Testing}
+
+We estimate the discrete lognormal model parameters of Eq.~\eqref{eq:lognorm-eq} for all 1,283 researchers in our database using a maximum likelihood estimator \cite{Stringer2010}. We then test the goodness of the fit, at an individual level using the $\chi^2$ statistical test. We bin the empirical data in such a way that there are at least 5 expected observation per bin. To assess significance we calculate the $\chi^2_o$ statistic for each researcher and then, for each of them, re-sample their citation records using bootstrap (1,000 samples) and calculate a new value of the statistics $\chi^2_i$ ($i = $ 1 $, \dotsc,$ 1,000). We then extract a p-value by comparing the observed statistic $\chi^2_o$ with the re-sampled $\chi^2$ distribution. Finally we use a multiple hypothesis correction \cite{Benjamini1995}, with a \emph{false discovery rate} of 0.05, when comparing the model fits with the null hypothesis.
+
+
+\subsection{Generation of Theoretical Performance Indicators}
+
+For each discipline we take the average value of $\hat{\sigma}$ and 20 equally spaced values of $\mu$ between 0.5 and 2.0. We then generate 1,000 datasets of 50 and 200 publications by random sampling from Eq.~\eqref{eq:lognorm-eq}. We then fit the model individually to these 2,000 synthetic datasets and extracted the \emph{h}-index, average number of citations, total number of citations and median number of citations to publications with at least one citation. Finally, for each value of $\mu$, we calculate the average and the 95\% confidence interval of all the indicators.
+
+
+\subsection{Manipulation Procedure for \emph{h}-index}
+
+We try to increase the \emph{h}-index of a researcher by self-citations alone, i.e., we assume the researcher does not receive citations from other sources during this procedure. The procedure works by adding only the minimum required citations to those publications that would cause the \emph{h}-index to increase. Consider researcher John Doe who has 3 publications with $\{n_a\}$ = (2,2,5). Doe's \emph{h} is 2. Assuming those publications don't get cited by other researchers during this time period, to increase \emph{h} by 1, Doe needs to publish only one additional publication with two self-citations; to increase \emph{h} by 2 he must instead produce five publications with a total of eight self-citations, four of which to one of the additional five publications. We execute this procedure for all researchers in the database until they reached a \emph{h}-index of 100.
+
+
+\subsection{Manipulation Procedure for $\mu$}
+
+The manipulation of $\mu$ is based on Eq.~\eqref{eq:mu-med}. We try to change a researcher's $\mu$ by increasing the median number of citations to publications which have at least one citation already. We consider only self-citations originating from secondary publications, i.e., publications that will not get cited. For a given corpus of publications we first define a target increase in median, $x$ and then calculate the number of self-citations needed to increase the current median by $x$ citations and the corresponding number of secondary publications. We then take the initial corpus of publications and attempt to increase the median citation by $x$ + 1. We repeat this procedure until we reach an increase in median citation of 2000.

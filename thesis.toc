@@ -21,4 +21,4 @@
 \contentsline {subsection}{\tocsubsection {}{1.7.8}{Synthetic benchmarking of automated annotation performance}}{33}{subsection.1.7.8}
 \contentsline {subsection}{\tocsubsection {}{1.7.9}{Data and software availability}}{34}{subsection.1.7.9}
 \contentsline {section}{\tocsection {}{1.8}{Supplementary figures}}{34}{section.1.8}
-\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{46}{chapter*.20}
+\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{47}{chapter*.21}

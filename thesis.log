@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 APR 2019 22:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 APR 2019 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,7 +764,7 @@ Package pdftex.def Info: ./figures/ch3/./figure_S4.png used on input line 301.
 (pdftex.def)             Requested size: 469.75502pt x 353.86029pt.
 
 
-LaTeX Warning: Float too large for page by 128.93192pt on input line 304.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -773,10 +773,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./figures/ch3/./figure_S5.png Graphic file (type png)
 
 <use ./figures/ch3/./figure_S5.png>
-Package pdftex.def Info: ./figures/ch3/./figure_S5.png used on input line 307.
+Package pdftex.def Info: ./figures/ch3/./figure_S5.png used on input line 310.
 (pdftex.def)             Requested size: 478.90802pt x 125.74948pt.
 
-Overfull \hbox (9.153pt too wide) in paragraph at lines 307--308
+Overfull \hbox (9.153pt too wide) in paragraph at lines 310--311
  [][] 
  []
 
@@ -787,10 +787,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./figures/ch3/./figure_S6.png Graphic file (type png)
 
 <use ./figures/ch3/./figure_S6.png>
-Package pdftex.def Info: ./figures/ch3/./figure_S6.png used on input line 313.
+Package pdftex.def Info: ./figures/ch3/./figure_S6.png used on input line 316.
 (pdftex.def)             Requested size: 484.20781pt x 329.06857pt.
 
-Overfull \hbox (14.45279pt too wide) in paragraph at lines 313--314
+Overfull \hbox (14.45279pt too wide) in paragraph at lines 316--317
  [][] 
  []
 
@@ -801,7 +801,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./figures/ch3/./figure_S7.png Graphic file (type png)
 
 <use ./figures/ch3/./figure_S7.png>
-Package pdftex.def Info: ./figures/ch3/./figure_S7.png used on input line 319.
+Package pdftex.def Info: ./figures/ch3/./figure_S7.png used on input line 322.
 (pdftex.def)             Requested size: 423.01936pt x 319.4326pt.
 
 
@@ -811,7 +811,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./figures/ch3/./figure_S8.png Graphic file (type png)
 
 <use ./figures/ch3/./figure_S8.png>
-Package pdftex.def Info: ./figures/ch3/./figure_S8.png used on input line 325.
+Package pdftex.def Info: ./figures/ch3/./figure_S8.png used on input line 328.
 (pdftex.def)             Requested size: 391.70244pt x 121.4133pt.
 
 
@@ -822,14 +822,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 G copy)>] [38 <./figures/ch3/./figure_4.png (PNG copy)> <./figures/ch3/./figure
 _S1.png (PNG copy)>] [39 <./figures/ch3/./figure_S2.png (PNG copy)>] [40 <./fig
 ures/ch3/./figure_S3.png (PNG copy)>] [41 <./figures/ch3/./figure_S4.png (PNG c
-opy)>] [42 <./figures/ch3/./figure_S5.png (PNG copy)>] [43 <./figures/ch3/./fig
-ure_S6.png (PNG copy)>] [44 <./figures/ch3/./figure_S7.png (PNG copy)>]
-[45 <./figures/ch3/./figure_S8.png (PNG copy)>]
+opy)>] [42] [43 <./figures/ch3/./figure_S5.png (PNG copy)>] [44 <./figures/ch3/
+./figure_S6.png (PNG copy)>] [45 <./figures/ch3/./figure_S7.png (PNG copy)>]
+[46 <./figures/ch3/./figure_S8.png (PNG copy)>]
 References
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46
+ [47
 
 
 ]
@@ -889,9 +889,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--142
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -899,6 +896,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
 Underfull \hbox (badness 1314) in paragraph at lines 474--482
 []\OT1/cmr/m/n/12 Jo A Hel-muth, Gr^^Segory Paul, and Ivo F Sbalzarini.  Be-yon
 d co-localization:
@@ -907,7 +907,7 @@ d co-localization:
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
+ [52]
 Underfull \hbox (badness 1275) in paragraph at lines 567--577
 \OT1/cmr/m/n/12 i-cally grounded ap-proach for es-ti-mat-ing gene ex-pres-sion 
 from mi-croar-ray data.
@@ -934,7 +934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 567--577
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52]
+ [53]
 Underfull \hbox (badness 3826) in paragraph at lines 611--621
 \OT1/cmr/m/n/12 Mollereau.  The Tomato/GFP-FLP/FRT Method for Live Imag-ing of 
 Mo-
@@ -979,7 +979,7 @@ Underfull \hbox (badness 1348) in paragraph at lines 624--632
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53]
+ [54]
 Underfull \hbox (badness 1024) in paragraph at lines 740--749
 \OT1/cmr/m/n/12 Pa-tri-cia de la Cruz Ruiz, and Pe-ter Ask-jaer.  An ef-fi-cien
 t FLP-based toolkit
@@ -1006,7 +1006,7 @@ Underfull \hbox (badness 1609) in paragraph at lines 740--749
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+ [55]
 Underfull \hbox (badness 3281) in paragraph at lines 751--759
 []\OT1/cmr/m/n/12 Wei Wang, Mad-huri War-ren, and Al-lan Bradley.  In-duced mi-
 totic re-com-
@@ -1047,43 +1047,52 @@ Underfull \hbox (badness 1286) in paragraph at lines 810--818
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
-[55]
+[56]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D5517E14D805BC438D231793A4C4C05B;972.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: D5517E14D805BC438D231793A4C4C05B;972
+(rerunfilecheck)             After:  86455D5BB3DE49C051D2C22887721930;972.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 9771 strings out of 493014
- 145197 string characters out of 6133351
- 280298 words of memory out of 5000000
- 12815 multiletter control sequences out of 15000+600000
+ 9774 strings out of 493014
+ 145232 string characters out of 6133351
+ 285011 words of memory out of 5000000
+ 12814 multiletter control sequences out of 15000+600000
  12130 words of font info for 47 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 40i,6n,39p,2521b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (55 pages, 3769902 bytes).
+ 40i,6n,39p,2469b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{chapter*.20} has been referenced but does not exi
+st, replaced by a fixed one
+
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (56 pages, 3770300 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 751 compressed objects within 8 object streams
- 201 named destinations out of 1000 (max. 500000)
+ 852 PDF objects out of 1000 (max. 8388607)
+ 758 compressed objects within 8 object streams
+ 205 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 

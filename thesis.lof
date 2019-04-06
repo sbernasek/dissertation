@@ -1,0 +1,16 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A framework for conducting quantitative clonal analysis.}}{35}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Automated correction of fluorescence bleedthrough in the larval eye.}}{37}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Automated unsupervised annotation of clones in the larval eye.}}{37}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{38}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Example clones in the larval fly eye.}}{38}{figure.caption.12}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Intermediate stages of bleedthrough correction.}}{39}{figure.caption.13}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Training a clone annotation model.}}{40}{figure.caption.14}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Label assignment using a trained clone annotation model.}}{41}{figure.caption.15}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Comparison of automated annotation with manually assigned labels.}}{42}{figure.caption.16}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Simulated growth of a synthetic cell culture.}}{43}{figure.caption.17}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Tunable generation of synthetic microscopy data.}}{44}{figure.caption.18}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Additional results for synthetic benchmarking of annotation algorithm.}}{45}{figure.caption.19}
+\addvspace {10\p@ }

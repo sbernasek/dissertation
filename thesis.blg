@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: unsrtnat.bst
+Database file #1: ./bib/thesis.bib
+Warning--I didn't find a database entry for "Katz1953"
+Warning--there's a number but no volume in Dourlen2013
+You've used 77 entries,
+            2481 wiz_defined-function locations,
+            1301 strings with 30629 characters,
+and the built_in function-call counts, 38416 in all, are:
+= -- 3214
+> -- 2741
+< -- 35
++ -- 996
+- -- 842
+* -- 3740
+:= -- 6590
+add.period$ -- 437
+call.type$ -- 77
+change.case$ -- 154
+chr.to.int$ -- 77
+cite$ -- 78
+duplicate$ -- 1483
+empty$ -- 2804
+format.name$ -- 957
+if$ -- 7828
+int.to.chr$ -- 1
+int.to.str$ -- 78
+missing$ -- 71
+newline$ -- 595
+num.names$ -- 231
+pop$ -- 396
+preamble$ -- 1
+purify$ -- 77
+quote$ -- 0
+skip$ -- 827
+stack$ -- 0
+substring$ -- 1591
+swap$ -- 269
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 539
+warning$ -- 1
+while$ -- 270
+width$ -- 0
+write$ -- 1408
+(There were 2 warnings)

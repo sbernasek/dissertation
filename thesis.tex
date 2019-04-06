@@ -2,10 +2,17 @@
 
 \usepackage[margin=1in,letterpaper,includehead]{geometry}
 \usepackage{graphicx}
+\usepackage{ccaption}
+\graphicspath{ {./figures/} }
+
 \usepackage[margin=0in]{caption}
 \usepackage{subcaption}
-% amsmath and amssymb packages, useful for mathematical formulas and symbols
+% amsmath, amssymb, and mathtools packages, useful for mathematical formulas and symbols
+\usepackage{mathtools}
 \usepackage{amsmath,amssymb}
+\DeclareMathOperator*{\argmax}{\arg\!\max}
+\DeclareMathOperator*{\argmin}{\arg\!\min}
+
 % Custom column types (see Macros below) and thick rules for tables
 \usepackage{array}
 \usepackage{multirow}
@@ -14,6 +21,7 @@
 \usepackage{longtable}
 % compress repeated, and un-bold citations
 \usepackage[numbers,sort&compress]{natbib}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -27,35 +35,29 @@
 % Always capitalize "Chapter" when using \autoref
 \renewcommand{\chapterautorefname}{Chapter}
 
-% Load all `ch:movies' statistics values as variables
-\input{variables_movies.tex}
+% Load all variables
+%\input{VARIABLES.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % DATA OF AUTHOR AND DISSERTATION %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\author{Jo\~{a}o Amado Gomez Moreira}
+\author{Sebastian Michal Bernasek}
 
-\title{The Effect of Gender Diversity in Creative Teams}
+\title{Quantitative Insights into Cell Fate Decisions During Development}
 
-\degree{DOCTOR OF PHILOSOPHY}  % Default: DOCTOR OF PHILOSOPHY
+\degree{DOCTOR OF PHILOSOPHY}
 
-\field{Chemical and Biological Engineering}            % Default: Mathematics
+\field{Chemical and Biological Engineering}           
 
-\graduationmonth{September}         % The default is June or December
-                                % depending on current date.
+\graduationmonth{June}         
+                             
+\graduationyear{2019}          
 
-\graduationyear{2017}          % Default: current year.
 
-
-				% Use \includeonly to select the
-%\includeonly{chap1,chap2,...}	% chapters to include if you are
-				% using the \include command below.
-				% This way you can latex only a the
-				% part you are working on, which
-				% is faster than latexing the entire
-				% thesis.
-
+% Mark a subset of chapters for inclusion				
+%\includeonly{chap1,chap2,...}
+				
 
 \begin{document}
 %
@@ -75,12 +77,12 @@
 
 \abstract       % Abstract.
 
-\input{abstract}
+\input{text/ch0_abstract}
 
 
 \acknowledgements	% Acknowledgements (optional).
 
-\input{acknowledgements}
+\input{text/ch0_acknowledgements}
 
 
 \clearpage\phantomsection % needed for the hyperlinks to work correctly
@@ -101,17 +103,14 @@
 % Actual text starts here %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 % If there is an introduction it must be the first chapter
 
-\input{chapter_intro}
-\input{chapter_collaboration}
-\input{chapter_movies}
-\input{chapter_lognormal}
-\input{chapter_conclusion}
-
-
-% The command \includeonly above allows to include a selected
-% set of chapters only.
+%\input{text/ch1_intro}
+%\input{text/ch2_ratio}
+\input{text/ch3_clones}
+%\input{text/ch4_metabolism}
+%\input{text/ch5_conclusions}
 
 % Uncomment the 'singlespace' environment and '\bibsep' command
 % if needed - some bibliographic styles overide the definition
@@ -119,14 +118,12 @@
 %
 \begin{singlespace}
 \bibsep 12pt
-\bibliography{thesis}
+\bibliography{./bib/thesis}
 \bibliographystyle{unsrtnat}
 \end{singlespace}
 
 \appendix
 
-\input{appendix_methods}
-\input{appendix_tables}
-\input{appendix_figures}
+%\input{appendix/XXX}
 
 \end{document}

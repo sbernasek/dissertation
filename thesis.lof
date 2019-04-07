@@ -1,16 +1,36 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces A framework for conducting quantitative clonal analysis.}}{35}{figure.caption.7}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Automated correction of fluorescence bleedthrough in the larval eye.}}{37}{figure.caption.9}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Automated unsupervised annotation of clones in the larval eye.}}{37}{figure.caption.10}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{38}{figure.caption.11}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Example clones in the larval fly eye.}}{38}{figure.caption.12}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Intermediate stages of bleedthrough correction.}}{39}{figure.caption.13}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Training a clone annotation model.}}{40}{figure.caption.14}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Label assignment using a trained clone annotation model.}}{41}{figure.caption.15}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces Comparison of automated annotation with manually assigned labels.}}{43}{figure.caption.17}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces Simulated growth of a synthetic cell culture.}}{44}{figure.caption.18}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Tunable generation of synthetic microscopy data.}}{45}{figure.caption.19}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces Additional results for synthetic benchmarking of annotation algorithm.}}{46}{figure.caption.20}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Dynamics of Pnt and Yan expression during eye development.}}{18}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Pnt-to-Yan ratios differ between cellular states.}}{24}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Cooperative DNA-binding sensitizes transcriptional output to the Pnt-to-Yan ratio.}}{27}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces The Pnt-to-Yan ratio is stabilized against varying Pnt and Yan concentrations in progenitor cells.}}{30}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells.}}{34}{figure.caption.12}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells.}}{36}{figure.caption.14}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Conceptual models for regulation of the Pnt-to-Yan ratio.}}{39}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces A framework for conducting quantitative clonal analysis.}}{55}{figure.caption.16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Automated correction of fluorescence bleedthrough in the larval eye.}}{57}{figure.caption.18}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Automated unsupervised annotation of clones in the larval eye.}}{57}{figure.caption.19}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{58}{figure.caption.20}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Example clones in the larval fly eye.}}{103}{figure.caption.22}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Intermediate stages of bleedthrough correction.}}{104}{figure.caption.23}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Training a clone annotation model.}}{105}{figure.caption.24}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Label assignment using a trained clone annotation model.}}{106}{figure.caption.25}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Comparison of automated annotation with manually assigned labels.}}{107}{figure.caption.27}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Simulated growth of a synthetic cell culture.}}{108}{figure.caption.28}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Tunable generation of synthetic microscopy data.}}{109}{figure.caption.29}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Additional results for synthetic benchmarking of annotation algorithm.}}{110}{figure.caption.30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces PntGFP expression during eye development.}}{111}{figure.caption.31}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces PntGFP and Yan expression dynamics in additional differentiated cell types.}}{112}{figure.caption.32}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Dynamics of expression variability in progenitors and R8, R2/R5 and R1/R6 cells.}}{113}{figure.caption.33}
+\contentsline {figure}{\numberline {C.4}{\ignorespaces A simple two-species competitive binding model}}{113}{figure.caption.34}
+\contentsline {figure}{\numberline {C.5}{\ignorespaces Thermodynamic model of transcription factor DNA binding.}}{114}{figure.caption.35}
+\contentsline {figure}{\numberline {C.6}{\ignorespaces \textit {yan} null clones in the eye.}}{115}{figure.caption.36}
+\contentsline {figure}{\numberline {C.7}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{116}{figure.caption.37}
+\contentsline {figure}{\numberline {C.8}{\ignorespaces Pnt and Yan expression dynamics in $EGFR^{ts}$ eye discs.}}{117}{figure.caption.38}
 \addvspace {10\p@ }

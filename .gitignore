@@ -1,1 +1,5 @@
+*.png
+*.ai
+*.jpg
+/figure_resizing
 /figures

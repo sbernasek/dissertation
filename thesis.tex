@@ -25,7 +25,10 @@
 \usepackage{longtable}
 % compress repeated, and un-bold citations
 \usepackage[numbers,sort&compress]{natbib}
+% Hyperlinks
+\usepackage{hyperref}
 
+\sloppy
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -81,12 +84,12 @@
 
 \abstract       % Abstract.
 
-\input{text/ch0_abstract}
+\input{text/abstract}
 
 
 \acknowledgements	% Acknowledgements (optional).
 
-\input{text/ch0_acknowledgements}
+\input{text/acknowledgements}
 
 
 \clearpage\phantomsection % needed for the hyperlinks to work correctly
@@ -101,7 +104,7 @@
 
 
 
-\mainmatter             % Actual text starts here.
+\mainmatter             
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Actual text starts here %
@@ -110,11 +113,11 @@
 
 % If there is an introduction it must be the first chapter
 
-%\input{text/ch1_intro}
-%\input{text/ch2_ratio}
-\input{text/ch3_clones}
-%\input{text/ch4_metabolism}
-%\input{text/ch5_conclusions}
+%\input{text/introduction}
+\input{text/ratio}
+\input{text/clones}
+%\input{text/metabolism}
+%\input{text/conclusions}
 
 % Uncomment the 'singlespace' environment and '\bibsep' command
 % if needed - some bibliographic styles overide the definition
@@ -128,6 +131,6 @@
 
 \appendix
 
-%\input{appendix/XXX}
+\input{appendix/main}
 
 \end{document}

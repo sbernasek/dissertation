@@ -1,24 +1,54 @@
 \contentsline {chapter}{\tocchapter {Chapter}{}{ABSTRACT}}{3}{chapter*.1}
 \contentsline {chapter}{\tocchapter {Chapter}{}{Acknowledgements}}{6}{chapter*.3}
 \contentsline {chapter}{\tocchapter {Chapter}{}{Table of Contents}}{7}{section*.4}
-\contentsline {chapter}{\tocchapter {Chapter}{}{List of Tables}}{8}{section*.5}
-\contentsline {chapter}{\tocchapter {Chapter}{}{List of Figures}}{9}{section*.6}
-\contentsline {chapter}{\tocchapter {Chapter}{1}{Automated analysis of mosaic eye imaginal discs in \textit {Drosophila}}}{10}{chapter.1}
-\contentsline {section}{\tocsection {}{1.1}{Introduction}}{10}{section.1.1}
-\contentsline {section}{\tocsection {}{1.2}{Image segmentation}}{14}{section.1.2}
-\contentsline {section}{\tocsection {}{1.3}{Bleedthrough correction}}{14}{section.1.3}
-\contentsline {section}{\tocsection {}{1.4}{Automated annotation of clones}}{17}{section.1.4}
-\contentsline {section}{\tocsection {}{1.5}{Synthetic benchmarking of annotation performance}}{19}{section.1.5}
-\contentsline {section}{\tocsection {}{1.6}{Discussion}}{22}{section.1.6}
-\contentsline {section}{\tocsection {}{1.7}{Methods}}{23}{section.1.7}
-\contentsline {subsection}{\tocsubsection {}{1.7.1}{Genetics and microscopy of \textit {Drosophila} eye imaginal discs}}{23}{subsection.1.7.1}
-\contentsline {subsection}{\tocsubsection {}{1.7.2}{Characterization of fluorescence bleedthrough coefficients}}{24}{subsection.1.7.2}
-\contentsline {subsection}{\tocsubsection {}{1.7.3}{Statistical comparison of fluorescence levels}}{24}{subsection.1.7.3}
-\contentsline {subsection}{\tocsubsection {}{1.7.4}{Clone annotation algorithm}}{25}{subsection.1.7.4}
-\contentsline {subsection}{\tocsubsection {}{1.7.5}{Measurement curation}}{31}{subsection.1.7.5}
-\contentsline {subsection}{\tocsubsection {}{1.7.6}{Cell growth simulations}}{31}{subsection.1.7.6}
-\contentsline {subsection}{\tocsubsection {}{1.7.7}{Generation of synthetic microscopy data}}{33}{subsection.1.7.7}
-\contentsline {subsection}{\tocsubsection {}{1.7.8}{Synthetic benchmarking of automated annotation performance}}{33}{subsection.1.7.8}
-\contentsline {subsection}{\tocsubsection {}{1.7.9}{Data and software availability}}{34}{subsection.1.7.9}
-\contentsline {section}{\tocsection {}{1.8}{Supplementary figures}}{34}{section.1.8}
-\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{47}{chapter*.21}
+\contentsline {chapter}{\tocchapter {Chapter}{}{List of Tables}}{9}{section*.5}
+\contentsline {chapter}{\tocchapter {Chapter}{}{List of Figures}}{10}{section*.6}
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Ratiometric sensing of two transcription factors regulates a transit to differentiation}}{12}{chapter.1}
+\contentsline {section}{\tocsection {}{1.1}{Introduction}}{12}{section.1.1}
+\contentsline {section}{\tocsection {}{1.2}{PntGFP expression dynamics in the developing eye }}{17}{section.1.2}
+\contentsline {section}{\tocsection {}{1.3}{The Pnt-to-Yan ratio varies between cells in different states }}{17}{section.1.3}
+\contentsline {section}{\tocsection {}{1.4}{Cooperative DNA-binding sensitizes transcriptional output to changes in Pnt-to-Yan ratio }}{23}{section.1.4}
+\contentsline {section}{\tocsection {}{1.5}{Regulation stabilizes the Pnt-to-Yan ratio against varying Pnt and Yan concentrations}}{27}{section.1.5}
+\contentsline {section}{\tocsection {}{1.6}{Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells}}{29}{section.1.6}
+\contentsline {section}{\tocsection {}{1.7}{Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells}}{33}{section.1.7}
+\contentsline {section}{\tocsection {}{1.8}{Discussion}}{36}{section.1.8}
+\contentsline {chapter}{\tocchapter {Chapter}{2}{Automated analysis of mosaic eye imaginal discs in \textit {Drosophila}}}{41}{chapter.2}
+\contentsline {section}{\tocsection {}{2.1}{Introduction}}{41}{section.2.1}
+\contentsline {section}{\tocsection {}{2.2}{Image segmentation and quantification of nuclear fluorescence levels}}{45}{section.2.2}
+\contentsline {section}{\tocsection {}{2.3}{Bleedthrough correction}}{46}{section.2.3}
+\contentsline {section}{\tocsection {}{2.4}{Automated annotation of clones}}{48}{section.2.4}
+\contentsline {section}{\tocsection {}{2.5}{Synthetic benchmarking of annotation performance}}{50}{section.2.5}
+\contentsline {section}{\tocsection {}{2.6}{Discussion}}{53}{section.2.6}
+\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{59}{chapter*.21}
+\contentsline {chapter}{\tocappendix {Appendix}{A}{Methods}}{80}{appendix.A}
+\contentsline {section}{\tocsection {}{A.1}{\nameref *{ch:clones}}}{80}{section.A.1}
+\contentsline {subsection}{\tocsubsection {}{A.1.1}{Genetics and microscopy of \textit {Drosophila} eye imaginal discs}}{80}{subsection.A.1.1}
+\contentsline {subsection}{\tocsubsection {}{A.1.2}{Characterization of fluorescence bleedthrough coefficients}}{81}{subsection.A.1.2}
+\contentsline {subsection}{\tocsubsection {}{A.1.3}{Statistical comparison of fluorescence levels}}{81}{subsection.A.1.3}
+\contentsline {subsection}{\tocsubsection {}{A.1.4}{Clone annotation algorithm}}{82}{subsection.A.1.4}
+\contentsline {subsection}{\tocsubsection {}{A.1.5}{Measurement curation}}{87}{subsection.A.1.5}
+\contentsline {subsection}{\tocsubsection {}{A.1.6}{Cell growth simulations}}{88}{subsection.A.1.6}
+\contentsline {subsection}{\tocsubsection {}{A.1.7}{Generation of synthetic microscopy data}}{89}{subsection.A.1.7}
+\contentsline {subsection}{\tocsubsection {}{A.1.8}{Synthetic benchmarking of automated annotation performance}}{90}{subsection.A.1.8}
+\contentsline {section}{\tocsection {}{A.2}{\nameref *{ch:ratio}}}{91}{section.A.2}
+\contentsline {subsection}{\tocsubsection {}{A.2.1}{Genetics}}{91}{subsection.A.2.1}
+\contentsline {subsection}{\tocsubsection {}{A.2.2}{Immunohistochemistry}}{92}{subsection.A.2.2}
+\contentsline {subsection}{\tocsubsection {}{A.2.3}{Quantification of expression levels}}{94}{subsection.A.2.3}
+\contentsline {subsection}{\tocsubsection {}{A.2.4}{Conversion of distance to time}}{94}{subsection.A.2.4}
+\contentsline {subsection}{\tocsubsection {}{A.2.5}{Computation of moving averages and confidence intervals}}{95}{subsection.A.2.5}
+\contentsline {subsection}{\tocsubsection {}{A.2.6}{Alignment of expression data}}{96}{subsection.A.2.6}
+\contentsline {subsection}{\tocsubsection {}{A.2.7}{Simple competitive binding model}}{97}{subsection.A.2.7}
+\contentsline {subsection}{\tocsubsection {}{A.2.8}{Competitive binding model with cooperativity}}{97}{subsection.A.2.8}
+\contentsline {subsection}{\tocsubsection {}{A.2.9}{Analysis of \textit {yan} clones}}{99}{subsection.A.2.9}
+\contentsline {subsection}{\tocsubsection {}{A.2.10}{Visualization of relative Pnt and Yan expression in \textit {Notch} mutant discs}}{100}{subsection.A.2.10}
+\contentsline {subsection}{\tocsubsection {}{A.2.11}{Analysis of periodic spatial patterns in \textit {Notch} mutant discs}}{101}{subsection.A.2.11}
+\contentsline {chapter}{\tocappendix {Appendix}{B}{Supporting figures for Chapter \ref {ch:clones}}}{103}{appendix.B}
+\contentsline {chapter}{\tocappendix {Appendix}{C}{Supporting figures for Chapter \ref {ch:ratio}}}{111}{appendix.C}
+\contentsline {chapter}{\tocappendix {Appendix}{D}{Resources}}{118}{appendix.D}
+\contentsline {section}{\tocsection {}{D.1}{New tools for quantitative biologists}}{118}{section.D.1}
+\contentsline {subsection}{\tocsubsection {}{D.1.1}{\textbf {FlyEye Clones}: \url {https://github.com/sebastianbernasek/clones}}}{118}{subsection.D.1.1}
+\contentsline {subsection}{\tocsubsection {}{D.1.2}{\textbf {FlyEye Analysis}: \url {https://github.com/sebastianbernasek/flyeye}}}{119}{subsection.D.1.2}
+\contentsline {subsection}{\tocsubsection {}{D.1.3}{\textbf {Binding}: \url {https://github.com/sebastianbernasek/binding}}}{119}{subsection.D.1.3}
+\contentsline {subsection}{\tocsubsection {}{D.1.4}{\textbf {SyClones}: \url {https://github.com/sebastianbernasek/syclones}}}{119}{subsection.D.1.4}
+\contentsline {subsection}{\tocsubsection {}{D.1.5}{\textbf {GeneSSA}: \url {https://github.com/sebastianbernasek/genessa}}}{120}{subsection.D.1.5}
+\contentsline {section}{\tocsection {}{D.2}{Reproducibility and Supporting Data}}{120}{section.D.2}

@@ -3,47 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: unsrtnat.bst
 Database file #1: ./bib/thesis.bib
-Warning--I didn't find a database entry for "Katz1953"
-Warning--there's a number but no volume in Dourlen2013
-You've used 77 entries,
+Warning--I didn't find a database entry for "Gillespie1977"
+You've used 161 entries,
             2481 wiz_defined-function locations,
-            1301 strings with 30629 characters,
-and the built_in function-call counts, 38416 in all, are:
-= -- 3214
-> -- 2741
-< -- 35
-+ -- 996
-- -- 842
-* -- 3740
-:= -- 6590
-add.period$ -- 437
-call.type$ -- 77
-change.case$ -- 154
-chr.to.int$ -- 77
-cite$ -- 78
-duplicate$ -- 1483
-empty$ -- 2804
-format.name$ -- 957
-if$ -- 7828
-int.to.chr$ -- 1
-int.to.str$ -- 78
-missing$ -- 71
-newline$ -- 595
-num.names$ -- 231
-pop$ -- 396
+            2010 strings with 58517 characters,
+and the built_in function-call counts, 78747 in all, are:
+= -- 6783
+> -- 5261
+< -- 69
++ -- 1927
+- -- 1604
+* -- 7500
+:= -- 13371
+add.period$ -- 887
+call.type$ -- 161
+change.case$ -- 320
+chr.to.int$ -- 160
+cite$ -- 161
+duplicate$ -- 3106
+empty$ -- 5934
+format.name$ -- 1843
+if$ -- 16124
+int.to.chr$ -- 2
+int.to.str$ -- 162
+missing$ -- 154
+newline$ -- 1211
+num.names$ -- 485
+pop$ -- 816
 preamble$ -- 1
-purify$ -- 77
+purify$ -- 161
 quote$ -- 0
-skip$ -- 827
+skip$ -- 1716
 stack$ -- 0
-substring$ -- 1591
-swap$ -- 269
-text.length$ -- 8
+substring$ -- 3697
+swap$ -- 511
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 539
-warning$ -- 1
-while$ -- 270
+type$ -- 1124
+warning$ -- 0
+while$ -- 593
 width$ -- 0
-write$ -- 1408
-(There were 2 warnings)
+write$ -- 2891
+(There was 1 warning)

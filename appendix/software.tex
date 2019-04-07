@@ -1,0 +1,31 @@
+\section{New tools for quantitative biologists}
+\label{appendix:resources:software}
+
+Several computational tools were developed in support of the work presented in this thesis. These resources are available online under open license for unrestricted use and future development. By contributing them to the open-source software ecosystem, we aim to help foster the adoption of novel quantitative and computational analysis strategies among the broader community of developmental and \textit{in vivo} cell biologists. 
+
+The following sections describe each of these tools and their high level functions. Unless otherwise stated, all tools are freely available in code repositories hosted by GitHub and mirrored between both \href{https://github.com/sebastianbernasek/}{my personal account} and the \href{https://github.com/amarallab}{Amaral} and \href{https://github.com/bagherilab}{Bagheri} lab accounts. These repositories generally contain high level API documentation in addition to a series of Jupyter notebooks that walk the user through a series of usage examples. 
+
+\subsection{\textbf{FlyEye Clones}: \url{https://github.com/sebastianbernasek/clones}}
+\label{appendix:resources:clones}
+
+\textbf{FlyEye Clones} is a framework for automated quantitative mosaic analysis of \textit{Drosophila} eye imaginal discs. Its many features are detailed throughout Chapter \ref{ch:clones}. The current implementation is a standalone Python package, but we also intend to incorporate its core features into future versions of \emph{FlyEye Silhouette}, our open-source platform for quantitative analysis of the larval eye that will soon be freely available on the \href{https://www.apple.com/ca/osx/apps/app-store/}{Mac App Store}. 
+
+\subsection{\textbf{FlyEye Analysis}: \url{https://github.com/sebastianbernasek/flyeye}}
+\label{appendix:resources:flyeye}
+
+\textbf{FlyEye Analysis} is a python-based framework for quantitative analysis of protein expression dynamics in \textit{Drosophila} eye imaginal discs. The framework provides a suite of methods to analyze and visualize measurements obtained using both \emph{FlyEye Clones} and the \emph{FlyEye Silhouette} platform for macOS. The current implementation was used to perform all of the analysis presented in Chapter \ref{ch:ratio}. The core functionality of the framework enables users to infer the approximate developmental age of each measured nucleus, query the measurements by both developmental age and cell type, and visualize the resultant data. It also provides a number of analysis features that allow users to quantify heterogeneity and spatial patterns of protein expression in the developing eye. 
+ 
+\subsection{\textbf{Binding}: \url{https://github.com/sebastianbernasek/binding}}
+\label{appendix:resources:binding}
+
+\textbf{Binding} is a cython-based framework for simulating the equilibrium occupancy of DNA binding sites by one or more polymerizing transcription factors. The package provides a high-level Python interface to a C backend that efficiently enumerates all possible microstates. Microstates are enumerated in a recursive fashion, enabling large-scale parallelization of the primary computational bottleneck. When simulating systems comprised of more than one binding species, this implementation confers a substantial performance advantage over the sequential bit-wise implementation proposed by the authors of the original study that inspired the model \cite{Hope2017}.
+
+\subsection{\textbf{SyClones}: \url{https://github.com/sebastianbernasek/syclones}}
+\label{appendix:resources:syclones}
+
+\textbf{SyClones} is a python-based framework for generating synthetic microscopy data that mimics key features of mosaic eye imaginal discs. The synthetic data provide a reliable standard that may be used to objectively compare and benchmark the performance of mosaic analysis platforms.
+
+\subsection{\textbf{GeneSSA}: \url{https://github.com/sebastianbernasek/genessa}}
+\label{appendix:resources:genessa}
+
+\textbf{GeneSSA} is our cython-based framework for stochastic simulation of gene regulatory network dynamics. It uses the stochastic simulation algorithm to generate exact solutions to the corresponding chemical master equation \cite{Gillespie1977}. Simulations are executed using a C backend optimized for performance on networks whose reaction propensity functions fall within a narrow scope of pre-defined options (e.g. mass action or Hill kinetic forms). This narrow scope is by design; the framework prioritizes computational efficiency at the expense of flexibility by explicitly hard coding a handful of functional forms for the reaction propensities. This design places GeneSSA among the most performant implementations of the exact stochastic simulation algorithm for the range of systems that it encompasses. The framework may be (and has been! Please see example notebooks) extended to include additional kinetic formulations on an as-needed basis. However, doing so requires a firm command of the cython language.

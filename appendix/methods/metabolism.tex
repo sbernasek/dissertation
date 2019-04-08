@@ -1,93 +1,72 @@
 \graphicspath{ {./figures/metabolism/} }
 
-\section{\nameref*{ch:metabolism}}
-\label{appendix:methods:metabolism}
+% EXPERIMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%
+\section{Experimental data}
+\label{appendix:supp:metabolism:experiments}
 
-\subsection{Experimental model}
-\label{appendix:methods:metabolism:experimental_model}
+All experiments were conducted in and by the lab of Professor Richard Carthew at Northwestern University. Yan-YFP expression dynamics in wildtype and $yan^{\Delta miR-7}$ animals were measured by Rachael Bakker, while sfGFP-Sens expression levels in the wing disc were measured and analyzed by Ritika Giri. All other experiments were conceived, designed, executed, and analyzed by Justin Cassidy. This section explicitly details these experiments for purposes of reproducibility, and should not be mistaken for contributions of my own.
 
-For all experiments, \textit{Drosophila melanogaster} was raised using standard lab conditions and food. Stocks were either obtained from the Bloomington Stock Center, from listed labs, or were derived in our laboratory (RWC). A list of all mutants and transgenics used in this study is in the Key Resources Table.
+For all experiments, \textit{Drosophila melanogaster} was raised using standard lab conditions and food. Stocks were either obtained from the Bloomington Stock Center, from listed labs, or were derived in the Carthew laboratory. All experiments used female animals unless stated otherwise. 
 
-Experiments were performed using either homozygous mutant animals or trans-heterozygous mutants. Trans-heterozygous allele combinations used were:
+\subsection{Genetics}
+\label{appendix:supp:metabolism:exp:genetics}
 
-\textit{mir-9a\textsuperscript{E39}/mir-9a\textsuperscript{J22}}
+Experiments were performed using either homozygous mutant animals or trans-heterozygous mutants. Table \ref{appendix:supp:metabolism:exp:alleles_table}} lists each of the trans-heterozygous allele combinations that were used.
 
-\textit{hairy\textsuperscript{1}/hairy\textsuperscript{41}}
+\begin{table}[h!]
+\centering
+\caption{Mutants and Transgenics used in this Study}
+\label{appendix:supp:metabolism:exp:alleles_table}
+\begin{tabular}{c}
+\hline
+\textit{miR-9a\textsuperscript{E39}/miR-9a\textsuperscript{J22}} \\
+\textit{hairy\textsuperscript{1}/hairy\textsuperscript{41}} \\
+\textit{glass\textsuperscript{2 }}/\textit{glass\textsuperscript{60j}} \\
+\textit{wg\textsuperscript{Sp-1}/wg\textsuperscript{+}} \\
+\textit{miR-7\textsuperscript{\Delta1}}/\textit{Df(2R)exu1} \\
+\textit{dcr-1\textsuperscript{+}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{dcr-1\textsuperscript{K43X}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{dcr-1\textsuperscript{W94X}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{dcr-1\textsuperscript{Q396X}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{ago1\textsuperscript{+}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{W894X}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{T908M}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{E808K}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{R937C}}/\textit{ago1\textsuperscript{Q127X}} \\
+\end{tabular}
+\end{table}
 
-\textit{glass\textsuperscript{2 }}/\textit{glass\textsuperscript{60j}}
-
-\textit{wg\textsuperscript{Sp-1}/wg\textsuperscript{+}}
-
-$miR-7^{\Delta 1}$/\textit{Df(2R)exu1}
-
-\textit{dcr-1\textsuperscript{+}}/\textit{dcr-1\textsuperscript{Q1147X}}
-
-\textit{dcr-1\textsuperscript{K43X}}/\textit{dcr-1\textsuperscript{Q1147X}}
-
-\textit{dcr-1\textsuperscript{W94X}}/\textit{dcr-1\textsuperscript{Q1147X}}
-
-\textit{dcr-1\textsuperscript{Q396X}}/\textit{dcr-1\textsuperscript{Q1147X}}
-
-\textit{ago1\textsuperscript{+}}/\textit{ago1\textsuperscript{Q127X}}
-
-\textit{ago1\textsuperscript{W894X}}/\textit{ago1\textsuperscript{Q127X}}
-
-\textit{ago1\textsuperscript{T908M}}/\textit{ago1\textsuperscript{Q127X}}
-
-\textit{ago1\textsuperscript{E808K}}/\textit{ago1\textsuperscript{Q127X}}
-
-\textit{ago1\textsuperscript{R937C}}/\textit{ago1\textsuperscript{Q127X}}
-
-
-
-
-
-\subsubsection{IPC ablation via \textit{ILP2>Rpr}}
-\label{appendix:methods:metabolism:ipc_ablation}
-
-\ref{fig:metabolism:fig1a}
+\subsubsection{IPC ablation}
+\label{appendix:supp:metabolism:exp:ipc_ablation}
 
 To genetically ablate the insulin producing cells (IPCs) of the brain, \textit{yw} animals were constructed bearing an \textit{ILP2-GAL4} gene on chromosome III and a \textit{UAS-Reaper} (\textit{Rpr}) gene on chromosome I or II. \textit{Rpr} is a pro-apoptotic gene that is sufficient to kill cells in which it is expressed \cite{Lohmann2002}. \textit{ILP2-GAL4} fuses the \textit{insulin-like peptide 2} gene promoter to GAL4, and specifically drives its expression in brain IPCs \cite{Rulifson2002}. Examination of \textit{ILP2-GAL4 UAS-Rpr} larval brains showed that they almost completely lacked IPCs (data not shown). Previous studies found that IPC-deficient adults are normally proportioned but of smaller size \cite{Rulifson2002}. It takes almost twice the length of time to complete juvenile development, and juveniles have a 40\% elevation in blood glucose, consistent with these insulin-like peptides being essential regulators of energy metabolism in \textit{Drosophila} \cite{Rulifson2002}. We confirmed that this method of IPC ablation results in small but normally proportioned adults, and it takes almost twice the normal time to develop into adults (Fig. \ref{fig:metabolism:fig1a}B,C). For all wildtype controls, we tested animals bearing either the \textit{ILP2-GAL4} or \textit{UAS-Rpr} gene in their genomes.
 
-\subsubsection{IPC ablation via \textit{ILP2>Rpr}}
-\label{appendix:methods:metabolism:ipc_ablation}
+\subsubsection{Ribosomopathy}
+\label{appendix:supp:metabolism:exp:ribosomopathy}
 
-All experiments used female animals unless stated otherwise. To reduce levels of cytoribosomes in cells, we made use of loss-of-function mutations in genes encoding various ribosomal proteins (RPs), which cause the ``Minute'' syndrome of dominant, haploinsufficient phenotypes, including prolonged development \cite{SaboeLarssen1998}. A total of 64 \textit{RP} genes exhibit a Minute syndrome when mutated \cite{Marygold2007}. We selected a subset of these genes to reduce ribosomes. Since one of these, \textit{RpS3}, encodes an RP that also functions in DNA repair \cite{Graifer2014}, we tested it along with other \textit{RP} genes in certain genetic experiments. The mutations used were: $RpS3^{Plac92}$ \cite{SaboeLarssen1998}, $RpS3^{2}$ \cite{Ferrus1975}, $RpS13^{1}$ \cite{SaboeLarssen1998}, and $RpS15^{M(2)53}$ \cite{Golic1996}. For wildtype controls, animals were $w^{1118}$.
+To reduce levels of cytoribosomes in cells, we made use of loss-of-function mutations in genes encoding various ribosomal proteins (RPs), which cause the ``Minute'' syndrome of dominant, haploinsufficient phenotypes, including prolonged development \cite{SaboeLarssen1998}. A total of 64 \textit{RP} genes exhibit a Minute syndrome when mutated \cite{Marygold2007}. We selected a subset of these genes to reduce ribosomes. Since one of these, \textit{RpS3}, encodes an RP that also functions in DNA repair \cite{Graifer2014}, we tested it along with other \textit{RP} genes in certain genetic experiments. The mutations used were: $RpS3^{Plac92}$ \cite{SaboeLarssen1998}, $RpS3^{2}$ \cite{Ferrus1975}, $RpS13^{1}$ \cite{SaboeLarssen1998}, and $RpS15^{M(2)53}$ \cite{Golic1996}. Wildtype control animals were $w^{1118}$.
 
-The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{Webber2013}. We modified the gene by site-directed recombineering to mutate the four identified miR-7 binding sites within the \textit{yan} (\textit{aop}) gene \cite{Li2005}. The binding sites and the mutations are listed below. The seed sequence is highlighted in red. The sequence of the mutations, which are localized to the seeds, are shown in green.
+\subsubsection{$yan^{\Delta miR-7}-YFP$}
+\label{appendix:supp:metabolism:exp:yan_delta}
 
-Site 1 chr2L: 2,158,120 - 2,158,124
+The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{Webber2013}. We modified the gene by site-directed recombineering to mutate the four identified miR-7 binding sites within the \textit{yan} (\textit{aop}) gene \cite{Li2005}. The binding sites and mutations are shown in Figure \ref{fig:metabolism:methods:alleles}. The mutated transgene ($Yan^{\Delta miR-7}-YFP$) was shuttled into the P{[}acman{]} vector (Venken et al., 2006), and inserted into the same genomic landing site on chromosome 3 (attP2) as \textit{Yan-YFP}. One copy of the \textit{His2Av-mRFP} transgene was recombined with the $Yan^{\Delta miR-7}-YFP$ or \textit{Yan-YFP} transgene in order to normalize YFP expression to a housekeeping protein, in this case histone H2A (Pelaez et al., 2015). The \textit{His2Av-mRFP Yan-YFP} ($Yan^{\Delta miR-7}-YFP$) chromosome was homozygosed, and placed in a $yan^{ER443}$ / $yan^{E884}$ mutant background so that the endogenous \textit{yan} gene did not make any protein.
 
-5'-TCACCGCACTACATCCATCTTCCA-3'
+\begin{figure}[h!]
+\label{fig:metabolism:methods:alleles}
+\centering
+\includegraphics[scale=1.0]{./alleles}
+\caption[Mutation of the four identified miR-7 binding sites in the \textit{yan} transcript.]{\textbf{Mutation of the four identified miR-7 binding sites in the \textit{yan} transcript.} The seed sequence is highlighted in red. The sequence of the mutations, which are localized to the seeds, are shown in green.}
+\end{figure}
 
-AGGAA
-
-Site 2 chr2L: 2,157,048 - 2,157,052
-
-5'-ATAGAAAAACATTGGCTTCCA-3'
-
-AGGAA
-
-Site 3 chr2L: 2,156,854 - 2,156,858
-
-5'-ACGATCTTACCACCACACTTCCA-3'
-
-AGGAA
-
-Site 4 chr2L: 2,156,564 - 2,156,568
-
-5'-TCGCCACAATACCTGTTCTTCCA-3'
-
-AGGAA
-
-The mutated transgene ($Yan^{\Delta miR-7}-YFP$) was shuttled into the P{[}acman{]} vector (Venken et al., 2006), and inserted into the same genomic landing site on chromosome 3 (attP2) as \textit{Yan-YFP}. One copy of the \textit{His2Av-mRFP} transgene was recombined with the $Yan^{\Delta miR-7}-YFP$ or \textit{Yan-YFP} transgene in order to normalize YFP expression to a housekeeping protein, in this case histone H2A (Pelaez et al., 2015). The \textit{His2Av-mRFP Yan-YFP} ($Yan^{\Delta miR-7}-YFP$) chromosome was homozygosed, and placed in a $yan^{ER443}$ / $yan^{E884}$ mutant background so that the endogenous \textit{yan} gene did not make any protein.
+\subsubsection{$sfGFP-sens$ and $sfGFP-sens^{m1m2}$}
+\label{appendix:supp:metabolism:exp:sfgfp_sens}
 
 The recombineered \textit{sfGFP-sens} BAC transgene was generated as described (Cassidy et al., 2013), and the transgene was landed in the genome at VK37 (22A3). The transgene was mutated by site-directed recombineering as described (Cassidy et al., 2013) to delete the two miR-9a binding sites within the \textit{sens} gene ($sfGFP-sens^{m1m2}$). This transgene was also landed at VK37. The \textit{sfGFP-sens} ($sfGFP-sens^{m1m2}$) chromosome was homozygosed, and placed in a $sens^{E1}$ null mutant background to ensure that endogenous \textit{sens} did not make any protein.
 
-\subsection{Analysis of mutant phenotypes in \textit{Drosophila}}
-\label{appendix:methods:metabolism:phenotypes}
+\subsection{Analysis of mutant phenotypes}
+\label{appendix:supp:metabolism:exp:phenotypes}
 
 \subsubsection{Eye mispatterning}
 
@@ -103,82 +82,98 @@ Animals of the correct genotype were allowed to age for 3 days after eclosion. T
 
 \subsubsection{Relative viability}
 
-Females bearing either a $dcr-1^{Q1147X}$ or $ago1^{Q127X}$ mutant chromosome over a balancer chromosome were crossed to males bearing mutant \textit{dcr-1} or \textit{ago1} chromosomes over a balancer chromosome. F1 progeny were raised and the numbers of animals that reached either pupal or adult stage were tallied. If the non-balancer chromosome is 100\% viable when homozygous, then 33.33\% of the F1 progeny would not carry a balancer chromosome. We calculated viability in this manner, relative to balancer viability. Replicate crosses were performed and analyzed. Between 457 and 776 F1 animals (median = 647) were counted in the replicate \textit{ago1} crosses. Between 234 and 380 F1 animals (median = 285) were counted in the replicate \textit{dcr-1} crosses.
+Females bearing either a $dcr-1^{Q1147X}$ or $ago1^{Q127X}$ mutant chromosome over a balancer chromosome were crossed to males bearing mutant \textit{dcr-1} or \textit{ago1} chromosomes over a balancer chromosome. F1 progeny were raised and the numbers of animals that reached either pupal or adult stage were tallied. If the non-balancer chromosome is 100\% viable when homozygous, then 33.33\% of the F1 progeny would not carry a balancer chromosome. We calculated viability in this manner, relative to balancer viability. Replicate crosses were performed and analyzed. Between 457 and 776 F1 animals (median = 647) were counted in the replicate \textit{ago1} crosses. Between 234 and 380 F1 animals (median 285) were counted in the replicate \textit{dcr-1} crosses.
 
-\subsection{Quantification of protein expression in \textit{Drosophila}}
+\subsubsection{Population statistics}
+
+Population proportions were compared using a Chi-square test with Yates\' correction and Fisher\'s exact test. Both gave similar results. All tests involving multiple experimental groups were Bonferroni corrected. In \textit{sev} experiments, R7 cell counts were compared via one-way ANOVA with Bonferroni correction. Relative viabilities were compared using a Mann-Whitney-Wilcoxon test with Bonferroni correction. These tests were performed using Prism 7 (GraphPad) software. P-values shown in figures are presented from tests with the most conservative value shown if more than one test was performed on data. * $p<0.05$; ** $p<0.01$; *** $p<0.001$; **** $p<0.0001$
+
+\subsection{Quantification of protein expression}
+\label{appendix:supp:metabolism:exp:measurements}
 
 \subsubsection{sfGFP-Sens in the wing disc}
-\label{appendix:methods:metabolism:sens}
+\label{appendix:supp:metabolism:exp:sens}
 
-Wing discs from white-prepupal females were dissected in ice-cold Phosphate Buffered Saline (PBS). Discs were fixed in 4\% paraformaldehyde in PBS for 20 minutes at 25 \textdegree{}C and washed with PBS containing 0.3\% Tween-20. Then they were stained with 0.5 \mug/ml 4′,6-diamidino-2-phenylindole (DAPI) and mounted in Vectashield. Discs were mounted apical side up and imaged with identical settings using a Leica TCS SP5 confocal microscope. All images were acquired at 100x magnification at 2048 x 2048 resolution with a 75 nm x-y pixel size and 0.42 μm z separation. Scans were collected bidirectionally at 400 MHz and 6x line averaged. Wing discs of different genotypes were mounted on the same microscope slide and imaged in the same session for consistency in data quality.
+Wing discs from white-prepupal females were dissected in ice-cold Phosphate Buffered Saline (PBS). Discs were fixed in 4\% paraformaldehyde in PBS for 20 minutes at 25 \textdegree{}C and washed with PBS containing 0.3\% Tween-20. Then they were stained with 0.5 \mug/ml 4′,6-diamidino-2-phenylindole (DAPI) and mounted in Vectashield. Discs were mounted apical side up and imaged with identical settings using a Leica TCS SP5 confocal microscope. All images were acquired at 100x magnification at 2048 x 2048 resolution with a 75 nm x-y pixel size and 0.42 \mum z separation. Scans were collected bidirectionally at 400 MHz and 6x line averaged. Wing discs of different genotypes were mounted on the same microscope slide and imaged in the same session for consistency in data quality.
 
 For each wing disc, five optical slices containing Sens-positive cells along the anterior wing margin were chosen for imaging and analysis. A previously documented custom MATLAB script was used to segment nuclei in each slice of the DAPI channel (Pelaez et al., 2015). High intensity nucleolar spots were smoothed out to merge with the nuclear area to prevent spurious segmentation. Next, cell nuclei were identified by thresholding based on DAPI channel intensity. Segmentation parameters were optimized to obtain nuclei with at least 100 pixels and no more than 4000 pixels.
 
 The majority of cells imaged did not reside within the proneural region and therefore displayed background levels of fluorescence scattered around some mean level. We calculated the ``mean background'' in the green channel of each disc individually. We did this by fitting a Gaussian distribution to the population and finding the mean of that fit. In order to separate sfGFP-Sens-positive cells, we chose a cut-off percentile based on the normal distribution, below which cells were deemed sfGFP-Sens-negative. We set this cut-off at the 84\textsuperscript{th} percentile for all analysis since empirically it provided the most accurate identification of proneural cells. To normalize measurements across tissues and experiments, this value was subtracted from the total measured fluorescence for all cells in that disc. Only cells with values above the threshold for sfGFP fluorescence were assumed Sens positive (usually 30\% of total cells) and carried forward for further analysis.
 
+Analysis of sfGFP-Sens fluorescence was performed using two independent approaches. 1) For each genotype, 1000 point-estimates were made of the median fluorescence level in cells. Point estimates were generated by bootstrap resampling with replacement of the cell samples within each genotype. Point estimates from wildtype sfGFP-Sens were then randomly paired with point estimates from miR-9a-resistant sfGFP-Sens to derive a set of 1000 point-estimates of the fold-change in median sfGFP-Sens expression. Confidence intervals for the average fold-change in sfGFP-Sens expression were inferred from the 0.5\textsuperscript{th} and 99.5\textsuperscript{th} percentile of these point estimates. 2) The distributions of fluorescence from wildtype sfGFP-Sens and mutant $sfGFP-Sens^{m1m2}$ cell populations were compared using a Mann-Whitney-Wilcoxon test implemented in R. By calculating the difference between all randomly paired cell samples from wildtype versus mutant, the location shift is estimated as the median of the difference between a sample from sfGFP-Sens and a sample from $sfGFP-Sens^{m1m2}$. Confidence intervals for the shift were inferred from the 2.5\textsuperscript{th} and 97.5\textsuperscript{th} percentile of the set of differences.
+
 We analyzed \textgreater{}10 replicate wing discs for each treatment. In total, we measured wildtype \textit{sfGFP-Sens} expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$. We measured mutant $sfGFP-Sense^{m1m2}$ expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$.
 
 \subsubsection{Yan-YFP dynamics in the eye}
-\label{appendix:methods:metabolism:yan}
+\label{appendix:supp:metabolism:exp:yan}
 
 White-prepupal eye discs were dissected, fixed, and imaged by confocal microscopy for YFP and RFP fluorescence, as previously described (Pelaez et al., 2015). Briefly, samples fixed in 4\% paraformaldehyde were kept in the dark at -20 \textdegree{}C and imaged no later than 18-24 h after fixation. In all cases, 1024 x 1024 16-bit images were captured using a Leica SP5 confocal microscope equipped with 40X oil objective. During imaging, discs were oriented with the equator parallel to the x-axis of the image. Optical slices were set at 0.8 \mum slices (45-60 optical slices) with an additional digital zoom of 1.2-1.4 to completely image eye discs from basal to apical surfaces. Images recorded a region of at least 6 rows of ommatidia on each side or the dorsal-ventral eye disc equator. All discs for a given condition were fixed, mounted, and imaged in parallel to reduce measurement error. Sample preparation, imaging, and analysis were not performed under blind conditions. Image data was processed for automatic segmentation and quantification of RFP and YFP nuclear fluorescence as previously described (Pelaez et al., 2015). Briefly, cell segmentation was performed using a H2Av-mRFP marker as a reference channel for identification of cell nuclei boundaries. Each layer of the reference channel was segmented independently. A single contour containing each unique cell was manually selected and assigned a cell type using a custom graphic user interface. For each annotated cell contour, expression measurements were obtained by normalizing the mean pixel fluorescence of the YFP channel by the mean fluorescence of the His-RFP channel. This normalization serves to mitigate variability due to potentially uneven sample illumination, segment area, and differences in protein expression capacity between cells. We assigned cell-type identities to segmented nuclei by using nuclear position and morphology, two key features that enable one to unambiguously identify eye cell types without the need for cell-specific markers (Wolff and Ready, 1993). This task was accomplished using \textit{FlyEye Silhouette}; an open-source package for macOS that integrates our image segmentation algorithm with a GUI for cell type annotation. Subsequent analysis and visualization procedures were implemented in Python.
 
 Cell positions along the anterior-posterior axis were mapped to developmental time as described previously (Pelaez et al., 2015). This depends on two assumptions that have been extensively validated in the literature. One, the furrow proceeds at a constant velocity of one column of R8 neurons per two hours, and two, minimal cell migration occurs. For each disc, Delaunay triangulations were used to estimate the median distance between adjacent columns of R8 neurons. Dividing the furrow velocity by the median distance yields a single conversion factor from position along the anterior-posterior axis to developmental time. This factor was applied to all cell measurements within the corresponding disc. This method does not measure single cell dynamics, but rather aggregate dynamics across the developmental time course of cells in the eye.
 
-Moving averages were computed by evaluating the median value among a collection of point estimates for the mean generated within a sliding time window. Each point estimate was generated via a hierarchical bootstrapping technique in which we resampled the set of eye discs, then resampled the aggregate pool of cell measurements between them. This novel method enhances our existing approach (Pelaez et al., 2015) by capturing variation due to the discretized nature of eye disc sample collection. Using the existing method, the error bars are considerably narrower (not shown). A window size of 500 sequential progenitor cells was used in all cases, but our conclusions are not sensitive to our choice of window size. Yan level measurements were pooled across multiple replicate eye discs. An automated approach was used to align these replicate samples in time. First, a disc was randomly chosen to serve as the reference population for the alignment of all subsequent replicates. Cells from each replicate disc were then aligned with the reference population by shifting them in time (see Section \ref{appendix:methods:ratio:alignment}). 
+Moving averages were computed by evaluating the median value among a collection of point estimates for the mean generated within a sliding time window. Confidence intervals were inferred from the 2.5\textsuperscript{th} and 97.5\textsuperscript{th} percentile of the same point estimates. Each point estimate was generated via a hierarchical bootstrapping technique in which we resampled the set of eye discs, then resampled the aggregate pool of cell measurements between them. This novel method enhances our existing approach (Pelaez et al., 2015) by capturing variation due to the discretized nature of eye disc sample collection. Using the existing method, the error bars are considerably narrower (not shown). A window size of 500 sequential progenitor cells was used in all cases, but our conclusions are not sensitive to our choice of window size. 
+
+Yan level measurements were pooled across multiple replicate eye discs. An automated approach was used to align these replicate samples in time. First, a disc was randomly chosen to serve as the reference population for the alignment of all subsequent replicates. Cells from each replicate disc were then aligned with the reference population by shifting them in time (see Section \ref{appendix:supp:ratio:alignment}). 
 
 Different experimental treatments (e.g. wildtype and miR-7 null) were aligned by first aligning the discs within each treatment, then aggregating all cells within each treatment and repeating the procedure with the first treatment serving as the reference. We analyzed four to seven replicate eye discs for each treatment in two separate experiments. In total, we measured wildtype \textit{Yan-YFP} levels in 4,518 cells in normally metabolizing samples and 4,379 cells in slowly metabolizing samples. We measured mutant $Yan^{\Delta miR-7}-YFP$ levels in 5,382 cells in normally metabolizing samples and 6,716 cells in slowly metabolizing samples.
 
-\subsection{Mathematical modeling framework}
-\label{appendix:methods:metabolism:model}
+% MODELING FRAMEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Our model captures the transiently-induced expression and regulation of a single gene within an intracellular cascade of developmental gene expression. A linear time invariant system describes the time evolution of activated DNA (\textit{D}), mRNA (\textit{R}), and protein (\textit{P}) state variables in response to a stimulus (\textit{I}) that induces gene activation. These discrete state variables describe the extent of gene expression at any point in time. Transitions between each of the variables' states are governed by the set of linear reaction propensities listed in Table \ref{appendix:methods:metabolism:tables:rxns}.
+\section{Modeling framework}
+\label{appendix:supp:metabolism:model}
 
-\begin{longtable}[]{@{}llll@{}}
-\label{appendix:methods:metabolism:tables:rxns}
-\toprule
-\textbf{Reaction} & \textbf{State Transition} & \textbf{Propensity} & \textbf{Parameter Value {[}min\textsuperscript{-1}{]}}\tabularnewline
-\midrule
-\endhead
-gene activation & ΔD ΔD + 1 & k\textsubscript{1} ΔI & 1\tabularnewline
-transcription & ΔR ΔR + 1 & k\textsubscript{2} ΔD & 1\tabularnewline
-translation & ΔP ΔP + 1 & k\textsubscript{3} ΔR & 1\tabularnewline
-gene deactivation & ΔD ΔD -- 1 & γ\textsubscript{1} ΔD & 1\tabularnewline
-transcript decay & ΔR ΔR -- 1 & γ\textsubscript{2} ΔR & 1 x 10\textsuperscript{-2}\tabularnewline
-protein decay & ΔP ΔP -- 1 & γ\textsubscript{3} ΔP & 1 x 10\textsuperscript{-3}\tabularnewline
-transcriptional feedback & ΔD ΔD -- 1 & η\textsubscript{1} ΔP & 5.0 x 10\textsuperscript{-4}\tabularnewline
-post-transcriptional feedback & ΔR ΔR -- 1 & η\textsubscript{2} ΔP & 1.0 x 10\textsuperscript{-4}\tabularnewline
-post-translational feedback & ΔP ΔP -- 1 & η\textsubscript{3} ΔP & 5.0 x 10\textsuperscript{-4}\tabularnewline
-\bottomrule
-\end{longtable}
+\subsection{Model of gene expression}
+\label{appendix:supp:metabolism:model:linear}
+
+Our modeling framework captures the transiently-induced expression and regulation of a single gene within an intracellular cascade of developmental gene expression. A linear time invariant system describes the time evolution of activated DNA (\textit{D}), mRNA (\textit{R}), and protein (\textit{P}) state variables in response to a stimulus (\textit{I}) that induces gene activation. These discrete state variables describe the extent of gene expression at any point in time. Transitions between each of the variables' states are governed by the set of linear reaction propensities listed in Table \ref{appendix:supp:metabolism:model:propensities}.
+
+% TABLE OF PROPENSITY FUNCTIONS FOR LINEAR MODEL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+\centering
+\caption{Elementary reactions in the linear model.}
+\label{appendix:supp:metabolism:model:propensities}
+\begin{tabular}{l c c c}
+Reaction & State transition & Propensity & Parameter value [min\textsuperscript{-1}] \\ [0.5ex] 
+\hline
+Gene activation & \DeltaD \to \DeltaD + 1 & k_1 \DeltaI & 1 \\
+Transcription & \DeltaR \to \DeltaR + 1 & k_2 \DeltaD & 1 \\
+Translation & \DeltaP \to \DeltaP + 1 & k_3 \DeltaR & 1 \\
+Gene deactivation & \DeltaD \to \DeltaD - 1 & \gamma_1 \DeltaD & 1 \\
+Transcript decay & \DeltaR \to \DeltaR - 1 & \gamma_2 \DeltaR & 10\textsuperscript{-2} \\
+Protein decay & \DeltaP \to \DeltaP - 1 & \gamma_3 \DeltaP & 10\textsuperscript{-3} \\
+Transcriptional feedback & \DeltaD \to \DeltaD - 1 & \eta_1 \DeltaD & \num{5.0e-4} \\
+Post-transcriptional feedback & \DeltaR \to \DeltaR - 1 & \eta_1 \DeltaD & \num{1.0e-4} \\
+Post-translational feedback & \DeltaP \to \DeltaP - 1 & \eta_1 \DeltaD & \num{5.0e-4} \\
+\end{tabular}
+\end{table}
 
 Rather than explicitly defined regulatory mechanisms, we abstract all modes of regulation as independent linear feedback terms:
-
 \begin{equation}
 \frac{dD}{dt}=k_1I-\gamma_1D - \sum\limits_{}^{N} \eta_{1}P
 \frac{dR}{dt}=k_2D-\gamma_2R - \sum\limits_{}^{N} \eta_{2}P
 \frac{dP}{dt}=k_3R-\gamma_3P - \sum\limits_{}^{N} \eta_{3}P
 \end{equation}
+where $k_i$ are activation, transcription, or translation rate constants, $\gamma_i$ are degradation constants, $\eta_i$ are feedback strengths, and each species may be subject to $N$ independent repressors. This model represents gene activation, deactivation, transcription, transcript decay, translation, protein decay, and all modes of regulation using linear rate laws. Although protein synthesis and gene-product decay are typically modeled as linear processes, transcriptional and regulatory kinetics are frequently described by nonlinear propensities. Therefore, we also considered two nonlinear modeling frameworks, both of which recapitulated the results using linear kinetics (see Section \ref{appendix:supp:metabolism:model:alt_models}, Figs. \ref{fig:metabolism:figS2a}F,G and \ref{fig:metabolism:figS4}F,G).
 
-where $k_i$ are activation, transcription, or translation rate constants, $\gamma_i$ are degradation constants, $\eta_i$ are feedback strengths, and each species may be subject to $N$ independent repressors. This model represents gene activation, deactivation, transcription, transcript decay, translation, protein decay, and all modes of regulation using linear rate laws. Although protein synthesis and gene-product decay are typically modeled as linear processes, transcriptional and regulatory kinetics are frequently described by nonlinear propensities. Therefore, we also considered two nonlinear modeling frameworks, both of which recapitulated the results using linear kinetics (see Section \ref{appendix:methods:metabolism:alternate_models}, Figs. \ref{fig:metabolism:figS2a}F,G and \ref{fig:metabolism:figS4}F,G).
-
-\subsubsection{Relation to control theory}
-\label{appendix:methods:metabolism:controls}
+\subsection{Relation to control theory}
+\label{appendix:supp:metabolism:model:controls}
 
 Our model of gene expression was not designed to capture the specific details of the various GRNs probed by our experiments. Instead, it provides a platform to survey the general principles that govern the dynamics of developmental processes. Namely, we developed a model that allowed us to ask how protein expression dynamics change when repressors are removed. In each of our model systems, protein expression is transient. Beginning at a basal steady state, expression is driven by upstream components of the developmental program. The ensuing expression dynamics can therefore be thought of as a response to perturbation. 
 
 Control theory provides a theoretical foundation underpinning the response of systems displaced from steady state. One of its core principles is the notion of local stability; that is, systems deviate linearly about a fixed point. Models based on this principle seek to describe how system output deviates from its steady state value in time. Describing our model with control terminology, protein level remains fixed about a basal steady state. Deviations from the basal level are driven by a transient disturbance. The disturbance induces activation of a gene, which induces transcription of mRNAs, which proceed to induce translation of protein. These three state variables are linearized about their steady state values:
 \begin{equation}
-\label{appendix:methods:metabolism:eq:deviations}
+\label{appendix:supp:metabolism:model:deviations}
 \Delta D = D - \lim_{t \to \infty} D(t)
 \Delta R = R - \lim_{t \to \infty} R(t)
 \Delta P = P - \lim_{t \to \infty} P(t)
 \end{equation}
-where the prefix \Delta signifies a deviation variable. 
+where the prefix \Delta signifies a deviation variable and the limit denotes the steady state concentration for a fixed level of the input signal. 
 
-Protein levels relax back to steady state as the stimulus subsides. Control theory offers further insight when the relaxation process is mediated by one or more regulatory actors. In each of the experimentally surveyed GRNs, regulatory species such as microRNAs detected an increase in protein levels and acted to attenuate protein expression. These actors implement feedback control; they sense deviations in system output and exert an opposing response to drive the system back toward steady state. Neglecting their precise mechanisms of action, we can capture the influence of these \emph{controllers} on system output with a single parameter, the feedback strength $\eta_i$ for controller $i$. For simplicity we assume these regulatory mechanisms provide \emph{proportional control}, meaning they modulate the deviations defined by Equation \ref{appendix:methods:metabolism:eq:deviations} with a strength proportional to the output protein level. This \emph{proportional only} scheme is incapable of input tracking and could not reject a sustained disturbance \cite{Yao2003}. However, proportional only control provides an adequate representation of system dynamics because our model depicts an intermediate step in a cascade of developmental processes whose inputs and outputs are inherently localized in space and time (Fig. \ref{fig:metabolism:fig4a}A).
+Protein levels relax back to steady state as the stimulus subsides. Control theory offers further insight when the relaxation process is mediated by one or more regulatory actors. In each of the experimentally surveyed GRNs, regulatory species such as microRNAs detected an increase in protein levels and acted to attenuate protein expression. These actors implement feedback control; they sense deviations in system output and exert an opposing response to drive the system back toward steady state. Neglecting their precise mechanisms of action, we can capture the influence of these \emph{controllers} on system output with a single parameter, the feedback strength $\eta_i$ for controller $i$. For simplicity we assume these regulatory mechanisms provide \emph{proportional control}, meaning they modulate the deviations defined by Equation \ref{appendix:supp:metabolism:eq:deviations} with a strength proportional to the output protein level. This \emph{proportional only} scheme is incapable of input tracking and could not reject a sustained disturbance \cite{Yao2003}. However, proportional only control provides an adequate representation of system dynamics because our model depicts an intermediate step in a cascade of developmental processes whose inputs and outputs are inherently localized in space and time (Fig. \ref{fig:metabolism:fig4a}A).
 
-When expressed in the Laplace frequency domain, the system is readily described by three sequential first-order transfer functions with interspersed feedback (Fig. \ref{fig:metabolism:figS1a}):
+When expressed in the Laplace frequency domain (see \cite{Seborg2000}), the system is readily described by three sequential first-order transfer functions with interspersed feedback (Fig. \ref{fig:metabolism:figS1a}):
 \begin{equation}
 \Delta D(s)=\Big( \frac{\frac{k_1}{\gamma_1}}{\frac{1}{\gamma_1}s+1} \Big) \Big [\Delta I(s) - \sum\limits_{}^{N} \frac{\eta_{1}}{k_1}\Delta P(s) \Big ]
 \Delta R(s)=\Big( \frac{\frac{k_2}{\gamma_2}}{\frac{1}{\gamma_2}s+1} \Big) \Big [\Delta D(s) - \sum\limits_{}^{N} \frac{\eta_{2}}{k_2}\Delta P(s) \Big ]
@@ -187,54 +182,62 @@ When expressed in the Laplace frequency domain, the system is readily described 
 where the argument $s$ is the complex frequency. These transfer functions propagate deviations in the input signal level to deviations in output protein level. Given this formulation, control theory provides a wealth of insight into the stability and dynamic character of pulsatile protein expression.
 
 \subsection{Dependence of model parameters on metabolic conditions}
-\label{appendix:methods:metabolism:metabolic_conditions}
+\label{appendix:supp:metabolism:model:metabolism}
 
-IPC ablation reduces cellular glucose consumption. Presumably this would affect either the production and consumption of ATP or the production and consumption of substrates for RNA and protein synthesis (or both). The precise effects are unknown, so we independently modeled each scenario. Since ATP concentration remains fairly constant when respiration is limited ( Brown, 1992), ATP flux (and ATP synthesis) is assumed to decrease. Because transcription, translation, and protein degradation all require ATP turnover, we halved their rate parameters under conditions of reduced glucose consumption. Under conditions of reduced substrate availability for RNA/protein synthesis, we assumed that only transcription and translation rates are affected by limiting fluxes of nucleotides and amino acids. We assumed only the translation rate is affected under conditions of reduced ribosome number. These assumptions are encoded in the rate parameters as listed in Table \ref{appendix:methods:metabolism:tables:metabdep_linear}.
+IPC ablation reduces cellular glucose consumption. Presumably this would affect either the production and consumption of ATP or the production and consumption of substrates for RNA and protein synthesis (or both). The precise effects are unknown, so we independently modeled each scenario. Since ATP concentration remains fairly constant when respiration is limited ( Brown, 1992), ATP flux (and ATP synthesis) is assumed to decrease. Because transcription, translation, and protein degradation all require ATP turnover, we halved their rate parameters under conditions of reduced glucose consumption. Under conditions of reduced substrate availability for RNA/protein synthesis, we assumed that only transcription and translation rates are affected by limiting fluxes of nucleotides and amino acids. We assumed only the translation rate is affected under conditions of reduced ribosome number. These assumptions are encoded in the rate parameters as shown in Table \ref{appendix:supp:metabolism:model:metabolism_rxns}.
 
-\begin{longtable}[]{@{}lllll@{}}
-\label{appendix:methods:metabolism:tables:metabdep_linear}
+% TABLE OF METABOLISM-DEPENDENCE OF LINEAR PROPENSITIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+\centering
+\caption{Metabolism dependence of model rate parameters.}
+\label{appendix:supp:metabolism:model:metabolism_rxns}
+\begin{tabular}{l c c c c}
 \toprule
-\textbf{Parameter} & \textbf{Normal Metabolism} & \textbf{Reduced ATP Consumption} & \textbf{Reduced RNA/Protein Substrates} & \textbf{Reduced Ribosome Number}\tabularnewline
-\midrule
-\endhead
-transcription rate constant & k\textsubscript{2} & \(\frac{1}{2}\) k\textsubscript{2} & \(\frac{1}{2}\) k\textsubscript{2} & k\textsubscript{2}\tabularnewline
-translation rate constant & k\textsubscript{3} & \(\frac{1}{2}\) k\textsubscript{3} & \(\frac{1}{2}\) k\textsubscript{3} & \(\frac{1}{2}\) k\textsubscript{3}\tabularnewline
-protein decay rate constant & γ\textsubscript{3} & \(\frac{1}{2}\) γ\textsubscript{3} & γ\textsubscript{3} & γ\textsubscript{3}\tabularnewline
-\bottomrule
-\end{longtable}
+    \multirow{2}{*}{\bfseries Reaction} & 
+    \multicolumn{4}{c}{\bfseries Rate parameter under}\\ \cmidrule(lr){2-5}
+    & Normal metabolism & Reduced ATP consumption & Reduced RNA/protein substrates & Reduced ribosome number \\ \cmidrule(lr){1-5}
+    Transcription & k_2 & \frac{1}{2}k_2 & \frac{1}{2}k_2 & k_2 \\
+    Translation & k_3 & \frac{1}{2}k_3 & \frac{1}{2}k_3 & \frac{1}{2}k_3 \\
+    Protein decay & \gamma_3 & \frac{1}{2}\gamma_3 & \gamma_3 & \gamma_3 \\
+    \bottomrule
+\end{tabular}
+\end{table}
 
-In all cases, feedback strengths were reduced in order to account for the intermediate processes abstracted by each feedback element. Feedback strength parameters $\eta_i$ were reduced four-fold under conditions of reduced energy metabolism and reduced RNA/protein substrate availability. This scaling assumes that both transcription and translation occur within the arbitrarily complex regulatory motifs represented by each repressor. This is a reasonable assumption for repressor proteins such as transcription factors and kinases. For RNA repressors such as microRNAs, feedback strength parameters could instead be reduced only two-fold to account for their reduced transcription rates. However, microRNAs must be transcribed, processed, and act with effector proteins in order to repress their targets. These fourfold reductions in feedback strength correspond to fourfold reduction of the transcriptional feedback gain $K_{C1}$ and twofold reduction in the post-transcriptional and post-translational feedback gains $K_{C2}$ and $K_{C3}$. Feedback strength parameters $\eta_i$ were only reduced two-fold under reduced protein synthesis conditions. This implies that the transcriptional and post-transcriptional feedback gains $K_{C1}$ and $K_{C2}$ decrease twofold while the post-translational feedback gain $K_{C3}$ remains constant. Each of these dependencies are summarized in Table \ref{appendix:methods:metabolism:tables:feedback_dep}.
+In all cases, feedback strengths were reduced in order to account for the intermediate processes abstracted by each feedback element. Feedback strength parameters $\eta_i$ were reduced four-fold under conditions of reduced energy metabolism and reduced RNA/protein substrate availability. This scaling assumes that both transcription and translation occur within the arbitrarily complex regulatory motifs represented by each repressor. This is a reasonable assumption for repressor proteins such as transcription factors and kinases. For RNA repressors such as microRNAs, feedback strength parameters could instead be reduced only two-fold to account for their reduced transcription rates. However, microRNAs must be transcribed, processed, and act with effector proteins in order to repress their targets. These fourfold reductions in feedback strength correspond to fourfold reduction of the transcriptional feedback gain $K_{C1}$ and twofold reduction in the post-transcriptional and post-translational feedback gains $K_{C2}$ and $K_{C3}$. Feedback strength parameters $\eta_i$ were only reduced two-fold under reduced protein synthesis conditions. This implies that the transcriptional and post-transcriptional feedback gains $K_{C1}$ and $K_{C2}$ decrease twofold while the post-translational feedback gain $K_{C3}$ remains constant. Each of these dependencies are summarized in Table \ref{appendix:supp:metabolism:tables:feedback_dep}.
 
-\begin{longtable}[]{@{}lllll@{}}
-\label{appendix:methods:metabolism:tables:feedback_dep}
+% TABLE OF METABOLISM-DEPENDENCE OF FEEDBACK PROPENSITIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+\centering
+\caption{Metabolism dependence of negative feedback strengths.}
+\label{appendix:supp:metabolism:model:metabolism_fback}
+\begin{tabular}{l c c c c}
 \toprule
-\textbf{Parameter} & \textbf{Normal Metabolism} & \textbf{Reduced ATP Consumption} & \textbf{Reduced RNA/Protein Substrates} & \textbf{Reduced Ribosome Number}\tabularnewline
-\midrule
-\endhead
-transcriptional feedback strength & η\textsubscript{1} & \(\frac{1}{4}\)η\textsubscript{1} & \(\frac{1}{4}\)η\textsubscript{1} & \(\frac{1}{2}\)η\textsubscript{1}\tabularnewline
-post-transcriptional feedback strength & η\textsubscript{2} & \(\frac{1}{4}\)η\textsubscript{2} & \(\frac{1}{4}\)η\textsubscript{2} & \(\frac{1}{2}\)η\textsubscript{2}\tabularnewline
-post-translational feedback strength & η\textsubscript{3} & \(\frac{1}{4}\)η\textsubscript{3} & \(\frac{1}{4}\)η\textsubscript{3} & \(\frac{1}{2}\)η\textsubscript{3}\tabularnewline
-\bottomrule
-\end{longtable}
-
-
-
-
+    \multirow{2}{*}{\bfseries Feedback mode} & 
+    \multicolumn{4}{c}{\bfseries Rate parameter under}\\ \cmidrule(lr){2-5}
+    & Normal metabolism & Reduced ATP consumption & Reduced RNA/protein substrates & Reduced ribosome number \\ \cmidrule(lr){1-5}
+    Transcriptional & \eta_1 & \frac{1}{4}\eta_1 & \frac{1}{4}\eta_1 & \frac{1}{2}\eta_1 \\
+    Post-transcriptional & \eta_2 & \frac{1}{4}\eta_2 & \frac{1}{4}\eta_2 & \frac{1}{2}\eta_2 \\
+    Post-translational & \eta_3 & \frac{1}{4}\eta_3 & \frac{1}{4}\eta_3 & \frac{1}{2}\eta_3 \\
+    \bottomrule
+\end{tabular}
+\end{table}
 
 \subsection{Model simulations}
-\label{appendix:methods:metabolism:simulations}
+\label{appendix:supp:metabolism:model:sim}
 
 Default parameter values were based on approximate transcript and protein synthesis and turnover rates for animal cells reported in the literature (Milo and Phillips, 2016), while gene activation and decay rates were arbitrarily set to a significantly faster timescale. Default feedback strengths for repressors acting at the gene, transcript, or protein levels were chosen such that \sim 25-50\% of simulations failed to reach the threshold under normal conditions when one of two identical repressors was lost. Population-wide expression dynamics were estimated by simulating 5000 output trajectories in response to a three-hour transient step input to the gene activation rate. Simulations were performed using a custom implementation of the stochastic simulation algorithm (Gillespie, 1977), see Appendix \ref{appendix:resources:genessa}. The algorithm constrains solutions to the set of discrete positive values, consistent with linearization about a basal level of zero gene activity. This simplifying assumption is based on the near-zero basal activities expected in the experimental systems, but is not required to support the conclusions of the model (Figs. \ref{fig:metabolism:figS2a}D and \ref{fig:metabolism:figS4}D).
 
 \subsection{Evaluation of error frequencies and changes in expression dynamics}
-\label{appendix:methods:metabolism:scoring}
+\label{appendix:supp:metabolism:model:scoring}
 
 Gene expression trajectories were simulated both with (full repression) and without (partial repression) a second repressor. The time point at which the full-repression simulations mean level reached 30\% of its maximum value was taken to be the commitment time. At this time, a threshold for developmental success was set at the 99\textsuperscript{th} percentile of protein levels subject to full-repression. Error frequencies were obtained by evaluating the fraction of simulated protein levels that exceeded this threshold. Per this definition, the minimum possible error frequency is one percent. For simplicity we subtracted this percentage point from all reported error frequencies.
 
 Protein expression dynamics were compared by evaluating the fraction of partially-repressed simulation trajectories in excess of the 99\textsuperscript{th} percentile of fully-repressed trajectories at each point in time. These fractions were then averaged across the time course, beginning with the reception of the input signal and ending at the previously defined commitment time. Each fraction may be thought of as the instantaneous error frequency, and their average reflects the extent to which the expression dynamics differ between the two sets of simulated trajectories (Figs. \ref{fig:metabolism:figS3}A,B).
 
 \subsection{Parameter variation and sensitivity to model assumptions}
-\label{appendix:methods:metabolism:sweeps}
+\label{appendix:supp:metabolism:model:sweeps}
 
 We conducted a systematic parameter sweep in which all parameters were varied across a ten-fold range (\pm \textasciitilde{}three-fold). For each parameter set we ran six sets of five thousand simulations: 1) full feedback with normal metabolism and translation, 2) partial feedback with normal metabolism and translation, 3) full feedback with reduced energy metabolism, 4) partial feedback with reduced energy metabolism, 5) full feedback with reduced protein synthesis, 6) partial feedback with reduced protein synthesis. Full-repression systems were assigned two copies of each feedback element present in the corresponding partial-repression system. Error frequencies were evaluated as described above. This procedure constitutes one parameter sweep.
 
@@ -246,62 +249,68 @@ Our conclusion also persists when a nonzero basal stimulus is introduced. We con
 
 The preceding simulations assume the stimulus (input) is a unit step that persists for three hours regardless of metabolic conditions (Figs. \ref{fig:metabolism:figS2a}B and \ref{fig:metabolism:figS4}A). Alternatively, metabolic conditions might affect stimulus (input) duration, particularly if the upstream processes responsible for the input are also governed by metabolically delayed processes. We find that the general prediction made by our model -- that reduced energy metabolism and reduced protein synthesis limit sensitivity to loss of regulation -- persists in roughly half of cases if we apply four-fold and two-fold extensions of input duration under reduced energy metabolism and reduced protein synthesis conditions, respectively (Figs. \ref{fig:metabolism:figS2a}E and \ref{fig:metabolism:figS4}E). Notably, in many cases scaling the input duration with metabolic condition yields the opposite effect. However, these instances correspond to simulations in which the extended stimulus yields output protein levels greater than those observed under normal metabolic conditions, suggesting that a four-fold increase in stimulus duration may be excessive.
 
-
-
-
-
-
 \subsection{Alternate models of gene expression}
-\label{appendix:methods:metabolism:alternate_models}
+\label{appendix:supp:metabolism:model:alt_models}
 
-The number of active sites firing transcription within a cell is limited by gene copy number, but the activated-DNA state in our simple linear model is unbounded. To test whether error frequency suppression persists when an upper bound on gene activity is introduced, we considered a simple two-state transcription model
+The number of active sites firing transcription within a cell is limited by gene copy number, but the activated-DNA state in our simple linear model is unbounded. To test whether error frequency suppression persists when an upper bound on gene activity is introduced, we considered a simple two-state transcription model:
+\begin{equation}
+\label{appendix:supp:metabolism:model:twostate_eqns}
+\frac{dG_{on}}{dt} = k_{G}G_{off}I -\gamma_G G_{on} - \sum^{N_g}{\eta_{G} G_{on}P} \\
+\frac{dG_{off}}{dt} = -\frac{dG_{on}}{dt} \\
+\frac{dR}{dt} = k_{R} G_{on} -\gamma_R R -\sum^{N_r}{\eta_{R} P} \\
+\frac{dP}{dt} = k_{P} R -\gamma_P P -\sum^{N_p}{\eta_{P} P}
+\end{equation}
+where $G_{on}$ and $G_{off}$ are the on- and off- states of a gene; $I$, $R$, and $P$ are the input, transcript, and protein levels; $k_i$, $\gamma_i$, and $\eta_i$ are the synthesis, decay, and feedback rate constants for species $i$; and $N_g$, $N_r$, and $N_p$ are the number of transcriptional, post-transcriptional, and post-translational repressors, respectively. Rate parameter dependencies upon metabolic and protein synthesis conditions were analogous to those used in the linear model, and are listed in Table \ref{appendix:supp:metabolism:model:metabolism_twostate}.
 
-\includegraphics[width=3.11111in,height=1.83333in]{media/image7.png}
+We performed another parameter sweep varying each of the model's nine parameters across one order of magnitude. All simulations were initialized as diploid ($G_{off}=2$) then subject to a constant 3 h stimulus before reverting to a basal level of zero gene expression. Despite the limitation placed on gene activity, error frequency remains elevated under normal growth conditions and broadly suppressed when metabolism or protein synthesis are reduced (Figs. \ref{fig:metabolism:figS2a}F and \ref{fig:metabolism:figS4}F).
 
-where \textit{G\textsubscript{on}} and \textit{G\textsubscript{off}} are the on- and off- states of a gene; \textit{I}, \textit{R} and \textit{P} are the input, transcript, and protein levels; \textit{k\textsubscript{i}}, γ\textit{\textsubscript{i}}, and η\textit{\textsubscript{i}} are the synthesis, decay, and feedback rate constants for species \textit{i}; and \textit{N\textsubscript{g}}, \textit{N\textsubscript{r}}, and \textit{N\textsubscript{p}} are the number of transcriptional, post-transcriptional, and post-translational repressors, respectively. Rate parameter dependencies upon metabolic and protein synthesis conditions were analogous to those used in the linear model, and are tabulated below.
-
-\begin{longtable}[]{@{}llll@{}}
+% TABLE OF METABOLISM-DEPENDENCE OF TWOSTATE PROPENSITIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+\centering
+\caption{Metabolism dependence of a two-state transcription model.}
+\label{appendix:supp:metabolism:model:metabolism_twostate}
+\begin{tabular}{l c c c}
 \toprule
-\textbf{Parameter} & \textbf{Normal Metabolism} & \textbf{Reduced Metabolism} & \textbf{Reduced Protein Synthesis}\tabularnewline
-\midrule
-\endhead
-transcription rate constant & k\textsubscript{R} & \(\frac{1}{2}\) k\textsubscript{R} & k\textsubscript{R}\tabularnewline
-translation rate constant & k\textsubscript{P} & \(\frac{1}{2}\) k\textsubscript{P} & \(\frac{1}{2}\) k\textsubscript{P}\tabularnewline
-protein decay rate constant & γ\textsubscript{P} & \(\frac{1}{2}\) γ\textsubscript{P} & γ\textsubscript{P}\tabularnewline
-transcriptional feedback strength & η\textsubscript{G} & \(\frac{1}{4}\)η\textsubscript{G} & \(\frac{1}{2}\)η\textsubscript{G}\tabularnewline
-post-transcriptional feedback strength & η\textsubscript{R} & \(\frac{1}{4}\)η\textsubscript{R} & \(\frac{1}{2}\)η\textsubscript{R}\tabularnewline
-post-translational feedback strength & η\textsubscript{P} & \(\frac{1}{4}\)η\textsubscript{P} & \(\frac{1}{2}\)η\textsubscript{P}\tabularnewline
-\bottomrule
-\end{longtable}
-
-We performed another parameter sweep varying each of the model's nine parameters across one order of magnitude. All simulations were initialized as diploid (\textit{G\textsubscript{off}} = 2) then subject to a constant 3-hour stimulus before reverting to a basal level of zero gene expression. Despite the limitation placed on gene activity, error frequency remains elevated under normal growth conditions and broadly suppressed when metabolism or protein synthesis are reduced (Figs. S2F and S4F).
+    \multirow{2}{*}{\bfseries Reaction} & 
+    \multicolumn{4}{c}{\bfseries Rate parameter with}\\ \cmidrule(lr){2-4}
+    & Normal metabolism & Reduced ATP consumption & Reduced ribosome number \\ \cmidrule(lr){1-4}
+    Transcription & k_R & \frac{1}{2}k_R & k_R \\
+	Translation & k_P & \frac{1}{2}k_P & \frac{1}{2}k_P \\    
+    Protein decay & \gamma_P & \frac{1}{2}\gamma_P & \gamma_P  \\
+    Transcriptional feedback & \eta_G & \frac{1}{4}\eta_G & \frac{1}{2}\eta_G \\
+	Post-transcriptional feedback & \eta_R & \frac{1}{4}\eta_R & \frac{1}{2}\eta_R \\    
+    Post-translational feedback & \eta_P & \frac{1}{4}\eta_P & \frac{1}{2}\eta_P  \\
+    \bottomrule
+\end{tabular}
+\end{table}
 
 Gene expression models also frequently utilize cooperative kinetics in order to capture the nonlinearities and thresholds encountered in transcriptional regulation. We reformulated our gene expression model in terms of Hill kinetics:
+\begin{equation}
+\label{appendix:supp:metabolism:model:hill_eqns}
+\frac{dR}{dt}&=\frac{k_{R}}{1+(\frac{1}{2I})^H}\prod^{N_g}{\Bigg[\frac{1}{1+(\frac{P}{K_{r}})^{H_{r}}}\Bigg]} -\gamma_R R - \sum^{N_r}{\eta_{R} P} \\
+\frac{dP}{dt}&=k_{P}R -\gamma_P P - \sum^{N_p}{\eta_{P} P}
+\end{equation}
+where $I$, $R$, and $P$ are the input, transcript, and protein levels; $k_i$, $\gamma_i$, and $\eta_i$ are the synthesis, decay, and linear feedback rate constants for species $i$; $N_r$ and $N_p$ are the number of post-transcriptional, and post-translational linear repressors; $H$ is a transcriptional Hill coefficient; and $K_r$ and $H_r$ are the half-maximal occupancy level and Hill coefficient of each of the $N_g$ transcriptional repressors. The stimulus level corresponding to half-maximal transcription rate was fixed at 0.5 because we only consider a binary input signal. Rate parameters were again scaled with metabolic and protein synthesis conditions in a manner analogous to the linear model, as listed in Table \ref{appendix:supp:metabolism:model:metabolism_hill}.
 
-\includegraphics[width=3.86111in,height=1.04167in]{media/image8.png}
-
-where \textit{I}, \textit{R}, and \textit{P} are the input, transcript, and protein levels; \textit{k\textsubscript{i}}, γ\textit{\textsubscript{i}}, and η\textit{\textsubscript{i}} are the synthesis, decay, and linear feedback rate constants for species \textit{i}; \textit{N\textsubscript{r}}, and \textit{N\textsubscript{p}} are the number of post-transcriptional, and post-translational linear repressors; \textit{H} is a transcriptional Hill coefficient; and \textit{K\textsubscript{r}} and \textit{H\textsubscript{r}} are the half-maximal occupancy level and Hill coefficient of each of the \textit{N\textsubscript{g}} transcriptional repressors. The stimulus level corresponding to half-maximal transcription rate was fixed at 0.5 because we only consider a binary input signal. Rate parameters were again scaled with metabolic and protein synthesis conditions in a manner analogous to the linear model.
-
-\begin{longtable}[]{@{}llll@{}}
+% TABLE OF METABOLISM-DEPENDENCE OF HILL PROPENSITIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+\centering
+\caption{Metabolism dependence of a model based on Hill kinetics.}
+\label{appendix:supp:metabolism:model:metabolism_hill}
+\begin{tabular}{l c c c}
 \toprule
-\textbf{Parameter} & \textbf{Normal Metabolism} & \textbf{Reduced Metabolism} & \textbf{Reduced Protein Synthesis}\tabularnewline
-\midrule
-\endhead
-transcription rate constant & k\textsubscript{R} & \(\frac{1}{2}\) k\textsubscript{R} & k\textsubscript{R}\tabularnewline
-translation rate constant & k\textsubscript{P} & \(\frac{1}{2}\) k\textsubscript{P} & \(\frac{1}{2}\) k\textsubscript{P}\tabularnewline
-protein decay rate constant & γ\textsubscript{P} & \(\frac{1}{2}\) γ\textsubscript{P} & γ\textsubscript{P}\tabularnewline
-post-transcriptional feedback strength & η\textsubscript{R} & \(\frac{1}{4}\)η\textsubscript{R} & \(\frac{1}{2}\)η\textsubscript{R}\tabularnewline
-post-translational feedback strength & η\textsubscript{P} & \(\frac{1}{4}\)η\textsubscript{P} & \(\frac{1}{2}\)η\textsubscript{P}\tabularnewline
-\bottomrule
-\end{longtable}
+    \multirow{2}{*}{\bfseries Reaction} & 
+    \multicolumn{4}{c}{\bfseries Rate parameter with}\\ \cmidrule(lr){2-4}
+    & Normal metabolism & Reduced ATP consumption & Reduced ribosome number \\ \cmidrule(lr){1-4}
+    Transcription & k_R & \frac{1}{2}k_R & k_R \\
+	Translation & k_P & \frac{1}{2}k_P & \frac{1}{2}k_P \\    
+    Protein decay & \gamma_P & \frac{1}{2}\gamma_P & \gamma_P  \\
+	Post-transcriptional feedback & \eta_R & \frac{1}{4}\eta_R & \frac{1}{2}\eta_R \\    
+    Post-translational feedback & \eta_P & \frac{1}{4}\eta_P & \frac{1}{2}\eta_P  \\
+    \bottomrule
+\end{tabular}
+\end{table}
 
-The half-maximal occupancy level and Hill coefficients of transcriptional repressors were assumed to be independent of growth rate. Another parameter sweep revealed that despite the incorporation of cooperative binding kinetics, error frequency remains elevated under normal metabolic conditions and is broadly suppressed when metabolism or protein synthesis are reduced (Figs. S2G and S4G).
-
-\subsection{Quantification and statistical analysis}
-\label{appendix:methods:metabolism:statistics}
-
-Population proportions were compared using a Chi-square test with Yates\' correction and Fisher\'s exact test. Both gave similar results. All tests involving multiple experimental groups were Bonferroni corrected. Analysis of \textit{sev} experiments scoring R7 cells applied a one-way ANOVA with Bonferroni correction. Relative viabilities were compared using a Mann-Whitney-Wilcoxon test with Bonferroni correction. These tests were performed using Prism 7 (GraphPad) software. P-values shown in figures are presented from tests with the most conservative value shown if more than one test was performed on data. * \textit{p} \textless{} 0.05; ** \textit{p} \textless{} 0.01; *** \textit{p} \textless{} 0.001; **** \textit{p} \textless{} 0.0001
-
-Confidence intervals for the moving average of Yan-YFP expression were inferred from the 2.5th and 97.5th percentile of 1000 point estimates of the mean within each moving-average window. Point estimates were generated by bootstrap resampling with replacement of the expression levels within each window.
-
-Analysis of sfGFP-Sens fluorescence was performed using two independent approaches. 1) For each genotype, 1000 point-estimates were made of the median fluorescence level in cells. Point estimates were generated by bootstrap resampling with replacement of the cell samples within each genotype. Point estimates from wildtype sfGFP-Sens were then randomly paired with point estimates from miR-9a-resistant sfGFP-Sens to derive a set of 1000 point-estimates of the fold-change in median sfGFP-Sens expression. Confidence intervals for the average fold-change in sfGFP-Sens expression were inferred from the 0.5th and 99.5th percentile of these point estimates. 2) The distributions of fluorescence from wildtype sfGFP-Sens and mutant sfGFP-Sens\textsuperscript{m1m2} cell populations were compared using a Mann-Whitney-Wilcoxon test implemented in R. By calculating the difference between all randomly paired cell samples from wildtype versus mutant, the location shift μ is estimated as the median of the difference between a sample from sfGFP-Sens and a sample from sfGFP-Sens\textsuperscript{m1m2}. Confidence intervals for the shift were inferred from the 2.5th and 97.5th percentile of the set of differences.
+The half-maximal occupancy level and Hill coefficients of transcriptional repressors were assumed to be independent of growth rate. Another parameter sweep revealed that despite the incorporation of cooperative binding kinetics, error frequency remains elevated under normal metabolic conditions and is broadly suppressed when metabolism or protein synthesis are reduced (Figs. \ref{fig:metabolism:figS2a}G and \ref{fig:metabolism:figS4}G).

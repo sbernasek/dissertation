@@ -1,11 +1,24 @@
 \documentclass[12pt,reqno]{nuthesis}	% The nuthesis class is based on amsbook.cls.
 
+% set dimensions
+\setlength{\textfloatsep}{0.25in} % space between last top float or first bottom float and the text.
+\setlength{\floatsep}{0.25in} % space left between floats.
+\setlength{\intextsep}{0.25in} % space left on top and bottom of an in-text float.  
+\setlength{\abovecaptionskip}{5pt} % space above caption
+\setlength{\belowcaptionskip}{5pt} % space below caption
+
+% paragraph spacing
+\setlength{\parindent}{0.5in} % indentation of paragraphs
+\setlength{\parskip}{1pt} % gap between paragraphs
+
+% figures
 \usepackage[margin=1in,letterpaper,includehead]{geometry}
 \usepackage{graphicx}
 \usepackage{ccaption}
-\usepackage[margin=0in,skip=5pt,font=small]{caption}
+\usepackage[margin=0in,skip=5pt,font={small,bf}]{caption}
 \usepackage{subcaption}
 \graphicspath{ {./figures/} }
+
 % amsmath, amssymb, and mathtools packages, useful for mathematical formulas and symbols
 \usepackage{siunitx} % scientific notation
 \usepackage{mathtools}
@@ -113,8 +126,8 @@
 % If there is an introduction it must be the first chapter
 
 %\input{text/introduction}
-%\input{text/ratio}
-%\input{text/clones}
+\input{text/ratio}
+\input{text/clones}
 \input{text/metabolism}
 %\input{text/conclusions}
 

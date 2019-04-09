@@ -3,10 +3,9 @@
 \usepackage[margin=1in,letterpaper,includehead]{geometry}
 \usepackage{graphicx}
 \usepackage{ccaption}
-\graphicspath{ {./figures/} }
-
-\usepackage[margin=0in]{caption}
+\usepackage[margin=0in,skip=5pt,font=small]{caption}
 \usepackage{subcaption}
+\graphicspath{ {./figures/} }
 % amsmath, amssymb, and mathtools packages, useful for mathematical formulas and symbols
 \usepackage{siunitx} % scientific notation
 \usepackage{mathtools}
@@ -40,6 +39,8 @@
 \newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
 % Vertically centered and horizontally right-aligned column.
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}}
+% Vertically centered and horizontally centered column.
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
 % Always capitalize "Chapter" when using \autoref
 \renewcommand{\chapterautorefname}{Chapter}
 
@@ -82,7 +83,6 @@
 
 \copyrightpage		% Creates the copyright page.
 
-
 \abstract       % Abstract.
 
 \input{text/abstract}
@@ -103,8 +103,6 @@
 \clearpage\phantomsection % needed for the hyperlinks to work correctly
 \listoffigures		% here, if applicable (optional).
 
-
-
 \mainmatter             
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -115,9 +113,9 @@
 % If there is an introduction it must be the first chapter
 
 %\input{text/introduction}
-\input{text/ratio}
-\input{text/clones}
-%\input{text/metabolism}
+%\input{text/ratio}
+%\input{text/clones}
+\input{text/metabolism}
 %\input{text/conclusions}
 
 % Uncomment the 'singlespace' environment and '\bibsep' command

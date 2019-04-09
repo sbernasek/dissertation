@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: unsrtnat.bst
 Database file #1: ./bib/thesis.bib
-Warning--I didn't find a database entry for "Gillespie1977"
-You've used 161 entries,
+You've used 72 entries,
             2481 wiz_defined-function locations,
-            2010 strings with 58517 characters,
-and the built_in function-call counts, 78747 in all, are:
-= -- 6783
-> -- 5261
-< -- 69
-+ -- 1927
-- -- 1604
-* -- 7500
-:= -- 13371
-add.period$ -- 887
-call.type$ -- 161
-change.case$ -- 320
-chr.to.int$ -- 160
-cite$ -- 161
-duplicate$ -- 3106
-empty$ -- 5934
-format.name$ -- 1843
-if$ -- 16124
-int.to.chr$ -- 2
-int.to.str$ -- 162
-missing$ -- 154
-newline$ -- 1211
-num.names$ -- 485
-pop$ -- 816
+            1220 strings with 25419 characters,
+and the built_in function-call counts, 32699 in all, are:
+= -- 2980
+> -- 1772
+< -- 38
++ -- 674
+- -- 530
+* -- 2926
+:= -- 5398
+add.period$ -- 365
+call.type$ -- 72
+change.case$ -- 141
+chr.to.int$ -- 72
+cite$ -- 72
+duplicate$ -- 1376
+empty$ -- 2707
+format.name$ -- 640
+if$ -- 6788
+int.to.chr$ -- 1
+int.to.str$ -- 73
+missing$ -- 74
+newline$ -- 517
+num.names$ -- 216
+pop$ -- 376
 preamble$ -- 1
-purify$ -- 161
+purify$ -- 72
 quote$ -- 0
-skip$ -- 1716
+skip$ -- 787
 stack$ -- 0
-substring$ -- 3697
-swap$ -- 511
-text.length$ -- 12
+substring$ -- 1853
+swap$ -- 164
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1124
+type$ -- 495
 warning$ -- 0
-while$ -- 593
+while$ -- 277
 width$ -- 0
-write$ -- 2891
-(There was 1 warning)
+write$ -- 1240

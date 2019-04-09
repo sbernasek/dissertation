@@ -150,9 +150,18 @@
 %\setlength{\textheight}{7.5in}
 \setlength{\textheight}{8.0in}
 \setlength{\topmargin}{0in}
-\setlength{\headsep}{0.5in}
-\setlength{\footskip}{0.5in}
-\setlength{\headheight}{12pt}
+
+% SEB EDITED THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+%\setlength{\headsep}{0.5in}
+%\setlength{\footskip}{0.5in}
+%\setlength{\headheight}{12pt}
+\setlength{\headheight}{2pt}
+\setlength{\headsep}{0.2in}
+\setlength{\footskip}{0.1in}
+\setlength{\voffset}{0.1in}
+\setlength{\hoffset}{0.1in}
+% SEB EDITED THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 %\setlength{\textwidth}{5.8in}
 \setlength{\textwidth}{6.3in}
 %\setlength{\oddsidemargin}{0.6in}

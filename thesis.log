@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 APR 2019 01:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 APR 2019 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,21 +323,321 @@ Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
 \c@subfigure=\count117
 \c@subtable=\count118
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/05/18 v6512 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
+L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
+L3 Module: l3str 2016/03/24 v6441 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/03/24 v6441 L3 Integers
+\c_max_int=\count119
+\l_tmpa_int=\count120
+\l_tmpb_int=\count121
+\g_tmpa_int=\count122
+\g_tmpb_int=\count123
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count124
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2016/03/26 v6464 L3 Messages
+L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
+\l_iow_line_count_int=\count125
+\l__iow_target_count_int=\count126
+\l__iow_current_line_int=\count127
+\l__iow_current_word_int=\count128
+\l__iow_current_indentation_int=\count129
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen135
+\c_max_dim=\dimen136
+\l_tmpa_dim=\dimen137
+\l_tmpb_dim=\dimen138
+\g_tmpa_dim=\dimen139
+\g_tmpb_dim=\dimen140
+\c_zero_skip=\skip56
+\c_max_skip=\skip57
+\l_tmpa_skip=\skip58
+\l_tmpb_skip=\skip59
+\g_tmpa_skip=\skip60
+\g_tmpb_skip=\skip61
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count130
+\l_keys_choice_int=\count131
+L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
+\c__fp_leading_shift_int=\count132
+\c__fp_middle_shift_int=\count133
+\c__fp_trailing_shift_int=\count134
+\c__fp_big_leading_shift_int=\count135
+\c__fp_big_middle_shift_int=\count136
+\c__fp_big_trailing_shift_int=\count137
+\c__fp_Bigg_leading_shift_int=\count138
+\c__fp_Bigg_middle_shift_int=\count139
+\c__fp_Bigg_trailing_shift_int=\count140
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+L3 Module: l3coffins 2016/05/17 v6508 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen141
+\l__coffin_offset_x_dim=\dimen142
+\l__coffin_offset_y_dim=\dimen143
+\l__coffin_x_dim=\dimen144
+\l__coffin_y_dim=\dimen145
+\l__coffin_x_prime_dim=\dimen146
+\l__coffin_y_prime_dim=\dimen147
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen148
+\l__coffin_display_x_dim=\dimen149
+\l__coffin_display_y_dim=\dimen150
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen151
+\l__box_bottom_dim=\dimen152
+\l__box_left_dim=\dimen153
+\l__box_right_dim=\dimen154
+\l__box_top_new_dim=\dimen155
+\l__box_bottom_new_dim=\dimen156
+\l__box_left_new_dim=\dimen157
+\l__box_right_new_dim=\dimen158
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen159
+\l__coffin_left_corner_dim=\dimen160
+\l__coffin_right_corner_dim=\dimen161
+\l__coffin_bottom_corner_dim=\dimen162
+\l__coffin_top_corner_dim=\dimen163
+\l__coffin_scaled_total_height_dim=\dimen164
+\l__coffin_scaled_width_dim=\dimen165
+L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count141
+\l__driver_tmp_box=\box44
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count142
+\l__xparse_m_args_int=\count143
+\l__xparse_mandatory_args_int=\count144
+\l__xparse_processor_int=\count145
+\l__xparse_v_nesting_int=\count146
+)
+Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen166
+\extrarowheight=\dimen167
+\NC@list=\toks27
+\extratabsurround=\skip62
+\backup@length=\skip63
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box45
+\l__siunitx_tmp_dim=\dimen168
+\l__siunitx_tmp_int=\count147
+\l__siunitx_number_mantissa_length_int=\count148
+\l__siunitx_number_uncert_length_int=\count149
+\l__siunitx_round_int=\count150
+\l__siunitx_process_decimal_int=\count151
+\l__siunitx_process_uncertainty_int=\count152
+\l__siunitx_process_fixed_int=\count153
+\l__siunitx_process_integer_min_int=\count154
+\l__siunitx_process_precision_int=\count155
+\l__siunitx_group_min_int=\count156
+\l__siunitx_angle_marker_box=\box46
+\l__siunitx_angle_unit_box=\box47
+\l__siunitx_angle_marker_dim=\dimen169
+\l__siunitx_angle_unit_dim=\dimen170
+\l__siunitx_unit_int=\count157
+\l__siunitx_unit_denominator_int=\count158
+\l__siunitx_unit_numerator_int=\count159
+\l__siunitx_unit_prefix_int=\count160
+\l__siunitx_unit_prefix_base_int=\count161
+\l__siunitx_unit_prefix_gram_int=\count162
+\l__siunitx_number_product_int=\count163
+\c__siunitx_one_fill_skip=\skip64
+\l__siunitx_table_unit_align_skip=\skip65
+\l__siunitx_table_exponent_dim=\dimen171
+\l__siunitx_table_integer_dim=\dimen172
+\l__siunitx_table_mantissa_dim=\dimen173
+\l__siunitx_table_marker_dim=\dimen174
+\l__siunitx_table_result_dim=\dimen175
+\l__siunitx_table_uncert_dim=\dimen176
+\l__siunitx_table_fill_pre_dim=\dimen177
+\l__siunitx_table_fill_post_dim=\dimen178
+\l__siunitx_table_fill_mid_dim=\dimen179
+\l__siunitx_table_pre_box=\box48
+\l__siunitx_table_post_box=\box49
+\l__siunitx_table_mantissa_box=\box50
+\l__siunitx_table_result_box=\box51
+\l__siunitx_table_number_align_skip=\skip66
+\l__siunitx_table_text_align_skip=\skip67
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7218.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7221.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7224.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7227.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7230.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7236.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7251.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7260.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7269.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7278.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7290.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7302.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7314.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7317.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7332.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7344.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7391.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
+. 7393.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7395.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7397.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
+. 7399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
+.................................................
+\g__file_internal_ior=\read1
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count119
-\calc@Bcount=\count120
-\calc@Adimen=\dimen135
-\calc@Bdimen=\dimen136
-\calc@Askip=\skip56
-\calc@Bskip=\skip57
+\calc@Acount=\count164
+\calc@Bcount=\count165
+\calc@Adimen=\dimen180
+\calc@Bdimen=\dimen181
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count121
-\calc@Cskip=\skip58
+\calc@Ccount=\count166
+\calc@Cskip=\skip70
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
@@ -346,49 +646,41 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count122
-\l_MT_multwidth_dim=\dimen137
-\origjot=\skip59
-\l_MT_shortvdotswithinadjustabove_dim=\dimen138
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen139
-\l_MT_above_intertext_sep=\dimen140
-\l_MT_below_intertext_sep=\dimen141
-\l_MT_above_shortintertext_sep=\dimen142
-\l_MT_below_shortintertext_sep=\dimen143
+\g_MT_multlinerow_int=\count167
+\l_MT_multwidth_dim=\dimen182
+\origjot=\skip71
+\l_MT_shortvdotswithinadjustabove_dim=\dimen183
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen184
+\l_MT_above_intertext_sep=\dimen185
+\l_MT_below_intertext_sep=\dimen186
+\l_MT_above_shortintertext_sep=\dimen187
+\l_MT_below_shortintertext_sep=\dimen188
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen144
-\extrarowheight=\dimen145
-\NC@list=\toks27
-\extratabsurround=\skip60
-\backup@length=\skip61
-)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen146
+\bigstrutjot=\dimen189
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen147
-\lightrulewidth=\dimen148
-\cmidrulewidth=\dimen149
-\belowrulesep=\dimen150
-\belowbottomsep=\dimen151
-\aboverulesep=\dimen152
-\abovetopsep=\dimen153
-\cmidrulesep=\dimen154
-\cmidrulekern=\dimen155
-\defaultaddspace=\dimen156
-\@cmidla=\count123
-\@cmidlb=\count124
-\@aboverulesep=\dimen157
-\@belowrulesep=\dimen158
-\@thisruleclass=\count125
-\@lastruleclass=\count126
-\@thisrulewidth=\dimen159
+\heavyrulewidth=\dimen190
+\lightrulewidth=\dimen191
+\cmidrulewidth=\dimen192
+\belowrulesep=\dimen193
+\belowbottomsep=\dimen194
+\aboverulesep=\dimen195
+\abovetopsep=\dimen196
+\cmidrulesep=\dimen197
+\cmidrulekern=\dimen198
+\defaultaddspace=\dimen256
+\@cmidla=\count168
+\@cmidlb=\count169
+\@aboverulesep=\dimen257
+\@belowrulesep=\dimen258
+\@thisruleclass=\count170
+\@lastruleclass=\count171
+\@thisrulewidth=\dimen259
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/extarrows/extarrows.sty
 Package: extarrows 2008/05/15 v1.0b Some extensible arrows
@@ -477,63 +769,63 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip62
-\LTright=\skip63
-\LTpre=\skip64
-\LTpost=\skip65
-\LTchunksize=\count127
-\LTcapwidth=\dimen160
-\LT@head=\box29
-\LT@firsthead=\box30
-\LT@foot=\box31
-\LT@lastfoot=\box32
-\LT@cols=\count128
-\LT@rows=\count129
-\c@LT@tables=\count130
-\c@LT@chunks=\count131
+\LTleft=\skip72
+\LTright=\skip73
+\LTpre=\skip74
+\LTpost=\skip75
+\LTchunksize=\count172
+\LTcapwidth=\dimen260
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count173
+\LT@rows=\count174
+\c@LT@tables=\count175
+\c@LT@chunks=\count176
 \LT@p@ftn=\toks28
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip66
-\bibsep=\skip67
+\bibhang=\skip76
+\bibsep=\skip77
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count132
+\c@NAT@ctr=\count177
 ) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Try loading font information for U+msa on input line 71.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+LaTeX Font Info:    Try loading font information for U+msb on input line 71.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 69.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring OFF on input line 71.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -541,11 +833,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count133
+\c@section@level=\count178
 )
-LaTeX Info: Redefining \ref on input line 69.
-LaTeX Info: Redefining \pageref on input line 69.
-LaTeX Info: Redefining \nameref on input line 69.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -565,20 +857,20 @@ LaTeX Info: Redefining \nameref on input line 69.
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=469.75502pt
-* \textheight=602.29501pt
+* \textheight=633.97624pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=0.0pt
-* \headheight=12.0pt
-* \headsep=36.135pt
+* \headheight=2.0pt
+* \headsep=14.45377pt
 * \topskip=10.0pt
-* \footskip=36.135pt
+* \footskip=7.22743pt
 * \marginparwidth=90.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=7.0pt plus 11.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
+* \hoffset=7.22743pt
+* \voffset=7.22743pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidefalse
@@ -588,16 +880,16 @@ LaTeX Info: Redefining \nameref on input line 69.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count134
-\scratchdimen=\dimen161
-\scratchbox=\box34
-\nofMPsegments=\count135
-\nofMParguments=\count136
+\scratchcounter=\count179
+\scratchdimen=\dimen261
+\scratchbox=\box57
+\nofMPsegments=\count180
+\nofMParguments=\count181
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count137
-\MPscratchDim=\dimen162
-\MPnumerator=\count138
-\makeMPintoPDFobject=\count139
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen262
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
 \everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -621,13 +913,27 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count185
+\c__siunitx_mathtt_int=\count186
  [1
 
 
 
 
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[2
 
 
 ]
@@ -636,22 +942,48 @@ ABSTRACT
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [3
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[3
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4])
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[4])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
 [5]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[6]
 Acknowledgements
-(./text/acknowledgements.tex) [6
+(./text/acknowledgements.tex)
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[7
 
 
 
 ]
 Table of Contents
-(./thesis.toc [7
+(./thesis.toc
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[8
 
 
 
@@ -659,108 +991,258 @@ Table of Contents
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [8]
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[9]
 List of Tables
 (./thesis.lot)
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [9
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[10
 
 
 
 ]
 List of Figures
-(./thesis.lof [10
-
-
-
-])
+(./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [11] (./text/ratio.tex
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[11
+
+
+
+] (./text/metabolism.tex
 Chapter 1
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
 [12
 
 
 ]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ê in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ê in font cmr12!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
- [16]
-<figures/ratio/./figure_1.png, id=413, 603.6954pt x 460.6008pt>
-File: figures/ratio/./figure_1.png Graphic file (type png)
 
-<use figures/ratio/./figure_1.png>
-Package pdftex.def Info: figures/ratio/./figure_1.png used on input line 36.
-(pdftex.def)             Requested size: 469.75502pt x 358.40973pt.
+[14] <figures/metabolism/./figure_1a.png, id=297, 435.3063pt x 148.1535pt>
+File: figures/metabolism/./figure_1a.png Graphic file (type png)
+
+<use figures/metabolism/./figure_1a.png>
+Package pdftex.def Info: figures/metabolism/./figure_1a.png used on input line 
+34.
+(pdftex.def)             Requested size: 435.30522pt x 148.15314pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
-[17] [18 <./figures/ratio/./figure_1.png (PNG copy)>]
-Underfull \vbox (badness 4144) has occurred while \output is active []
 
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[15] <figures/metabolism/./figure_1b.png, id=320, 401.0985pt x 275.3487pt>
+File: figures/metabolism/./figure_1b.png Graphic file (type png)
 
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-<figures/ratio/./figure_2.png, id=484, 515.7669pt x 473.8503pt>
-File: figures/ratio/./figure_2.png Graphic file (type png)
-
-<use figures/ratio/./figure_2.png>
-Package pdftex.def Info: figures/ratio/./figure_2.png used on input line 67.
-(pdftex.def)             Requested size: 426.11894pt x 391.48807pt.
+<use figures/metabolism/./figure_1b.png>
+Package pdftex.def Info: figures/metabolism/./figure_1b.png used on input line 
+45.
+(pdftex.def)             Requested size: 401.0975pt x 275.348pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 3612) has occurred while \output is active []
-
- [23]
-
-LaTeX Warning: Text page 24 contains only floats.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (3.19305pt too high) has occurred while \output is active []
+[16 <./figures/metabolism/./figure_1a.png (PNG copy)>]
+Underfull \vbox (badness 1917) has occurred while \output is active []
 
 
-[24 <./figures/ratio/./figure_2.png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[17 <./figures/metabolism/./figure_1b.png (PNG copy)>]
+<figures/metabolism/./figure_2.png, id=353, 477.4638pt x 241.6227pt>
+File: figures/metabolism/./figure_2.png Graphic file (type png)
+
+<use figures/metabolism/./figure_2.png>
+Package pdftex.def Info: figures/metabolism/./figure_2.png used on input line 5
+6.
+(pdftex.def)             Requested size: 477.46263pt x 241.6221pt.
+
+Overfull \hbox (7.70761pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-<figures/ratio/./figure_3.png, id=530, 540.0978pt x 198.5016pt>
-File: figures/ratio/./figure_3.png Graphic file (type png)
 
-<use figures/ratio/./figure_3.png>
-Package pdftex.def Info: figures/ratio/./figure_3.png used on input line 90.
-(pdftex.def)             Requested size: 469.75502pt x 172.64653pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[18 <./figures/metabolism/./figure_2.png (PNG copy)>]
+<figures/metabolism/./figure_3.png, id=369, 541.7841pt x 337.9827pt>
+File: figures/metabolism/./figure_3.png Graphic file (type png)
+
+<use figures/metabolism/./figure_3.png>
+Package pdftex.def Info: figures/metabolism/./figure_3.png used on input line 6
+7.
+(pdftex.def)             Requested size: 469.75502pt x 293.04723pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[19]
+
+LaTeX Warning: Reference `fig:metabolism:figS1a' on page 20 undefined on input 
+line 76.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[20 <./figures/metabolism/./figure_3.png (PNG copy)>]
+<figures/metabolism/./figure_4a.png, id=385, 584.4234pt x 318.9516pt>
+File: figures/metabolism/./figure_4a.png Graphic file (type png)
+
+<use figures/metabolism/./figure_4a.png>
+Package pdftex.def Info: figures/metabolism/./figure_4a.png used on input line 
+80.
+(pdftex.def)             Requested size: 469.75502pt x 256.37344pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS1b' on page 21 undefined on input 
+line 87.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS1c' on page 21 undefined on input 
+line 87.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[21]
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 22 undefined on input 
+line 89.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 22 undefined on input 
+line 89.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 22 undefined on input 
+line 89.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 22 undefined on input 
+line 89.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[22 <./figures/metabolism/./figure_4a.png (PNG copy)>]
+<figures/metabolism/./figure_4b.png, id=403, 543.2295pt x 462.0462pt>
+File: figures/metabolism/./figure_4b.png Graphic file (type png)
+
+<use figures/metabolism/./figure_4b.png>
+Package pdftex.def Info: figures/metabolism/./figure_4b.png used on input line 
+93.
+(pdftex.def)             Requested size: 469.75502pt x 399.5587pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 23 undefined on input 
+line 98.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 23 undefined on input 
+line 100.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2b' on page 23 undefined on input 
+line 102.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[23]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[24 <./figures/metabolism/./figure_4b.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:metabolism:figS3' on page 25 undefined on input l
+ine 108.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS3' on page 25 undefined on input l
+ine 108.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS3' on page 25 undefined on input l
+ine 108.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS3' on page 25 undefined on input l
+ine 108.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[25]
+
+LaTeX Warning: Reference `ch:ratio' on page 26 undefined on input line 110.
+
+<figures/metabolism/./figure_5.png, id=424, 414.5889pt x 251.0178pt>
+File: figures/metabolism/./figure_5.png Graphic file (type png)
+
+<use figures/metabolism/./figure_5.png>
+Package pdftex.def Info: figures/metabolism/./figure_5.png used on input line 1
+14.
+(pdftex.def)             Requested size: 414.58788pt x 251.01718pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -768,410 +1250,242 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
-[27 <./figures/ratio/./figure_3.png (PNG copy)>]
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[26]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[27 <./figures/metabolism/./figure_5.png (PNG copy)>]
+<figures/metabolism/./figure_6.png, id=443, 558.4062pt x 174.4116pt>
+File: figures/metabolism/./figure_6.png Graphic file (type png)
+
+<use figures/metabolism/./figure_6.png>
+Package pdftex.def Info: figures/metabolism/./figure_6.png used on input line 1
+31.
+(pdftex.def)             Requested size: 469.75502pt x 146.72829pt.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 28 undefined on input l
+ine 138.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[28 <./figures/metabolism/./figure_6.png (PNG copy)>]
+<figures/metabolism/./figure_7a.png, id=450, 527.571pt x 255.5949pt>
+File: figures/metabolism/./figure_7a.png Graphic file (type png)
+
+<use figures/metabolism/./figure_7a.png>
+Package pdftex.def Info: figures/metabolism/./figure_7a.png used on input line 
+142.
+(pdftex.def)             Requested size: 469.75502pt x 227.58403pt.
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[29 <./figures/metabolism/./figure_7a.png (PNG copy)>]
+<figures/metabolism/./figure_7b.png, id=464, 411.6981pt x 262.581pt>
+File: figures/metabolism/./figure_7b.png Graphic file (type png)
+
+<use figures/metabolism/./figure_7b.png>
+Package pdftex.def Info: figures/metabolism/./figure_7b.png used on input line 
+153.
+(pdftex.def)             Requested size: 411.69708pt x 262.58034pt.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 30 undefined on input l
+ine 158.
+
+
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[30 <./figures/metabolism/./figure_7b.png (PNG copy)>]
+<figures/metabolism/./figure_7c.png, id=479, 386.4036pt x 128.3997pt>
+File: figures/metabolism/./figure_7c.png Graphic file (type png)
+
+<use figures/metabolism/./figure_7c.png>
+Package pdftex.def Info: figures/metabolism/./figure_7c.png used on input line 
+162.
+(pdftex.def)             Requested size: 386.40265pt x 128.39938pt.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 163.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 163.
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[31 <./figures/metabolism/./figure_7c.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
-<figures/ratio/./figure_4.png, id=557, 481.0773pt x 382.5492pt>
-File: figures/ratio/./figure_4.png Graphic file (type png)
 
-<use figures/ratio/./figure_4.png>
-Package pdftex.def Info: figures/ratio/./figure_4.png used on input line 107.
-(pdftex.def)             Requested size: 422.77664pt x 336.19485pt.
- [29] [30 <./figures/ratio/./figure_4.png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
-<figures/ratio/./figure_5.png, id=620, 449.7603pt x 400.8576pt>
-File: figures/ratio/./figure_5.png Graphic file (type png)
-
-<use figures/ratio/./figure_5.png>
-Package pdftex.def Info: figures/ratio/./figure_5.png used on input line 128.
-(pdftex.def)             Requested size: 469.75502pt x 418.68646pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[33]) (./thesis.bbl
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[33] [34 <./figures/ratio/./figure_5.png (PNG copy)>]
-<figures/ratio/./figure_6.png, id=649, 373.8768pt x 221.1462pt>
-File: figures/ratio/./figure_6.png Graphic file (type png)
-
-<use figures/ratio/./figure_6.png>
-Package pdftex.def Info: figures/ratio/./figure_6.png used on input line 148.
-(pdftex.def)             Requested size: 373.87589pt x 221.14565pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-[36 <./figures/ratio/./figure_6.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
-<figures/ratio/./figure_7.png, id=686, 349.5459pt x 85.0377pt>
-File: figures/ratio/./figure_7.png Graphic file (type png)
-
-<use figures/ratio/./figure_7.png>
-Package pdftex.def Info: figures/ratio/./figure_7.png used on input line 171.
-(pdftex.def)             Requested size: 349.54504pt x 85.03748pt.
-) (./text/clones.tex [39 <./figures/ratio/./figure_7.png (PNG copy)>] [40]
-Chapter 2
-
-Underfull \vbox (badness 1320) has occurred while \output is active []
-
- [41
-
-
-]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-<./figures/clones/./figure_1.png, id=770, 567.5604pt x 579.6054pt>
-File: ./figures/clones/./figure_1.png Graphic file (type png)
-
-<use ./figures/clones/./figure_1.png>
-Package pdftex.def Info: ./figures/clones/./figure_1.png used on input line 23.
-
-(pdftex.def)             Requested size: 469.75502pt x 479.74574pt.
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no à in font cmr12!
-Missing character: There is no í in font cmr12!
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [46]
-<./figures/clones/./figure_2.png, id=842, 395.5578pt x 122.3772pt>
-File: ./figures/clones/./figure_2.png Graphic file (type png)
-
-<use ./figures/clones/./figure_2.png>
-Package pdftex.def Info: ./figures/clones/./figure_2.png used on input line 74.
-
-(pdftex.def)             Requested size: 395.55682pt x 122.37688pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-<./figures/clones/./figure_3.png, id=889, 277.9986pt x 139.722pt>
-File: ./figures/clones/./figure_3.png Graphic file (type png)
-
-<use ./figures/clones/./figure_3.png>
-Package pdftex.def Info: ./figures/clones/./figure_3.png used on input line 94.
-
-(pdftex.def)             Requested size: 277.99791pt x 139.72165pt.
- [50]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-<./figures/clones/./figure_4.png, id=914, 111.7776pt x 97.8054pt>
-File: ./figures/clones/./figure_4.png Graphic file (type png)
-
-<use ./figures/clones/./figure_4.png>
-Package pdftex.def Info: ./figures/clones/./figure_4.png used on input line 112
-.
-(pdftex.def)             Requested size: 111.77731pt x 97.80515pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-(./thesis.bbl [54] [55 <./figures/clones/./figure_1.png (PNG copy)>] [56]
-[57 <./figures/clones/./figure_2.png (PNG copy)> <./figures/clones/./figure_3.p
-ng (PNG copy)>] [58 <./figures/clones/./figure_4.png (PNG copy)>]
+[34]
 References
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0092867400802408 / 1-[]
-s2 . 0-[]S0092867400802408-[]main .
+Underfull \hbox (badness 1867) in paragraph at lines 68--75
+\OT1/cmr/m/n/12 tem-per-a-ture in de-vel-op-men-tally di-verse species.  \OT1/c
+mr/m/it/12 PLoS Genet\OT1/cmr/m/n/12 , 10(4):e1004293,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-\OT1/cmtt/m/n/12 pdf ? {_}tid = a1ac0cd4-[]e6df-[]46a9-[]929b-[]256dc6bb5031{&}
-acdnat =
+Underfull \hbox (badness 1406) in paragraph at lines 77--86
+[]\OT1/cmr/m/n/12 Wenyun Zuo, Melanie E Moses, Ge-of-frey B West, Chen Hou, and
+ James H
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--18
-\OT1/cmtt/m/n/12 1521552994{_}0bd11e44665e33813f08708743cad4f8http : / / linkin
-ghub .
+Underfull \hbox (badness 1107) in paragraph at lines 77--86
+\OT1/cmr/m/n/12 Brown.  A gen-eral model for ef-fects of tem-per-a-ture on ec-t
+otherm on-to-ge-netic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0012160608013560 / 1-[]
-s2 . 0-[]S0012160608013560-[]main .
+Underfull \hbox (badness 1342) in paragraph at lines 77--86
+\OT1/cmr/m/n/12 growth and de-vel-op-ment.  \OT1/cmr/m/it/12 Pro-ceed-ings of t
+he Royal So-ci-ety B: Bi-o-log-i-cal Sci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--47
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 9124866b-[]92ab-[]4aa5-[]835e-[]b0b1e01cb022{&}
-acdnat =
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 49--57
-[]\OT1/cmr/m/n/12 Mary O'Riordan and Rudolf Gross-chedl.  Co-or-di-nate reg-u-l
-a-tion of B cell
- []
-
-
-Underfull \hbox (badness 2726) in paragraph at lines 49--57
-\OT1/cmr/m/n/12 dif-fer-en-ti-a-tion by the tran-scrip-tion fac-tors EBF and E2
-A.  \OT1/cmr/m/it/12 Im-mu-nity\OT1/cmr/m/n/12 , 11:
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 49--57
-\OT1/cmr/m/n/12 21--31, 1999.  ISSN 10747613.  doi: $10 . 1016 / S1074-[]7613(0
-0 ) 80078-[]3$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--57
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S1074761300800783 / 1-[]
-s2 . 0-[]S1074761300800783-[]main .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--57
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 21992660-[]5fde-[]4241-[]8e1c-[]f8e71a18638f{&}
-acdnat =
+Underfull \hbox (badness 1484) in paragraph at lines 77--86
+\OT1/cmr/m/it/12 ences\OT1/cmr/m/n/12 , 279(November):1840--1846, 2011.  ISSN 0
+962-8452.  doi: $10 . 1098 / rspb .
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[35
 
 
 ]
-Underfull \hbox (badness 2452) in paragraph at lines 81--93
-\OT1/cmr/m/n/12 1240831$.  URL []$\OT1/cmtt/m/n/12 http : / / science . science
-mag . org / content / sci / 341 / 6146 / 670 .
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[36]
+Underfull \hbox (badness 1158) in paragraph at lines 201--209
+[]\OT1/cmr/m/n/12 James. F. Gillooly, Eric L. Charnov, Ge-of-frey B. West, Van 
+M. Sav-age, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--93
-\OT1/cmtt/m/n/12 full . pdfhttp : / / www . sciencemag . org / content / 341 / 
-6146 / 670 . short{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--93
-\OT1/cmtt/m/n/12 / / www . sciencemag . org / content / 341 / 6146 / 670 . full
- . pdfhttp : / / www . jem . org /
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 95--102
-\OT1/cmr/m/n/12 A bistable Rb-E2F switch un-der-lies the re-stric-tion point.  
-\OT1/cmr/m/it/12 Na-ture Cell Bi-
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 95--102
-\OT1/cmr/m/it/12 ol-ogy\OT1/cmr/m/n/12 , 10(4):476--482, 2008.  ISSN 14657392. 
- doi: $10 . 1038 / ncb1711$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--102
-[]$\OT1/cmtt/m/n/12 https : / / www . researchgate . net / profile / Lingchong{
-_}You / publication /
- []
-
-
-Overfull \hbox (60.07275pt too wide) in paragraph at lines 95--102
-\OT1/cmtt/m/n/12 5487129{_}A{_}bistable{_}Rb-[]E2F{_}switch{_}underlies{_}the{_
-}restriction{_}point /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--146
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0092867406009809 / 1-[]
-s2 . 0-[]S0092867406009809-[]main .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--146
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 92734ac4-[]a659-[]4761-[]9be4-[]796f090733d5{&}
-acdnat =
+Underfull \hbox (badness 10000) in paragraph at lines 201--209
+[]$\OT1/cmtt/m/n/12 http : / / www . nature . com / doifinder / 10 . 1038 / 417
+070ahttp : / / www . nature . com .
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]
-Underfull \hbox (badness 2080) in paragraph at lines 164--173
-\OT1/cmr/m/n/12 pnas . 1611428114$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
-cbi . nlm . nih . gov / pubmed / 28320972http :
- []
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--173
-\OT1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? a
-rtid = PMC5389321http :
- []
-
+[37]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--197
-[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 28495969
-http : / / www . pubmedcentral .
+Underfull \hbox (badness 1122) in paragraph at lines 318--326
+\OT1/cmr/m/n/12 10 . 1007 / s00018-[]005-[]5124-[]1$.  URL []$\OT1/cmtt/m/n/12 
+http : / / www . ncbi . nlm . nih . gov / entrez / query .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--197
-\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC5448168http : / 
-/ www . pnas . org / lookup /
- []
-
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ê in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--222
-[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 28034910
-http : / / www . pubmedcentral .
+Underfull \hbox (badness 6428) in paragraph at lines 328--337
+[]\OT1/cmr/m/n/12 Xin Li and Richard W Carthew.  A mi-croRNA me-di-ates EGF re-
+cep-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--222
-\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC5199120http : / 
-/ msb . embopress . org /
+Underfull \hbox (badness 6995) in paragraph at lines 328--337
+\OT1/cmr/m/n/12 tor sig-nal-ing and pro-motes pho-tore-cep-tor dif-fer-en-ti-a-
+tion in the Drosophila
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [61]
-Underfull \hbox (badness 1668) in paragraph at lines 246--255
-[]\OT1/cmr/m/n/12 Chris Q. Doe.  Tem-po-ral pat-tern-ing in the Drosophila CNS.
-  \OT1/cmr/m/it/12 An-nual Re-
+Underfull \hbox (badness 2717) in paragraph at lines 328--337
+\OT1/cmr/m/n/12 eye.  \OT1/cmr/m/it/12 Cell\OT1/cmr/m/n/12 , 123(7):1267--1277,
+ 2005.  ISSN 00928674.  doi: $10 . 1016 / j . cell .
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 246--255
-\OT1/cmr/m/it/12 view of Cell and De-vel-op-men-tal Bi-ol-ogy\OT1/cmr/m/n/12 , 
-33:219--240, oct 2017.  ISSN
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+\OT1/cmr/m/n/12 2005 . 10 . 040$.  URL []$\OT1/cmtt/m/n/12 http : / / www . ncb
+i . nlm . nih . gov / entrez / query . fcgi ? cmd =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--255
-\OT1/cmr/m/n/12 1081-0706.  doi: $10 . 1146 / annurev-[]cellbio-[]111315-[]1252
-10$.  URL []$\OT1/cmtt/m/n/12 http :
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+\OT1/cmtt/m/n/12 Retrieve{&}db = PubMed{&}dopt = Citation{&}list{_}uids = 16377
+567http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--255
-\OT1/cmtt/m/n/12 / / www . annualreviews . org / doi / 10 . 1146 / annurev-[]ce
-llbio-[]111315-[]125210http :
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+\OT1/cmtt/m/n/12 / / ac . els-[]cdn . com / S0092867405013279 / 1-[]s2 . 0-[]S0
+092867405013279-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--255
-\OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 28992439{%}0Ahttp 
-: / / www . annualreviews .
+Underfull \hbox (badness 10000) in paragraph at lines 328--337
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 2e440a3c-[]667f-[]11e7-[]ad15-[]00000aab0f27{&}
+acdnat =
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
-Underfull \hbox (badness 1097) in paragraph at lines 353--365
-[]\OT1/cmr/m/n/12 Gong Hong Wei, Gwe-nael Badis, Michael F. Berger, Teemu Kiv-i
-oja, Kimmo
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 353--364
+\OT1/cmr/m/n/12 URL []$\OT1/cmtt/m/n/12 http : / / dev . biologists . org / con
+tent / develop / 137 / 14 / 2265 . full .
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [63]
-Underfull \hbox (badness 1394) in paragraph at lines 404--415
-\OT1/cmr/m/n/12 Re-bay.  Col-lab-o-ra-tive re-pres-sive ac-tion of the an-tag-o
--nis-tic ETS tran-scrip-tion
- []
-
-
-Underfull \hbox (badness 2653) in paragraph at lines 404--415
-\OT1/cmr/m/n/12 fac-tors Pointed and Yan fine-tunes gene ex-pres-sion to con-fe
-r ro-bust-ness in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--415
-\OT1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? a
-rtid = PMC6053666http :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 430--441
+Underfull \hbox (badness 10000) in paragraph at lines 353--364
 \OT1/cmtt/m/n/12 pdfhttp : / / dev . biologists . org / cgi / doi / 10 . 1242 /
  dev . 044826{%}5Cnpapers3 :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--441
+Underfull \hbox (badness 10000) in paragraph at lines 353--364
 \OT1/cmtt/m/n/12 / / publication / doi / 10 . 1242 / dev . 044826http : / / www
  . ncbi . nlm . nih . gov / pubmed /
  []
@@ -1179,668 +1493,607 @@ Underfull \hbox (badness 10000) in paragraph at lines 430--441
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-Underfull \hbox (badness 10000) in paragraph at lines 492--502
-\OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 17108002http : / /
- dev . biologists . org / cgi /
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[39]
+Underfull \hbox (badness 2334) in paragraph at lines 410--418
+\OT1/cmr/m/n/12 pre-cise spec-i-fi-ca-tion of sen-sory or-gan pre-cur-sors in D
+rosophila.  \OT1/cmr/m/it/12 Genes Dev\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 526--534
-\OT1/cmr/m/n/12 An ac-ti-vated Notch re-cep-tor blocks cell-fate com-mit-ment i
-n the de-vel-op-ing
+Underfull \hbox (badness 1867) in paragraph at lines 410--418
+\OT1/cmr/m/n/12 20(20):2793--2805, 2006.  ISSN 08909369.  doi: $10 . 1101 / gad
+ . 1466306$.  URL
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [65]
-Underfull \hbox (badness 7362) in paragraph at lines 584--594
-\OT1/cmr/m/n/12 doi: $10 . 7554 / eLife . 04837$.  URL []$\OT1/cmtt/m/n/12 http
-s : / / search . proquest . com / openview /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 597--607
-\OT1/cmtt/m/n/12 / / www . sciencedirect . com / science / article / pii / S009
-2867404006634http :
+Underfull \hbox (badness 10000) in paragraph at lines 410--418
+[]$\OT1/cmtt/m/n/12 http : / / www . genesdev . org . http : / / www . ncbi . n
+lm . nih . gov / entrez / query . fcgi ?
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]
-Underfull \hbox (badness 10000) in paragraph at lines 679--688
-\OT1/cmtt/m/n/12 gov / pubmed / 11245584http : / / www . pubmedcentral . nih . 
-gov / articlerender . fcgi ?
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[40]
+Underfull \hbox (badness 1152) in paragraph at lines 522--530
+[]\OT1/cmr/m/n/12 R Nolo, L A Ab-bott, and H J Bellen.  Sense-less, a Zn fin-ge
+r tran-scrip-tion
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 709--717
-[]\OT1/cmr/m/n/12 Yanxia Li and Nicholas E. Baker.  Proneu-ral en-hance-ment by
- Notch over-
+Underfull \hbox (badness 1237) in paragraph at lines 522--530
+\OT1/cmr/m/n/12 S0092-[]8674(00 ) 00040-[]4[pii]$.  URL []$\OT1/cmtt/m/n/12 htt
+p : / / www . ncbi . nlm . nih . gov / entrez / query .
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 709--717
-\OT1/cmr/m/it/12 Cur-rent Bi-ol-ogy\OT1/cmr/m/n/12 , 11(5):330--338, mar 2001. 
- ISSN 09609822.  doi: $10 . 1016 /
+Underfull \hbox (badness 10000) in paragraph at lines 566--575
+[]$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / S0092867412004643 / 1-[]s
+2 . 0-[]S0092867412004643-[]main .
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [67]
-Underfull \hbox (badness 10000) in paragraph at lines 740--748
-\OT1/cmtt/m/n/12 355559a0 . pdfhttp : / / www . ncbi . nlm . nih . gov / pubmed
- / 1311054{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 740--748
-\OT1/cmtt/m/n/12 / / www . nature . com / nature / journal / v355 / n6360 / pdf
- / 355559a0 . pdf{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 788--800
-\OT1/cmtt/m/n/12 nih . gov / pubmed / 20048052http : / / www . pubmedcentral . 
-nih . gov / articlerender .
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
-Underfull \hbox (badness 1939) in paragraph at lines 903--913
-\OT1/cmr/m/n/12 lan, Clare Baecher-Allan, and Jill P Mesirov.  Au-to-mated high
--dimensional
- []
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 903--913
-\OT1/cmr/m/n/12 flow cy-to-met-ric data anal-y-sis.  \OT1/cmr/m/it/12 Pro-ceed-
-ings of the Na-tional Acad-emy of Sci-
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 903--913
-\OT1/cmr/m/it/12 ences\OT1/cmr/m/n/12 , 106(21):8519--8524, may 2009.  ISSN 002
-7-8424.  doi: $10 . 1073 / pnas .
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 939--946
-[]\OT1/cmr/m/n/12 Ben Lang-mead and Steven L Salzberg.  Fast gapped-read align-
-ment with
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 939--946
-\OT1/cmr/m/n/12 Bowtie 2.  \OT1/cmr/m/it/12 Na-ture meth-ods\OT1/cmr/m/n/12 , 9
-(4):357--9, apr 2012.  ISSN 1548-7105.  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 939--946
-\OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 22388286{%}0Ahttp 
-: / / www . pubmedcentral .
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [70]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [72]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [73]
-Underfull \hbox (badness 1424) in paragraph at lines 1278--1286
-\OT1/cmr/m/n/12 1186 / 1471-[]2105-[]11-[]372$.  URL []$\OT1/cmtt/m/n/12 http :
- / / bmcbioinformatics . biomedcentral . com /
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [74]
-Underfull \hbox (badness 1005) in paragraph at lines 1338--1345
-\OT1/cmr/m/n/12 Ef-fi-ciency us-ing Spec-tral Imag-ing.  \OT1/cmr/m/it/12 Sci-e
-n-tific Re-ports\OT1/cmr/m/n/12 , 7(1), dec 2017.  ISSN
- []
-
-
-Underfull \hbox (badness 1515) in paragraph at lines 1338--1345
-\OT1/cmr/m/n/12 20452322.  doi: $10 . 1038 / s41598-[]017-[]15411-[]8$.  URL []
-$\OT1/cmtt/m/n/12 http : / / www . nature . com /
- []
-
-
-Underfull \hbox (badness 3895) in paragraph at lines 1357--1367
-[]\OT1/cmr/m/n/12 Patrick D. Mc-Mullen, Richard I. Mo-ri-moto, and Lu^^S^^Ps A.
- Nunes Ama-ral.
- []
-
-
-Underfull \hbox (badness 3815) in paragraph at lines 1357--1367
-\OT1/cmr/m/n/12 Phys-i-cally grounded ap-proach for es-ti-mat-ing gene ex-pres-
-sion from mi-croar-
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 1357--1367
-\OT1/cmr/m/n/12 ray data.  \OT1/cmr/m/it/12 Pro-ceed-ings of the Na-tional Acad
--emy of Sci-ences\OT1/cmr/m/n/12 , 107(31):13690--
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 1357--1367
-\OT1/cmr/m/n/12 13695, aug 2010.  ISSN 1091-6490.  doi: $10 . 1073 / pnas . 100
-0938107$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1357--1367
-[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 20643961
-http : / / www . pubmedcentral .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1357--1367
-\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC2922271http : / 
-/ dx . doi . org / 10 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1357--1367
-\OT1/cmtt/m/n/12 1073 / pnas . 1000938107{%}5Cnhttp : / / www . pnas . org / co
-ntent / 107 / 31 / 13690 .
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [75]
-Underfull \hbox (badness 7907) in paragraph at lines 1401--1410
-[]\OT1/cmr/m/n/12 Pierre Dourlen, Clemence Levet, Alexan-dre Me-jat, Alexis Gam
--bis, and
- []
-
-
-Underfull \hbox (badness 3872) in paragraph at lines 1401--1410
-\OT1/cmr/m/n/12 Bertrand Mollereau.  The Tomato/GFP-FLP/FRT Method for Live Ima
-g-
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 1401--1410
-\OT1/cmr/m/n/12 ing of Mo-saic Adult Drosophila Pho-tore-cep-tor Cells.  \OT1/c
-mr/m/it/12 Jour-nal of Vi-su-al-ized
- []
-
-
-Underfull \hbox (badness 1565) in paragraph at lines 1401--1410
-\OT1/cmr/m/it/12 Ex-per-i-ments\OT1/cmr/m/n/12 , 79, sep 2013.  ISSN 1940-087X.
-  doi: $10 . 3791 / 50610$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1410
-[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 24084155
-http : / / www . pubmedcentral .
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 1413--1421
-\OT1/cmr/m/n/12 Gohl, and Thomas R Clan-dinin.  Flp-Stop, a tool for con-di-tio
-nal gene con-
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 1413--1421
-\OT1/cmr/m/n/12 trol in Drosophila.  \OT1/cmr/m/it/12 eLife\OT1/cmr/m/n/12 , 6,
- 2017.  ISSN 2050084X.  doi: $10 . 7554 /
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [76]
-Underfull \hbox (badness 1286) in paragraph at lines 1529--1538
-[]\OT1/cmr/m/n/12 Celia Mu~noz-Jim^^Senez, Cristina Ayuso, Ag-nieszka Do-brzyn-
-ska, An-to-nio Torres-
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 1540--1548
-[]\OT1/cmr/m/n/12 Wei Wang, Mad-huri War-ren, and Al-lan Bradley.  In-duced mi-
-totic re-com-
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 1540--1548
-\OT1/cmr/m/n/12 bi-na-tion of p53 in vivo.  \OT1/cmr/m/it/12 Pro-ceed-ings of t
-he Na-tional Acad-emy of Sci-
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 1540--1548
-\OT1/cmr/m/it/12 ences\OT1/cmr/m/n/12 , 104(11):4501--4505, mar 2007.  ISSN 002
-7-8424.  doi: $10 . 1073 / pnas .
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77]
-Underfull \hbox (badness 1259) in paragraph at lines 1590--1598
-[]\OT1/cmr/m/n/12 Zhi-Xin Wang.  An ex-act math-e-mat-i-cal ex-pres-sion for de
--scrib-ing com-pet-i-tive
- []
-
-
-Underfull \hbox (badness 1325) in paragraph at lines 1590--1598
-\OT1/cmr/m/n/12 bind-ing of two dif-fer-ent lig-ands to a pro-tein mol-e-cule. 
- \OT1/cmr/m/it/12 FEBS Let-ters\OT1/cmr/m/n/12 , 360:
- []
-
-
-Underfull \hbox (badness 1184) in paragraph at lines 1590--1598
-\OT1/cmr/m/n/12 111--114, 1995.  ISSN 00145793.  doi: $10 . 1016 / 0014-[]5793(
-95 ) 00062-[]E$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1598
-[]$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / 001457939500062E / 1-[]s2
- . 0-[]001457939500062E-[]main .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1598
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 2fc90d24-[]7fd1-[]11e7-[]94e3-[]00000aacb35e{&}
+Underfull \hbox (badness 10000) in paragraph at lines 566--575
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 7f25e6fa-[]8cd6-[]11e7-[]b642-[]00000aab0f6c{&}
 acdnat =
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 1601--1608
-\OT1/cmr/m/it/12 2012\OT1/cmr/m/n/12 , pages 47--54, 2012.  ISBN 9781467346252.
-  doi: $10 . 1109 / CIDU . 2012 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1618--1628
-\OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 27857550http : / /
- www . pubmedcentral . nih . gov /
+Underfull \hbox (badness 10000) in paragraph at lines 566--575
+\OT1/cmtt/m/n/12 1504024034{_}ea251b3bd7d6068bb351a33d320fd66ahttp : / / ac . e
+ls-[]cdn . com /
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [78])
-(./appendix/main.tex [79]
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 578--589
+[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 17959824
+http : / / www . pubmedcentral .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--589
+\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC2174172http : / 
+/ eutils . ncbi . nlm . nih .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--589
+\OT1/cmtt/m/n/12 gov / entrez / eutils / elink . fcgi ? dbfrom = pubmed{&}id = 
+17959824{&}retmode =
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 609--617
+[]\OT1/cmr/m/n/12 Suzanne L Ruther-ford and Su-san Lindquist.  Hsp90 as a ca-pa
+c-i-tor for mor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--617
+\OT1/cmr/m/n/12 10 . 1038 / 24550$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
+cbi . nlm . nih . gov / entrez / query . fcgi ?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--617
+\OT1/cmtt/m/n/12 cmd = Retrieve{&}db = PubMed{&}dopt = Citation{&}list{_}uids =
+ 9845070https :
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 619--627
+[]\OT1/cmr/m/n/12 D F Jarosz and S Lindquist.  Hsp90 and en-vi-ron-men-tal stre
+ss trans-form the
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 619--627
+\OT1/cmr/m/n/12 science . 1195487$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
+cbi . nlm . nih . gov / entrez / query . fcgi ? cmd =
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[42]) (./appendix/main.tex
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[43]
 Appendix A
-(./appendix/methods/clones.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(./appendix/methods/metabolism.tex
 
- [80
+Package natbib Warning: Citation `Lohmann2002' on page 44 undefined on input li
+ne 38.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[44
 
 
 ]
-Underfull \vbox (badness 7704) has occurred while \output is active []
 
- [81]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `S√¶b√∏e-Larssen1998' on page 45 undefined on 
+input line 43.
 
- [82]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Graifer2014' on page 45 undefined on input li
+ne 43.
 
- [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `S√¶b√∏e-Larssen1998' on page 45 undefined on 
+input line 43.
 
- [86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Ferrus1975' on page 45 undefined on input lin
+e 43.
 
- [88]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89])
-(./appendix/methods/ratio.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `S√¶b√∏e-Larssen1998' on page 45 undefined on 
+input line 43.
 
- [90]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Golic1996' on page 45 undefined on input line
+ 43.
 
- [92]
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no µ in font cmr12!
+
+Package natbib Warning: Citation `Webber2013' on page 45 undefined on input lin
+e 48.
+
+
+Package natbib Warning: Citation `Pelaez2015' on page 45 undefined on input lin
+e 48.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [93]
-[94]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
- [96]
-[97]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+[45] <./figures/metabolism/./alleles.png, id=703, 152.7306pt x 136.5903pt>
+File: ./figures/metabolism/./alleles.png Graphic file (type png)
 
-LaTeX Warning: Reference `ratio:genetics' on page 99 undefined on input line 89
+<use ./figures/metabolism/./alleles.png>
+Package pdftex.def Info: ./figures/metabolism/./alleles.png used on input line 
+53.
+(pdftex.def)             Requested size: 152.73022pt x 136.58995pt.
+
+
+Package natbib Warning: Citation `Li2009' on page 46 undefined on input line 68
 .
 
-[99] [100])
+
+Package natbib Warning: Citation `Li2009' on page 46 undefined on input line 68
+.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-[102]
-Appendix B
-(./appendix/figures/clones.tex
-<./figures/clones/./figure_S1.png, id=1593, 283.2984pt x 277.9986pt>
-File: ./figures/clones/./figure_S1.png Graphic file (type png)
 
-<use ./figures/clones/./figure_S1.png>
-Package pdftex.def Info: ./figures/clones/./figure_S1.png used on input line 9.
-
-(pdftex.def)             Requested size: 283.2977pt x 277.99791pt.
-
-<./figures/clones/./figure_S2.png, id=1594, 460.119pt x 349.7868pt>
-File: ./figures/clones/./figure_S2.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S2.png>
-Package pdftex.def Info: ./figures/clones/./figure_S2.png used on input line 15
-.
-(pdftex.def)             Requested size: 460.11787pt x 349.78595pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S3.png, id=1595, 329.0694pt x 355.0866pt>
-File: ./figures/clones/./figure_S3.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S3.png>
-Package pdftex.def Info: ./figures/clones/./figure_S3.png used on input line 21
-.
-(pdftex.def)             Requested size: 329.06857pt x 355.08571pt.
+[46 <./figures/metabolism/./alleles.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S4.png, id=1598, 550.6974pt x 414.8298pt>
-File: ./figures/clones/./figure_S4.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S4.png>
-Package pdftex.def Info: ./figures/clones/./figure_S4.png used on input line 27
-.
-(pdftex.def)             Requested size: 469.75502pt x 353.86029pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<./figures/clones/./figure_S5.png, id=1601, 478.9092pt x 125.7498pt>
-File: ./figures/clones/./figure_S5.png Graphic file (type png)
 
-<use ./figures/clones/./figure_S5.png>
-Package pdftex.def Info: ./figures/clones/./figure_S5.png used on input line 36
-.
-(pdftex.def)             Requested size: 478.90802pt x 125.74948pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
-Overfull \hbox (9.153pt too wide) in paragraph at lines 36--37
+
+[48]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ≤ in font cmr12!
+
+
+Package natbib Warning: Citation `Pelaez2015' on page 49 undefined on input lin
+e 94.
+
+
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[49]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 100.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[50]
+
+Package natbib Warning: Citation `Pelaez2015' on page 51 undefined on input lin
+e 105.
+
+
+Package natbib Warning: Citation `Pelaez2015' on page 51 undefined on input lin
+e 105.
+
+
+Package natbib Warning: Citation `Wolff1993' on page 51 undefined on input line
+ 105.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[51]
+
+Package natbib Warning: Citation `Pelaez2015' on page 52 undefined on input lin
+e 107.
+
+
+Package natbib Warning: Citation `Pelaez2015' on page 52 undefined on input lin
+e 109.
+
+
+LaTeX Warning: Reference `appendix:supp:ratio:alignment' on page 52 undefined o
+n input line 111.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[52]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[53]
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 54 undefined on input 
+line 159.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 54 undefined on input l
+ine 159.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[54]
+
+LaTeX Warning: Reference `appendix:supp:metabolism:eq:deviations' on page 55 un
+defined on input line 177.
+
+
+Package natbib Warning: Citation `Yao2003' on page 55 undefined on input line 1
+77.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[55]
+
+Package natbib Warning: Citation `Seborg2000' on page 56 undefined on input lin
+e 179.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS1a' on page 56 undefined on input 
+line 179.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[56]
+
+LaTeX Warning: Reference `appendix:supp:metabolism:tables:feedback_dep' on page
+ 57 undefined on input line 214.
+
+
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[57]
+Overfull \hbox (2.04794pt too wide) in paragraph at lines 227--227
+ []|\OT1/cmr/m/n/12 Normal| 
+ []
+
+
+Overfull \hbox (13.86496pt too wide) in paragraph at lines 222--233
  [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S6.png, id=1602, 484.209pt x 329.0694pt>
-File: ./figures/clones/./figure_S6.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S6.png>
-Package pdftex.def Info: ./figures/clones/./figure_S6.png used on input line 42
-.
-(pdftex.def)             Requested size: 469.75502pt x 319.25717pt.
+Package natbib Warning: Citation `Milo2016' on page 58 undefined on input line 
+238.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S7.png, id=1603, 423.0204pt x 319.4334pt>
-File: ./figures/clones/./figure_S7.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S7.png>
-Package pdftex.def Info: ./figures/clones/./figure_S7.png used on input line 48
-.
-(pdftex.def)             Requested size: 469.75502pt x 354.7361pt.
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 58 undefined on input 
+line 238.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S8.png, id=1604, 391.7034pt x 121.4136pt>
-File: ./figures/clones/./figure_S8.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S8.png>
-Package pdftex.def Info: ./figures/clones/./figure_S8.png used on input line 54
-.
-(pdftex.def)             Requested size: 469.75502pt x 145.61221pt.
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 58 undefined on input l
+ine 238.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [103
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
- <./figures/clones/./figure_S1.png (PNG copy)>] [104 <./figures/clones/./figure
-_S2.png (PNG copy)>] [105 <./figures/clones/./figure_S3.png (PNG copy)>]
-[106 <./figures/clones/./figure_S4.png (PNG copy)>] [107 <./figures/clones/./fi
-gure_S5.png (PNG copy)>] [108 <./figures/clones/./figure_S6.png (PNG copy)>]
-[109 <./figures/clones/./figure_S7.png (PNG copy)>] [110 <./figures/clones/./fi
-gure_S8.png (PNG copy)>]
-Appendix C
-(./appendix/figures/ratio.tex
-<./figures/ratio/./figure_S1.png, id=1643, 582.0144pt x 405.9165pt>
-File: ./figures/ratio/./figure_S1.png Graphic file (type png)
+[58]
 
-<use ./figures/ratio/./figure_S1.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S1.png used on input line 10.
-
-(pdftex.def)             Requested size: 469.75502pt x 327.62613pt.
-
-<./figures/ratio/./figure_S2.png, id=1644, 600.3228pt x 477.7047pt>
-File: ./figures/ratio/./figure_S2.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S2.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S2.png used on input line 17.
-
-(pdftex.def)             Requested size: 469.75502pt x 373.81087pt.
+LaTeX Warning: Reference `fig:metabolism:figS3' on page 59 undefined on input l
+ine 245.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/ratio/./figure_S3.png, id=1645, 475.7775pt x 106.7187pt>
-File: ./figures/ratio/./figure_S3.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S3.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S3.png used on input line 24.
-
-(pdftex.def)             Requested size: 469.75502pt x 105.37337pt.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[59]
 
-<./figures/ratio/./figure_S4.png, id=1646, 261.6174pt x 136.3494pt>
-File: ./figures/ratio/./figure_S4.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S4.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S4.png used on input line 31.
-
-(pdftex.def)             Requested size: 261.61674pt x 136.34904pt.
+LaTeX Warning: Reference `fig:metabolism:figS1b' on page 60 undefined on input 
+line 252.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/ratio/./figure_S5.png, id=1647, 464.6961pt x 376.0449pt>
-File: ./figures/ratio/./figure_S5.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S5.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S5.png used on input line 38.
-
-(pdftex.def)             Requested size: 422.77664pt x 342.1268pt.
+LaTeX Warning: Reference `fig:metabolism:figS1c' on page 60 undefined on input 
+line 252.
 
 
-LaTeX Warning: Float too large for page by 3.83179pt on input line 41.
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 60 undefined on input 
+line 254.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/ratio/./figure_S6.png, id=1650, 518.4168pt x 379.1766pt>
-File: ./figures/ratio/./figure_S6.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S6.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S6.png used on input line 45.
-
-(pdftex.def)             Requested size: 469.75502pt x 343.58745pt.
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 60 undefined on input l
+ine 254.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/ratio/./figure_S7.png, id=1651, 714.7503pt x 427.1157pt>
-File: ./figures/ratio/./figure_S7.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S7.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S7.png used on input line 52.
-
-(pdftex.def)             Requested size: 469.75502pt x 280.72412pt.
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 60 undefined on input 
+line 254.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/ratio/./figure_S8.png, id=1656, 476.7411pt x 95.1555pt>
-File: ./figures/ratio/./figure_S8.png Graphic file (type png)
-
-<use ./figures/ratio/./figure_S8.png>
-Package pdftex.def Info: ./figures/ratio/./figure_S8.png used on input line 59.
-
-(pdftex.def)             Requested size: 469.75502pt x 93.76427pt.
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 60 undefined on input l
+ine 254.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 60 undefined on input 
+line 256.
 
-) [111
 
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 60 undefined on input l
+ine 256.
 
- <./figures/ratio/./figure_S1.png (PNG copy)>] [112 <./figures/ratio/./figure_S
-2.png (PNG copy)>] [113 <./figures/ratio/./figure_S3.png (PNG copy)> <./figures
-/ratio/./figure_S4.png (PNG copy)>] [114 <./figures/ratio/./figure_S5.png (PNG 
-copy)>] [115 <./figures/ratio/./figure_S6.png (PNG copy)>] [116 <./figures/rati
-o/./figure_S7.png (PNG copy)>] [117 <./figures/ratio/./figure_S8.png (PNG copy)
->]
-Appendix D
-(./appendix/software.tex
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 8.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-]
-[119]
+[60]
 
-Package natbib Warning: Citation `Gillespie1977' on page 120 undefined on input
- line 31.
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 61 undefined on input 
+line 258.
 
-) (./appendix/reproducibility.tex
 
-LaTeX Warning: Reference `ch:metabolism' on page 120 undefined on input line 15
-.
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 61 undefined on input l
+ine 258.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 61 undefined on input 
+line 258.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 61 undefined on input l
+ine 258.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[61]
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 62 undefined on input 
+line 275.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 62 undefined on input l
+ine 275.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Package caption Warning: \label without proper reference on input line 22.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[62]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS2a' on page 63 undefined on input 
+line 332.
+
+
+LaTeX Warning: Reference `fig:metabolism:figS4' on page 63 undefined on input l
+ine 332.
+
+)
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[63]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[64]
+Appendix B
+(./appendix/software.tex
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 8.
+
+
+LaTeX Warning: Reference `ch:clones' on page 65 undefined on input line 11.
+
+
+LaTeX Warning: Reference `ch:ratio' on page 65 undefined on input line 16.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[65
+
+
+]
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[66]) (./appendix/reproducibility.tex
+
+LaTeX Warning: Reference `ch:ratio' on page 67 undefined on input line 14.
+
+
+LaTeX Warning: Reference `ch:clones' on page 67 undefined on input line 15.
+
+
+Package caption Warning: \label without proper reference on input line 23.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `appendix:resources:code_repos' on page 120 undefined 
-on input line 19.
+LaTeX Warning: Reference `appendix:resources:code_repos' on page 67 undefined o
+n input line 20.
 
-[120]
 
-LaTeX Warning: Reference `ch:metabolism' on page 121 undefined on input line 30
-.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[67]
+
+LaTeX Warning: Reference `ch:ratio' on page 68 undefined on input line 30.
+
+
+LaTeX Warning: Reference `ch:clones' on page 68 undefined on input line 31.
 
 ))
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
-[121]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[68]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 43F88E767ACF9A35150C980C81AB6EEB;2566.
+(rerunfilecheck)             Checksum: 4216D92EEE628D63809E4B61275BA948;1735.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 10839 strings out of 493014
- 164011 string characters out of 6133351
- 307023 words of memory out of 5000000
- 13637 multiletter control sequences out of 15000+600000
- 12467 words of font info for 48 fonts, out of 8000000 for 9000
+ 19657 strings out of 493014
+ 367305 string characters out of 6133351
+ 418634 words of memory out of 5000000
+ 22612 multiletter control sequences out of 15000+600000
+ 17155 words of font info for 66 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 40i,14n,44p,3666b,798s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,16n,42p,10379b,1020s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (121 pages, 20448814 bytes).
+}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on thesis.pdf (68 pages, 5429013 bytes).
 PDF statistics:
- 1871 PDF objects out of 2073 (max. 8388607)
- 1682 compressed objects within 17 object streams
- 411 named destinations out of 1000 (max. 500000)
- 376 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 982 PDF objects out of 1000 (max. 8388607)
+ 870 compressed objects within 9 object streams
+ 215 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 

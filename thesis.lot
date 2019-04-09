@@ -8,11 +8,12 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {C.1}{\ignorespaces Mutant and transgenic alleles\relax }}{148}{table.caption.50}
-\contentsline {table}{\numberline {C.2}{\ignorespaces Elementary reactions in the linear model\relax }}{158}{table.caption.52}
-\contentsline {table}{\numberline {C.3}{\ignorespaces Model rate parameters under varied environmental conditions\relax }}{161}{table.caption.53}
-\contentsline {table}{\numberline {C.4}{\ignorespaces Negative feedback strengths under varied environmental conditions\relax }}{162}{table.caption.54}
-\contentsline {table}{\numberline {C.5}{\ignorespaces Two-state transcription model parameters under varied environmental conditions\relax }}{167}{table.caption.55}
-\contentsline {table}{\numberline {C.6}{\ignorespaces Cooperative activation model parameters under varied environmental conditions\relax }}{167}{table.caption.56}
+\contentsline {table}{\numberline {C.2}{\ignorespaces Elementary reactions\relax }}{158}{table.caption.52}
+\contentsline {table}{\numberline {C.3}{\ignorespaces Reaction rate parameter dependence on environmental conditions\relax }}{162}{table.caption.53}
+\contentsline {table}{\numberline {C.4}{\ignorespaces Feedback strength dependence on environmental conditions\relax }}{162}{table.caption.54}
+\contentsline {table}{\numberline {C.5}{\ignorespaces Two-state model dependence on environmental conditions\relax }}{167}{table.caption.55}
+\contentsline {table}{\numberline {C.6}{\ignorespaces Hill kinetics model dependence on environmental conditions\relax }}{167}{table.caption.56}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {D.1}{\ignorespaces Data Repositories\relax }}{177}{table.caption.64}
-\contentsline {table}{\numberline {D.2}{\ignorespaces Code Repositories\relax }}{178}{table.caption.65}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {E.1}{\ignorespaces Reproduction data\relax }}{178}{table.caption.64}
+\contentsline {table}{\numberline {E.2}{\ignorespaces Code available at \url {https://github.com/sebastianbernasek/}\relax }}{178}{table.caption.65}

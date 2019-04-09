@@ -158,8 +158,8 @@
 \setlength{\headheight}{2pt}
 \setlength{\headsep}{0.2in}
 \setlength{\footskip}{0.1in}
-\setlength{\voffset}{0.1in}
-\setlength{\hoffset}{0.1in}
+\setlength{\voffset}{0.in}
+\setlength{\hoffset}{0.in}
 % SEB EDITED THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 %\setlength{\textwidth}{5.8in}

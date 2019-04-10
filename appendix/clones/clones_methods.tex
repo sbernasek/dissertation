@@ -1,0 +1,172 @@
+\graphicspath{ {./figures/clones/} }
+
+%%%%%%%%%%%%%%%%%
+
+\section{Experimental data}
+\label{appendix:methods:clones:data}
+
+We borrowed an experimental control dataset from an unrelated study of neuronal fate commitment during retinal patterning in \textit{Drosophila} \cite{Bernasek2018}. The data consist of six eye imaginal discs dissected and fixed during the third larval instar of Drosophila development. Within each disc, \textit{ey$>$FLP} and \textit{FRT40A} were used to generate mitotic clones. The chromosome targeted for recombination was marked with a \textit{Ubi-mRFPnls} transgene, enabling automated detection of subpopulations characterized by distinct levels of mRFP fluorescence. The discs also carried a \textit{pnt-GFP} transgene located on a different chromosome that was not subject to mitotic recombination. Discs were dissected, fixed, and co-stained with a DAPI nuclear marker prior to confocal imaging. Please refer to \ref{appendix:methods:ratio:genetics} for additional details regarding genetics and experimental conditions.
+
+During eye development, the PntGFP reporter is predominantly expressed in two narrow stripes of progenitor cells \cite{Bernasek2018}. The first stripe occurs immediately posterior to a wave of developmental signaling that traverses the eye disc. Progenitor cells located in this region are suitable for comparison because they are of approximately equivalent developmental age. We applied our automated analysis framework to a total of nine images of these cells.
+
+\newpage
+
+\section{Automated mosaic analysis pipeline}
+
+\subsection{Characterization of fluorescence bleedthrough coefficients}
+\label{appendix:methods:clones:model_fit}
+
+For each image, we morphologically dilate the foreground until no features remain visible (Fig. \ref{fig:clones:figS2}A). We then extract the background pixels and resample them such that the distribution of pixel intensities is approximately uniform (Fig. \ref{fig:clones:figS2}B). Resampling helps mitigate the skewed distribution of pixel intensities found in the background. We then estimate values for each $\{\alpha_1, \alpha_2, \ldots \alpha_K\}$ and $\beta$ by fitting a generalized linear model to the fluorescence intensities of the resampled pixels (Fig. \ref{fig:clones:figS2}C). Each model is a variant of Equation \ref{eq:clones:bg_model} in which angled braces instead denote averages across all background pixels. We formulate these models with identity link functions under the assumption that residuals are gamma distributed. Their coefficients provide an estimate of the bleedthrough contribution strengths that may then be used to estimate the background fluorescence intensity of each nucleus in the corresponding image (Fig. \ref{fig:clones:figS2}D).
+
+\subsection{Clone annotation algorithm} \label{clones:methods:annotation}
+\label{appendix:methods:clones:annotation}
+
+We assume the measured fluorescence level $x_i$ for cell $i$ is sampled from an underlying distribution $p_m(x)$ for cells carrying $m$ copies of the gene encoding the clonal marker:
+\begin{equation}
+x_i \sim p_m(x)
+\end{equation}
+We further assume that $p_m(x)$ is comprised of a mixture of one or more lognormal distributions:
+\begin{equation}
+p_m(ln\ x) = \sum^{N}_{n=1}\lambda_n \mathcal{N}(ln\ x|\theta_{n})
+\end{equation}
+\begin{equation}
+\sum^{N}_{n=1}\lambda_n=1
+\end{equation}
+where $0 \leq \lambda \leq 1$ are the mixing proportions, $\theta_n=(\mu_n,\sigma_n^2)$ are the mean and variance of the $n$th distribution. This assumption is supported by both empirical observations and theoretical insights \cite{Furusawa2005,Beal2017}. By superposition, the global distribution of measured fluorescence levels $p(ln x)$ for all values of $m$ are also sampled from a mixture of $K$ components:
+\begin{equation}
+p(ln\ x) =  \sum^{2}_{m=0} \alpha_m p_m(ln\ x) = \sum^{2}_{m=0} \alpha_m 
+\sum^{N}_{n=1}\lambda_n \mathcal{N}(ln\ x|\theta_{n}) = \sum^{K}_{k=1}\lambda_k \mathcal{N}(ln\ x|\theta_{k})
+\end{equation}
+\begin{equation}
+\sum^{K}_{k=1}\lambda_k=1
+\end{equation}
+where $\alpha_m$ denotes the overall fraction of cells with $m$ copies of the gene encoding the clonal marker. For brevity, we substitute $X = ln x$ yielding:
+\begin{equation}
+p(X) = \sum^{K}_{k=1}\lambda_k \mathcal{N}(X|\theta_{k})
+\end{equation}
+
+Given a collection of sampled fluorescence levels, $\{X_i\}_{i=1 \ldots N}$, we use expectation maximization to find values of $\theta_k$ and $\lambda_k$ for each of the model's $K$ components that maximize the log-likelihood of the observed sample. We repeat this procedure for a range of sequential values of $K$, resulting in multiple models of increasing size. We then balance model resolution against overfitting by selecting the model that yields the smallest value of the Bayesian Information Criterion (BIC):
+\begin{equation}
+BIC(K) = ln(N)q_K - 2 ln(\hat{L}_K)
+\end{equation}
+\begin{equation}
+q_K = K-1 + 2^K
+\end{equation}
+where $N$ is the sample size, $ln(\hat{L})_K$ is the maximum value of the log-likelihood, the subscript $K$ denotes the number of mixture components in the model, and $q_K$ is the total number of parameters (i.e. $K-1$ values of $\lambda_k$ and $2^K$ values of $\mu_k$ and $\sigma_k^2$).
+
+Applying Bayes' rule to the selected model infers the posterior probabilities that each sample $X_i$ belongs to the $k$th component:
+\begin{equation}
+p(k|X_i) = \frac{p(X_i | k) p(k)}{p(X_i)} = \frac{p(X_i | k) \lambda_k}{p(X_i)}
+\end{equation}
+where $p(X_i \mid k)$ is evaluated using the model's likelihood function and $p(X_i)$ is evaluated by marginalizing across each of the model's $K$ components. The end result is a mixture model that allows us to predict the probability that a given measurement of clonal marker expression belongs to a particular one of its component distributions.
+
+We then define a many-to-one mapping, $f$, from each of the $K$ components of the mixture to each of the three possible values of $m$:
+\begin{equation}
+f: \{0,1,...K\} \to \{0,1,2\}
+\end{equation}
+We determine the mapping by k-means clustering the $K$ component distributions into three groups on the basis of their mean values, $e^{\mu_k}$. We may then assign a genotype label $m$ to each measurement $X_i$ by predicting the component $k$ from which it was sampled. The accuracy of these labels depends upon how closely the fitted mixture model reflects the true partitioning of gene copies among clones. While finite mixtures are always identifiable given a sufficiently large sample \cite{Teicher1963}, the algorithm used to fit the mixture tends toward local maxima of the likelihood function when the true components are similar (Wu, 1983). An approach based on a univariate mixture is thus inherently prone to failure when expression levels extensively overlap across clones, as variation within each clone precludes accurate classification of a cell's genotype solely on the basis of its individual expression level. However, clonal lineages are unlikely to exist in isolation because recombination events are usually timed to generate large clones. Our strategy therefore integrates both clonal marker expression and spatial context to identify clusters of cells with locally homogeneous expression behavior.
+
+We incorporate spatial context by introducing a second jointly-distributed variable $Y_i$:
+\begin{equation}
+Y_i = \frac{1}{M_i} \sum^{M_i}_{j=0} X_j
+\end{equation}
+where the subscript $j$ indexes all $M_i$ neighbors of cell $i$. The new variable reflects the average expression level among the neighbors surrounding each cell. We define neighbors as pairs of cells located within a critical distance of each other. This distance, or sampling radius, is derived from the approximate length scale over which cells retain approximately similar clonal marker expression levels. Specifically, we determine the exponential decay constant of the spatial correlation function, $\psi (\delta)$:
+\begin{equation}
+\psi(\delta) = \frac {<( X_i -\mu_{X})( X_j -\mu_{X})>_{i,j \in \delta}} {\sigma_X^2}
+\end{equation}
+where $\mu_X$ and $\sigma_X^2$ are the global mean and standard deviation, and angled brackets denote the mean across all pairs of cells separated by distance $\delta$. We efficiently implement this procedure by fitting an exponential decay function to the down-sampled moving average of $\psi (\delta)$ as a function of increasing separation distance.
+
+Following the introduction of spatial context, the mixture model becomes:
+\begin{equation}
+p(X, Y) = \sum^{K}_{k=1}\lambda_k \mathcal{N}( X,Y |\theta_{k})
+\end{equation}
+where $\theta_{k} = (\vec{\mu}_{k},\vec{\sigma}_{k}^2)$ contains the mean and variance of each component given by vectors of length two. This formulation constrains each component's covariance matrix to be diagonal. The posterior is now:
+\begin{equation}
+p(k| X_i,Y_i) = \frac{p(X_i, Y_i | k) \lambda_k}{p(X_i, Y_i)}
+\end{equation}
+We can recover the univariate model by marginalizing the posterior over all values of $Y$:
+\begin{equation}
+p(k| X_i) = \sum_{j} p(k| X_i,Y_j)
+\end{equation}
+When neglecting spatial context, we use this expression to classify each sample by applying the mapping $f$ to the value of $k$ that maximizes $p(k \mid X_i)$:
+\begin{equation}
+f(\argmax_{k} p(k | X_i))
+\end{equation}
+
+In all other cases, we deploy a graph-based approach to refine the estimate of $p(k \mid X_i,Y_i)$. This first entails constructing an undirected graph connecting adjacent cells within each image. We obtain the graph's edges through Delaunay triangulation of the measured cell positions, then exclude distant neighbors by thresholding the edge lengths. Each edge is assigned a weight $w_{ij}$ reflecting the similarity of clonal marker expression between adjacent cells $i$ and $j$:
+\begin{equation}
+w_{ij} = exp \big( \frac{-E_{ij}}{\langle E \rangle} \big)
+\end{equation}
+\begin{equation}
+E_{ij} = | X_i - X_j | 
+\end{equation}
+where $E_{ij}$ is the absolute log fold-change in measured expression level and angled brackets denote the mean across all edges. We chose an exponential formulation because it yields an approximately uniform distribution of edge weights. We then detect communities within the graph using the Infomap algorithm \cite{Rosvall2009}. The algorithm provides a hierarchical partitioning of nodes into non-overlapping clusters. We aggregate all clusters below a critical level that is again chosen by estimating the spatial correlation decay constant. We then enumerate $p(k \mid X_i,Y_i^c)$ where $Y_i^c$ is the spatial context obtained by averaging expression levels among all neighbors in the same community as cell $i$.
+
+We further incorporate spatial context by allowing the posterior probabilities $p(k \mid X_i,Y_i^c)$ to diffuse among adjacent cells. We define the modified posterior probability $\hat{p}(k \mid X_i,Y_i^c)$ through a recursive relation analogous to the Katz centrality \cite{Katz1953}, initialized by $p(k \mid X_i,Y_i^c)$:
+\begin{equation}
+\hat{p}(k \mid X_i, Y^c_i) = \alpha \sum_{j}{w_{ij} \hat{p}(k \mid X_i, Y^c _i)} + \beta
+\end{equation}
+\begin{equation}
+\beta = (1-\alpha) p(k| X_i,Y^c_i)
+\end{equation}
+where $\alpha$ is the attenuation factor and $w_{ij}$ are the edge weights. Expressed in matrix form, the solution for $\hat{p}(k \mid X,Y^c)$ is given by:
+\begin{equation}
+\hat{p}(k \mid X,Y^c) = ( I - \alpha W )^{-1} (1-\alpha)p(k \mid X, Y^c)
+\end{equation}
+where $I$ denotes the identity matrix and $W$ is the matrix of edge weights $w_{ij}$. We then assign a label to each measurement $X_i$ by applying $f$ to the value of $k$ that maximizes $\hat{p}(k \mid X_i,Y_i^c)$:
+\begin{equation}
+f(\argmax_{k} \hat{p}(k | X_i, Y^c_i))
+\end{equation}
+
+Finally, we assess the total posterior probability of each assigned label, $\hat{P}(m_i)$:
+\begin{equation}
+\hat{P}(m_i) = \sum_{ \mathclap{ \{ k | f(k)=m_i \}} } \hat{p}(k | X_i,Y^c_i)
+\end{equation}
+This measure reflects the overall confidence that $m_i$ is the appropriate label. Labels whose confidence falls below 80\% are replaced by their counterparts estimated using the marginal classifier. This substitution helps preserve classification accuracy in situations where spatial context is not informative, and is particularly useful when the annotated clones are relatively small.
+
+\subsection{Measurement curation}
+\label{appendix:methods:clones:curation}
+
+Our framework includes a simple graphical user interface that permits manual curation of which regions of the image field are included in subsequent analyses. This tool allows for the exclusion of certain aspects of the segmented data on a context-dependent basis. For example, when studying \textit{Drosophila} eye imaginal discs it is common to restrict analysis to a narrow column of cells in which the cellular processes of interest are taking place (Fig. \ref{fig:clones:figS2}F). Alternatively, users may exclude regions of the image field marked by extensive tissue deformation or cell death. This functionality is convenient but is not a necessary component of a quantitative clonal analysis workflow.
+
+\subsection{Statistical comparison of fluorescence levels}
+\label{appendix:methods:clones:comparison}
+
+To mitigate edge effects, cells residing on the periphery of each clone were excluded from all comparisons (Fig. \ref{fig:clones:figS2}E). Border cells were identified by using the undirected graph constructed during annotation to find all cells connected to a neighbor within a different clone (Fig. \ref{fig:clones:figS4}B). Comparisons were limited to the region of elevated GFP expression near the morphogenetic furrow (Fig. \ref{fig:clones:figS2}F), then further limited to cells undergoing similar stages of development (Fig. \ref{fig:clones:figS2}G). These restrictions served to buffer against differences in developmental context and ensured that all compared cells were of similar developmental age. The remaining fluorescence measurements were then aggregated across all eye discs and compared between pairs of clones by two-sided Mann-Whitney \textit{U} test.
+
+\newpage
+
+\section{Synthetic benchmarking}
+
+\subsection{Cell growth simulations}
+\label{appendix:methods:clones:growth_simulation}
+
+We simulated the two dimensional growth of a cell culture seeded with a single cell. In these simulations, growth proceeds through sequential division of cells (Fig. \ref{fig:clones:figS6}A). Not all cells divide at each time-step because cell division is a stochastic process. Instead, each cell divides stochastically with a rate controlled by a global growth rate parameter.
+
+Cells are simultaneously subject to mitotic recombination (Fig. \ref{fig:clones:figS6}C). Each cell contains either zero, one, or two copies of a gene encoding an RFP-tagged clonal marker. Each time a cell divides, its genes are duplicated and equally partitioned between the two daughter cells. However, in some instances a heterozygous parent may instead partition its two duplicate genes unequally, with one daughter receiving both and the other receiving none. These mitotic recombination events occur stochastically with a frequency defined by a global recombination rate parameter.
+
+The timing and duration of recombination events affects the number and size of the resultant clones. In real experiments, recombination events are restricted to a particular stage of the developmental program through localized exogenous expression of the recombination machinery. We incorporated this feature into our cell growth simulations via two adjustable parameters. The first determines the minimum population size at which recombination may begin, while the second determines the number of generations over which recombination may continue to occur. These two parameters provide a means to tune the average number and size of clonal subpopulations in the synthetic data (Fig. \ref{fig:clones:figS6}D). Early recombination events generally entail larger clones, while shorter recombination periods limit the extent of clone formation (Fig. \ref{fig:clones:figS6}E).
+
+After each round of cell division, all cells are repositioned in order to preserve approximately uniform spatial density (Fig. \ref{fig:clones:figS6}C). Repositioning is achieved by equilibrating a network of springs connecting each cell with its neighbors. This undirected network is constructed through Delaunay triangulation of all cells spatial positions. Edges on the periphery of the culture are systematically excluded by establishing a maximum polar angle between neighbors. This filtration removes spurious edges between distant pairs of cells. Edges connecting pairs of cells with the same clonal marker dosage are assigned a 10\% higher spring constant than edges that connect dissimilar cells. This modest bias ensures that clonal lineages remain spatially collocated after repositioning. Cell positions are then updated using a force-directed graph drawing algorithm \cite{Kamada1989}. Alternating cell division and repositioning steps are then repeated until a predefined population size is reached.
+
+We used this platform to generate all synthetic data presented in the manuscript. All simulations were terminated when the total population exceeded 2048 cells. We assigned each cell a 20\% probability of division upon each iteration, and each cell division event was accompanied by a 20\% chance of mitotic recombination. Parent cells containing zero or two copies of the recombined genes were ineligible for recombination, effectively sealing the genetic fates of their respective lineages. Except where stated otherwise, all simulations limited recombination to the first sixteen cell division events.
+
+\subsection{Generation of synthetic microscopy data}
+\label{appendix:methods:clones:fluorescence_simulation}
+
+Cell growth simulations yield a list of spatial coordinates and gene dosages for each nucleus (Fig. \ref{fig:clones:figS6}B). The corresponding fluorescence levels $\{x_1, x_2, \ldots x_{i=N} \}$ were sampled from a lognormal distribution conditioned upon the corresponding gene dosage (Fig. \ref{fig:clones:figS7}A-C):
+\begin{equation}
+ln\ x \sim \mathcal{N}_n(\theta _n)
+\end{equation}
+where the subscript $n$ denotes the gene copy number and $\theta_n = (\mu_n,\sigma_{\alpha}^2)$ are the mean and variance of the corresponding distribution. We define $\mu_n$ such that the mean fluorescence level doubles for each additional copy of the gene:
+\begin{equation}
+\mu_{n } = ln(2^{n-1})
+\end{equation}
+We refer to $\sigma_{\alpha}$ as the fluorescence ambiguity coefficient because it modulates the similarity of fluorescence levels across gene dosages. Increasing $\sigma_{\alpha}$ increases the overlap among $\mathcal{N}_0$, $\mathcal{N}_1$, and $\mathcal{N}_2$ (Fig. \ref{fig:clones:figS7}D,E), and consequently increases the difficulty of the annotation task (Fig. \ref{fig:clones:figS7}F).
+
+\subsection{Benchmarking annotation performance}
+\label{appendix:methods:clones:benchmarking}
+
+We created a synthetic microscopy dataset by varying the timing of recombination events to generate cell cultures spanning a range of sixteen average clone sizes (Fig. \ref{fig:clones:figS6}D, only half are shown). We performed 50 replicate simulations for each condition. The mixture model was independently trained and applied to each replicate. Training a single model on all replicates yields stronger performance on average (not shown), but also yields more variable results across the parameter space because all labels are dependent upon the outcome of a single expectation maximization routine.
+
+We then labeled each cell and quantified annotation performance by evaluating the mean absolute difference between the predicted labels and their respective true values. This metric preserves ordinality, meaning egregious misclassifications are penalized more severely than mild ones \cite{Gaudette2009}. The entire procedure was repeated for sixteen different fluorescence ambiguity coefficient values.

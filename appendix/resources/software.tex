@@ -1,0 +1,38 @@
+
+Several computational tools were developed in support of the work presented in this thesis. These resources are available online under open license for unrestricted use and future development. By contributing them to the open-source software ecosystem, we aim to help foster the adoption of novel quantitative and computational analysis strategies among the broader community of developmental and \textit{in vivo} cell biologists. 
+
+The following sections describe each of these tools and their high level functions. Unless otherwise stated, all tools are freely available in code repositories hosted by GitHub and mirrored between both \href{https://github.com/sebastianbernasek/}{my personal account} and the \href{https://github.com/amarallab}{Amaral} and \href{https://github.com/bagherilab}{Bagheri} lab accounts. These repositories generally contain high level API documentation in addition to a series of Jupyter notebooks that walk the user through a series of usage examples. 
+
+\begin{enumerate}
+  
+  % FLYEYE SILHOUETTE
+  \item \textbf{FlyEye Silhouette}: \url{http://silhouette.amaral.northwestern.edu}
+  \newline
+  A free GUI-based MacOS application for segmentation, quantification, and annotation of cell nuclei in the \textit{Drosophila} eye imaginal disc. Developed by Helio Tejedor in the Amaral lab, with insight from several experimental collaborators. Will serve as the eventual hub for all FlyEye-branded resources.
+  
+  % FLYEYE ANALYSIS
+  \item \textbf{FlyEye Analysis}: \url{https://github.com/sebastianbernasek/flyeye}
+  \newline
+  A python framework for analyzing data generated using FlyEye Silhouette. Core features focus on inferring the approximate developmental age of each imaged cell as described in Section \ref{ch:ratio}, then analyzing the resultant reporter expression dynamics. The package also provides tools to quantify heterogeneity and spatial patterns of protein expression in the developing eye.
+  
+  % FLYEYE ANALYSIS
+  \item \textbf{FlyEye Clones}: \url{https://github.com/sebastianbernasek/clones}  
+  \newline
+  A python framework for automated quantitative mosaic analysis of \textit{Drosophila} eye imaginal discs whose functions are described and demonstrated throughout Chapter \ref{ch:clones}. Core features will be integrated with future versions of FlyEye Silhouette. 
+  
+  % FLYEYE SYCLONES
+  \item \textbf{FlyEye SyClones}: \url{https://github.com/sebastianbernasek/syclones}
+  \newline 
+  A python framework for generating synthetic microscopy data that mimic key features of mosaic eye imaginal discs. The synthetic data provide a reliable standard that may be used to objectively compare and benchmark the performance of any future mosaic analysis platforms.
+  
+  % PolyTF BINDING
+  \item \textbf{PolyTF Binding}: \url{https://github.com/sebastianbernasek/binding}
+  \newline 
+  A python framework for simulating the equilibrium occupancy of DNA binding sites by one or more polymerizing transcription factors. The package provides a high-level Python interface to a C backend that efficiently enumerates all possible microstates in a recursive fashion, enabling nested parallelization of the primary computational bottleneck. For systems of two or more transcription factors, the implementation confers a major performance advantage over the binary-based implementation proposed in the original work that inspired the model \cite{Hope2017}.
+  
+  % GENESSA
+  \item \textbf{GeneSSA}: \url{https://github.com/sebastianbernasek/genessa}
+  \newline
+  A python framework for exact stochastic simulation of gene regulatory network dynamics \cite{Gillespie1977}. Simulations are executed by a C backend optimized for performance on networks with a narrow scope of pre-defined reaction propensity functions (e.g. mass action or Hill kinetic). The limited scope is by design; GeneSSA prioritizes computational efficiency at the expense of flexibility by explicitly hard coding a set of functional forms for the propensities. This design places GeneSSA among the most performant implementations of the exact stochastic simulation algorithm for several common types of GRNs. The framework may be extended (and has been, see included notebooks!) to include additional kinetic formulations as they are required.
+  
+\end{enumerate}

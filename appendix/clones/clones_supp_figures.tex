@@ -1,0 +1,56 @@
+\graphicspath{ {./figures/clones/} }
+
+%%%%%%%%%%%%%%%%%%$%%%%%%%%%%%%%%%%%
+
+\section{Supporting figures}
+
+\begin{figure}[h]
+\includegraphics[scale=1.0]{./figure_S1}
+\caption[Example clones in the larval fly eye.]{\textbf{Example clones in the larval fly eye.} (A) Genetic schema for a bleedthrough control experiment. Red and green ovals represent genes encoding a RFP-tagged clonal marker and a GFP-tagged control reporter, respectively. Black lines depict a genomic locus. Recombination does not affect gene dosage of the control reporter, so GFP variation across clones is attributed to fluorescence bleedthrough. (B) Confocal image of an eye imaginal disc. Red, green, and blue reflect clonal marker, control reporter, and nuclear stain fluorescence, respectively. (C) Segmentation of the DAPI nuclear stain. White lines show individual segments.}
+\label{fig:clones:figS1}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=1.0]{./figure_S2}
+\caption[Intermediate stages of bleedthrough correction.]{\textbf{Intermediate stages of bleedthrough correction.} (A) Extraction of background pixels (striped region). Foreground includes the merged RFP and GFP images, surrounded by a white line. White arrow marks the morphogenetic furrow (MF). (B) Background pixel values are resampled such that RFP intensities are uniformly distributed. (C) A generalized linear model characterizes the contribution of RFP bleedthrough to GFP fluorescence. Boxes reflect windowed distributions of resampled background pixel intensities. Red line shows the model fit. (D) Measured GFP levels before bleedthrough correction. Markers represent individual nuclei. Red line shows the inferred contributions of RFP fluorescence bleedthrough. Dashed portion is extrapolated. (E-G) Data curation prior to statistical comparison of GFP levels. (E) Cells on the periphery of each clone are excluded. (F) The selection is limited to the region of elevated GFP expression near the MF. (G) It is further limited to cells of the same developmental age, defined by their relative positions along the x-axis.}
+\label{fig:clones:figS2}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=1.0]{./figure_S3}
+\caption[Training a clone annotation model.]{\textbf{Training a clone annotation model.} (A) One or more images are segmented, yielding a set of fluorescence measurements $X$. These are used to sample the spatial context $Y$ of the neighborhood surrounding each cell. Both sets of values are used to train a mixture model. Subsequent panels demonstrate these procedures using the example shown in Figure \ref{fig:clones:figS3}C. (B) Expression levels are jointly distributed with the local average among neighboring cells. Center panel shows the joint distribution. Top and right bar plots show marginal distributions. (C) Mixture model identifies seven distinct components $k_i$. Center panel shows position and spread of each component. Top and right panels show marginal components scaled by their respective weights. Red shading denotes the label $m_i$ assigned to each component. The model predicts the posterior probabilities that a given sample $(X,Y)$ belongs to each component. (D) Neighborhood size is estimated by computing the decay constant of the spatial correlation function, $\psi(\delta)$. Black line shows the moving average of $\psi(\delta)$, red line shows an exponential fit. Inset shows the resultant sampling region. (E) The optimal number of mixture components is determined by minimizing BIC score. (F) Mixture components are labeled by k-means clustering their mean values. Markers reflect the component means, colors denote the assigned label.}
+\label{fig:clones:figS3}
+\end{figure}
+
+\begin{figure}[t]
+\includegraphics[width=1.0\columnwidth]{./figure_S4}
+\caption[Label assignment using a trained clone annotation model.]{\textbf{Label assignment using a trained clone annotation model.}}
+\label{fig:clones:figS4}
+\end{figure}
+\begin{figure}[h]
+  \contcaption{(A) The measurements $X$ from a segmented image are used to sample the spatial context $Y^C$ of the community surrounding each cell before the mixture model is applied (blue and green path). They are simultaneously labeled using a marginal projection of the trained model (magenta path). The two sets of labels are then merged (red path). Subsequent panels demonstrate these procedures using the example shown in Figure \ref{fig:clones:figS3}C. (B-D) Spatial context sampling. (B) Weighted undirected graph connecting adjacent cells. Line thickness reflects the expression similarity between neighbors. (C) Community resolution is defined by aggregating clusters that fall below a cut level $\delta$ in the hierarchy. Images show potential levels of aggregation. Colors denote distinct communities. (D) Cut level is chosen by finding the maximum level (red dot) that remains lower than the decay constant of the spatial correlation function, $\psi(\delta)$ (black line). In this example, clusters are aggregated below the fifth level. Panel E instead depicts aggregation below the third level for ease of visualization. (E) Application of the mixture model. \emph{(I)} The graph connecting adjacent cells contains distinct communities of locally similar expression. \emph{(II)} Mean expression level within each community serves as the local average for each cell. \emph{(III)} Mixture model estimates the probability that each cell belongs to each of its component. Bar plots within each cell illustrate the cumulative probability of each label. \emph{(IV)} Posterior probabilities are diffused across the entire graph. \emph{(V)} Each cell is assigned its most probable label. (F,G) Application of a marginal mixture model that neglects spatial context. (F) Marginal mixture model components obtained by summing across the spatial context dimension of the full mixture model. Red shading denotes the label assigned to each component. Dashed black line is the overall marginal density. (G) Marginal classifier that labels cells strictly on the basis of their individual fluorescence level. Red shading denotes the most probable label for each expression level. (H) Annotated measurements. Red shading denotes the assigned label. Labels with low confidence $\hat{P}(m_i)<0.8$ are replaced by their marginal counterparts.}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[scale=1.0]{./figure_S5}
+\caption[Comparison of automated annotation with manually assigned labels.]{\textbf{Comparison of automated annotation with manually assigned labels.} (A) Distribution of labels among each possible value. (B) Agreement between automated and manual annotation. Values in parentheses exclude cells on the periphery of each clone. The sole instance of low agreement is marked in red. (C) Visual comparison of the instance in which automated and manual annotation differ. Image shows clonal marker fluorescence, overlayed colors denote the assigned label.}
+\label{fig:clones:figS5}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[width=1.0\columnwidth]{./figure_S6}
+\caption[Simulated growth of a synthetic cell culture.]{\textbf{Simulated growth of a synthetic cell culture.} (A) Partial simulation time course. Each marker depicts a cell. Greyscale intensity reflects clonal marker gene dosage. Simulation time reflects the approximate number of cell divisions since the initial seed. (B) Simulations yield gene dosages and spatial coordinates for each cell. (C) Single iteration of an example simulation. Circles represent individual cells, red shading denotes clonal marker dosage. Cycles of cell division, recombination, and repositioning are repeated until the simulation reaches a specified end time ($t>11$ in panel A). (D) Cultures simulated with varying recombination start times. All cultures were subject to four generations of recombination ($\delta t=4$). Recombination start time increases from left to right. Later recombination events generally yield smaller clones. (E) Mean clone size (cells per clone) as a function of the recombination start time. Colors denote recombination period duration. Error bars reflect standard error of the mean across 50 replicates. Clone size generally decreases as recombination is limited to later times.}
+\label{fig:clones:figS6}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[width=1.0\columnwidth]{./figure_S7}
+\caption[Tunable generation of synthetic microscopy data.]{\textbf{Tunable generation of synthetic microscopy data.} (A) Fluorescence levels are sampled from lognormal distributions conditioned upon gene dosage. (B) Synthetic data include a measured fluorescence level for each reporter in each cell. Text color reflects the generative distribution in A. (C) Synthetic image of clonal marker fluorescence when $\sigma_{\alpha}=0.25$. Each nucleus is shaded in accordance with its sampled fluorescence intensity. (D-F) Left to right, increasing the fluorescence ambiguity parameter broadens the overlap in fluorescence levels across gene dosages. (D) Distributions used to generate clonal marker fluorescence levels. Red shading denotes gene dosage. (E) Evenly weighted sum of the generative distributions. (F) Example images of clonal marker fluorescence.}
+\label{fig:clones:figS7}
+\end{figure}
+
+\begin{figure}[h]
+\includegraphics[width=1.0\columnwidth]{./figure_S8}
+\caption[Additional results for synthetic benchmarking of annotation algorithm.]{\textbf{Additional results for synthetic benchmarking of annotation algorithm.} (A) Annotation accuracy as a function of fluorescence ambiguity and clone size. Accuracy is defined as the fraction of cells that were correctly labeled. Performance improves with increasing clone size and worsens with increasing fluorescence ambiguity. (B) Annotation performance of a marginal classifier that neglects spatial context. Each point in the grid reflects the mean absolute error (MAE) between assigned labels and the corresponding ground truth. Performance worsens with increasing fluorescence ambiguity but does not depend upon clone size. (C) Annotation performance relative to the marginal classifier. Color scale reflects the $log_2$ fold-change in MAE when spatial context is ignored. Blue indicates that spatial context improves performance. Spatial context is informative for larger clones, particularly when fluorescence levels are ambiguous.}
+\label{fig:clones:figS8}
+\end{figure}

@@ -1,0 +1,106 @@
+\graphicspath{ {./figures/metabolism/} }
+
+% EXPERIMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+All experiments were conducted in and by the lab of Professor Richard Carthew at Northwestern University. Yan-YFP expression dynamics in wildtype and $yan^{\Delta miR\hyphy 7}$ animals were measured by Rachael Bakker, while sfGFP-Sens expression levels in the wing disc were measured and analyzed by Ritika Giri. All other experiments were conceived, designed, executed, and analyzed by Justin Cassidy. This section explicitly details these experiments for purposes of reproducibility, and should not be mistaken for contributions of my own.
+
+For all experiments, \textit{Drosophila melanogaster} was raised using standard lab conditions and food. Stocks were either obtained from the Bloomington Stock Center, from listed labs, or were derived in the Carthew laboratory. All experiments used female animals unless stated otherwise.
+
+\section{Genetics}
+\label{appendix:metabolism:genetics}
+
+Experiments were performed using either homozygous mutant animals or trans-heterozygous mutants. Table \ref{appendix:metabolism:alleles_table} lists each of the trans-heterozygous allele combinations that were used.
+
+\begin{table}[h!]
+\centering
+\caption{Mutant and transgenic alleles}
+\label{appendix:metabolism:alleles_table}
+\begin{tabular}{L{2in} L{2in}}
+\toprule
+\textit{miR-9a\textsuperscript{E39}/miR-9a\textsuperscript{J22}} & \textit{hairy\textsuperscript{1}/hairy\textsuperscript{41}} \\
+\textit{glass\textsuperscript{2 }}/\textit{glass\textsuperscript{60j}} & \textit{wg\textsuperscript{Sp-1}/wg\textsuperscript{+}} \\
+\textit{miR-7\textsuperscript{$\Delta$1}}/\textit{Df(2R)exu1} & \textit{dcr-1\textsuperscript{+}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{dcr-1\textsuperscript{K43X}}/\textit{dcr-1\textsuperscript{Q1147X}} & \textit{dcr-1\textsuperscript{W94X}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{dcr-1\textsuperscript{Q396X}}/\textit{dcr-1\textsuperscript{Q1147X}} & \textit{ago1\textsuperscript{+}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{W894X}}/\textit{ago1\textsuperscript{Q127X}} & \textit{ago1\textsuperscript{T908M}}/\textit{ago1\textsuperscript{Q127X}} \\
+\textit{ago1\textsuperscript{E808K}}/\textit{ago1\textsuperscript{Q127X}} & \textit{ago1\textsuperscript{R937C}}/\textit{ago1\textsuperscript{Q127X}} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{IPC ablation}
+
+To genetically ablate the insulin producing cells (IPCs) of the brain, \textit{yw} animals were constructed bearing an \textit{ILP2-GAL4} gene on chromosome III and a \textit{UAS-Reaper} (\textit{Rpr}) gene on chromosome I or II. \textit{Rpr} is a pro-apoptotic gene that is sufficient to kill cells in which it is expressed \cite{Lohmann2002}. \textit{ILP2-GAL4} fuses the \textit{insulin-like peptide 2} gene promoter to GAL4, and specifically drives its expression in brain IPCs \cite{Rulifson2002}. Examination of \textit{ILP2-GAL4 UAS-Rpr} larval brains showed that they almost completely lacked IPCs (data not shown). Previous studies found that IPC-deficient adults are normally proportioned but of smaller size \cite{Rulifson2002}. It takes almost twice the length of time to complete juvenile development, and juveniles have a 40\% elevation in blood glucose, consistent with these insulin-like peptides being essential regulators of energy metabolism in \textit{Drosophila} \cite{Rulifson2002}. We confirmed that this method of IPC ablation results in small but normally proportioned adults, and it takes almost twice the normal time to develop into adults (Fig. \ref{fig:metabolism:fig1a}B,C). For all wildtype controls, we tested animals bearing either the \textit{ILP2-GAL4} or \textit{UAS-Rpr} gene in their genomes.
+
+\subsection{Ribosomopathy}
+
+To reduce levels of cytoribosomes in cells, we made use of loss-of-function mutations in genes encoding various ribosomal proteins (RPs), which cause the ``Minute'' syndrome of dominant, haploinsufficient phenotypes, including prolonged development \cite{Sæbøelarssen1998}. A total of 64 \textit{RP} genes exhibit a Minute syndrome when mutated \cite{Marygold2007}. We selected a subset of these genes to reduce ribosomes. Since one of these, \textit{RpS3}, encodes an RP that also functions in DNA repair \cite{Graifer2014}, we tested it along with other \textit{RP} genes in certain genetic experiments. The mutations used were: $RpS3^{Plac92}$ \cite{Sæbøelarssen1998}, $RpS3^{2}$ \cite{Ferrus1975}, $RpS13^{1}$ \cite{Sæbøelarssen1998}, and $RpS15^{M(2)53}$ \cite{Golic1996}. Wildtype control animals were $w^{1118}$.
+
+\subsection{$yan^{\Delta miR\hyphy 7}\hyphy YFP$}
+
+The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{Webber2013}. We modified the gene by site-directed recombineering to mutate the four identified miR-7 binding sites within the \textit{yan} (\textit{aop}) gene \cite{Li2005}. The binding sites and mutations are shown in Figure \ref{fig:metabolism:methods:alleles}. The mutated transgene ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) was shuttled into the P{[}acman{]} vector \cite{Venken2006}, and inserted into the same genomic landing site on chromosome 3 (attP2) as \textit{Yan-YFP}. One copy of the \textit{His2Av-mRFP} transgene was recombined with the $Yan^{\Delta miR\hyphy 7}\hyphy YFP$ or \textit{Yan-YFP} transgene in order to normalize YFP expression to a housekeeping protein, in this case histone H2A \cite{Pelaez2015a}. The \textit{His2Av-mRFP Yan-YFP} ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) chromosome was homozygosed, and placed in a $yan^{ER443}$ / $yan^{E884}$ mutant background so that the endogenous \textit{yan} gene did not make any protein.
+
+\begin{figure}[h!]
+\centering
+\captionsetup{width=.65\linewidth}
+\includegraphics[scale=1.0]{./alleles}
+\caption[Mutation of the four identified miR-7 binding sites in the \textit{yan} transcript.]{\textbf{Mutation of the four identified miR-7 binding sites in the \textit{yan} transcript.} The seed sequence is highlighted in red. The sequence of the mutations, which are localized to the seeds, are shown in green.}
+\label{fig:metabolism:alleles}
+\end{figure}
+
+\subsection{$sfGFP\hyphy sens$ and $sfGFP\hyphy sens^{m1m2}$}
+
+The recombineered \textit{sfGFP-sens} BAC transgene was generated as described \cite{Cassidy2013}, and the transgene was landed in the genome at VK37 (22A3). The transgene was mutated by site-directed recombineering as described \cite{Cassidy2013} to delete the two miR-9a binding sites within the \textit{sens} gene ($sfGFP\hyphy sens^{m1m2}$). This transgene was also landed at VK37. The \textit{sfGFP-sens} ($sfGFP\hyphy sens^{m1m2}$) chromosome was homozygosed, and placed in a $sens^{E1}$ null mutant background to ensure that endogenous \textit{sens} did not make any protein.
+
+\section{Analysis of mutant phenotypes}
+\label{appendix:metabolism:phenotypes}
+
+\subsection{Eye mispatterning}
+
+Genetic mosaic animals bearing $miR\hyphy 7^{\Delta 1}$ homozygous mutant eyes were generated using the FLP-FRT system. The animals' genotype was: \textit{w ey-FLP; FRT42D miR-7\textsuperscript{$\Delta$ 1} / FRT42D GMR-Hid cl}. Matching wildtype control animals' genotype was: \textit{w ey-FLP; FRT42D P{[}w\textsuperscript{+}{]} / FRT42D GMR-Hid cl}. Individuals also contained either \textit{ILP2-GAL4} alone (control) or \textit{ILP2-GAL4 UAS-Rpr} (IPC ablated) transgenes. All individuals were raised at 29 \textdegree{}C. Eye roughening was scored as previously described \cite{Li2009b}. For \textit{RpS3} interactions with \textit{miR-7}, trans-heterozygous \textit{miR-7} mutants and matched wildtype controls (\textit{Df(2R)exu1/+}) were raised at 29 \textdegree{}C to adulthood. The $RpS3^2$ allele was combined with \textit{miR-7} alleles. Eye roughening was scored as previously described \cite{Li2009b}. Genetic mosaic animals bearing $ago1^{W894}$ homozygous mutant eyes were generated using the FLP-FRT system. The animals' genotype was: \textit{w ey-FLP; FRT42D ago1\textsuperscript{W894} / FRT42D GMR-Hid cl}. Matching wildtype control animals' genotype was: \textit{w ey-FLP; FRT42D P{[}w\textsuperscript{+}{]} / FRT42D GMR-Hid cl}. Individuals also contained either \textit{ILP2-GAL4} alone (control) or \textit{ILP2-GAL4 UAS-Rpr} (IPC ablated) transgenes. For experiments with Yan transgenics, animals bearing one copy of either the \textit{Yan\textsuperscript{ACT}} or \textit{Yan\textsuperscript{WT}} \cite{Rebay1995} transgene also contained either \textit{ILP2-GAL4} alone (control) or \textit{ILP2-GAL4 UAS-Rpr} (IPC ablated) transgenes.
+
+\subsection{R7 cell analysis in the eye}
+
+Individuals were synchronized at the larval-pupal transition, and incubated for a further 48 hours at 23 \textdegree{}C. Eyes were dissected from pupae, and were fixed for 40 min in 4\% paraformaldehyde/PBS. They were permeabilized by incubation in PBS + 0.1\% Triton-X100 (PBST) and co-incubated with mouse anti-Prospero (1:10 in PBST, MR1A MAb, Developmental Studies Hybridoma Bank) to stain R7 and bristle cells plus rat anti-Elav (1:10 in PBST, 7E8A10 MAb, Developmental Studies Hybridoma Bank) to stain all R cells. After 60 min, eyes were washed 3 times in PBST and incubated for 60 min in goat anti-mouse Alexa546 and goat anti-rat Alexa633 (1:100 in PBST, Invitrogen). Eyes were washed 3 times in PBST, cleared in Vectashield (Vector Labs), and mounted for microscopy. Samples were scanned and imaged in a Leica SP5 confocal microscopy system. \textit{Drosophila} compound eyes have approximately 800 ommatidia. We scored all ommatidia for each imaged eye sample. The number of scored ommatidia per sample ranged between 481 and 837 (with a median of 594). Fewer than 800 ommatidia were scored per sample because in most cases, some eye tissue was lost during dissection and handling.
+
+\subsubsection{Bristle scoring}
+
+Animals of the correct genotype were allowed to age for 3 days after eclosion. The number of scutellar bristles was counted for each individual. Since these large bristles are positioned with high regularity and number on the scutellum, there was no ambiguity in counting the scutellar bristle number. For \textit{wg} experiments, the number of sternopleural bristles was counted for each individual. Again, the position and number of these bristles is highly regular.
+
+\subsection{Relative viability}
+
+Females bearing either a $dcr-1^{Q1147X}$ or $ago1^{Q127X}$ mutant chromosome over a balancer chromosome were crossed to males bearing mutant \textit{dcr-1} or \textit{ago1} chromosomes over a balancer chromosome. F1 progeny were raised and the numbers of animals that reached either pupal or adult stage were tallied. If the non-balancer chromosome is 100\% viable when homozygous, then 33.33\% of the F1 progeny would not carry a balancer chromosome. We calculated viability in this manner, relative to balancer viability. Replicate crosses were performed and analyzed. Between 457 and 776 F1 animals (median = 647) were counted in the replicate \textit{ago1} crosses. Between 234 and 380 F1 animals (median 285) were counted in the replicate \textit{dcr-1} crosses.
+
+\subsection{Population statistics}
+
+Population proportions were compared using a Chi-square test with Yates\' correction and Fisher\'s exact test. Both gave similar results. All tests involving multiple experimental groups were Bonferroni corrected. In \textit{sev} experiments, R7 cell counts were compared via one-way ANOVA with Bonferroni correction. Relative viabilities were compared using a Mann-Whitney-Wilcoxon test with Bonferroni correction. These tests were performed using Prism 7 (GraphPad) software. P-values shown in figures are presented from tests with the most conservative value shown if more than one test was performed on data. * $p<0.05$; ** $p<0.01$; *** $p<0.001$; **** $p<0.0001$
+
+\section{Quantification of protein expression}
+\label{appendix:metabolism:measurements}
+
+\subsection{sfGFP-Sens in the wing disc}
+\label{appendix:metabolism:measurements:sens}
+
+Wing discs from white-prepupal females were dissected in ice-cold Phosphate Buffered Saline (PBS). Discs were fixed in 4\% paraformaldehyde in PBS for 20 minutes at 25 \textdegree{}C and washed with PBS containing 0.3\% Tween-20. Then they were stained with 0.5 $\mu$g/ml 4′,6-diamidino-2-phenylindole (DAPI) and mounted in Vectashield. Discs were mounted apical side up and imaged with identical settings using a Leica TCS SP5 confocal microscope. All images were acquired at 100x magnification at 2048 x 2048 resolution with a 75 nm x-y pixel size and 0.42 $\mu$m z separation. Scans were collected bidirectionally at 400 MHz and 6x line averaged. Wing discs of different genotypes were mounted on the same microscope slide and imaged in the same session for consistency in data quality.
+
+For each wing disc, five optical slices containing Sens-positive cells along the anterior wing margin were chosen for imaging and analysis. A previously documented custom MATLAB script was used to segment nuclei in each slice of the DAPI channel \cite{Pelaez2015a}. High intensity nucleolar spots were smoothed out to merge with the nuclear area to prevent spurious segmentation. Next, cell nuclei were identified by thresholding based on DAPI channel intensity. Segmentation parameters were optimized to obtain nuclei with at least 100 pixels and no more than 4000 pixels.
+
+The majority of cells imaged did not reside within the proneural region and therefore displayed background levels of fluorescence scattered around some mean level. We calculated the ``mean background'' in the green channel of each disc individually. We did this by fitting a Gaussian distribution to the population and finding the mean of that fit. In order to separate sfGFP-Sens-positive cells, we chose a cut-off percentile based on the normal distribution, below which cells were deemed sfGFP-Sens-negative. We set this cut-off at the 84\textsuperscript{th} percentile for all analysis since empirically it provided the most accurate identification of proneural cells. To normalize measurements across tissues and experiments, this value was subtracted from the total measured fluorescence for all cells in that disc. Only cells with values above the threshold for sfGFP fluorescence were assumed Sens positive (usually 30\% of total cells) and carried forward for further analysis.
+
+Analysis of sfGFP-Sens fluorescence was performed using two independent approaches. 1) For each genotype, 1000 point-estimates were made of the median fluorescence level in cells. Point estimates were generated by bootstrap resampling with replacement of the cell samples within each genotype. Point estimates from wildtype sfGFP-Sens were then randomly paired with point estimates from miR-9a-resistant sfGFP-Sens to derive a set of 1000 point-estimates of the fold-change in median sfGFP-Sens expression. Confidence intervals for the average fold-change in sfGFP-Sens expression were inferred from the 0.5\textsuperscript{th} and 99.5\textsuperscript{th} percentile of these point estimates. 2) The distributions of fluorescence from wildtype sfGFP-Sens and mutant $sfGFP\hyphy Sens^{m1m2}$ cell populations were compared using a Mann-Whitney-Wilcoxon test implemented in R. By calculating the difference between all randomly paired cell samples from wildtype versus mutant, the location shift is estimated as the median of the difference between a sample from sfGFP-Sens and a sample from $sfGFP\hyphy Sens^{m1m2}$. Confidence intervals for the shift were inferred from the 2.5\textsuperscript{th} and 97.5\textsuperscript{th} percentile of the set of differences.
+
+We analyzed \textgreater{}10 replicate wing discs for each treatment. In total, we measured wildtype \textit{sfGFP-Sens} expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$. We measured mutant $sfGFP\hyphy Sens^{m1m2}$ expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$.
+
+\subsection{Yan-YFP dynamics in the eye}
+\label{appendix:metabolism:measurements:yan}
+
+White-prepupal eye discs were dissected, fixed, and imaged by confocal microscopy for YFP and RFP fluorescence, as previously described \cite{Pelaez2015a}. Briefly, samples fixed in 4\% paraformaldehyde were kept in the dark at -20 \textdegree{}C and imaged no later than 18-24 h after fixation. In all cases, 1024 x 1024 16-bit images were captured using a Leica SP5 confocal microscope equipped with 40X oil objective. During imaging, discs were oriented with the equator parallel to the x-axis of the image. Optical slices were set at 0.8 $\mu$m slices (45-60 optical slices) with an additional digital zoom of 1.2-1.4 to completely image eye discs from basal to apical surfaces. Images recorded a region of at least 6 rows of ommatidia on each side or the dorsal-ventral eye disc equator. All discs for a given condition were fixed, mounted, and imaged in parallel to reduce measurement error. Sample preparation, imaging, and analysis were not performed under blind conditions. Image data was processed for automatic segmentation and quantification of RFP and YFP nuclear fluorescence as previously described \cite{Pelaez2015a}. Briefly, cell segmentation was performed using a H2Av-mRFP marker as a reference channel for identification of cell nuclei boundaries. Each layer of the reference channel was segmented independently. A single contour containing each unique cell was manually selected and assigned a cell type using a custom graphic user interface. For each annotated cell contour, expression measurements were obtained by normalizing the mean pixel fluorescence of the YFP channel by the mean fluorescence of the His-RFP channel. This normalization serves to mitigate variability due to potentially uneven sample illumination, segment area, and differences in protein expression capacity between cells. We assigned cell-type identities to segmented nuclei by using nuclear position and morphology, two key features that enable one to unambiguously identify eye cell types without the need for cell-specific markers \cite{Wolff1993}. This task was accomplished using \textit{FlyEye Silhouette}; an open-source package for macOS that integrates our image segmentation algorithm with a GUI for cell type annotation. Subsequent analysis and visualization procedures were implemented in Python.
+
+Cell positions along the anterior-posterior axis were mapped to developmental time as described previously \cite{Pelaez2015a}. This depends on two assumptions that have been extensively validated in the literature. One, the furrow proceeds at a constant velocity of one column of R8 neurons per two hours, and two, minimal cell migration occurs. For each disc, Delaunay triangulations were used to estimate the median distance between adjacent columns of R8 neurons. Dividing the furrow velocity by the median distance yields a single conversion factor from position along the anterior-posterior axis to developmental time. This factor was applied to all cell measurements within the corresponding disc. This method does not measure single cell dynamics, but rather aggregate dynamics across the developmental time course of cells in the eye.
+
+Moving averages were computed by evaluating the median value among a collection of point estimates for the mean generated within a sliding time window. Confidence intervals were inferred from the 2.5\textsuperscript{th} and 97.5\textsuperscript{th} percentile of the same point estimates. Each point estimate was generated via a hierarchical bootstrapping technique in which we resampled the set of eye discs, then resampled the aggregate pool of cell measurements between them. This novel method enhances our existing approach \cite{Pelaez2015a} by capturing variation due to the discretized nature of eye disc sample collection. Using the existing method, the error bars are considerably narrower (not shown). A window size of 500 sequential progenitor cells was used in all cases, but our conclusions are not sensitive to our choice of window size.
+
+Yan level measurements were pooled across multiple replicate eye discs. An automated approach was used to align these replicate samples in time. First, a disc was randomly chosen to serve as the reference population for the alignment of all subsequent replicates. Cells from each replicate disc were then aligned with the reference population by shifting them in time (see Section \ref{appendix:ratio:alignment}).
+
+Different experimental treatments (e.g. wildtype and miR-7 null) were aligned by first aligning the discs within each treatment, then aggregating all cells within each treatment and repeating the procedure with the first treatment serving as the reference. We analyzed four to seven replicate eye discs for each treatment in two separate experiments. In total, we measured wildtype \textit{Yan-YFP} levels in 4,518 cells in normally metabolizing samples and 4,379 cells in slowly metabolizing samples. We measured mutant $Yan^{\Delta miR\hyphy 7}\hyphy YFP$ levels in 5,382 cells in normally metabolizing samples and 6,716 cells in slowly metabolizing samples.

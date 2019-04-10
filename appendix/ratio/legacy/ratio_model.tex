@@ -1,0 +1,25 @@
+
+\section{Simple competitive binding model}
+
+Figure \ref{fig:ratio:figS4} presents results for an equilibrium model of two species, Yan ($Y$) and Pnt ($P$), competing for a finite pool of shared binding sites, $S$:
+\begin{equation}
+Y + S \xrightleftharpoons{\,K_{D,Yan}\,} SY
+P + S \xrightleftharpoons{\,K_{D,Pnt}\,} SP
+\end{equation}
+where $K_{D,Yan}$ and $K_{D,Pnt}$ are equilibrium association constants and $SY$ and $SP$ denote the bound species. Applying a mass balance to the total protein and binding site ($S_0$) abundances:
+\begin{equation}
+Y_0 = Y + SY
+P_0 = P + SP
+S_0 = S + SY + SP
+\end{equation}
+yields an analytically tractable system of nonlinear equations \cite{Wang1995}. For each pair of absolute protein abundances $(Y_0,P_0)$ in Figure \ref{fig:ratio:figS4}B, the Pnt binding site occupancy is simply $SP/S_0$.
+
+\section{Competitive binding model with cooperativity}
+
+The model presented in Figure \ref{fig:ratio:fig3} expands upon the work of Hope, Rebay, and Reinitz (2017). The model is based on a single \textit{cis}-regulatory element consisting of $n$ adjacent binding sites, each of which may be designated as ETS or non-ETS. Each binding site may only exist in one of three binding states; bound by a single copy of Yan, bound by a single copy of Pnt, or unbound. Thermodynamic potentials were assigned to each binding state using two parameters for each transcription factor. The parameter $\alpha_X$ defines the free energy of transcription factor $X$ binding to an ETS site, while $\beta_X$ defines the free energy of binding to a non-ETS site (Fig. \ref{fig:ratio:figS5}A). A unique configuration of binding states for all $n$ binding sites constitutes a single microstate, $k$. The thermodynamic potential of each microstate was taken to be the sum of thermodynamic potentials for each of its constituent binding sites. For each microstate, the stabilizing effect of polymerization was incorporated via a third parameter, $\gamma_X$, that defines the free energy of SAM-SAM binding between a pair of similar transcription factors bound to adjacent sites. The net result is a total thermodynamic potential, $\Delta G_k$, for each microstate. An example enumeration of all possible microstates for an element consisting of one ETS site preceding two non-ETS sites is provided in Figure \ref{fig:ratio:figS5}B. The statistical frequencies of each microstate were evaluated by constructing a canonical ensemble:
+\begin{equation}
+p_k = \frac{\displaystyle exp( \frac{-\Delta G_k}{RT} ) [P]^{a_P(k)}[Y]^{a_Y(k)} } {\displaystyle \sum_{k} {exp(\frac{-\Delta G_k}{RT})[P]^{a_P(k)}[Y]^{a_Y(k)}}}
+\end{equation}
+in which $p_k$ is the statistical frequency of microstate $k$, $[P]$ and $[Y]$ are the Pnt and Yan concentrations, $a_P(k)$ and $a_Y(k)$ are functions representing the number of bound molecules of $P$ and $Y$ within microstate $k$, $T$ is a fixed temperature set to 300 K, and $R$ is the gas constant. Fractional occupancies for each binding site correspond to the cumulative statistical frequency of all microstates in which the site is occupied by a given transcription factor. Overall fractional occupancies are similarly evaluated across all sites within the element.
+
+We consider regulatory elements comprised of 12 binding sites in which only the first site carries the ETS designation. We retain the same parameterization of Yan binding proposed by Hope, Rebay, and Reinitz (2017): $\alpha_Y = -9.955 kcal mol^{-1}$, $\beta_Y = -5.837 kcal mol^{-1}$, and $\gamma_Y = -7.043 kcal mol^{-1}$. We parameterized Pnt binding thermodynamics to provide balanced competition between Pnt and Yan in the absence of any SAM-mediated polymerization of Pnt. That is, we set Pnt binding affinities such that the transition from Pnt to Yan occupancy occurs when Pnt and Yan concentrations are approximately equal. While a parameterization using experimentally measured data would improve predictive accuracy, our aim here is primarily to obtain insight. The model used to generate Fig. \ref{fig:ratio:fig3}D-F assumes that Pnt binds individual sites with elevated affinities $\alpha_P = 0.96 (\alpha_Y + \gamma_Y )$ and $\beta_P = 0.96 (\beta_Y + \gamma_Y )$. The model used to generate Fig. \ref{fig:ratio:fig3}A-C uses these same elevated binding affinities for Yan, while setting $\gamma_Y = 0 kcal mol^{-1}$. Qualitatively, our results are not sensitive to this parameterization. 

@@ -1,15 +1,19 @@
 \documentclass[12pt,reqno]{nuthesis}	% The nuthesis class is based on amsbook.cls.
 
+%\usepackage{mathptmx}
+%\usepackage{times}
+%\renewcommand{\familydefault}{\sfdefault}
+
 % set dimensions
-\setlength{\textfloatsep}{0.25in} % space between last top float or first bottom float and the text.
-\setlength{\floatsep}{0.25in} % space left between floats.
+\setlength{\textfloatsep}{0.5in} % space between last top float or first bottom float and the text.
+\setlength{\floatsep}{0.5in} % space left between floats.
 \setlength{\intextsep}{0.25in} % space left on top and bottom of an in-text float.  
 \setlength{\abovecaptionskip}{5pt} % space above caption
 \setlength{\belowcaptionskip}{5pt} % space below caption
 
 % paragraph spacing
 \setlength{\parindent}{0.5in} % indentation of paragraphs
-\setlength{\parskip}{1pt} % gap between paragraphs
+\setlength{\parskip}{10pt} % gap between paragraphs
 
 % figures
 \usepackage[margin=1in,letterpaper,includehead]{geometry}
@@ -40,11 +44,12 @@
 \usepackage[numbers,sort&compress]{natbib}
 % Hyperlinks
 \usepackage{hyperref}
+\usepackage{enumitem}
 
 % tools
 \usepackage{comment}
 \sloppy
-
+\usepackage[euler]{textgreek}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % USER-DEFINED MACROS AND VARIABLES %
@@ -59,6 +64,8 @@
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}}
 % Vertically centered and horizontally centered column.
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
+
+
 % Always capitalize "Chapter" when using \autoref
 \renewcommand{\chapterautorefname}{Chapter}
 
@@ -131,8 +138,8 @@
 % If there is an introduction it must be the first chapter
 
 %\input{text/introduction}
-\input{text/ratio}
 \input{text/clones}
+\input{text/ratio}
 \input{text/metabolism}
 %\input{text/conclusions}
 

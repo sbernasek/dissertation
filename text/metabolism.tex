@@ -39,7 +39,7 @@ We first examined mutations affecting formation of the compound eye. The microRN
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.0]{./figure_1b}
-\caption[Eye developmental defects are rescued by slower energy metabolism.]{\textbf{Eye developmental defects are rescued by slower energy metabolism.} (A) Genetically mosaic individuals with a $miR\hyphy 7^+$ body and a $miR\hyphy  7$ mutant eye. Left individual with mispatterned eye has its IPCs intact while the right individual with a normally patterned eye has had its IPCs ablated by $ILP2>Rpr$. (B) Eye patterning is more normal if mosaic individuals slowly metabolize due to IPC ablation. Sample population sizes were between 264 and 467 individuals. P values from Chi-square test with Yates\' correction. (C) Eye cells stained for specific protein markers such that R7 cells (white) can be distinguished from other R cells (purple) and bristle cells (green). Each ring-like cluster of R cells is an ommatidium. Null mutation of \textit{sev} results in no R7 cells (right). (D) Slow metabolism due to IPC ablation increases the fraction of ommatidia that contain an R7 cell in \textit{sev} mutants. Each data point represents one eye sample; between 481 and 837 ommatidia were scored for R7 cells within each eye sample. P value is from a one-way ANOVA with Bonferroni correction.}
+\caption[Eye developmental defects are rescued by slower energy metabolism.]{\textbf{Eye developmental defects are rescued by slower energy metabolism.} (A) Genetically mosaic individuals with a $miR\hyphy 7^+$ body and a $miR\hyphy  7$ mutant eye. Left individual with mispatterned eye has its IPCs intact while the right individual with a normally patterned eye has had its IPCs ablated by $ILP2>Rpr$. (B) Eye patterning is more normal if mosaic individuals slowly metabolize due to IPC ablation. Sample population sizes were between 264 and 467 individuals. P values from Chi-square test with Yates correction. (C) Eye cells stained for specific protein markers such that R7 cells (white) can be distinguished from other R cells (purple) and bristle cells (green). Each ring-like cluster of R cells is an ommatidium. Null mutation of \textit{sev} results in no R7 cells (right). (D) Slow metabolism due to IPC ablation increases the fraction of ommatidia that contain an R7 cell in \textit{sev} mutants. Each data point represents one eye sample; between 481 and 837 ommatidia were scored for R7 cells within each eye sample. P value is from a one-way ANOVA with Bonferroni correction.}
 \label{fig:metabolism:fig1b}
 \end{figure}
 
@@ -61,7 +61,7 @@ The mutations thus far examined affect diverse types of regulators, including mi
 \begin{figure}[h!]
 \centering
 \includegraphics[width=1.0\columnwidth]{./figure_3}
-\caption[All microRNAs are dispensable when energy metabolism is slowed.]{\textbf{The microRNA family is dispensable when energy metabolism is slowed.} (A) The pupal viability of various \textit{dcr-1} nonsense mutants is fully rescued when IPCs are ablated in the mutants. (B) Adult viability of various \textit{ago1} missense and nonsense mutants is rescued when IPCs are ablated in the mutants. (C) Representative \textit{ago1} adults with normal or slowed metabolism. (D) Genetically mosaic individuals with $ago1^+$ bodies and $ago1^{W894X}$ mutant eyes. Left, representative individual with normal metabolism has almost no eye tissue (24/24 animals had this phenotype). Right, representative individual with slowed metabolism has rescued eye tissue. Of 70 such animals analyzed, 46 had this phenotype, 20 had normal eyes, and 4 had eyes that resembled the left animal. This is a statistically significant difference ($p<0.0001$; Chi square with Yates\' correction). Error bars, s.d. ****, $p<0.0001$; **, $p<0.01$; *, $p<0.05$; n.s., $p>0.05$}
+\caption[All microRNAs are dispensable when energy metabolism is slowed.]{\textbf{The microRNA family is dispensable when energy metabolism is slowed.} (A) The pupal viability of various \textit{dcr-1} nonsense mutants is fully rescued when IPCs are ablated in the mutants. (B) Adult viability of various \textit{ago1} missense and nonsense mutants is rescued when IPCs are ablated in the mutants. (C) Representative \textit{ago1} adults with normal or slowed metabolism. (D) Genetically mosaic individuals with $ago1^+$ bodies and $ago1^{W894X}$ mutant eyes. Left, representative individual with normal metabolism has almost no eye tissue (24/24 animals had this phenotype). Right, representative individual with slowed metabolism has rescued eye tissue. Of 70 such animals analyzed, 46 had this phenotype, 20 had normal eyes, and 4 had eyes that resembled the left animal. This is a statistically significant difference ($p<0.0001$; Chi square with Yates correction). Error bars, s.d. ****, $p<0.0001$; **, $p<0.01$; *, $p<0.05$; n.s., $p>0.05$}
 \label{fig:metabolism:fig3}
 \end{figure}
 
@@ -77,7 +77,7 @@ We turned to computational modeling in order to elucidate the biochemical mechan
 \end{figure}
 
 \subsection{Mathematical model of gene expression}
-\label{metabolism:model}
+\label{metabolism:model:linear}
 
 We use a linear time invariant system to describe the dynamic evolution of activated DNA (\textit{D}), mRNA (\textit{R}), and protein (\textit{P}) in response to a stimulus (\textit{I}) that induces gene activation. These discrete state variables describe the extent of gene expression at any point in time. Transitions between each of the variables' states are governed by the set of elementary reactions listed in Table \ref{metabolism:model:rxns}.
 
@@ -133,7 +133,7 @@ In the continuum limit, this model yields a deterministic system of ordinary fir
 \end{equation}
 where $k_i$ are activation, transcription, or translation rate constants, $\gamma_i$ are degradation constants, $\eta_i$ are feedback strengths, and each species may be subject to $N$ independent repressors. Equation \ref{metabolism:model:ode} describes the time evolution of transcription rates, transcript abundance, and protein abundance. When these targets are induced by exogenous stimuli, their timely attenuation ensures that protein expression remains transient. The resultant dynamics resemble a simple pulse response. Our model therefore eschews molecular detail while preserving the salient features of gene expression dynamics that are relevant to developmental outcomes. This coarse-grained modeling strategy emphasizes an empirical view of GRN dynamics, and facilitates quantitative predictions at the organismal scale.
 
-The model was not designed to capture the specific details of the various GRNs probed by our experiments. Instead, it provides a platform to survey the general principles that govern the dynamics of developmental processes. Namely, we developed a model that allowed us to ask how protein expression dynamics change when repressors are removed. In each of our model systems, protein expression is transient. Beginning at a basal steady state, expression is driven by upstream components of the developmental program. The ensuing expression dynamics can therefore be thought of as a response to perturbation, as are therefore closely related to classical control theory \cite{Seborg2000}.
+The model was not designed to capture the specific details of the various GRNs probed by our experiments. Instead, it provides a platform to survey the general principles that govern the dynamics of developmental processes. Namely, we developed a model that allowed us to ask how protein expression dynamics change when repressors are removed. In each of our model systems, protein expression is transient. Beginning at a basal steady state, expression is driven by upstream components of the developmental program. The ensuing expression dynamics can therefore be considered a response to perturbation.
 
 \subsection{Model relation to control theory}
 
@@ -158,14 +158,7 @@ When expressed in the Laplace frequency domain (see \cite{Seborg2011}), the syst
 \Delta P(s) &= \Big( \frac{\frac{k_3}{\gamma_3}}{\frac{1}{\gamma_3}s+1} \Big) \Big [\Delta P(s) - \sum\limits_{}^{N} \frac{\eta_{3}}{k_3}\Delta P(s) \Big ] \\
 \end{aligned}
 \end{equation}
-where the argument $s$ is the complex frequency. Given this formulation, control theory provides a wealth of insight into the stability and dynamic character of pulsatile protein expression when the feedback strengths are varied. The transfer functions propagate deviations in the stimulus level (the input) to deviations in protein level (the output). A signal block diagram representation reveals that each regulatory process listed in Table \ref{metabolism:model:regulation} confers closed-loop control of protein levels following their induction (Fig. \ref{fig:metabolism:figS1a}). The internal dynamics of this system dictate its sensitivity to perturbation. Restated symbolically, the magnitude and duration of protein expression are governed by the relative influence of the process and controller gains, $K_{Pi}$  and $K_Ci$:
-\begin{equation}
-\begin{aligned}
-K_{Pi} &= \frac{k_i}{\gamma_i} \\
-K_{Ci} &= \frac{\eta_i}{k_i} \\
-\end{aligned}
-\end{equation}
-where the subscript $i$ still denotes the stage of gene expression subject to regulation. The contributions of each regulatory element $\eta_i$ are additive, and may therefore be combined into a single controller gain for each point of actuation $i$. This formulation allows us to simulate the loss of a repressor simply by reducing the corresponding controller gain.
+where the argument $s$ is the complex frequency. Given this formulation, control theory provides a wealth of insight into the stability and dynamic character of pulsatile protein expression when the feedback strengths are varied. The transfer functions propagate deviations in the stimulus level (the input) to deviations in protein level (the output). A signal block diagram representation reveals that each regulatory process listed in Table \ref{metabolism:model:regulation} confers closed-loop control of protein levels following their induction (Fig. \ref{fig:metabolism:figS1a}). The internal dynamics of this system dictate its sensitivity to perturbation. Restated symbolically, the magnitude and duration of protein expression are governed by the relative influence of the process and controller gains, $K_{Pi} = k_i/\gamma_i$  and $K_{Ci} = \eta_i/k_i$. The contributions of each regulatory element $\eta_i$ are additive, and may therefore be combined into a single controller gain for each point of actuation $i$. This formulation allows us to emulate the loss of a repressor simply by lowering the relevant controller gain.
 
 \begin{figure}[h!]
 \centering
@@ -216,7 +209,7 @@ We experimentally tested these predictions by measuring the expression dynamics 
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.0]{./figure_5}
-\caption[Expression dynamics are less affected when metabolism is reduced.]{\textbf{Expression dynamics are resistant to repressor loss when energy metabolism is reduced.} (A,B) Simulated expression of target protein output when it is under control of an auxiliary post-transcriptional repressor (green) or not under control of the repressor (orange). All simulations (green and orange) are also under control of a constitutive repressor. Shown are ten randomly-chosen samples from a total population of 5000 trajectories for each condition. (A) Simulations performed with normal ATP-dependent reaction rates. (B) Simulations performed following a 50\% reduction in the rate of ATP-dependent reactions. (C,D) Yan-YFP protein dynamics in eye disc progenitor cells. Time 0 marks the time at which Yan-YFP induction occurs. Solid lines are moving line averages. Shaded regions denote 95\% confidence intervals. Each line average is calculated from a composite of measurements of between 4,379 and 6,716 cells. (C) Yan-YFP dynamics for wildtype $Yan\hyphy YFP$ and mutant $Yan^{\Delta miR\hyphy  7}\hyphy YFP$ genes under normal metabolic conditions. (D) Yan-YFP dynamics for wildtype and mutant genes when the IPCs have been ablated.}
+\caption[Expression dynamics are less affected when metabolism is reduced.]{\textbf{Expression dynamics are resistant to repressor loss when energy metabolism is reduced.} (A,B) Simulated expression of target protein output when it is under control of an auxiliary post-transcriptional repressor (green) or not under control of the repressor (orange). All simulations (green and orange) are also under control of a constitutive repressor. Shown are ten randomly-chosen samples from a total population of 5000 trajectories for each condition. (A) Simulations performed with normal ATP-dependent reaction rates. (B) Simulations performed following a 50\% reduction in the rate of ATP-dependent reactions. (C,D) Yan-YFP protein dynamics in eye disc progenitor cells. Time 0 marks the time at which Yan-YFP induction occurs. Solid lines are moving line averages. Shaded regions denote 95\% confidence intervals. Each line average is calculated from a composite of measurements of between 4,379 and 6,716 cells. (C) Yan-YFP dynamics for wildtype $Yan\hyphy YFP$ and mutant $Yan^{\Delta miR\hyphy  7}\hyphy YFP$ eyes under normal metabolic conditions. (D) Yan-YFP dynamics for wildtype and mutant genes when the IPCs have been ablated.}
 \label{fig:metabolism:fig5}
 \end{figure}
 
@@ -298,7 +291,7 @@ We conducted numerous parameter sweeps to confirm the robustness of each result 
 
 Full-repression systems were assigned two copies of each feedback element present in the corresponding partial-repression system. Error frequencies were evaluated as described previously. In total, this procedure constitutes one parameter sweep. 
 
-Our parameter sweeps sampled an $N$-D space, prompting us to seek a lower dimensional representation in order to visualize and discern any characteristic trends. One option is to project the results of all simulations onto each of the $N(N-1)/2$ orthogonal 2-D planes. Figure \ref{fig:metabolism:figS1b}A demonstrates this approach for error frequencies simulated with partial feedback and normal metabolism. While it clearly shows that error frequency is greater than 1\% for most combinations of parameter values (lots of dark spots), we find that the complexity of the 2-D visualization offers little additional insight. Instead, for all remaining parameter sweeps we opt for the simpler one dimensional projection of parameter sweep results, as illustrated by Figure \ref{fig:metabolism:figS1b}B. The histogram simply conveys the global trend in simulated error frequency, which in this case is skewed heavily toward large error frequencies, indicating that partial loss of repression induces an increase in error frequency across a broad parameter range. 
+Our parameter sweeps sampled an N-dimensional space, prompting us to seek a lower dimensional representation in order to visualize and discern any characteristic trends. One option is to project the results of all simulations onto each of the $N(N-1)/2$ orthogonal 2-D planes. Figure \ref{fig:metabolism:figS1b}A demonstrates this approach for error frequencies simulated with partial feedback and normal metabolism. While it clearly shows that error frequency is greater than 1\% for most combinations of parameter values (lots of dark spots), we find that the complexity of the 2-D visualization offers little additional insight. Instead, for all remaining parameter sweeps we opt for the simpler one dimensional projection of parameter sweep results, as illustrated by Figure \ref{fig:metabolism:figS1b}B. The histogram simply conveys the global trend in simulated error frequency, which in this case is skewed heavily toward large error frequencies, indicating that partial loss of repression induces an increase in error frequency across a broad parameter range. 
 
 \begin{figure}[h!]
 \centering
@@ -369,114 +362,3 @@ Finally, we repeated all of the above robustness checks for the scenario in whic
 \caption[Robustness of ribosomopathy simulations to model assumptions.]{\textbf{Reduced protein synthesis capacity diminishes the importance of auxiliary repression over a wide range of model conditions.} Each panel depicts a parameter sweep of the nine-dimensional hyperspace defined by one order of magnitude variation in each of the respective model parameters. For each parameter set, error frequency and percent overexpression were calculated as previously described. They pertain to 50\% reduced repression mimicking auxiliary repressor loss. Error frequency and percent overexpression were calculated independently for conditions of normal and reduced protein synthesis. The difference in error frequency or overexpression between metabolic conditions are shown color-coded, e.g. blue indicates error suppression by reduced protein synthesis. (A-C) Simulations in which the duration of the stimulus input is constant. Shown are the (A) differential error frequencies and (B) differential changes in expression dynamics relative to normal protein synthesis conditions. (C) Differential error frequencies for varying definitions of the success threshold. Each line represents one parameter set, colored by the corresponding range of differential error frequencies. (D) Simulations where a nonzero basal stimulus is applied. (E) Simulations where input duration is increased two-fold by a reduction in protein synthesis capacity. (F) Simulations when an upper bound is placed on the number of sites firing transcription. (G) Simulations when cooperative transcription kinetics are considered.}
 \label{fig:metabolism:figS4}
 \end{figure}
-
-\newpage
-
-\section{Methods}
-
-\subsection{Simulation of protein expression dynamics}
-\label{metabolism:methods:simulation}
-
-Default parameter values were based on approximate transcript and protein synthesis and turnover rates for animal cells reported in the literature \cite{Milo2016}, while gene activation and decay rates were arbitrarily set to a significantly faster timescale. Default feedback strengths for repressors acting at the gene, transcript, or protein levels were chosen such that $\sim$25-50\% of simulations failed to reach the threshold under normal conditions when one of two identical repressors was lost. Population-wide expression dynamics were estimated by simulating 5000 output trajectories in response to a three-hour transient step input to the gene activation rate. Simulations were performed using a custom implementation of the stochastic simulation algorithm \cite{Gillespie1977}, see Appendix \ref{appendix:resources:genessa}. The algorithm constrains solutions to the set of discrete positive values, consistent with linearization about a basal level of zero gene activity. This simplifying assumption is based on the near-zero basal activities expected in the experimental systems, but is not required to support the conclusions of the model (Figs. \ref{fig:metabolism:figS2a}D and \ref{fig:metabolism:figS4}D).
-
-\subsection{Evaluation of error frequencies and changes in expression dynamics}
-\label{metabolism:methods:overexpression}
-
-Gene expression trajectories were simulated both with (full repression) and without (partial repression) a second repressor. The time point at which the full-repression simulations mean level reached 30\% of its maximum value was taken to be the commitment time. At this time, a threshold for developmental success was set at the 99\textsuperscript{th} percentile of protein levels subject to full-repression. Error frequencies were obtained by evaluating the fraction of simulated protein levels that exceeded this threshold. Per this definition, the minimum possible error frequency is one percent. For simplicity we subtracted this percentage point from all reported error frequencies.
-
-Protein expression dynamics were compared by evaluating the fraction of partially-repressed simulation trajectories in excess of the 99\textsuperscript{th} percentile of fully-repressed trajectories at each point in time. These fractions were then averaged across the time course, beginning with the reception of the input signal and ending at the previously defined commitment time. Each fraction may be thought of as the instantaneous error frequency, and their average reflects the extent to which the expression dynamics differ between the two sets of simulated trajectories (Fig. \ref{fig:metabolism:figS3a}).
-
-\begin{figure}[h!]
-\centering
-\includegraphics[scale=1.0]{./figure_S3a}
-\caption[Evaluation of protein overexpression metric.]{\textbf{Graphical depiction of the method used to quantify the impact of repressor loss on protein expression dynamics.} (A) Confidence bands span the 1\textsuperscript{st} to 99\textsuperscript{th} quantiles of protein levels simulated under full repression (grey) and under partial repression (purple), where a repressor is lost. The dashed purple line denotes the lower bound of the purple confidence band. The symbol $\tau$ denotes the commitment time as defined previously. (B) Loss of a repressor causes protein overexpression $E(t)$, which is calculated as the fraction of simulations that exceed the confidence band observed under full repression (grey) at a given time point. Orange-brown color scale reflects the value of $E(t)$ for each time point in the time course. Percent overexpression is calculated as a percent of simulations that exceed the confidence band integrated over the entire time course. A maximum of 100\% overexpression would occur when all simulations exceed the confidence band at all timepoints.}
-\label{fig:metabolism:figS3a}
-\end{figure}
-
-\subsection{Integration of environmental conditions}
-\label{metabolism:methods:conditions}
-
-IPC ablation reduces cellular glucose consumption. Presumably this would affect either the production and consumption of ATP or the production and consumption of substrates for RNA and protein synthesis (or both). The precise effects are unknown, so we independently modeled each scenario. Since ATP concentration remains fairly constant when respiration is limited \cite{Brown1992}, ATP flux (and ATP synthesis) is assumed to decrease. Because transcription, translation, and protein degradation all require ATP turnover, we halved their rate parameters under conditions of reduced glucose consumption. Under conditions of reduced substrate availability for RNA/protein synthesis, we assumed that only transcription and translation rates are affected by limiting fluxes of nucleotides and amino acids. We assumed only the translation rate is affected under conditions of reduced ribosome number. These assumptions are encoded in the rate parameters as shown in Table \ref{metabolism:methods:conditions:rxns}.
-
-% TABLE OF METABOLISM-DEPENDENCE OF LINEAR PROPENSITIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{table}[h!]
-\centering
-\small
-\caption{Reaction rate parameter dependence on environmental conditions}
-\label{metabolism:methods:conditions:rxns}
-\begin{tabular}{L{1in} C{0.75in} C{1in} C{1.35in} C{1.35in}}
-\toprule
-    & \multicolumn{4}{c}{\bfseries Condition}\\ \cmidrule(lr){2-5}
-    \textbf{Reaction} & Normal & Reduced ATP & Reduced substrates & Reduced ribosomes \\ 
-    \cmidrule(lr){1-5}
-    Transcription & $k_2$ & $k_2/2$ & $k_2/2$ & $k_2$ \\
-    Translation & $k_3$ & $k_3/2$ & $k_3/2$ & $k_3/2$ \\
-    Protein decay & $\gamma_3$ & $\gamma_3/2$ & $\gamma_3$ & $\gamma_3$ \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-In all cases, feedback strengths were reduced in order to account for the intermediate processes abstracted by each feedback element. Feedback strength parameters $\eta_i$ were reduced four-fold under conditions of reduced energy metabolism and reduced RNA/protein substrate availability. This scaling assumes that both transcription and translation occur within the arbitrarily complex regulatory motifs represented by each repressor. This is a reasonable assumption for repressor proteins such as transcription factors and kinases. For RNA repressors such as microRNAs, feedback strength parameters could instead be reduced only two-fold to account for their reduced transcription rates. However, microRNAs must be transcribed, processed, and act with effector proteins in order to repress their targets. These fourfold reductions in feedback strength correspond to fourfold reduction of the transcriptional feedback gain $K_{C1}$ and twofold reduction in the post-transcriptional and post-translational feedback gains $K_{C2}$ and $K_{C3}$. Feedback strength parameters $\eta_i$ were only reduced two-fold under reduced protein synthesis conditions. This implies that the transcriptional and post-transcriptional feedback gains $K_{C1}$ and $K_{C2}$ decrease twofold while the post-translational feedback gain $K_{C3}$ remains constant. Each of these dependencies are summarized in Table \ref{metabolism:methods:conditions:reg}. The corresponding dependencies for our two alternate models based upon nonlinear transcription kinetics were analogous to those used in the linear model, and are listed in Tables \ref{metabolism:methods:conditions:two} and \ref{metabolism:methods:conditions:hill}. The half-maximal occupancy level and Hill coefficients of transcriptional repressors were assumed to be independent of growth rate.
-
-% TABLE OF METABOLISM-DEPENDENCE OF FEEDBACK PROPENSITIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}[h!]
-\centering
-\small
-\caption{Feedback strength dependence on environmental conditions}
-\label{metabolism:methods:conditions:reg}
-\begin{tabular}{L{1.5in} C{0.75in} C{1in} C{1.35in} C{1.35in}}
-\toprule
-    & \multicolumn{4}{c}{\bfseries Condition}\\ \cmidrule(lr){2-5}
-    \textbf{Feedback strengths} & Normal & Reduced ATP & Reduced substrates & Reduced ribosomes \\ \cmidrule(lr){1-5}
-    Transcriptional & $\eta_1$ & $\eta_1/4$ & $\eta_1/4$ & $\eta_1/2$ \\    
-    Post-transcriptional & $\eta_2$ & $\eta_2/4$ & $\eta_2/4$ & $\eta_2/2$ \\
-    Post-translational & $\eta_3$ & $\eta_3/4$ & $\eta_3/4$ & $\eta_3/2$ \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-% TABLE OF METABOLISM-DEPENDENCE OF TWOSTATE PROPENSITIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}[h!]
-\centering
-\small
-\caption{Two-state model dependence on environmental conditions}
-\label{metabolism:methods:conditions:two}
-\begin{tabular}{L{1.75in} C{0.75in} C{1in} C{1.5in}}
-\toprule
-	& \multicolumn{3}{c}{\bfseries Condition}\\ \cmidrule(lr){2-4}
-    \textbf{Reaction} & Normal & Reduced ATP & Reduced ribosomes \\ 
-	\midrule  
-    Transcription & $k_R$ & $k_R/2$ & $k_R$ \\
-    Translation & $k_P$ & $k_P/2$ & $k_P/2$ \\
-    Protein decay & $\gamma_P$ & $\gamma_P/2$ & $\gamma_P$  \\ 
-    Transcriptional feedback & $\eta_G$ & $\eta_G/4$ & $\eta_G/2$ \\
-    Feedback on mRNA & $\eta_R$ & $\eta_R/4$ & $\eta_R/2$ \\
-    Feedback on protein & $\eta_P$ & $\eta_P/4$ & $\eta_P/2$  \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-% TABLE OF METABOLISM-DEPENDENCE OF HILL PROPENSITIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{table}[h!]
-\centering
-\small
-\caption{Hill kinetics model dependence on environmental conditions}
-\label{metabolism:methods:conditions:hill}
-%\begin{tabular}{l c c c}
-\begin{tabular}{L{1.5in} C{1in} C{1in} C{1.5in}}
-\toprule
-    & \multicolumn{3}{c}{\bfseries Condition}\\ \cmidrule(lr){2-4}
-    \textbf{Reaction} & Normal & Reduced ATP & Reduced ribosomes \\ \cmidrule(lr){1-4}
-    Transcription & $k_R$ & $k_R/2$ & $k_R$ \\
-    Translation & $k_P$ & $k_P/2$ & $k_P/2$ \\
-    Protein decay & $\gamma_P$ & $\gamma_P/2$ & $\gamma_P$  \\
-    Feedback on mRNA & $\eta_R$ & $\eta_R/4$ & $\eta_R/2$ \\
-    Feedback on protein & $\eta_P$ & $\eta_P/4$ & $\eta_P/2$  \\
-\bottomrule
-\end{tabular}
-\end{table}

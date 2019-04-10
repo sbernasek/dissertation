@@ -149,7 +149,7 @@
 
 %\setlength{\textheight}{7.5in}
 \setlength{\textheight}{8.0in}
-\setlength{\topmargin}{0in}
+\setlength{\topmargin}{0.2in}
 
 % SEB EDITED THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 %\setlength{\headsep}{0.5in}

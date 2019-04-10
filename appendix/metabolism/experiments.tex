@@ -3,9 +3,11 @@
 % EXPERIMENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{Model system}
+
 All experiments were conducted in and by the lab of Professor Richard Carthew at Northwestern University. Yan-YFP expression dynamics in wildtype and $yan^{\Delta miR\hyphy 7}$ animals were measured by Rachael Bakker, while sfGFP-Sens expression levels in the wing disc were measured and analyzed by Ritika Giri. All other experiments were conceived, designed, executed, and analyzed by Justin Cassidy. This section explicitly details these experiments for purposes of reproducibility, and should not be mistaken for contributions of my own.
 
-For all experiments, \textit{Drosophila melanogaster} was raised using standard lab conditions and food. Stocks were either obtained from the Bloomington Stock Center, from listed labs, or were derived in the Carthew laboratory. All experiments used female animals unless stated otherwise.
+For all experiments, \textit{Drosophila melanogaster} was raised using standard lab conditions and food. Stocks were either obtained from the Bloomington Stock Center, from listed labs, or were derived in the Carthew laboratory. All experiments used female animals unless stated otherwise. 
 
 \section{Genetics}
 \label{appendix:metabolism:genetics}
@@ -20,7 +22,7 @@ Experiments were performed using either homozygous mutant animals or trans-heter
 \toprule
 \textit{miR-9a\textsuperscript{E39}/miR-9a\textsuperscript{J22}} & \textit{hairy\textsuperscript{1}/hairy\textsuperscript{41}} \\
 \textit{glass\textsuperscript{2 }}/\textit{glass\textsuperscript{60j}} & \textit{wg\textsuperscript{Sp-1}/wg\textsuperscript{+}} \\
-\textit{miR-7\textsuperscript{$\Delta$1}}/\textit{Df(2R)exu1} & \textit{dcr-1\textsuperscript{+}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
+\textit{miR-7\textsuperscript{\textDelta 1}}/\textit{Df(2R)exu1} & \textit{dcr-1\textsuperscript{+}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
 \textit{dcr-1\textsuperscript{K43X}}/\textit{dcr-1\textsuperscript{Q1147X}} & \textit{dcr-1\textsuperscript{W94X}}/\textit{dcr-1\textsuperscript{Q1147X}} \\
 \textit{dcr-1\textsuperscript{Q396X}}/\textit{dcr-1\textsuperscript{Q1147X}} & \textit{ago1\textsuperscript{+}}/\textit{ago1\textsuperscript{Q127X}} \\
 \textit{ago1\textsuperscript{W894X}}/\textit{ago1\textsuperscript{Q127X}} & \textit{ago1\textsuperscript{T908M}}/\textit{ago1\textsuperscript{Q127X}} \\
@@ -37,9 +39,9 @@ To genetically ablate the insulin producing cells (IPCs) of the brain, \textit{y
 
 To reduce levels of cytoribosomes in cells, we made use of loss-of-function mutations in genes encoding various ribosomal proteins (RPs), which cause the ``Minute'' syndrome of dominant, haploinsufficient phenotypes, including prolonged development \cite{Sæbøelarssen1998}. A total of 64 \textit{RP} genes exhibit a Minute syndrome when mutated \cite{Marygold2007}. We selected a subset of these genes to reduce ribosomes. Since one of these, \textit{RpS3}, encodes an RP that also functions in DNA repair \cite{Graifer2014}, we tested it along with other \textit{RP} genes in certain genetic experiments. The mutations used were: $RpS3^{Plac92}$ \cite{Sæbøelarssen1998}, $RpS3^{2}$ \cite{Ferrus1975}, $RpS13^{1}$ \cite{Sæbøelarssen1998}, and $RpS15^{M(2)53}$ \cite{Golic1996}. Wildtype control animals were $w^{1118}$.
 
-\subsection{$yan^{\Delta miR\hyphy 7}\hyphy YFP$}
+\subsection{yan \textsuperscript{\textDelta miR-7}-YFP}
 
-The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{Webber2013}. We modified the gene by site-directed recombineering to mutate the four identified miR-7 binding sites within the \textit{yan} (\textit{aop}) gene \cite{Li2005}. The binding sites and mutations are shown in Figure \ref{fig:metabolism:methods:alleles}. The mutated transgene ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) was shuttled into the P{[}acman{]} vector \cite{Venken2006}, and inserted into the same genomic landing site on chromosome 3 (attP2) as \textit{Yan-YFP}. One copy of the \textit{His2Av-mRFP} transgene was recombined with the $Yan^{\Delta miR\hyphy 7}\hyphy YFP$ or \textit{Yan-YFP} transgene in order to normalize YFP expression to a housekeeping protein, in this case histone H2A \cite{Pelaez2015a}. The \textit{His2Av-mRFP Yan-YFP} ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) chromosome was homozygosed, and placed in a $yan^{ER443}$ / $yan^{E884}$ mutant background so that the endogenous \textit{yan} gene did not make any protein.
+The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{Webber2013}. We modified the gene by site-directed recombineering to mutate the four identified miR-7 binding sites within the \textit{yan} (\textit{aop}) gene \cite{Li2005}. The binding sites and mutations are shown in Figure \ref{fig:metabolism:alleles}. The mutated transgene ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) was shuttled into the P{[}acman{]} vector \cite{Venken2006}, and inserted into the same genomic landing site on chromosome 3 (attP2) as \textit{Yan-YFP}. One copy of the \textit{His2Av-mRFP} transgene was recombined with the $Yan^{\Delta miR\hyphy 7}\hyphy YFP$ or \textit{Yan-YFP} transgene in order to normalize YFP expression to a housekeeping protein, in this case histone H2A \cite{Pelaez2015a}. The \textit{His2Av-mRFP Yan-YFP} ($Yan^{\Delta miR\hyphy 7}\hyphy YFP$) chromosome was homozygosed, and placed in a $yan^{ER443}$ / $yan^{E884}$ mutant background so that the endogenous \textit{yan} gene did not make any protein.
 
 \begin{figure}[h!]
 \centering
@@ -49,7 +51,7 @@ The recombineered \textit{Yan-YFP} BAC transgene was previously described \cite{
 \label{fig:metabolism:alleles}
 \end{figure}
 
-\subsection{$sfGFP\hyphy sens$ and $sfGFP\hyphy sens^{m1m2}$}
+\subsection{sfGFP-sens and sfGFP-sens \textsuperscript{m1m2}}
 
 The recombineered \textit{sfGFP-sens} BAC transgene was generated as described \cite{Cassidy2013}, and the transgene was landed in the genome at VK37 (22A3). The transgene was mutated by site-directed recombineering as described \cite{Cassidy2013} to delete the two miR-9a binding sites within the \textit{sens} gene ($sfGFP\hyphy sens^{m1m2}$). This transgene was also landed at VK37. The \textit{sfGFP-sens} ($sfGFP\hyphy sens^{m1m2}$) chromosome was homozygosed, and placed in a $sens^{E1}$ null mutant background to ensure that endogenous \textit{sens} did not make any protein.
 
@@ -70,16 +72,13 @@ Animals of the correct genotype were allowed to age for 3 days after eclosion. T
 
 \subsection{Relative viability}
 
-Females bearing either a $dcr-1^{Q1147X}$ or $ago1^{Q127X}$ mutant chromosome over a balancer chromosome were crossed to males bearing mutant \textit{dcr-1} or \textit{ago1} chromosomes over a balancer chromosome. F1 progeny were raised and the numbers of animals that reached either pupal or adult stage were tallied. If the non-balancer chromosome is 100\% viable when homozygous, then 33.33\% of the F1 progeny would not carry a balancer chromosome. We calculated viability in this manner, relative to balancer viability. Replicate crosses were performed and analyzed. Between 457 and 776 F1 animals (median = 647) were counted in the replicate \textit{ago1} crosses. Between 234 and 380 F1 animals (median 285) were counted in the replicate \textit{dcr-1} crosses.
+Females bearing either a $dcr\hyphy 1^{Q1147X}$ or $ago1^{Q127X}$ mutant chromosome over a balancer chromosome were crossed to males bearing mutant \textit{dcr-1} or \textit{ago1} chromosomes over a balancer chromosome. F1 progeny were raised and the numbers of animals that reached either pupal or adult stage were tallied. If the non-balancer chromosome is 100\% viable when homozygous, then 33.33\% of the F1 progeny would not carry a balancer chromosome. We calculated viability in this manner, relative to balancer viability. Replicate crosses were performed and analyzed. Between 457 and 776 F1 animals (median = 647) were counted in the replicate \textit{ago1} crosses. Between 234 and 380 F1 animals (median 285) were counted in the replicate \textit{dcr-1} crosses.
 
 \subsection{Population statistics}
 
 Population proportions were compared using a Chi-square test with Yates\' correction and Fisher\'s exact test. Both gave similar results. All tests involving multiple experimental groups were Bonferroni corrected. In \textit{sev} experiments, R7 cell counts were compared via one-way ANOVA with Bonferroni correction. Relative viabilities were compared using a Mann-Whitney-Wilcoxon test with Bonferroni correction. These tests were performed using Prism 7 (GraphPad) software. P-values shown in figures are presented from tests with the most conservative value shown if more than one test was performed on data. * $p<0.05$; ** $p<0.01$; *** $p<0.001$; **** $p<0.0001$
 
-\section{Quantification of protein expression}
-\label{appendix:metabolism:measurements}
-
-\subsection{sfGFP-Sens in the wing disc}
+\section{Quantification of sfGFP-Sens in the wing disc}
 \label{appendix:metabolism:measurements:sens}
 
 Wing discs from white-prepupal females were dissected in ice-cold Phosphate Buffered Saline (PBS). Discs were fixed in 4\% paraformaldehyde in PBS for 20 minutes at 25 \textdegree{}C and washed with PBS containing 0.3\% Tween-20. Then they were stained with 0.5 $\mu$g/ml 4′,6-diamidino-2-phenylindole (DAPI) and mounted in Vectashield. Discs were mounted apical side up and imaged with identical settings using a Leica TCS SP5 confocal microscope. All images were acquired at 100x magnification at 2048 x 2048 resolution with a 75 nm x-y pixel size and 0.42 $\mu$m z separation. Scans were collected bidirectionally at 400 MHz and 6x line averaged. Wing discs of different genotypes were mounted on the same microscope slide and imaged in the same session for consistency in data quality.
@@ -92,7 +91,7 @@ Analysis of sfGFP-Sens fluorescence was performed using two independent approach
 
 We analyzed \textgreater{}10 replicate wing discs for each treatment. In total, we measured wildtype \textit{sfGFP-Sens} expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$. We measured mutant $sfGFP\hyphy Sens^{m1m2}$ expression in 4,518 cells from wildtype \textit{RpS13} discs and 4,379 cells from discs heterozygous mutant for $RpS13^1$.
 
-\subsection{Yan-YFP dynamics in the eye}
+\section{Quantification of Yan-YFP dynamics in the eye}
 \label{appendix:metabolism:measurements:yan}
 
 White-prepupal eye discs were dissected, fixed, and imaged by confocal microscopy for YFP and RFP fluorescence, as previously described \cite{Pelaez2015a}. Briefly, samples fixed in 4\% paraformaldehyde were kept in the dark at -20 \textdegree{}C and imaged no later than 18-24 h after fixation. In all cases, 1024 x 1024 16-bit images were captured using a Leica SP5 confocal microscope equipped with 40X oil objective. During imaging, discs were oriented with the equator parallel to the x-axis of the image. Optical slices were set at 0.8 $\mu$m slices (45-60 optical slices) with an additional digital zoom of 1.2-1.4 to completely image eye discs from basal to apical surfaces. Images recorded a region of at least 6 rows of ommatidia on each side or the dorsal-ventral eye disc equator. All discs for a given condition were fixed, mounted, and imaged in parallel to reduce measurement error. Sample preparation, imaging, and analysis were not performed under blind conditions. Image data was processed for automatic segmentation and quantification of RFP and YFP nuclear fluorescence as previously described \cite{Pelaez2015a}. Briefly, cell segmentation was performed using a H2Av-mRFP marker as a reference channel for identification of cell nuclei boundaries. Each layer of the reference channel was segmented independently. A single contour containing each unique cell was manually selected and assigned a cell type using a custom graphic user interface. For each annotated cell contour, expression measurements were obtained by normalizing the mean pixel fluorescence of the YFP channel by the mean fluorescence of the His-RFP channel. This normalization serves to mitigate variability due to potentially uneven sample illumination, segment area, and differences in protein expression capacity between cells. We assigned cell-type identities to segmented nuclei by using nuclear position and morphology, two key features that enable one to unambiguously identify eye cell types without the need for cell-specific markers \cite{Wolff1993}. This task was accomplished using \textit{FlyEye Silhouette}; an open-source package for macOS that integrates our image segmentation algorithm with a GUI for cell type annotation. Subsequent analysis and visualization procedures were implemented in Python.

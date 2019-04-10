@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 APR 2019 01:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 APR 2019 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,45 +821,45 @@ Package textgreek Info: Loaded fontmap: {phv/*/*}{U/psy/*/*} {*/bx/n}{U/eur/b/n
 ) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 96.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 99.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 96.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 96.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 99.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2016/03/04 v1.1 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Try loading font information for U+msa on input line 96.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Try loading font information for U+msa on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 96.
+LaTeX Font Info:    Try loading font information for U+msb on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring OFF on input line 96.
+Package hyperref Info: Link coloring OFF on input line 99.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -869,9 +869,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count179
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 99.
+LaTeX Info: Redefining \pageref on input line 99.
+LaTeX Info: Redefining \nameref on input line 99.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
@@ -1072,13 +1072,382 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[14] (./text/ratio.tex
+[14] (./text/clones.tex
 Chapter 1
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [15
+
+
+]
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ˆ in font cmr12!
+Missing character: There is no ’ in font cmr12!
+ <./figures/clones/./figure_1a.png, id=523, 397.2441pt x 121.4136pt>
+File: ./figures/clones/./figure_1a.png Graphic file (type png)
+
+<use ./figures/clones/./figure_1a.png>
+Package pdftex.def Info: ./figures/clones/./figure_1a.png used on input line 25
+.
+(pdftex.def)             Requested size: 446.26582pt x 136.4047pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[16]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[17 <./figures/clones/./figure_1a.png (PNG copy)>]
+<./figures/clones/./figure_1b.png, id=562, 500.5902pt x 424.2249pt>
+File: ./figures/clones/./figure_1b.png Graphic file (type png)
+
+<use ./figures/clones/./figure_1b.png>
+Package pdftex.def Info: ./figures/clones/./figure_1b.png used on input line 36
+.
+(pdftex.def)             Requested size: 446.26582pt x 378.20627pt.
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[19 <./figures/clones/./figure_1b.png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[20] <./figures/clones/./figure_S1.png, id=596, 532.6299pt x 141.8901pt>
+File: ./figures/clones/./figure_S1.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S1.png>
+Package pdftex.def Info: ./figures/clones/./figure_S1.png used on input line 53
+.
+(pdftex.def)             Requested size: 446.26582pt x 118.88374pt.
+
+Underfull \vbox (badness 3009) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[21 <./figures/clones/./figure_S1.png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[22] <./figures/clones/./figure_2.png, id=622, 395.5578pt x 122.3772pt>
+File: ./figures/clones/./figure_2.png Graphic file (type png)
+
+<use ./figures/clones/./figure_2.png>
+Package pdftex.def Info: ./figures/clones/./figure_2.png used on input line 74.
+
+(pdftex.def)             Requested size: 395.55682pt x 122.37688pt.
+
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[23 <./figures/clones/./figure_2.png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[24] <./figures/clones/./figure_S2.png, id=667, 460.119pt x 349.7868pt>
+File: ./figures/clones/./figure_S2.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S2.png>
+Package pdftex.def Info: ./figures/clones/./figure_S2.png used on input line 11
+0.
+(pdftex.def)             Requested size: 460.11787pt x 349.78595pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[26 <./figures/clones/./figure_S2.png (PNG copy)>]
+<./figures/clones/./figure_S3.png, id=682, 410.7345pt x 222.1098pt>
+File: ./figures/clones/./figure_S3.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S3.png>
+Package pdftex.def Info: ./figures/clones/./figure_S3.png used on input line 12
+6.
+(pdftex.def)             Requested size: 410.73349pt x 222.10925pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 6575) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[28 <./figures/clones/./figure_S3.png (PNG copy)>]
+<./figures/clones/./figure_S4.png, id=703, 550.6974pt x 414.8298pt>
+File: ./figures/clones/./figure_S4.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S4.png>
+Package pdftex.def Info: ./figures/clones/./figure_S4.png used on input line 13
+4.
+(pdftex.def)             Requested size: 469.75502pt x 353.86029pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[30 <./figures/clones/./figure_S4.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[35] <./figures/clones/./figure_3.png, id=778, 277.9986pt x 139.722pt>
+File: ./figures/clones/./figure_3.png Graphic file (type png)
+
+<use ./figures/clones/./figure_3.png>
+Package pdftex.def Info: ./figures/clones/./figure_3.png used on input line 259
+.
+(pdftex.def)             Requested size: 277.99791pt x 139.72165pt.
+
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[36] <./figures/clones/./figure_S5.png, id=787, 478.9092pt x 125.7498pt>
+File: ./figures/clones/./figure_S5.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S5.png>
+Package pdftex.def Info: ./figures/clones/./figure_S5.png used on input line 26
+5.
+(pdftex.def)             Requested size: 478.90802pt x 125.74948pt.
+
+Overfull \hbox (9.153pt too wide) in paragraph at lines 265--266
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[37 <./figures/clones/./figure_3.png (PNG copy)> <./figures/clones/./figure_S5.
+png (PNG copy)>]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[38] <./figures/clones/./figure_S6.png, id=804, 484.209pt x 329.0694pt>
+File: ./figures/clones/./figure_S6.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S6.png>
+Package pdftex.def Info: ./figures/clones/./figure_S6.png used on input line 28
+4.
+(pdftex.def)             Requested size: 469.75502pt x 319.25717pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[39] <./figures/clones/./figure_S7.png, id=815, 423.0204pt x 319.4334pt>
+File: ./figures/clones/./figure_S7.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S7.png>
+Package pdftex.def Info: ./figures/clones/./figure_S7.png used on input line 30
+0.
+(pdftex.def)             Requested size: 469.75502pt x 354.7361pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[40 <./figures/clones/./figure_S6.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[41 <./figures/clones/./figure_S7.png (PNG copy)>]
+<./figures/clones/./figure_4.png, id=831, 238.0092pt x 105.996pt>
+File: ./figures/clones/./figure_4.png Graphic file (type png)
+
+<use ./figures/clones/./figure_4.png>
+Package pdftex.def Info: ./figures/clones/./figure_4.png used on input line 316
+.
+(pdftex.def)             Requested size: 238.0086pt x 105.99573pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[43 <./figures/clones/./figure_4.png (PNG copy)>]
+<./figures/clones/./figure_S8.png, id=846, 247.6452pt x 112.9821pt>
+File: ./figures/clones/./figure_S8.png Graphic file (type png)
+
+<use ./figures/clones/./figure_S8.png>
+Package pdftex.def Info: ./figures/clones/./figure_S8.png used on input line 32
+7.
+(pdftex.def)             Requested size: 247.64458pt x 112.98181pt.
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[44 <./figures/clones/./figure_S8.png (PNG copy)>]) (./text/ratio.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[45]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[46]
+Chapter 2
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[47
 
 
 ]
@@ -1095,28 +1464,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[16]
+[48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[17]
+[49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[18]
+[50]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[19] <figures/ratio/./figure_1.png, id=608, 603.6954pt x 460.6008pt>
+[51] <figures/ratio/./figure_1.png, id=1022, 603.6954pt x 460.6008pt>
 File: figures/ratio/./figure_1.png Graphic file (type png)
 
 <use figures/ratio/./figure_1.png>
@@ -1133,35 +1502,35 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[20]
+[52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[21 <./figures/ratio/./figure_1.png (PNG copy)>]
+[53 <./figures/ratio/./figure_1.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[22]
+[54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[23]
+[55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[24] <figures/ratio/./figure_2.png, id=674, 515.7669pt x 473.8503pt>
+[56] <figures/ratio/./figure_2.png, id=1084, 515.7669pt x 473.8503pt>
 File: figures/ratio/./figure_2.png Graphic file (type png)
 
 <use figures/ratio/./figure_2.png>
@@ -1178,19 +1547,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[25]
-
-LaTeX Warning: Text page 26 contains only floats.
-
-
-Overfull \vbox (4.7464pt too high) has occurred while \output is active []
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[26 <./figures/ratio/./figure_2.png (PNG copy)>]
-<figures/ratio/./figure_S3.png, id=687, 475.7775pt x 106.7187pt>
+[58 <./figures/ratio/./figure_2.png (PNG copy)>]
+<figures/ratio/./figure_S3.png, id=1096, 475.7775pt x 106.7187pt>
 File: figures/ratio/./figure_S3.png Graphic file (type png)
 
 <use figures/ratio/./figure_S3.png>
@@ -1200,8 +1565,8 @@ Package pdftex.def Info: figures/ratio/./figure_S3.png used on input line 79.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[27 <./figures/ratio/./figure_S3.png (PNG copy)>]
-<figures/ratio/./figure_S4.png, id=702, 261.6174pt x 136.3494pt>
+[59 <./figures/ratio/./figure_S3.png (PNG copy)>]
+<figures/ratio/./figure_S4.png, id=1112, 261.6174pt x 136.3494pt>
 File: figures/ratio/./figure_S4.png Graphic file (type png)
 
 <use figures/ratio/./figure_S4.png>
@@ -1214,14 +1579,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[28 <./figures/ratio/./figure_S4.png (PNG copy)>]
+[60 <./figures/ratio/./figure_S4.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[29] <figures/ratio/./figure_S5.png, id=730, 464.6961pt x 376.0449pt>
+[61] <figures/ratio/./figure_S5.png, id=1139, 464.6961pt x 376.0449pt>
 File: figures/ratio/./figure_S5.png Graphic file (type png)
 
 <use figures/ratio/./figure_S5.png>
@@ -1238,15 +1603,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[30]
+[62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[31 <./figures/ratio/./figure_S5.png (PNG copy)>]
-<figures/ratio/./figure_3.png, id=755, 540.0978pt x 198.5016pt>
+[63 <./figures/ratio/./figure_S5.png (PNG copy)>]
+<figures/ratio/./figure_3.png, id=1162, 540.0978pt x 198.5016pt>
 File: figures/ratio/./figure_3.png Graphic file (type png)
 
 <use figures/ratio/./figure_3.png>
@@ -1257,51 +1622,51 @@ Package pdftex.def Info: figures/ratio/./figure_3.png used on input line 137.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[32]
+[65 <./figures/ratio/./figure_3.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[33 <./figures/ratio/./figure_3.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[34] <figures/ratio/./figure_4.png, id=782, 481.0773pt x 382.5492pt>
+[66] <figures/ratio/./figure_4.png, id=1189, 481.0773pt x 382.5492pt>
 File: figures/ratio/./figure_4.png Graphic file (type png)
 
 <use figures/ratio/./figure_4.png>
 Package pdftex.def Info: figures/ratio/./figure_4.png used on input line 154.
 (pdftex.def)             Requested size: 422.77664pt x 336.19485pt.
 
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[36]
+[67 <./figures/ratio/./figure_4.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[37] <figures/ratio/./figure_5.png, id=840, 449.7603pt x 400.8576pt>
+[68]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[69] <figures/ratio/./figure_5.png, id=1247, 449.7603pt x 400.8576pt>
 File: figures/ratio/./figure_5.png Graphic file (type png)
 
 <use figures/ratio/./figure_5.png>
@@ -1314,7 +1679,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/ratio/./figure_S8.png, id=848, 476.7411pt x 95.1555pt>
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[70] <figures/ratio/./figure_S8.png, id=1262, 476.7411pt x 95.1555pt>
 File: figures/ratio/./figure_S8.png Graphic file (type png)
 
 <use figures/ratio/./figure_S8.png>
@@ -1325,429 +1694,71 @@ Package pdftex.def Info: figures/ratio/./figure_S8.png used on input line 191.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[38] <figures/ratio/./figure_6.png, id=866, 373.8768pt x 221.1462pt>
+[71 <./figures/ratio/./figure_5.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[72 <./figures/ratio/./figure_S8.png (PNG copy)>]
+<figures/ratio/./figure_6.png, id=1283, 373.8768pt x 221.1462pt>
 File: figures/ratio/./figure_6.png Graphic file (type png)
 
 <use figures/ratio/./figure_6.png>
 Package pdftex.def Info: figures/ratio/./figure_6.png used on input line 202.
 (pdftex.def)             Requested size: 373.87589pt x 221.14565pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[40]
+[73 <./figures/ratio/./figure_6.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[41] <figures/ratio/./figure_7.png, id=896, 349.5459pt x 85.0377pt>
+[74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[75] <figures/ratio/./figure_7.png, id=1315, 349.5459pt x 85.0377pt>
 File: figures/ratio/./figure_7.png Graphic file (type png)
 
 <use figures/ratio/./figure_7.png>
 Package pdftex.def Info: figures/ratio/./figure_7.png used on input line 225.
 (pdftex.def)             Requested size: 349.54504pt x 85.03748pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./text/clones.tex
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[42]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[43 <./figures/ratio/./figure_4.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[44 <./figures/ratio/./figure_5.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[45 <./figures/ratio/./figure_S8.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[46 <./figures/ratio/./figure_6.png (PNG copy)> <./figures/ratio/./figure_7.png
- (PNG copy)>]
-Chapter 2
-
-Underfull \vbox (badness 1527) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[47
-
-
-]
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no ’ in font cmr12!
-
+) (./text/metabolism.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[48] <./figures/clones/./figure_1.png, id=995, 567.5604pt x 579.6054pt>
-File: ./figures/clones/./figure_1.png Graphic file (type png)
-
-<use ./figures/clones/./figure_1.png>
-Package pdftex.def Info: ./figures/clones/./figure_1.png used on input line 27.
-
-(pdftex.def)             Requested size: 469.75502pt x 479.74574pt.
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ˆ in font cmr10!
-Missing character: There is no ’ in font cmr10!
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[76 <./figures/ratio/./figure_7.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[50] <./figures/clones/./figure_S1.png, id=1034, 283.2984pt x 277.9986pt>
-File: ./figures/clones/./figure_S1.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S1.png>
-Package pdftex.def Info: ./figures/clones/./figure_S1.png used on input line 49
-.
-(pdftex.def)             Requested size: 283.2977pt x 277.99791pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[51]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[52] <./figures/clones/./figure_2.png, id=1061, 395.5578pt x 122.3772pt>
-File: ./figures/clones/./figure_2.png Graphic file (type png)
-
-<use ./figures/clones/./figure_2.png>
-Package pdftex.def Info: ./figures/clones/./figure_2.png used on input line 70.
-
-(pdftex.def)             Requested size: 395.55682pt x 122.37688pt.
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[53]
-Underfull \vbox (badness 2096) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[54] <./figures/clones/./figure_S2.png, id=1099, 460.119pt x 349.7868pt>
-File: ./figures/clones/./figure_S2.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S2.png>
-Package pdftex.def Info: ./figures/clones/./figure_S2.png used on input line 10
-6.
-(pdftex.def)             Requested size: 460.11787pt x 349.78595pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[55]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[56] <./figures/clones/./figure_S3.png, id=1115, 329.0694pt x 355.0866pt>
-File: ./figures/clones/./figure_S3.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S3.png>
-Package pdftex.def Info: ./figures/clones/./figure_S3.png used on input line 12
-2.
-(pdftex.def)             Requested size: 329.06857pt x 355.08571pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./figures/clones/./figure_S4.png, id=1126, 550.6974pt x 414.8298pt>
-File: ./figures/clones/./figure_S4.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S4.png>
-Package pdftex.def Info: ./figures/clones/./figure_S4.png used on input line 13
-0.
-(pdftex.def)             Requested size: 469.75502pt x 353.86029pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[62]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[63] <./figures/clones/./figure_3.png, id=1200, 277.9986pt x 139.722pt>
-File: ./figures/clones/./figure_3.png Graphic file (type png)
-
-<use ./figures/clones/./figure_3.png>
-Package pdftex.def Info: ./figures/clones/./figure_3.png used on input line 255
-.
-(pdftex.def)             Requested size: 277.99791pt x 139.72165pt.
-
-<./figures/clones/./figure_S5.png, id=1203, 478.9092pt x 125.7498pt>
-File: ./figures/clones/./figure_S5.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S5.png>
-Package pdftex.def Info: ./figures/clones/./figure_S5.png used on input line 26
-1.
-(pdftex.def)             Requested size: 478.90802pt x 125.74948pt.
-
-Overfull \hbox (9.153pt too wide) in paragraph at lines 261--262
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[64]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[65] <./figures/clones/./figure_S6.png, id=1219, 484.209pt x 329.0694pt>
-File: ./figures/clones/./figure_S6.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S6.png>
-Package pdftex.def Info: ./figures/clones/./figure_S6.png used on input line 28
-0.
-(pdftex.def)             Requested size: 469.75502pt x 319.25717pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[66] <./figures/clones/./figure_S7.png, id=1230, 423.0204pt x 319.4334pt>
-File: ./figures/clones/./figure_S7.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S7.png>
-Package pdftex.def Info: ./figures/clones/./figure_S7.png used on input line 29
-6.
-(pdftex.def)             Requested size: 469.75502pt x 354.7361pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[67] <./figures/clones/./figure_4.png, id=1243, 111.7776pt x 97.8054pt>
-File: ./figures/clones/./figure_4.png Graphic file (type png)
-
-<use ./figures/clones/./figure_4.png>
-Package pdftex.def Info: ./figures/clones/./figure_4.png used on input line 312
-.
-(pdftex.def)             Requested size: 111.77731pt x 97.80515pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[68] <./figures/clones/./figure_S8.png, id=1253, 391.7034pt x 121.4136pt>
-File: ./figures/clones/./figure_S8.png Graphic file (type png)
-
-<use ./figures/clones/./figure_S8.png>
-Package pdftex.def Info: ./figures/clones/./figure_S8.png used on input line 32
-2.
-(pdftex.def)             Requested size: 469.75502pt x 145.61221pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 4013) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[69]) (./text/metabolism.tex
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[70]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[71 <./figures/clones/./figure_1.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[72]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[73 <./figures/clones/./figure_S1.png (PNG copy)> <./figures/clones/./figure_2.
-png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[74 <./figures/clones/./figure_S2.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[75 <./figures/clones/./figure_S3.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[76 <./figures/clones/./figure_S4.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[77 <./figures/clones/./figure_3.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[78 <./figures/clones/./figure_S5.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[79 <./figures/clones/./figure_S6.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[80 <./figures/clones/./figure_S7.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[81 <./figures/clones/./figure_4.png (PNG copy)> <./figures/clones/./figure_S8.
-png (PNG copy)>]
+[77]
 Chapter 3
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[82
+[78
 
 
 ]
@@ -1757,14 +1768,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[83]
+[79]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[84] <figures/metabolism/./figure_1a.png, id=1417, 435.3063pt x 148.1535pt>
+[80] <figures/metabolism/./figure_1a.png, id=1405, 435.3063pt x 148.1535pt>
 File: figures/metabolism/./figure_1a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_1a.png>
@@ -1779,7 +1790,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[85] <figures/metabolism/./figure_1b.png, id=1439, 401.0985pt x 275.3487pt>
+[81] <figures/metabolism/./figure_1b.png, id=1426, 401.0985pt x 275.3487pt>
 File: figures/metabolism/./figure_1b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_1b.png>
@@ -1797,15 +1808,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[86 <./figures/metabolism/./figure_1a.png (PNG copy)>]
+[82 <./figures/metabolism/./figure_1a.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[87 <./figures/metabolism/./figure_1b.png (PNG copy)>]
-<figures/metabolism/./figure_2.png, id=1463, 477.4638pt x 241.6227pt>
+[83 <./figures/metabolism/./figure_1b.png (PNG copy)>]
+<figures/metabolism/./figure_2.png, id=1450, 477.4638pt x 241.6227pt>
 File: figures/metabolism/./figure_2.png Graphic file (type png)
 
 <use figures/metabolism/./figure_2.png>
@@ -1818,13 +1829,11 @@ Overfull \hbox (7.70761pt too wide) in paragraph at lines 52--53
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[88] <figures/metabolism/./figure_3.png, id=1480, 541.7841pt x 337.9827pt>
+[84 <./figures/metabolism/./figure_2.png (PNG copy)>]
+<figures/metabolism/./figure_3.png, id=1464, 541.7841pt x 337.9827pt>
 File: figures/metabolism/./figure_3.png Graphic file (type png)
 
 <use figures/metabolism/./figure_3.png>
@@ -1836,21 +1845,10 @@ Package pdftex.def Info: figures/metabolism/./figure_3.png used on input line 6
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[89 <./figures/metabolism/./figure_2.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[90 <./figures/metabolism/./figure_3.png (PNG copy)>]
-<figures/metabolism/./figure_4a.png, id=1491, 584.4234pt x 318.9516pt>
+[85] <figures/metabolism/./figure_4a.png, id=1475, 584.4234pt x 318.9516pt>
 File: figures/metabolism/./figure_4a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_4a.png>
@@ -1862,9 +1860,63 @@ Package pdftex.def Info: figures/metabolism/./figure_4a.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[86 <./figures/metabolism/./figure_3.png (PNG copy)>]
 Overfull \hbox (5.65863pt too wide) in paragraph at lines 93--93
  []|\OT1/cmr/bx/n/10.95 Propensity| 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[87 <./figures/metabolism/./figure_4a.png (PNG copy)>]
+Overfull \hbox (5.65863pt too wide) in paragraph at lines 116--116
+ []|\OT1/cmr/bx/n/10.95 Propensity| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[90] <figures/metabolism/./figure_S1a.png, id=1516, 249.0906pt x 66.0066pt>
+File: figures/metabolism/./figure_S1a.png Graphic file (type png)
+
+<use figures/metabolism/./figure_S1a.png>
+Package pdftex.def Info: figures/metabolism/./figure_S1a.png used on input line
+ 165.
+(pdftex.def)             Requested size: 249.08998pt x 66.00644pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1880,10 +1932,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[92 <./figures/metabolism/./figure_4a.png (PNG copy)>]
-Overfull \hbox (5.65863pt too wide) in paragraph at lines 116--116
- []|\OT1/cmr/bx/n/10.95 Propensity| 
- []
+[92 <./figures/metabolism/./figure_S1a.png (PNG copy)>]
+<figures/metabolism/./figure_4b.png, id=1541, 543.2295pt x 462.0462pt>
+File: figures/metabolism/./figure_4b.png Graphic file (type png)
+
+<use figures/metabolism/./figure_4b.png>
+Package pdftex.def Info: figures/metabolism/./figure_4b.png used on input line 
+182.
+(pdftex.def)             Requested size: 469.75502pt x 399.5587pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/metabolism/./figure_S2b.png, id=1543, 330.7557pt x 255.1131pt>
+File: figures/metabolism/./figure_S2b.png Graphic file (type png)
+
+<use figures/metabolism/./figure_S2b.png>
+Package pdftex.def Info: figures/metabolism/./figure_S2b.png used on input line
+ 191.
+(pdftex.def)             Requested size: 248.06616pt x 191.33435pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1899,32 +1969,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[94]
+[94 <./figures/metabolism/./figure_4b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[95] <figures/metabolism/./figure_S1a.png, id=1534, 249.0906pt x 66.0066pt>
-File: figures/metabolism/./figure_S1a.png Graphic file (type png)
+[95 <./figures/metabolism/./figure_S2b.png (PNG copy)>]
+<figures/metabolism/./figure_5.png, id=1570, 414.5889pt x 251.0178pt>
+File: figures/metabolism/./figure_5.png Graphic file (type png)
 
-<use figures/metabolism/./figure_S1a.png>
-Package pdftex.def Info: figures/metabolism/./figure_S1a.png used on input line
- 165.
-(pdftex.def)             Requested size: 249.08998pt x 66.00644pt.
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[96 <./figures/metabolism/./figure_S1a.png (PNG copy)>]
-<figures/metabolism/./figure_4b.png, id=1551, 543.2295pt x 462.0462pt>
-File: figures/metabolism/./figure_4b.png Graphic file (type png)
-
-<use figures/metabolism/./figure_4b.png>
-Package pdftex.def Info: figures/metabolism/./figure_4b.png used on input line 
-182.
-(pdftex.def)             Requested size: 469.75502pt x 399.5587pt.
+<use figures/metabolism/./figure_5.png>
+Package pdftex.def Info: figures/metabolism/./figure_5.png used on input line 2
+11.
+(pdftex.def)             Requested size: 414.58788pt x 251.01718pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1936,61 +1995,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[97]
-
-LaTeX Warning: Text page 98 contains only floats.
-
-
+[96]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[98 <./figures/metabolism/./figure_4b.png (PNG copy)>]
-<figures/metabolism/./figure_S2b.png, id=1564, 330.7557pt x 255.1131pt>
-File: figures/metabolism/./figure_S2b.png Graphic file (type png)
-
-<use figures/metabolism/./figure_S2b.png>
-Package pdftex.def Info: figures/metabolism/./figure_S2b.png used on input line
- 191.
-(pdftex.def)             Requested size: 248.06616pt x 191.33435pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[99 <./figures/metabolism/./figure_S2b.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[100] <figures/metabolism/./figure_5.png, id=1586, 414.5889pt x 251.0178pt>
-File: figures/metabolism/./figure_5.png Graphic file (type png)
-
-<use figures/metabolism/./figure_5.png>
-Package pdftex.def Info: figures/metabolism/./figure_5.png used on input line 2
-11.
-(pdftex.def)             Requested size: 414.58788pt x 251.01718pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[101 <./figures/metabolism/./figure_5.png (PNG copy)>]
-Underfull \vbox (badness 4013) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[102] <figures/metabolism/./figure_6.png, id=1605, 558.4062pt x 174.4116pt>
+[97 <./figures/metabolism/./figure_5.png (PNG copy)>]
+<figures/metabolism/./figure_6.png, id=1591, 558.4062pt x 174.4116pt>
 File: figures/metabolism/./figure_6.png Graphic file (type png)
 
 <use figures/metabolism/./figure_6.png>
@@ -1998,14 +2011,14 @@ Package pdftex.def Info: figures/metabolism/./figure_6.png used on input line 2
 28.
 (pdftex.def)             Requested size: 469.75502pt x 146.72829pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[103 <./figures/metabolism/./figure_6.png (PNG copy)>]
-<figures/metabolism/./figure_7a.png, id=1614, 527.571pt x 255.5949pt>
+[98] <figures/metabolism/./figure_7a.png, id=1600, 527.571pt x 255.5949pt>
 File: figures/metabolism/./figure_7a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7a.png>
@@ -2013,14 +2026,10 @@ Package pdftex.def Info: figures/metabolism/./figure_7a.png used on input line
 239.
 (pdftex.def)             Requested size: 469.75502pt x 227.58403pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[104 <./figures/metabolism/./figure_7a.png (PNG copy)>]
-<figures/metabolism/./figure_7b.png, id=1625, 411.6981pt x 262.581pt>
+<figures/metabolism/./figure_7b.png, id=1606, 411.6981pt x 262.581pt>
 File: figures/metabolism/./figure_7b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7b.png>
@@ -2028,14 +2037,25 @@ Package pdftex.def Info: figures/metabolism/./figure_7b.png used on input line
 250.
 (pdftex.def)             Requested size: 411.69708pt x 262.58034pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[105 <./figures/metabolism/./figure_7b.png (PNG copy)>]
-<figures/metabolism/./figure_7c.png, id=1642, 386.4036pt x 128.3997pt>
+[99 <./figures/metabolism/./figure_6.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[100 <./figures/metabolism/./figure_7a.png (PNG copy)>]
+<figures/metabolism/./figure_7c.png, id=1630, 386.4036pt x 128.3997pt>
 File: figures/metabolism/./figure_7c.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7c.png>
@@ -2048,38 +2068,35 @@ LaTeX Font Info:    Try loading font information for OML+cmr on input line 260.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 260.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 1281) has occurred while \output is active []
-
-
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[106]
+[101 <./figures/metabolism/./figure_7b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[107 <./figures/metabolism/./figure_7c.png (PNG copy)>]
+[102 <./figures/metabolism/./figure_7c.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[108]
+[103]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[109] <figures/metabolism/./figure_S1b.png, id=1695, 315.3381pt x 318.9516pt>
+[104] <figures/metabolism/./figure_S1b.png, id=1680, 315.3381pt x 318.9516pt>
 File: figures/metabolism/./figure_S1b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S1b.png>
@@ -2090,7 +2107,7 @@ Package pdftex.def Info: figures/metabolism/./figure_S1b.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S1c.png, id=1697, 213.9192pt x 99.9735pt>
+<figures/metabolism/./figure_S1c.png, id=1682, 213.9192pt x 99.9735pt>
 File: figures/metabolism/./figure_S1c.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S1c.png>
@@ -2102,31 +2119,34 @@ Package pdftex.def Info: figures/metabolism/./figure_S1c.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[110]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[111 <./figures/metabolism/./figure_S1b.png (PNG copy)>]
+[105]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[112 <./figures/metabolism/./figure_S1c.png (PNG copy)>]
+[106 <./figures/metabolism/./figure_S1b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[113] <figures/metabolism/./figure_S2a.png, id=1727, 572.8602pt x 222.8325pt>
+[107 <./figures/metabolism/./figure_S1c.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[108] <figures/metabolism/./figure_S2a.png, id=1712, 572.8602pt x 222.8325pt>
 File: figures/metabolism/./figure_S2a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S2a.png>
@@ -2137,7 +2157,7 @@ Package pdftex.def Info: figures/metabolism/./figure_S2a.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S3b.png, id=1734, 349.7868pt x 120.45pt>
+<figures/metabolism/./figure_S3b.png, id=1719, 349.7868pt x 120.45pt>
 File: figures/metabolism/./figure_S3b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S3b.png>
@@ -2148,7 +2168,14 @@ Package pdftex.def Info: figures/metabolism/./figure_S3b.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S4.png, id=1736, 581.7735pt x 225.4824pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[109] <figures/metabolism/./figure_S4.png, id=1727, 581.7735pt x 225.4824pt>
 File: figures/metabolism/./figure_S4.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S4.png>
@@ -2160,25 +2187,22 @@ Package pdftex.def Info: figures/metabolism/./figure_S4.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) (./thesis.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[110 <./figures/metabolism/./figure_S2a.png (PNG copy)>]
+
+LaTeX Warning: Text page 111 contains only floats.
+
+
+Overfull \vbox (2.81548pt too high) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[114]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[115 <./figures/metabolism/./figure_S2a.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[116 <./figures/metabolism/./figure_S3b.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[117 <./figures/metabolism/./figure_S4.png (PNG copy)>]
+[111 <./figures/metabolism/./figure_S3b.png (PNG copy)> <./figures/metabolism/.
+/figure_S4.png (PNG copy)>]
 References
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--18
@@ -2247,7 +2271,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[118
+[112
 
 
 ]
@@ -2311,7 +2335,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[119]
+[113]
 Underfull \hbox (badness 2080) in paragraph at lines 164--173
 \OT1/cmr/m/n/12 pnas . 1611428114$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
 cbi . nlm . nih . gov / pubmed / 28320972http :
@@ -2360,7 +2384,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[120]
+[114]
 Underfull \hbox (badness 1668) in paragraph at lines 246--255
 []\OT1/cmr/m/n/12 Chris Q. Doe.  Tem-po-ral pat-tern-ing in the Drosophila CNS.
   \OT1/cmr/m/it/12 An-nual Re-
@@ -2397,7 +2421,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[121]
+[115]
 Underfull \hbox (badness 1097) in paragraph at lines 353--365
 []\OT1/cmr/m/n/12 Gong Hong Wei, Gwe-nael Badis, Michael F. Berger, Teemu Kiv-i
 oja, Kimmo
@@ -2410,7 +2434,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[122]
+[116]
 Underfull \hbox (badness 1394) in paragraph at lines 404--415
 \OT1/cmr/m/n/12 Re-bay.  Col-lab-o-ra-tive re-pres-sive ac-tion of the an-tag-o
 -nis-tic ETS tran-scrip-tion
@@ -2447,7 +2471,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[123]
+[117]
 Underfull \hbox (badness 10000) in paragraph at lines 494--504
 \OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 17108002http : / /
  dev . biologists . org / cgi /
@@ -2466,7 +2490,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[124]
+[118]
 Underfull \hbox (badness 7362) in paragraph at lines 586--596
 \OT1/cmr/m/n/12 doi: $10 . 7554 / eLife . 04837$.  URL []$\OT1/cmtt/m/n/12 http
 s : / / search . proquest . com / openview /
@@ -2485,7 +2509,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[125]
+[119]
 Underfull \hbox (badness 10000) in paragraph at lines 681--690
 \OT1/cmtt/m/n/12 gov / pubmed / 11245584http : / / www . pubmedcentral . nih . 
 gov / articlerender . fcgi ?
@@ -2510,7 +2534,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[126]
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 742--750
 \OT1/cmtt/m/n/12 355559a0 . pdfhttp : / / www . ncbi . nlm . nih . gov / pubmed
  / 1311054{%}5Cnhttp :
@@ -2535,7 +2559,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[127]
+[121]
 Underfull \hbox (badness 1939) in paragraph at lines 905--915
 \OT1/cmr/m/n/12 lan, Clare Baecher-Allan, and Jill P Mesirov.  Au-to-mated high
 -dimensional
@@ -2560,7 +2584,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[128]
+[122]
 Underfull \hbox (badness 2865) in paragraph at lines 941--948
 []\OT1/cmr/m/n/12 Ben Lang-mead and Steven L Salzberg.  Fast gapped-read align-
 ment with
@@ -2585,28 +2609,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[129]
+[123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[130]
+[124]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[131]
+[125]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[132]
+[126]
 Underfull \hbox (badness 1424) in paragraph at lines 1280--1288
 \OT1/cmr/m/n/12 1186 / 1471-[]2105-[]11-[]372$.  URL []$\OT1/cmtt/m/n/12 http :
  / / bmcbioinformatics . biomedcentral . com /
@@ -2631,7 +2655,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[133]
+[127]
 Underfull \hbox (badness 3895) in paragraph at lines 1359--1369
 []\OT1/cmr/m/n/12 Patrick D. Mc-Mullen, Richard I. Mo-ri-moto, and Lu^^S^^Ps A.
  Nunes Ama-ral.
@@ -2722,14 +2746,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[134]
+[128]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[135]
+[129]
 Underfull \hbox (badness 1286) in paragraph at lines 1531--1540
 []\OT1/cmr/m/n/12 Celia Mu~noz-Jim^^Senez, Cristina Ayuso, Ag-nieszka Do-brzyn-
 ska, An-to-nio Torres-
@@ -2760,7 +2784,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[136]
+[130]
 Underfull \hbox (badness 1259) in paragraph at lines 1620--1627
 \OT1/cmr/m/n/12 tem-per-a-ture in de-vel-op-men-tally di-verse species.  \OT1/c
 mr/m/it/12 PLoS Genet\OT1/cmr/m/n/12 , 10(4):e1004293,
@@ -2785,7 +2809,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[137]
+[131]
 Underfull \hbox (badness 10000) in paragraph at lines 1753--1761
 []$\OT1/cmtt/m/n/12 http : / / www . nature . com / doifinder / 10 . 1038 / 417
 070ahttp : / / www . nature . com .
@@ -2798,7 +2822,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[138]
+[132]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
@@ -2809,7 +2833,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[139]
+[133]
 Underfull \hbox (badness 1661) in paragraph at lines 1870--1878
 []\OT1/cmr/m/n/12 X J Quan and B A Has-san.  From skin to nerve: flies, ver-te-
 brates and
@@ -2900,14 +2924,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[140]
+[134]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[141]
+[135]
 Underfull \hbox (badness 10000) in paragraph at lines 2076--2085
 []$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / S0092867412004643 / 1-[]s
 2 . 0-[]S0092867412004643-[]main .
@@ -2950,7 +2974,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[142]
+[136]
 Underfull \hbox (badness 1033) in paragraph at lines 2119--2127
 []\OT1/cmr/m/n/12 Suzanne L Ruther-ford and Su-san Lindquist.  Hsp90 as a ca-pa
 c-i-tor for mor-
@@ -2975,7 +2999,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[143]
+[137]
 Underfull \hbox (badness 1259) in paragraph at lines 2181--2189
 []\OT1/cmr/m/n/12 Zhi-Xin Wang.  An ex-act math-e-mat-i-cal ex-pres-sion for de
 -scrib-ing com-pet-i-tive
@@ -3024,7 +3048,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[144]
+[138]
 Underfull \hbox (badness 1454) in paragraph at lines 2299--2310
 \OT1/cmr/m/n/12 10 . 1073 / pnas . 97 . 9 . 4649$.  URL []$\OT1/cmtt/m/n/12 htt
 p : / / www . pnas . org / content / pnas / 97 / 9 / 4649 .
@@ -3046,13 +3070,13 @@ w . pubmedcentral . nih . gov /
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[145]
+[139]
 Appendix A
 (./appendix/ratio/ratio_experiments.tex
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[146
+[140
 
 
 ]
@@ -3062,7 +3086,7 @@ Underfull \vbox (badness 1281) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[147]
+[141]
 Missing character: There is no Â in font cmr12!
 Missing character: There is no µ in font cmr12!
 ) (./appendix/ratio/ratio_analysis.tex
@@ -3072,41 +3096,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[148]
+[142]
 Underfull \vbox (badness 4013) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[149]
+[143]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[150]
+[144]
 Underfull \vbox (badness 5939) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[151]
+[145]
 Underfull \vbox (badness 4013) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[152]
+[146]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[153]
+[147]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[154]) (./appendix/ratio/ratio_sfigures.tex
-<./figures/ratio/./figure_S1.png, id=2350, 582.0144pt x 405.9165pt>
+[148]) (./appendix/ratio/ratio_sfigures.tex
+<./figures/ratio/./figure_S1.png, id=2331, 582.0144pt x 405.9165pt>
 File: ./figures/ratio/./figure_S1.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S1.png>
@@ -3116,7 +3140,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S1.png used on input line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S2.png, id=2351, 600.3228pt x 477.7047pt>
+<./figures/ratio/./figure_S2.png, id=2332, 600.3228pt x 477.7047pt>
 File: ./figures/ratio/./figure_S2.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S2.png>
@@ -3127,7 +3151,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S2.png used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S6.png, id=2352, 518.4168pt x 379.1766pt>
+<./figures/ratio/./figure_S6.png, id=2333, 518.4168pt x 379.1766pt>
 File: ./figures/ratio/./figure_S6.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S6.png>
@@ -3138,7 +3162,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S6.png used on input line 44.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S7.png, id=2353, 714.7503pt x 427.1157pt>
+<./figures/ratio/./figure_S7.png, id=2334, 714.7503pt x 427.1157pt>
 File: ./figures/ratio/./figure_S7.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S7.png>
@@ -3153,23 +3177,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[155]
+[149]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[156 <./figures/ratio/./figure_S1.png (PNG copy)>]
+[150 <./figures/ratio/./figure_S1.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[157 <./figures/ratio/./figure_S2.png (PNG copy)>]
+[151 <./figures/ratio/./figure_S2.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[158 <./figures/ratio/./figure_S6.png (PNG copy)>]
+[152 <./figures/ratio/./figure_S6.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[159 <./figures/ratio/./figure_S7.png (PNG copy)>]
+[153 <./figures/ratio/./figure_S7.png (PNG copy)>]
 Appendix B
 (./appendix/metabolism/experiments.tex
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <8> not available
@@ -3185,22 +3209,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[160
+[154
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[161]
+[155]
 LaTeX Font Info:    Try loading font information for U+eur on input line 42.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 )
-<./figures/metabolism/./alleles.png, id=2411, 152.7306pt x 136.5903pt>
+<./figures/metabolism/./alleles.png, id=2393, 152.7306pt x 136.5903pt>
 File: ./figures/metabolism/./alleles.png Graphic file (type png)
 
 <use ./figures/metabolism/./alleles.png>
@@ -3212,28 +3233,28 @@ Package pdftex.def Info: ./figures/metabolism/./alleles.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[156]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[157 <./figures/metabolism/./alleles.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[162]
+[158]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[163 <./figures/metabolism/./alleles.png (PNG copy)>]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[164]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[165]
+[159]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ² in font cmr12!
@@ -3241,42 +3262,32 @@ Missing character: There is no ² in font cmr12!
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[166]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[167]
+[160]
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 92.
 
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[168]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[169]) (./appendix/metabolism/modeling.tex
+[161]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[170]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[163]) (./appendix/metabolism/modeling.tex
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[171] <./figures/metabolism/./figure_S3a.png, id=2483, 317.988pt x 83.3514pt>
+[164] <./figures/metabolism/./figure_S3a.png, id=2459, 317.988pt x 83.3514pt>
 File: ./figures/metabolism/./figure_S3a.png Graphic file (type png)
 
 <use ./figures/metabolism/./figure_S3a.png>
@@ -3284,26 +3295,50 @@ Package pdftex.def Info: ./figures/metabolism/./figure_S3a.png used on input li
 ne 17.
 (pdftex.def)             Requested size: 317.98721pt x 83.35117pt.
 
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-[172 <./figures/metabolism/./figure_S3a.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[173]
+[165]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[166 <./figures/metabolism/./figure_S3a.png (PNG copy)>]
 Overfull \hbox (10.25232pt too wide) in paragraph at lines 56--65
  [][] 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[174]
+[167]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[168]
 Appendix C
 (./appendix/resources/software.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3312,76 +3347,85 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[175
+[169
 
 
 ])
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[176]
+[170]
 Appendix D
 (./appendix/resources/data.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[177
+[171
 
 
 ]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[178]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+[172]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: BA553854D0DC47CB6F7015A475A382A2;5086.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+(rerunfilecheck)             Checksum: 7ADA464FF62578CB5349D608119A2E7E;5148.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 21850 strings out of 493014
- 408318 string characters out of 6133351
- 488329 words of memory out of 5000000
- 24356 multiletter control sequences out of 15000+600000
- 18151 words of font info for 69 fonts, out of 8000000 for 9000
+ 21864 strings out of 493014
+ 408574 string characters out of 6133351
+ 494068 words of memory out of 5000000
+ 24370 multiletter control sequences out of 15000+600000
+ 20476 words of font info for 78 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  40i,20n,44p,10379b,1338s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (178 pages, 28201914 bytes).
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1200.pfb>
+Output written on thesis.pdf (172 pages, 31349314 bytes).
 PDF statistics:
- 2750 PDF objects out of 2984 (max. 8388607)
- 2462 compressed objects within 25 object streams
- 596 named destinations out of 1000 (max. 500000)
- 692 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2745 PDF objects out of 2984 (max. 8388607)
+ 2457 compressed objects within 25 object streams
+ 589 named destinations out of 1000 (max. 500000)
+ 697 words of extra memory for PDF output out of 10000 (max. 10000000)
 

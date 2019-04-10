@@ -1,57 +1,58 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Dynamics of Pnt and Yan expression during eye development.}}{21}{figure.caption.7}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Pnt-to-Yan ratios differ between cellular states.}}{26}{figure.caption.9}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Dynamics of expression variability in progenitors and R cells.}}{27}{figure.caption.10}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Simple two-species competitive binding model}}{28}{figure.caption.11}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Thermodynamic model of transcription factor DNA binding.}}{31}{figure.caption.12}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Cooperative DNA-binding sensitizes promoters to the Pnt-to-Yan ratio.}}{33}{figure.caption.13}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces P:Y ratio is stabilized against varying Pnt and Yan concentrations.}}{43}{figure.caption.14}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells.}}{44}{figure.caption.15}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces Pnt and Yan expression dynamics in $EGFR^{ts}$ eye discs.}}{45}{figure.caption.17}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells.}}{46}{figure.caption.18}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Conceptual models for regulation of the Pnt-to-Yan ratio.}}{46}{figure.caption.19}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Perturbing gene expression via mitotic recombination.}}{17}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Conventional versus quantitative mosaic analysis.}}{19}{figure.caption.8}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Example clones in the larval fly eye.}}{21}{figure.caption.9}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Automated correction of fluorescence bleedthrough in the larval eye.}}{23}{figure.caption.10}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Characterization of bleedthrough contribution strengths.}}{26}{figure.caption.11}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Training a clone annotation model.}}{28}{figure.caption.12}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Label assignment using a trained clone annotation model.}}{30}{figure.caption.13}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Automated unsupervised annotation of clones in the larval eye.}}{37}{figure.caption.15}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Comparison of automated annotation with manually assigned labels.}}{37}{figure.caption.16}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Simulated growth of a synthetic cell culture.}}{40}{figure.caption.17}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Tunable generation of synthetic microscopy data.}}{41}{figure.caption.18}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{43}{figure.caption.19}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Spatial context is most informative for large and ambiguous clones.}}{44}{figure.caption.20}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces A framework for conducting quantitative clonal analysis.}}{71}{figure.caption.20}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Example clones in the larval fly eye.}}{73}{figure.caption.22}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Automated correction of fluorescence bleedthrough in the larval eye.}}{73}{figure.caption.23}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Characterization of bleedthrough contribution strengths.}}{74}{figure.caption.24}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Training a clone annotation model.}}{75}{figure.caption.25}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Label assignment using a trained clone annotation model.}}{76}{figure.caption.26}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Automated unsupervised annotation of clones in the larval eye.}}{77}{figure.caption.28}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Comparison of automated annotation with manually assigned labels.}}{78}{figure.caption.29}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Simulated growth of a synthetic cell culture.}}{79}{figure.caption.30}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Tunable generation of synthetic microscopy data.}}{80}{figure.caption.31}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{81}{figure.caption.32}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Additional results for synthetic benchmarking of annotation algorithm.}}{81}{figure.caption.33}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Dynamics of Pnt and Yan expression during eye development.}}{53}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Pnt-to-Yan ratios differ between cellular states.}}{58}{figure.caption.23}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Dynamics of expression variability in progenitors and R cells.}}{59}{figure.caption.24}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Simple two-species competitive binding model}}{60}{figure.caption.25}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Thermodynamic model of transcription factor DNA binding.}}{63}{figure.caption.26}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Cooperative DNA-binding sensitizes promoters to the Pnt-to-Yan ratio.}}{65}{figure.caption.27}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces P:Y ratio is stabilized against varying Pnt and Yan concentrations.}}{67}{figure.caption.28}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells.}}{71}{figure.caption.29}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Pnt and Yan expression dynamics in $EGFR^{ts}$ eye discs.}}{72}{figure.caption.31}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells.}}{73}{figure.caption.32}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Conceptual models for regulation of the Pnt-to-Yan ratio.}}{76}{figure.caption.33}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces IPC ablation slows development by restricting energy metabolism.}}{86}{figure.caption.34}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Eye developmental defects are rescued by slower energy metabolism.}}{87}{figure.caption.35}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Reducing energy metabolism rescues sensory bristle patterning.}}{89}{figure.caption.36}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces All microRNAs are dispensable when energy metabolism is slowed.}}{90}{figure.caption.37}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces A dynamic model of gene regulation during cell fate determination.}}{92}{figure.caption.38}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Block diagram depiction of the mathematical model.}}{96}{figure.caption.41}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Simulated errors are less frequent when metabolism is reduced.}}{98}{figure.caption.42}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Reduced biosynthesis diminishes the frequency of developmental errors.}}{99}{figure.caption.43}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Expression dynamics are less affected when metabolism is reduced.}}{101}{figure.caption.44}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Reduced metabolism cannot compensate for complete loss of repression.}}{103}{figure.caption.45}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Simulated errors are less frequent when protein synthesis is reduced.}}{104}{figure.caption.46}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Reducing ribosome number rescues sensory organ development.}}{105}{figure.caption.47}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Reducing ribosome number diminishes \textit {sfGFP-sens} overexpression.}}{107}{figure.caption.48}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Robustness of reduced metabolism simulations to parameter values.}}{111}{figure.caption.49}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Robustness of reduced metabolism simulations to threshold definition.}}{112}{figure.caption.50}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Robustness of reduced metabolism simulations to model assumptions.}}{115}{figure.caption.51}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Reduced metabolism desensitizes protein dynamics to repression.}}{116}{figure.caption.52}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Robustness of ribosomopathy simulations to model assumptions.}}{117}{figure.caption.53}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces IPC ablation slows development by restricting energy metabolism.}}{82}{figure.caption.34}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Eye developmental defects are rescued by slower energy metabolism.}}{83}{figure.caption.35}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Reducing energy metabolism rescues sensory bristle patterning.}}{84}{figure.caption.36}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces All microRNAs are dispensable when energy metabolism is slowed.}}{86}{figure.caption.37}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces A dynamic model of gene regulation during cell fate determination.}}{87}{figure.caption.38}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Block diagram depiction of the mathematical model.}}{92}{figure.caption.41}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Simulated errors are less frequent when metabolism is reduced.}}{94}{figure.caption.42}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Reduced biosynthesis diminishes the frequency of developmental errors.}}{95}{figure.caption.43}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Expression dynamics are less affected when metabolism is reduced.}}{97}{figure.caption.44}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Reduced metabolism cannot compensate for complete loss of repression.}}{99}{figure.caption.45}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Simulated errors are less frequent when protein synthesis is reduced.}}{100}{figure.caption.46}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Reducing ribosome number rescues sensory organ development.}}{101}{figure.caption.47}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Reducing ribosome number diminishes \textit {sfGFP-sens} overexpression.}}{102}{figure.caption.48}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Robustness of reduced metabolism simulations to parameter values.}}{106}{figure.caption.49}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Robustness of reduced metabolism simulations to threshold definition.}}{107}{figure.caption.50}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Robustness of reduced metabolism simulations to model assumptions.}}{110}{figure.caption.51}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Reduced metabolism desensitizes protein dynamics to repression.}}{111}{figure.caption.52}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Robustness of ribosomopathy simulations to model assumptions.}}{111}{figure.caption.53}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces PntGFP expression during eye development.}}{156}{figure.caption.55}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces PntGFP and Yan expression dynamics in additional cell types.}}{157}{figure.caption.56}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces \textit {yan} null clones in the eye.}}{158}{figure.caption.57}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{159}{figure.caption.58}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces PntGFP expression during eye development.}}{150}{figure.caption.55}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces PntGFP and Yan expression dynamics in additional cell types.}}{151}{figure.caption.56}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces \textit {yan} null clones in the eye.}}{152}{figure.caption.57}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{153}{figure.caption.58}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{163}{figure.caption.60}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{172}{figure.caption.61}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{157}{figure.caption.60}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{166}{figure.caption.61}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

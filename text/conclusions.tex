@@ -33,6 +33,14 @@
 
 
 
+%\section{Dynamic perspective of cell behavior}
+%	\subsection{Dynamics matter}
+%		\paragraph{Decisions are localized in time.}
+%	\subsection{Control theoretical insights into cell behavior}
+%		\paragraph{Yeast papers}
+%		\paragraph{Khammash papers}
+
+
 \Chapter{Conclusions}
 
 reconcile pnt/yan mechanism with yan over-expression
@@ -43,7 +51,7 @@ discuss impact of clones pipeline on pnt/yan study
 - development of 'penetrance theory' based on analytical framework using moment equations
 - rigorous exploration of other control architectures
 - quantitative characterization of a well known system (yeast)
-- 
+-
 
 
 \section{Robustness as an evolutionary design principle}
@@ -98,11 +106,3 @@ The prevalence of redundant regulation in gene regulatory networks is often ascr
 The breadth of experiments in Drosophila points toward a dynamic phenomenon agnostic to the molecular detail of repressors and their targets. To demonstrate the generality of my hypothesis, I propose a coarse-grained framework relating expression of a generic protein to population-wide phenotype distributions that does not depend upon the specifics of each developmental system. My goal is to predict how removal of a negative feedback mechanism causes protein levels within affected cells to differ from their unperturbed counterparts. As nuanced changes in expression yield abnormal morphologies in vivo, differences in protein levels manifest as differences in phenotype penetrance25. I aim to quantify both how different a population of cells behaves when negative feedback is removed and how the magnitude of this difference depends upon biosynthesis rates.
 
 The framework suggests the experiments reflect a general principle of dynamic systems; they are more sensitive to perturbation when internal dynamics are fast. In this case, transcription factor activity is more sensitive to changes in regulation when mRNA and protein biosynthesis rates are high.
-
-----------
-
-
-If cell-autonomous regulatory interactions stabilize the Pnt-to-Yan ratio, extracellular cues must set the ratio in individual cells recruited for fate commitment. The Notch ligand Delta downregulates the propensity for multipotent cells to differentiate (Mark E. Fortini et al. 1993), whereas the RTK ligands Spitz and Boss upregulate their propensity to differentiate (Freeman 1996). Notch and Ras activities are regulated via cell-cell signals in the eye. Our data suggest relative input via these pathways helps drive cells toward particular Pnt-to-Yan ratios. Notch signaling appears to lower the ratio, while Ras activity raises it. These signals may simultaneously target both proteins to maximize efficacy (Fig. 7A, dashed lines). For example, a single signal could rapidly increase the ratio by increasing Pnt and decreasing Yan, either through regulation of the components themselves or the strength of their actions on each other. Ras post-translationally regulates both Pnt and Yan. By activating MAP kinase, Ras enhances Yan protein turnover, Pnt-P1 expression, and Pnt-P2 potency (O’Neill et al. 1994; Rebay and Rubin 1995). Notch enhances yan transcription by activating Su(H) (Rohrbaugh and Ramos 2002). Whether Notch simultaneously inhibits pnt transcription is unknown.
-While its simplicity is enticing, a model based solely on regulatory interactions suffers several limitations. It is unclear how independent reciprocal regulation could maintain a constant Pnt-to-Yan ratio amidst sustained increases in either Pnt or Yan expression. There is further ambiguity as to whether regulation acts by increasing stimulation or decreasing attenuation of the opposing factor’s expression. These shortcomings limit the predictive utility of the model. In principle they could be overcome by a depiction of the underlying molecular mechanism in which all arrows correspond to a specific set of independent chemical processes. Unfortunately, the complexity of developmental processes often precludes characterization of complete systems. This applies to our system of study. For the sake of discussion we present a hypothetical gene regulatory network motif that recapitulates the observed behavior (Fig. 7B). This motif is based on the concept of antithetic integral feedback(Briat, Gupta, and Khammash 2016), and is capable of maintaining a constant Pnt-to-Yan ratio amidst sustained increases in Pnt or Yan expression (Figs. S8A-D). Notch and Ras could transiently perturb the ratio by modulating Pnt or Yan expression, or set the ratio by modulating the control architecture (Figs. S8E). Pnt is considered a repressor for simplicity, but could instead stimulate an intermediate repressor. Even this unrealistically simple mechanism would require rigorous quantitative characterization in order to make accurate model predictions. Detailed molecular descriptions might also detract from the behavior of interest, as a small subset of molecular events may dictate cellular outcomes under a particular set of conditions. 
-Instead, we emphasize an empirical description of system dynamics based on control theory (Fig. 7C). In this model, an unknown system of cellular components monitors the relative abundance of Pnt and Yan and takes corrective action when the ratio deviates from a specified reference value. We refer to this strategy as ratio control. This model eschews molecular events in favor of minimizing complexity, but preserves the salient features of a detailed molecular mechanism. Sustained fluctuations in the absolute abundance of one factor are mitigated by compensatory adjustment of the other. Notch or Ras activity could modulate Pnt or Yan protein levels to transiently perturb the Pnt-to-Yan ratio (Fig. 7C, dashed black arrow). These signals could permanently set the ratio by adjusting the reference value (Fig. 7C, dashed red arrow). We prefer this control theoretic representation because it conveys the fundamental strategy underlying system behavior. Furthermore, accurate model predictions would only require a small number of parameters that characterize Pnt-to-Yan ratio dynamics, obviating the need for experimental measurement of reaction rates during R cell specification in Drosophila.
-

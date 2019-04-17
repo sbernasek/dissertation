@@ -1,15 +1,14 @@
 \contentsline {chapter}{\tocchapter {Chapter}{}{ABSTRACT}}{3}{chapter*.1}
-\contentsline {chapter}{\tocchapter {Chapter}{}{Acknowledgements}}{5}{chapter*.3}
-\contentsline {chapter}{\tocchapter {Chapter}{}{Table of Contents}}{6}{section*.4}
-\contentsline {chapter}{\tocchapter {Chapter}{}{List of Tables}}{9}{section*.5}
-\contentsline {chapter}{\tocchapter {Chapter}{}{List of Figures}}{10}{section*.6}
-\contentsline {chapter}{\tocchapter {Chapter}{1}{Introduction}}{13}{chapter.1}
-\contentsline {section}{\tocsection {}{1.1}{Molecular origins of cell fate decisions}}{14}{section.1.1}
-\contentsline {section}{\tocsection {}{1.2}{The need for quantitative analysis}}{17}{section.1.2}
-\contentsline {section}{\tocsection {}{1.3}{Mathematical modeling of cell fate decisions}}{18}{section.1.3}
-\contentsline {section}{\tocsection {}{1.4}{Roles for negative feedback in GRNs}}{20}{section.1.4}
-\contentsline {section}{\tocsection {}{1.5}{Evolutionary drivers of robust cell fate decisions}}{22}{section.1.5}
-\contentsline {section}{\tocsection {}{1.6}{Overview of the current work}}{24}{section.1.6}
+\contentsline {chapter}{\tocchapter {Chapter}{}{Acknowledgements}}{6}{chapter*.3}
+\contentsline {chapter}{\tocchapter {Chapter}{}{Table of Contents}}{7}{section*.4}
+\contentsline {chapter}{\tocchapter {Chapter}{}{List of Tables}}{10}{section*.5}
+\contentsline {chapter}{\tocchapter {Chapter}{}{List of Figures}}{11}{section*.6}
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Introduction}}{14}{chapter.1}
+\contentsline {section}{\tocsection {}{1.1}{Molecular origins of cell fate decisions}}{15}{section.1.1}
+\contentsline {section}{\tocsection {}{1.2}{The need for quantitative analysis}}{18}{section.1.2}
+\contentsline {section}{\tocsection {}{1.3}{Mathematical modeling of cell fate decisions}}{19}{section.1.3}
+\contentsline {section}{\tocsection {}{1.4}{Roles for negative feedback in GRNs}}{22}{section.1.4}
+\contentsline {section}{\tocsection {}{1.5}{Evolutionary drivers of robust cell fate decisions}}{23}{section.1.5}
 \contentsline {chapter}{\tocchapter {Chapter}{2}{Automated analysis of mosaic eye imaginal discs in \textit {Drosophila}}}{26}{chapter.2}
 \contentsline {section}{\tocsection {}{2.1}{Background on quantitative mosaic analysis}}{26}{section.2.1}
 \contentsline {section}{\tocsection {}{2.2}{Experimental data}}{31}{section.2.2}
@@ -47,36 +46,36 @@
 \contentsline {section}{\tocsection {}{4.8}{Implications for the evolution of GRNs}}{112}{section.4.8}
 \contentsline {section}{\tocsection {}{4.9}{Robustness of modeling results}}{115}{section.4.9}
 \contentsline {chapter}{\tocchapter {Chapter}{}{References}}{123}{chapter*.54}
-\contentsline {chapter}{\tocappendix {Appendix}{A}{Supporting information for Chapter \ref {ch:ratio}}}{151}{appendix.A}
-\contentsline {section}{\tocsection {}{A.1}{Genetics}}{151}{section.A.1}
-\contentsline {section}{\tocsection {}{A.2}{Immunohistochemistry}}{152}{section.A.2}
-\contentsline {section}{\tocsection {}{A.3}{Quantification of expression levels}}{154}{section.A.3}
-\contentsline {section}{\tocsection {}{A.4}{Conversion of distance to time}}{155}{section.A.4}
-\contentsline {section}{\tocsection {}{A.5}{Computation of moving averages and confidence intervals}}{155}{section.A.5}
-\contentsline {section}{\tocsection {}{A.6}{Alignment of expression data}}{156}{section.A.6}
-\contentsline {section}{\tocsection {}{A.7}{Analysis of \textit {yan} clones}}{157}{section.A.7}
-\contentsline {section}{\tocsection {}{A.8}{Parameterization of equilibrium binding model}}{158}{section.A.8}
-\contentsline {section}{\tocsection {}{A.9}{Visualization of relative Pnt and Yan expression in \textit {Notch} mutant discs}}{159}{section.A.9}
-\contentsline {section}{\tocsection {}{A.10}{Analysis of periodic spatial patterns in \textit {Notch} mutant discs}}{159}{section.A.10}
-\contentsline {section}{\tocsection {}{A.11}{Supplementary figures}}{160}{section.A.11}
-\contentsline {chapter}{\tocappendix {Appendix}{B}{Supporting information for Chapter \ref {ch:metabolism}}}{165}{appendix.B}
-\contentsline {section}{\tocsection {}{B.1}{Model system}}{165}{section.B.1}
-\contentsline {section}{\tocsection {}{B.2}{Genetics}}{165}{section.B.2}
-\contentsline {subsection}{\tocsubsection {}{B.2.1}{IPC ablation}}{166}{subsection.B.2.1}
-\contentsline {subsection}{\tocsubsection {}{B.2.2}{Ribosomopathy}}{166}{subsection.B.2.2}
-\contentsline {subsection}{\tocsubsection {}{B.2.3}{yan \textsuperscript {\textDelta miR-7}-YFP}}{167}{subsection.B.2.3}
-\contentsline {subsection}{\tocsubsection {}{B.2.4}{sfGFP-sens and sfGFP-sens \textsuperscript {m1m2}}}{167}{subsection.B.2.4}
-\contentsline {section}{\tocsection {}{B.3}{Analysis of mutant phenotypes}}{168}{section.B.3}
-\contentsline {subsection}{\tocsubsection {}{B.3.1}{Eye mispatterning}}{168}{subsection.B.3.1}
-\contentsline {subsection}{\tocsubsection {}{B.3.2}{R7 cell analysis in the eye}}{169}{subsection.B.3.2}
-\contentsline {subsubsection}{\tocsubsubsection {}{B.3.2.1}{Bristle scoring}}{170}{subsubsection.B.3.2.1}
-\contentsline {subsection}{\tocsubsection {}{B.3.3}{Relative viability}}{170}{subsection.B.3.3}
-\contentsline {subsection}{\tocsubsection {}{B.3.4}{Population statistics}}{170}{subsection.B.3.4}
-\contentsline {section}{\tocsection {}{B.4}{Quantification of sfGFP-Sens in the wing disc}}{171}{section.B.4}
-\contentsline {section}{\tocsection {}{B.5}{Quantification of Yan-YFP dynamics in the eye}}{173}{section.B.5}
-\contentsline {section}{\tocsection {}{B.6}{Simulation procedure}}{175}{section.B.6}
-\contentsline {subsection}{\tocsubsection {}{B.6.1}{Simulation of protein expression dynamics}}{175}{subsection.B.6.1}
-\contentsline {subsection}{\tocsubsection {}{B.6.2}{Evaluation of error frequencies and changes in expression dynamics}}{176}{subsection.B.6.2}
-\contentsline {section}{\tocsection {}{B.7}{Dependence of model parameters on metabolic conditions}}{177}{section.B.7}
-\contentsline {chapter}{\tocappendix {Appendix}{C}{Computational tools for quantitative biologists}}{180}{appendix.C}
-\contentsline {chapter}{\tocappendix {Appendix}{D}{Reproduction data and code}}{182}{appendix.D}
+\contentsline {chapter}{\tocappendix {Appendix}{A}{Supporting information for Chapter \ref {ch:ratio}}}{152}{appendix.A}
+\contentsline {section}{\tocsection {}{A.1}{Genetics}}{152}{section.A.1}
+\contentsline {section}{\tocsection {}{A.2}{Immunohistochemistry}}{153}{section.A.2}
+\contentsline {section}{\tocsection {}{A.3}{Quantification of expression levels}}{155}{section.A.3}
+\contentsline {section}{\tocsection {}{A.4}{Conversion of distance to time}}{156}{section.A.4}
+\contentsline {section}{\tocsection {}{A.5}{Computation of moving averages and confidence intervals}}{156}{section.A.5}
+\contentsline {section}{\tocsection {}{A.6}{Alignment of expression data}}{157}{section.A.6}
+\contentsline {section}{\tocsection {}{A.7}{Analysis of \textit {yan} clones}}{158}{section.A.7}
+\contentsline {section}{\tocsection {}{A.8}{Parameterization of equilibrium binding model}}{159}{section.A.8}
+\contentsline {section}{\tocsection {}{A.9}{Visualization of relative Pnt and Yan expression in \textit {Notch} mutant discs}}{160}{section.A.9}
+\contentsline {section}{\tocsection {}{A.10}{Analysis of periodic spatial patterns in \textit {Notch} mutant discs}}{160}{section.A.10}
+\contentsline {section}{\tocsection {}{A.11}{Supplementary figures}}{161}{section.A.11}
+\contentsline {chapter}{\tocappendix {Appendix}{B}{Supporting information for Chapter \ref {ch:metabolism}}}{166}{appendix.B}
+\contentsline {section}{\tocsection {}{B.1}{Model system}}{166}{section.B.1}
+\contentsline {section}{\tocsection {}{B.2}{Genetics}}{166}{section.B.2}
+\contentsline {subsection}{\tocsubsection {}{B.2.1}{IPC ablation}}{167}{subsection.B.2.1}
+\contentsline {subsection}{\tocsubsection {}{B.2.2}{Ribosomopathy}}{167}{subsection.B.2.2}
+\contentsline {subsection}{\tocsubsection {}{B.2.3}{yan \textsuperscript {\textDelta miR-7}-YFP}}{168}{subsection.B.2.3}
+\contentsline {subsection}{\tocsubsection {}{B.2.4}{sfGFP-sens and sfGFP-sens \textsuperscript {m1m2}}}{168}{subsection.B.2.4}
+\contentsline {section}{\tocsection {}{B.3}{Analysis of mutant phenotypes}}{169}{section.B.3}
+\contentsline {subsection}{\tocsubsection {}{B.3.1}{Eye mispatterning}}{169}{subsection.B.3.1}
+\contentsline {subsection}{\tocsubsection {}{B.3.2}{R7 cell analysis in the eye}}{170}{subsection.B.3.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{B.3.2.1}{Bristle scoring}}{171}{subsubsection.B.3.2.1}
+\contentsline {subsection}{\tocsubsection {}{B.3.3}{Relative viability}}{171}{subsection.B.3.3}
+\contentsline {subsection}{\tocsubsection {}{B.3.4}{Population statistics}}{171}{subsection.B.3.4}
+\contentsline {section}{\tocsection {}{B.4}{Quantification of sfGFP-Sens in the wing disc}}{172}{section.B.4}
+\contentsline {section}{\tocsection {}{B.5}{Quantification of Yan-YFP dynamics in the eye}}{174}{section.B.5}
+\contentsline {section}{\tocsection {}{B.6}{Simulation procedure}}{176}{section.B.6}
+\contentsline {subsection}{\tocsubsection {}{B.6.1}{Simulation of protein expression dynamics}}{176}{subsection.B.6.1}
+\contentsline {subsection}{\tocsubsection {}{B.6.2}{Evaluation of error frequencies and changes in expression dynamics}}{177}{subsection.B.6.2}
+\contentsline {section}{\tocsection {}{B.7}{Dependence of model parameters on metabolic conditions}}{178}{section.B.7}
+\contentsline {chapter}{\tocappendix {Appendix}{C}{Computational tools for quantitative biologists}}{181}{appendix.C}
+\contentsline {chapter}{\tocappendix {Appendix}{D}{Reproduction data and code}}{183}{appendix.D}

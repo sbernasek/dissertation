@@ -2,92 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: unsrtnat.bst
-Reallocated field_info (elt_size=4) to 12896 items from 5000.
+Reallocated field_info (elt_size=4) to 12952 items from 5000.
 Database file #1: ./bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for "Ready1976"
-Warning--I didn't find a database entry for "Tomlinson1987"
-Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Frankfort2002"
-Warning--I didn't find a database entry for "Hsiung2002"
-Warning--I didn't find a database entry for "Baker1990"
-Warning--I didn't find a database entry for "Ghysen1993"
-Warning--I didn't find a database entry for "Simpson1997"
-Warning--I didn't find a database entry for "ColmanLerner2005"
-Warning--I didn't find a database entry for "Petkova2019"
-Warning--I didn't find a database entry for "Barkai1997"
-Warning--I didn't find a database entry for "Yu2008"
-Warning--I didn't find a database entry for "Alon1999"
-Warning--I didn't find a database entry for "Benziger2018"
-Warning--I didn't find a database entry for "Lai1992"
-Warning--I didn't find a database entry for "Freeman2000"
-Warning--I didn't find a database entry for "Alon2007"
-Warning--I didn't find a database entry for "Behar2007"
-Warning--I didn't find a database entry for "Bhalla2002"
-Warning--I didn't find a database entry for "Cheong2011"
-Warning--I didn't find a database entry for "Yi2003"
-Warning--I didn't find a database entry for "Khammash2016"
-Warning--I didn't find a database entry for "Cassidy2016"
-Warning--I didn't find a database entry for "Li2009"
-Warning--I didn't find a database entry for "Waddington1942"
-Warning--I didn't find a database entry for "Bateman1959"
-Warning--I didn't find a database entry for "Rendel1959"
-Warning--I didn't find a database entry for "Rendel1966"
-Warning--I didn't find a database entry for "Scharloo1991"
-Warning--I didn't find a database entry for "Dun1958"
-Warning--I didn't find a database entry for "Hogness1996"
-Warning--I didn't find a database entry for "Eldar2002"
-Warning--I didn't find a database entry for "Denby2012"
-Warning--I didn't find a database entry for "Hartman2001"
-Warning--I didn't find a database entry for "Marciano2014"
-Warning--I didn't find a database entry for "Kitano2004"
-Warning--I didn't find a database entry for "Siegal2014"
-Warning--I didn't find a database entry for "Siegal2002"
-Warning--I didn't find a database entry for "Bergman2003"
-Warning--I didn't find a database entry for "Lynch2007"
-Warning--I didn't find a database entry for "Wagner2003"
-Warning--I didn't find a database entry for "McAdams1999"
-Warning--I didn't find a database entry for "Nowak1997"
-Warning--I didn't find a database entry for "Wagner2000"
-You've used 238 entries,
+You've used 284 entries,
             2481 wiz_defined-function locations,
-            2727 strings with 80842 characters,
-and the built_in function-call counts, 113366 in all, are:
-= -- 9957
-> -- 7098
-< -- 109
-+ -- 2629
-- -- 2152
-* -- 10580
-:= -- 19069
-add.period$ -- 1278
-call.type$ -- 238
-change.case$ -- 469
-chr.to.int$ -- 237
-cite$ -- 238
-duplicate$ -- 4578
-empty$ -- 8827
-format.name$ -- 2506
-if$ -- 23330
+            3044 strings with 93698 characters,
+and the built_in function-call counts, 133445 in all, are:
+= -- 11896
+> -- 8032
+< -- 136
++ -- 2995
+- -- 2426
+* -- 12331
+:= -- 22345
+add.period$ -- 1536
+call.type$ -- 284
+change.case$ -- 561
+chr.to.int$ -- 283
+cite$ -- 284
+duplicate$ -- 5440
+empty$ -- 10534
+format.name$ -- 2850
+if$ -- 27548
 int.to.chr$ -- 2
-int.to.str$ -- 239
-missing$ -- 235
-newline$ -- 1756
-num.names$ -- 716
-pop$ -- 1225
+int.to.str$ -- 285
+missing$ -- 277
+newline$ -- 2106
+num.names$ -- 854
+pop$ -- 1453
 preamble$ -- 1
-purify$ -- 238
+purify$ -- 284
 quote$ -- 0
-skip$ -- 2554
+skip$ -- 3057
 stack$ -- 0
-substring$ -- 5663
-swap$ -- 682
-text.length$ -- 14
+substring$ -- 6762
+swap$ -- 793
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1648
+type$ -- 1970
 warning$ -- 0
-while$ -- 888
+while$ -- 1060
 width$ -- 0
-write$ -- 4210
-(There were 44 warnings)
+write$ -- 5044

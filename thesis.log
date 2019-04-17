@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  16 APR 2019 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  17 APR 2019 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,24 +979,17 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 [3
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+])
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[4])
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[5]
+[4]
 Acknowledgements
 (./text/acknowledgements.tex)
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[6
+[5
 
 
 
@@ -1006,7 +999,7 @@ Table of Contents
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[7
+[6
 
 
 
@@ -1017,7 +1010,7 @@ Underfull \vbox (badness 2951) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[8])
+[7])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
@@ -1025,7 +1018,7 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[9]
+[8]
 List of Tables
 (./thesis.lot)
 \tf@lot=\write6
@@ -1035,7 +1028,7 @@ List of Tables
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[10
+[9
 
 
 
@@ -1045,7 +1038,7 @@ List of Figures
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[11
+[10
 
 
 
@@ -1053,7 +1046,7 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[12])
+[11])
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
@@ -1061,7 +1054,7 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[13] (./text/introduction.tex
+[12] (./text/introduction.tex
 Chapter 1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1070,33 +1063,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[14
+[13
 
 
 ]
-Underfull \vbox (badness 1281) has occurred while \output is active []
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [15]
-
-Package natbib Warning: Citation `Ready1976' on page 16 undefined on input line
- 19.
-
-
-Package natbib Warning: Citation `Tomlinson1987' on page 16 undefined on input 
-line 19.
-
-
-Package natbib Warning: Citation `' on page 16 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Frankfort2002' on page 16 undefined on input 
-line 19.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1104,104 +1085,25 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [16]
-
-Package natbib Warning: Citation `Hsiung2002' on page 17 undefined on input lin
-e 21.
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Baker1990' on page 17 undefined on input line
- 21.
+[17]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `Ghysen1993' on page 17 undefined on input lin
-e 21.
-
-
-Package natbib Warning: Citation `Simpson1997' on page 17 undefined on input li
-ne 21.
-
-
-Package natbib Warning: Citation `Paulsen2011' on page 17 undefined on input li
-ne 23.
-
-
-Package natbib Warning: Citation `Burga2011' on page 17 undefined on input line
- 23.
-
-
-Package natbib Warning: Citation `ColmanLerner2005' on page 17 undefined on inp
-ut line 23.
-
-
-Package natbib Warning: Citation `Baker1990' on page 17 undefined on input line
- 23.
-
-
-Package natbib Warning: Citation `Ghysen1993' on page 17 undefined on input lin
-e 23.
-
-
-Package natbib Warning: Citation `Simpson1997' on page 17 undefined on input li
-ne 23.
-
-
+[18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[17]
-
-Package natbib Warning: Citation `Lazebnik2004' on page 18 undefined on input l
-ine 29.
-
-
-Package natbib Warning: Citation `Petkova2019' on page 18 undefined on input li
-ne 33.
-
-
-Package natbib Warning: Citation `Petkova2019' on page 18 undefined on input li
-ne 33.
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[18]
-
-Package natbib Warning: Citation `Barkai1997' on page 19 undefined on input lin
-e 41.
-
-
-Package natbib Warning: Citation `Yu2008' on page 19 undefined on input line 41
-.
-
-
-Package natbib Warning: Citation `Paulsen2011' on page 19 undefined on input li
-ne 41.
-
-
-Underfull \vbox (badness 4013) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
 [19]
-
-Package natbib Warning: Citation `Barkai1997' on page 20 undefined on input lin
-e 43.
-
-
-Package natbib Warning: Citation `Alon1999' on page 20 undefined on input line 
-43.
-
-
-Package natbib Warning: Citation `Benziger2018' on page 20 undefined on input l
-ine 43.
-
-
+LaTeX Font Info:    Try loading font information for U+eur on input line 53.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1209,11 +1111,6 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [20]
-
-Package natbib Warning: Citation `Lai1992' on page 21 undefined on input line 4
-7.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1221,82 +1118,6 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [21]
-
-Package natbib Warning: Citation `Freeman2000' on page 22 undefined on input li
-ne 53.
-
-
-Package natbib Warning: Citation `Alon2007' on page 22 undefined on input line 
-53.
-
-
-Package natbib Warning: Citation `Behar2007' on page 22 undefined on input line
- 53.
-
-
-Package natbib Warning: Citation `Bhalla2002' on page 22 undefined on input lin
-e 53.
-
-
-Package natbib Warning: Citation `Cheong2011' on page 22 undefined on input lin
-e 53.
-
-
-Package natbib Warning: Citation `Paulsen2011' on page 22 undefined on input li
-ne 53.
-
-
-Package natbib Warning: Citation `Yi2003' on page 22 undefined on input line 53
-.
-
-
-Package natbib Warning: Citation `Yu2008' on page 22 undefined on input line 53
-.
-
-LaTeX Font Info:    Try loading font information for U+eur on input line 53.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/ueur.fd
-File: ueur.fd 2013/01/14 v3.01 Euler Roman
-)
-
-Package natbib Warning: Citation `Yi2003' on page 22 undefined on input line 53
-.
-
-
-Package natbib Warning: Citation `Yu2008' on page 22 undefined on input line 53
-.
-
-
-Package natbib Warning: Citation `Khammash2016' on page 22 undefined on input l
-ine 53.
-
-
-Package natbib Warning: Citation `Paulsen2011' on page 22 undefined on input li
-ne 55.
-
-
-Package natbib Warning: Citation `Cassidy2016' on page 22 undefined on input li
-ne 57.
-
-
-Package natbib Warning: Citation `Li2009' on page 22 undefined on input line 57
-.
-
-
-Package natbib Warning: Citation `Li2009' on page 22 undefined on input line 57
-.
-
-
-Package natbib Warning: Citation `Cassidy2016' on page 22 undefined on input li
-ne 57.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[22]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -1307,140 +1128,33 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-
-Package natbib Warning: Citation `Waddington1942' on page 23 undefined on input
- line 61.
-
-
-Package natbib Warning: Citation `Bateman1959' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Rendel1959' on page 23 undefined on input lin
-e 61.
-
-
-Package natbib Warning: Citation `Rendel1966' on page 23 undefined on input lin
-e 61.
-
-
-Package natbib Warning: Citation `Scharloo1991' on page 23 undefined on input l
-ine 61.
-
-
-Package natbib Warning: Citation `Dun1958' on page 23 undefined on input line 6
-1.
-
-
-Package natbib Warning: Citation `Hogness1996' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Paulsen2011' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Li2009' on page 23 undefined on input line 61
-.
-
-
-Package natbib Warning: Citation `Eldar2002' on page 23 undefined on input line
- 61.
-
-
-Package natbib Warning: Citation `Denby2012' on page 23 undefined on input line
- 61.
-
-
-Package natbib Warning: Citation `Cassidy2016' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Freeman2000' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Hartman2001' on page 23 undefined on input li
-ne 61.
-
-
-Package natbib Warning: Citation `Alon2007' on page 23 undefined on input line 
-61.
-
-
-Package natbib Warning: Citation `Marciano2014' on page 23 undefined on input l
-ine 61.
-
-
-Package natbib Warning: Citation `Kitano2004' on page 23 undefined on input lin
-e 61.
-
-
-Package natbib Warning: Citation `Siegal2014' on page 23 undefined on input lin
-e 63.
-
-
-Package natbib Warning: Citation `Siegal2002' on page 23 undefined on input lin
-e 63.
-
-
-Package natbib Warning: Citation `Bergman2003' on page 23 undefined on input li
-ne 63.
-
-
-Package natbib Warning: Citation `Lynch2007' on page 23 undefined on input line
- 63.
-
-
-Package natbib Warning: Citation `Wagner2003' on page 23 undefined on input lin
-e 63.
+Underfull \vbox (badness 4013) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[23]
-
-Package natbib Warning: Citation `Hartman2001' on page 24 undefined on input li
-ne 65.
-
-
-Package natbib Warning: Citation `McAdams1999' on page 24 undefined on input li
-ne 65.
-
-
-Package natbib Warning: Citation `Nowak1997' on page 24 undefined on input line
- 65.
-
-
-Package natbib Warning: Citation `Kitano2004' on page 24 undefined on input lin
-e 65.
-
-
-Package natbib Warning: Citation `Wagner2000' on page 24 undefined on input lin
-e 67.
-
-) (./text/clones.tex
+[22]) (./text/clones.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[24]
+[23]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[25]
+[24]
 Chapter 2
 
-Underfull \vbox (badness 1527) has occurred while \output is active []
+Underfull \vbox (badness 7851) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[26
+[25
 
 
 ]
@@ -1453,7 +1167,7 @@ Missing character: There is no í in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no í in font cmr12!
- <./figures/clones/./figure_1a.png, id=664, 397.2441pt x 121.4136pt>
+ <./figures/clones/./figure_1a.png, id=762, 397.2441pt x 121.4136pt>
 File: ./figures/clones/./figure_1a.png Graphic file (type png)
 
 <use ./figures/clones/./figure_1a.png>
@@ -1471,7 +1185,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[27]
+[26]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -1482,8 +1196,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[28 <./figures/clones/./figure_1a.png (PNG copy)>]
-<./figures/clones/./figure_1b.png, id=703, 500.5902pt x 424.2249pt>
+[27 <./figures/clones/./figure_1a.png (PNG copy)>]
+<./figures/clones/./figure_1b.png, id=798, 500.5902pt x 424.2249pt>
 File: ./figures/clones/./figure_1b.png Graphic file (type png)
 
 <use ./figures/clones/./figure_1b.png>
@@ -1519,18 +1233,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[29]
+[28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[30 <./figures/clones/./figure_1b.png (PNG copy)>]
+[29 <./figures/clones/./figure_1b.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[31] <./figures/clones/./figure_S1.png, id=736, 532.6299pt x 141.8901pt>
+[30] <./figures/clones/./figure_S1.png, id=831, 532.6299pt x 141.8901pt>
 File: ./figures/clones/./figure_S1.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S1.png>
@@ -1544,11 +1258,11 @@ Underfull \vbox (badness 3009) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[32 <./figures/clones/./figure_S1.png (PNG copy)>]
+[31 <./figures/clones/./figure_S1.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[33] <./figures/clones/./figure_2.png, id=762, 395.5578pt x 122.3772pt>
+[32] <./figures/clones/./figure_2.png, id=858, 395.5578pt x 122.3772pt>
 File: ./figures/clones/./figure_2.png Graphic file (type png)
 
 <use ./figures/clones/./figure_2.png>
@@ -1562,11 +1276,11 @@ Underfull \vbox (badness 7814) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[34 <./figures/clones/./figure_2.png (PNG copy)>]
+[33 <./figures/clones/./figure_2.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[35] <./figures/clones/./figure_S2.png, id=807, 460.119pt x 349.7868pt>
+[34] <./figures/clones/./figure_S2.png, id=902, 460.119pt x 349.7868pt>
 File: ./figures/clones/./figure_S2.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S2.png>
@@ -1584,15 +1298,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[36]
+[35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[37 <./figures/clones/./figure_S2.png (PNG copy)>]
-<./figures/clones/./figure_S3.png, id=822, 410.7345pt x 222.1098pt>
+[36 <./figures/clones/./figure_S2.png (PNG copy)>]
+<./figures/clones/./figure_S3.png, id=916, 410.7345pt x 222.1098pt>
 File: ./figures/clones/./figure_S3.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S3.png>
@@ -1610,15 +1324,15 @@ Underfull \vbox (badness 6575) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[38]
+[37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[39 <./figures/clones/./figure_S3.png (PNG copy)>]
-<./figures/clones/./figure_S4.png, id=843, 550.6974pt x 414.8298pt>
+[38 <./figures/clones/./figure_S3.png (PNG copy)>]
+<./figures/clones/./figure_S4.png, id=938, 550.6974pt x 414.8298pt>
 File: ./figures/clones/./figure_S4.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S4.png>
@@ -1633,14 +1347,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[40]
+[39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[41 <./figures/clones/./figure_S4.png (PNG copy)>]
+[40 <./figures/clones/./figure_S4.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1668,14 +1389,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[45]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[46] <./figures/clones/./figure_3.png, id=918, 277.9986pt x 139.722pt>
+[45] <./figures/clones/./figure_3.png, id=1014, 277.9986pt x 139.722pt>
 File: ./figures/clones/./figure_3.png Graphic file (type png)
 
 <use ./figures/clones/./figure_3.png>
@@ -1689,7 +1403,7 @@ Underfull \vbox (badness 2012) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[47] <./figures/clones/./figure_S5.png, id=927, 478.9092pt x 125.7498pt>
+[46] <./figures/clones/./figure_S5.png, id=1022, 478.9092pt x 125.7498pt>
 File: ./figures/clones/./figure_S5.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S5.png>
@@ -1708,12 +1422,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[48 <./figures/clones/./figure_3.png (PNG copy)> <./figures/clones/./figure_S5.
+[47 <./figures/clones/./figure_3.png (PNG copy)> <./figures/clones/./figure_S5.
 png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[49] <./figures/clones/./figure_S6.png, id=944, 484.209pt x 329.0694pt>
+[48] <./figures/clones/./figure_S6.png, id=1038, 484.209pt x 329.0694pt>
 File: ./figures/clones/./figure_S6.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S6.png>
@@ -1731,7 +1445,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[50] <./figures/clones/./figure_S7.png, id=955, 423.0204pt x 319.4334pt>
+[49] <./figures/clones/./figure_S7.png, id=1050, 423.0204pt x 319.4334pt>
 File: ./figures/clones/./figure_S7.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S7.png>
@@ -1745,15 +1459,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[51 <./figures/clones/./figure_S6.png (PNG copy)>]
+[50 <./figures/clones/./figure_S6.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[52 <./figures/clones/./figure_S7.png (PNG copy)>]
-<./figures/clones/./figure_4.png, id=971, 238.0092pt x 105.996pt>
+[51 <./figures/clones/./figure_S7.png (PNG copy)>]
+<./figures/clones/./figure_4.png, id=1066, 238.0092pt x 105.996pt>
 File: ./figures/clones/./figure_4.png Graphic file (type png)
 
 <use ./figures/clones/./figure_4.png>
@@ -1767,15 +1481,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[53]
+[52]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[54 <./figures/clones/./figure_4.png (PNG copy)>]
-<./figures/clones/./figure_S8.png, id=985, 247.6452pt x 112.9821pt>
+[53 <./figures/clones/./figure_4.png (PNG copy)>]
+<./figures/clones/./figure_S8.png, id=1081, 247.6452pt x 112.9821pt>
 File: ./figures/clones/./figure_S8.png Graphic file (type png)
 
 <use ./figures/clones/./figure_S8.png>
@@ -1789,24 +1503,27 @@ Underfull \vbox (badness 2065) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[55 <./figures/clones/./figure_S8.png (PNG copy)>]) (./text/ratio.tex
+[54 <./figures/clones/./figure_S8.png (PNG copy)>]) (./text/ratio.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[56]
+[55]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[57]
+[56]
 Chapter 3
 
+Underfull \vbox (badness 2326) has occurred while \output is active []
+
+
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[58
+[57
 
 
 ]
@@ -1817,6 +1534,13 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ê in font cmr12!
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1837,14 +1561,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[62] <figures/ratio/./figure_1.png, id=1153, 603.6954pt x 460.6008pt>
+[61] <figures/ratio/./figure_1.png, id=1252, 603.6954pt x 460.6008pt>
 File: figures/ratio/./figure_1.png Graphic file (type png)
 
 <use figures/ratio/./figure_1.png>
@@ -1861,14 +1578,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[63]
+[62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[64 <./figures/ratio/./figure_1.png (PNG copy)>]
+[63 <./figures/ratio/./figure_1.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1882,14 +1606,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[66]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[67] <figures/ratio/./figure_2.png, id=1215, 515.7669pt x 473.8503pt>
+[66] <figures/ratio/./figure_2.png, id=1312, 515.7669pt x 473.8503pt>
 File: figures/ratio/./figure_2.png Graphic file (type png)
 
 <use figures/ratio/./figure_2.png>
@@ -1906,15 +1623,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[68]
+[67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[69 <./figures/ratio/./figure_2.png (PNG copy)>]
-<figures/ratio/./figure_S3.png, id=1227, 475.7775pt x 106.7187pt>
+[68 <./figures/ratio/./figure_2.png (PNG copy)>]
+<figures/ratio/./figure_S3.png, id=1325, 475.7775pt x 106.7187pt>
 File: figures/ratio/./figure_S3.png Graphic file (type png)
 
 <use figures/ratio/./figure_S3.png>
@@ -1924,8 +1641,8 @@ Package pdftex.def Info: figures/ratio/./figure_S3.png used on input line 79.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[70 <./figures/ratio/./figure_S3.png (PNG copy)>]
-<figures/ratio/./figure_S4.png, id=1243, 261.6174pt x 136.3494pt>
+[69 <./figures/ratio/./figure_S3.png (PNG copy)>]
+<figures/ratio/./figure_S4.png, id=1341, 261.6174pt x 136.3494pt>
 File: figures/ratio/./figure_S4.png Graphic file (type png)
 
 <use figures/ratio/./figure_S4.png>
@@ -1938,14 +1655,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[71 <./figures/ratio/./figure_S4.png (PNG copy)>]
+[70 <./figures/ratio/./figure_S4.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[72] <figures/ratio/./figure_S5.png, id=1269, 464.6961pt x 376.0449pt>
+[71] <figures/ratio/./figure_S5.png, id=1368, 464.6961pt x 376.0449pt>
 File: figures/ratio/./figure_S5.png Graphic file (type png)
 
 <use figures/ratio/./figure_S5.png>
@@ -1962,15 +1679,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[73]
+[72]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[74 <./figures/ratio/./figure_S5.png (PNG copy)>]
-<figures/ratio/./figure_3.png, id=1293, 540.0978pt x 198.5016pt>
+[73 <./figures/ratio/./figure_S5.png (PNG copy)>]
+<figures/ratio/./figure_3.png, id=1392, 540.0978pt x 198.5016pt>
 File: figures/ratio/./figure_3.png Graphic file (type png)
 
 <use figures/ratio/./figure_3.png>
@@ -1984,21 +1701,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[75]
+[74]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[76 <./figures/ratio/./figure_3.png (PNG copy)>]
+[75 <./figures/ratio/./figure_3.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[77] <figures/ratio/./figure_4.png, id=1320, 481.0773pt x 382.5492pt>
+[76] <figures/ratio/./figure_4.png, id=1418, 481.0773pt x 382.5492pt>
 File: figures/ratio/./figure_4.png Graphic file (type png)
 
 <use figures/ratio/./figure_4.png>
@@ -2011,21 +1728,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[78 <./figures/ratio/./figure_4.png (PNG copy)>]
+[77 <./figures/ratio/./figure_4.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[79]
+[78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[80] <figures/ratio/./figure_5.png, id=1375, 449.7603pt x 400.8576pt>
+[79] <figures/ratio/./figure_5.png, id=1475, 449.7603pt x 400.8576pt>
 File: figures/ratio/./figure_5.png Graphic file (type png)
 
 <use figures/ratio/./figure_5.png>
@@ -2042,7 +1759,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[81] <figures/ratio/./figure_S8.png, id=1389, 476.7411pt x 95.1555pt>
+[80] <figures/ratio/./figure_S8.png, id=1489, 476.7411pt x 95.1555pt>
 File: figures/ratio/./figure_S8.png Graphic file (type png)
 
 <use figures/ratio/./figure_S8.png>
@@ -2059,15 +1776,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[82 <./figures/ratio/./figure_5.png (PNG copy)>]
+[81 <./figures/ratio/./figure_5.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[83 <./figures/ratio/./figure_S8.png (PNG copy)>]
-<figures/ratio/./figure_6.png, id=1410, 373.8768pt x 221.1462pt>
+[82 <./figures/ratio/./figure_S8.png (PNG copy)>]
+<figures/ratio/./figure_6.png, id=1510, 373.8768pt x 221.1462pt>
 File: figures/ratio/./figure_6.png Graphic file (type png)
 
 <use figures/ratio/./figure_6.png>
@@ -2080,21 +1797,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[84 <./figures/ratio/./figure_6.png (PNG copy)>]
+[83 <./figures/ratio/./figure_6.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[85]
+[84]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[86] <figures/ratio/./figure_7.png, id=1442, 349.5459pt x 85.0377pt>
+[85] <figures/ratio/./figure_7.png, id=1541, 349.5459pt x 85.0377pt>
 File: figures/ratio/./figure_7.png Graphic file (type png)
 
 <use figures/ratio/./figure_7.png>
@@ -2107,17 +1824,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[87 <./figures/ratio/./figure_7.png (PNG copy)>]
+[86 <./figures/ratio/./figure_7.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[88]
+[87]
 Chapter 4
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[89
+[88
 
 
 ]
@@ -2127,14 +1844,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[90]
+[89]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[91] <figures/metabolism/./figure_1a.png, id=1532, 435.3063pt x 148.1535pt>
+[90] <figures/metabolism/./figure_1a.png, id=1631, 435.3063pt x 148.1535pt>
 File: figures/metabolism/./figure_1a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_1a.png>
@@ -2149,7 +1866,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[92] <figures/metabolism/./figure_1b.png, id=1553, 401.0985pt x 275.3487pt>
+[91] <figures/metabolism/./figure_1b.png, id=1653, 401.0985pt x 275.3487pt>
 File: figures/metabolism/./figure_1b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_1b.png>
@@ -2167,15 +1884,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[93 <./figures/metabolism/./figure_1a.png (PNG copy)>]
+[92 <./figures/metabolism/./figure_1a.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[94 <./figures/metabolism/./figure_1b.png (PNG copy)>]
-<figures/metabolism/./figure_2.png, id=1576, 477.4638pt x 241.6227pt>
+[93 <./figures/metabolism/./figure_1b.png (PNG copy)>]
+<figures/metabolism/./figure_2.png, id=1676, 477.4638pt x 241.6227pt>
 File: figures/metabolism/./figure_2.png Graphic file (type png)
 
 <use figures/metabolism/./figure_2.png>
@@ -2191,8 +1908,8 @@ Overfull \hbox (7.70761pt too wide) in paragraph at lines 52--53
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[95 <./figures/metabolism/./figure_2.png (PNG copy)>]
-<figures/metabolism/./figure_3.png, id=1590, 541.7841pt x 337.9827pt>
+[94 <./figures/metabolism/./figure_2.png (PNG copy)>]
+<figures/metabolism/./figure_3.png, id=1689, 541.7841pt x 337.9827pt>
 File: figures/metabolism/./figure_3.png Graphic file (type png)
 
 <use figures/metabolism/./figure_3.png>
@@ -2207,7 +1924,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[96] <figures/metabolism/./figure_4a.png, id=1600, 584.4234pt x 318.9516pt>
+[95] <figures/metabolism/./figure_4a.png, id=1699, 584.4234pt x 318.9516pt>
 File: figures/metabolism/./figure_4a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_4a.png>
@@ -2225,7 +1942,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[97 <./figures/metabolism/./figure_3.png (PNG copy)>]
+[96 <./figures/metabolism/./figure_3.png (PNG copy)>]
 Overfull \hbox (5.65863pt too wide) in paragraph at lines 93--93
  []|\OT1/cmr/bx/n/10.95 Propensity| 
  []
@@ -2240,12 +1957,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[98 <./figures/metabolism/./figure_4a.png (PNG copy)>]
+[97 <./figures/metabolism/./figure_4a.png (PNG copy)>]
 Overfull \hbox (5.65863pt too wide) in paragraph at lines 116--116
  []|\OT1/cmr/bx/n/10.95 Propensity| 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2259,14 +1983,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[100]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[101] <figures/metabolism/./figure_S1a.png, id=1642, 249.0906pt x 66.0066pt>
+[100] <figures/metabolism/./figure_S1a.png, id=1741, 249.0906pt x 66.0066pt>
 File: figures/metabolism/./figure_S1a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S1a.png>
@@ -2284,15 +2001,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[102]
+[101]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[103 <./figures/metabolism/./figure_S1a.png (PNG copy)>]
-<figures/metabolism/./figure_4b.png, id=1666, 543.2295pt x 462.0462pt>
+[102 <./figures/metabolism/./figure_S1a.png (PNG copy)>]
+<figures/metabolism/./figure_4b.png, id=1765, 543.2295pt x 462.0462pt>
 File: figures/metabolism/./figure_4b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_4b.png>
@@ -2303,7 +2020,7 @@ Package pdftex.def Info: figures/metabolism/./figure_4b.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S2b.png, id=1668, 330.7557pt x 255.1131pt>
+<figures/metabolism/./figure_S2b.png, id=1767, 330.7557pt x 255.1131pt>
 File: figures/metabolism/./figure_S2b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S2b.png>
@@ -2321,22 +2038,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[104]
+[103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[105 <./figures/metabolism/./figure_4b.png (PNG copy)>]
+[104 <./figures/metabolism/./figure_4b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[106 <./figures/metabolism/./figure_S2b.png (PNG copy)>]
-<figures/metabolism/./figure_5.png, id=1695, 414.5889pt x 251.0178pt>
+[105 <./figures/metabolism/./figure_S2b.png (PNG copy)>]
+<figures/metabolism/./figure_5.png, id=1795, 414.5889pt x 251.0178pt>
 File: figures/metabolism/./figure_5.png Graphic file (type png)
 
 <use figures/metabolism/./figure_5.png>
@@ -2354,15 +2071,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[107]
+[106]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[108 <./figures/metabolism/./figure_5.png (PNG copy)>]
-<figures/metabolism/./figure_6.png, id=1715, 558.4062pt x 174.4116pt>
+[107 <./figures/metabolism/./figure_5.png (PNG copy)>]
+<figures/metabolism/./figure_6.png, id=1814, 558.4062pt x 174.4116pt>
 File: figures/metabolism/./figure_6.png Graphic file (type png)
 
 <use figures/metabolism/./figure_6.png>
@@ -2377,7 +2094,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[109] <figures/metabolism/./figure_7a.png, id=1725, 527.571pt x 255.5949pt>
+[108] <figures/metabolism/./figure_7a.png, id=1823, 527.571pt x 255.5949pt>
 File: figures/metabolism/./figure_7a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7a.png>
@@ -2388,7 +2105,7 @@ Package pdftex.def Info: figures/metabolism/./figure_7a.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_7b.png, id=1731, 411.6981pt x 262.581pt>
+<figures/metabolism/./figure_7b.png, id=1829, 411.6981pt x 262.581pt>
 File: figures/metabolism/./figure_7b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7b.png>
@@ -2406,15 +2123,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[110 <./figures/metabolism/./figure_6.png (PNG copy)>]
+[109 <./figures/metabolism/./figure_6.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[111 <./figures/metabolism/./figure_7a.png (PNG copy)>]
-<figures/metabolism/./figure_7c.png, id=1755, 386.4036pt x 128.3997pt>
+[110 <./figures/metabolism/./figure_7a.png (PNG copy)>]
+<figures/metabolism/./figure_7c.png, id=1854, 386.4036pt x 128.3997pt>
 File: figures/metabolism/./figure_7c.png Graphic file (type png)
 
 <use figures/metabolism/./figure_7c.png>
@@ -2437,25 +2154,25 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[112 <./figures/metabolism/./figure_7b.png (PNG copy)>]
+[111 <./figures/metabolism/./figure_7b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[113 <./figures/metabolism/./figure_7c.png (PNG copy)>]
+[112 <./figures/metabolism/./figure_7c.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[114]
+[113]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[115] <figures/metabolism/./figure_S1b.png, id=1803, 315.3381pt x 318.9516pt>
+[114] <figures/metabolism/./figure_S1b.png, id=1901, 315.3381pt x 318.9516pt>
 File: figures/metabolism/./figure_S1b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S1b.png>
@@ -2466,7 +2183,7 @@ Package pdftex.def Info: figures/metabolism/./figure_S1b.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S1c.png, id=1805, 213.9192pt x 99.9735pt>
+<figures/metabolism/./figure_S1c.png, id=1903, 213.9192pt x 99.9735pt>
 File: figures/metabolism/./figure_S1c.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S1c.png>
@@ -2484,28 +2201,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[116]
+[115]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[117 <./figures/metabolism/./figure_S1b.png (PNG copy)>]
+[116 <./figures/metabolism/./figure_S1b.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[118 <./figures/metabolism/./figure_S1c.png (PNG copy)>]
+[117 <./figures/metabolism/./figure_S1c.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[119] <figures/metabolism/./figure_S2a.png, id=1835, 572.8602pt x 222.8325pt>
+[118] <figures/metabolism/./figure_S2a.png, id=1933, 572.8602pt x 222.8325pt>
 File: figures/metabolism/./figure_S2a.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S2a.png>
@@ -2516,7 +2233,7 @@ Package pdftex.def Info: figures/metabolism/./figure_S2a.png used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/metabolism/./figure_S3b.png, id=1842, 349.7868pt x 120.45pt>
+<figures/metabolism/./figure_S3b.png, id=1940, 349.7868pt x 120.45pt>
 File: figures/metabolism/./figure_S3b.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S3b.png>
@@ -2534,7 +2251,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[120] <figures/metabolism/./figure_S4.png, id=1849, 581.7735pt x 225.4824pt>
+[119] <figures/metabolism/./figure_S4.png, id=1947, 581.7735pt x 225.4824pt>
 File: figures/metabolism/./figure_S4.png Graphic file (type png)
 
 <use figures/metabolism/./figure_S4.png>
@@ -2549,9 +2266,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[121 <./figures/metabolism/./figure_S2a.png (PNG copy)>]
+[120 <./figures/metabolism/./figure_S2a.png (PNG copy)>]
 
-LaTeX Warning: Text page 122 contains only floats.
+LaTeX Warning: Text page 121 contains only floats.
 
 
 Overfull \vbox (2.81548pt too high) has occurred while \output is active []
@@ -2560,17 +2277,67 @@ Overfull \vbox (2.81548pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[122 <./figures/metabolism/./figure_S3b.png (PNG copy)> <./figures/metabolism/.
+[121 <./figures/metabolism/./figure_S3b.png (PNG copy)> <./figures/metabolism/.
 /figure_S4.png (PNG copy)>]
 References
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--75
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+[]\OT1/cmr/m/n/12 Benjamin Jay Frank-fort and Graeme Mar-don.  R8 de-vel-op-men
+t in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmr/m/n/12 the Drosophila eye: a par-a-digm for neu-ral se-lec-tion and di
+f-fer-en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmr/m/n/12 ti-a-tion.  \OT1/cmr/m/it/12 De-vel-op-ment (Cam-bridge, Eng-la
+nd)\OT1/cmr/m/n/12 , 129(6):1295--306, 2002.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmr/m/n/12 ISSN 0950-1991.  URL []$\OT1/cmtt/m/n/12 https : / / www . sema
+nticscholar . org / paper /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmtt/m/n/12 R8-[]development-[]in-[]the-[]Drosophila-[]eye{%}3A-[]a-[]para
+digm-[]Frankfort-[]Mardon /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
+\OT1/cmtt/m/n/12 fac459f976737f3273b1733809e231aaf0c8d799http : / / www . ncbi 
+. nlm . nih . gov /
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[122
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ê in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
 \OT1/cmtt/m/n/12 pubmed / 21633009http : / / www . pubmedcentral . nih . gov / 
 articlerender . fcgi ?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--86
+Underfull \hbox (badness 10000) in paragraph at lines 162--171
 \OT1/cmtt/m/n/12 semanticscholar . org / 6b1d / 9bd605bed0890a2f54a0f3e68323615
 6a624 . pdfhttp :
  []
@@ -2582,17 +2349,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[123
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 216--223
+[]$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / S0303264705001176 / 1-[]s
+2 . 0-[]S0303264705001176-[]main .
+ []
 
 
-]
-Underfull \hbox (badness 2080) in paragraph at lines 114--123
+Underfull \hbox (badness 10000) in paragraph at lines 216--223
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 1c7460a4-[]6972-[]11e7-[]8ef7-[]00000aab0f27{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 235--244
 \OT1/cmr/m/n/12 pnas . 1611428114$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
 cbi . nlm . nih . gov / pubmed / 28320972http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--123
+Underfull \hbox (badness 10000) in paragraph at lines 235--244
 \OT1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? a
 rtid = PMC5389321http :
  []
@@ -2605,37 +2381,44 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [124]
-Underfull \hbox (badness 1939) in paragraph at lines 193--203
+Underfull \hbox (badness 1939) in paragraph at lines 325--335
 \OT1/cmr/m/n/12 lan, Clare Baecher-Allan, and Jill P Mesirov.  Au-to-mated high
 -dimensional
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 193--203
+Underfull \hbox (badness 1436) in paragraph at lines 325--335
 \OT1/cmr/m/n/12 flow cy-to-met-ric data anal-y-sis.  \OT1/cmr/m/it/12 Pro-ceed-
 ings of the Na-tional Acad-emy of Sci-
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 193--203
+Underfull \hbox (badness 1668) in paragraph at lines 325--335
 \OT1/cmr/m/it/12 ences\OT1/cmr/m/n/12 , 106(21):8519--8524, may 2009.  ISSN 002
 7-8424.  doi: $10 . 1073 / pnas .
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 229--236
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[125]
+Underfull \hbox (badness 2865) in paragraph at lines 361--368
 []\OT1/cmr/m/n/12 Ben Lang-mead and Steven L Salzberg.  Fast gapped-read align-
 ment with
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 229--236
+Underfull \hbox (badness 1728) in paragraph at lines 361--368
 \OT1/cmr/m/n/12 Bowtie 2.  \OT1/cmr/m/it/12 Na-ture meth-ods\OT1/cmr/m/n/12 , 9
 (4):357--9, apr 2012.  ISSN 1548-7105.  doi:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--236
+Underfull \hbox (badness 10000) in paragraph at lines 361--368
 \OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 22388286{%}0Ahttp 
 : / / www . pubmedcentral .
  []
@@ -2647,41 +2430,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[125]
-Underfull \hbox (badness 1454) in paragraph at lines 337--348
+[126]
+Underfull \hbox (badness 1502) in paragraph at lines 478--489
+\OT1/cmr/m/n/12 nalling.  \OT1/cmr/m/it/12 Na-ture\OT1/cmr/m/n/12 , 456(7223):7
+55--61, 2008.  ISSN 1476-4687.  doi: $10 . 1038 /
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 498--509
 \OT1/cmr/m/n/12 10 . 1073 / pnas . 97 . 9 . 4649$.  URL []$\OT1/cmtt/m/n/12 htt
 p : / / www . pnas . org / content / pnas / 97 / 9 / 4649 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--348
+Underfull \hbox (badness 10000) in paragraph at lines 498--509
 \OT1/cmtt/m/n/12 full . pdfhttp : / / www . pnas . org / cgi / doi / 10 . 1073 
 / pnas . 97 . 9 . 4649http : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--348
+Underfull \hbox (badness 10000) in paragraph at lines 498--509
 \OT1/cmtt/m/n/12 pnas . org / content / 97 / 9 / 4649 . full . pdfhttp : / / ww
 w . pubmedcentral . nih . gov /
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[126]
-Underfull \hbox (badness 10000) in paragraph at lines 360--371
-\OT1/cmtt/m/n/12 pdfhttp : / / dev . biologists . org / cgi / doi / 10 . 1242 /
- dev . 044826{%}5Cnpapers3 :
+Underfull \hbox (badness 10000) in paragraph at lines 512--522
+[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S009286740900508X / 1-[]
+s2 . 0-[]S009286740900508X-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--371
-\OT1/cmtt/m/n/12 / / publication / doi / 10 . 1242 / dev . 044826http : / / www
- . ncbi . nlm . nih . gov / pubmed /
+Underfull \hbox (badness 10000) in paragraph at lines 512--522
+\OT1/cmtt/m/n/12 pdf ? {_}tid = e095f21a-[]73af-[]44bf-[]8998-[]fbeb03ab23d3{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--522
+\OT1/cmtt/m/n/12 1523285892{_}3269a18d028b9b3e95e15a1c9e001929https : / / www .
+ ncbi . nlm .
  []
 
 
@@ -2692,37 +2480,214 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
 [127]
-Underfull \hbox (badness 10000) in paragraph at lines 448--457
+Underfull \hbox (badness 10000) in paragraph at lines 524--532
+[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0092867409007120 / 1-[]
+s2 . 0-[]S0092867409007120-[]main .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--532
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 257c8902-[]9152-[]4762-[]a24c-[]dec4af470d67{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
+[]\OT1/cmr/m/n/12 Zhi-Chun Lai and Ger-ald M Ru-bin.  Neg-a-tive Con-trol of Ph
+o-tore-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
+\OT1/cmr/m/n/12 cep-tor De-vel-op-ment in Drosophila by the Prod-uct of the yan
+ Gene,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
+\OT1/cmr/m/n/12 an ETS Do-main Pro-tein.  \OT1/cmr/m/it/12 Cell\OT1/cmr/m/n/12 
+, 70(609420), 1992.  URL []$\OT1/cmtt/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
+\OT1/cmtt/m/n/12 / / ac . els-[]cdn . com / 009286749290430K / 1-[]s2 . 0-[]009
+286749290430K-[]main .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--604
+\OT1/cmtt/m/n/12 pdf ? {_}tid = f955cd7a-[]1d35-[]11e7-[]9dfe-[]00000aab0f6b{&}
+acdnat =
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[128]
+Underfull \hbox (badness 10000) in paragraph at lines 621--632
+\OT1/cmtt/m/n/12 pdfhttp : / / dev . biologists . org / cgi / doi / 10 . 1242 /
+ dev . 044826{%}5Cnpapers3 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--632
+\OT1/cmtt/m/n/12 / / publication / doi / 10 . 1242 / dev . 044826http : / / www
+ . ncbi . nlm . nih . gov / pubmed /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--665
+[]$\OT1/cmtt/m/n/12 https : / / me . ucsb . edu / {[]}moehlis / APC514 / 2002{_
+}2 . pdfhttp : / / www . ncbi . nlm .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--665
+\OT1/cmtt/m/n/12 nih . gov / pubmed / 11099031{%}5Cnhttp : / / www . nature . c
+om / nature / journal / v408 /
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 667--675
+[]\OT1/cmr/m/n/12 Uri Alon.  Net-work mo-tifs: the-ory and ex-per-i-men-tal ap-
+proaches.  \OT1/cmr/m/it/12 Na-
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 667--675
+\OT1/cmr/m/it/12 ture re-views. Ge-net-ics\OT1/cmr/m/n/12 , 8(6):450--61, 2007.
+  ISSN 1471-0056.  doi: $10 .
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 677--686
+[]\OT1/cmr/m/n/12 Marcelo Be-har, Nan Hao, Hen-rik G Dohlman, and Tim-o-thy C E
+l-ston.
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 677--686
+\OT1/cmr/m/n/12 Math-e-mat-i-cal and com-pu-ta-tional anal-y-sis of adap-ta-tio
+n via feed-back in-
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 677--686
+\OT1/cmr/m/n/12 hi-bi-tion in sig-nal trans-duc-tion path-ways.  \OT1/cmr/m/it/
+12 Bio-phys-i-cal jour-nal\OT1/cmr/m/n/12 , 93(3):806--
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 677--686
+\OT1/cmr/m/n/12 21, 2007.  ISSN 0006-3495.  doi: $10 . 1529 / biophysj . 107 . 
+107516$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--686
+[]$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / S0006349507713383 / 1-[]s
+2 . 0-[]S0006349507713383-[]main .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--686
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 227f53e0-[]8070-[]11e7-[]a70c-[]00000aab0f01{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--686
+\OT1/cmtt/m/n/12 1502660656{_}cca3148074153087b8a339f6366981d5http : / / www . 
+pubmedcentral .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[129]
+Underfull \hbox (badness 10000) in paragraph at lines 688--697
+\OT1/cmr/m/n/12 10 . 1126 / science . 1068873$.  URL []$\OT1/cmtt/m/n/12 http :
+ / / science . sciencemag . org / content /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--697
+\OT1/cmtt/m/n/12 sci / 297 / 5583 / 1018 . full . pdfhttp : / / www . sciencema
+g . org / content / 297 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--697
+\OT1/cmtt/m/n/12 5583 / 1018{%}5Cnhttp : / / www . ncbi . nlm . nih . gov / pub
+med / 12169734{%}5Cnhttp :
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 721--728
+[]\OT1/cmr/m/n/12 Mustafa Kham-mash.  An en-gi-neer-ing view-point on bi-o-log-
+i-cal ro-bust-ness, mar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--728
+\OT1/cmtt/m/n/12 1186 / s12915-[]016-[]0241-[]xhttp : / / www . ncbi . nlm . ni
+h . gov / pubmed / 27007299http :
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[130]
+Underfull \hbox (badness 10000) in paragraph at lines 764--773
 []$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / S0092867412004643 / 1-[]s
 2 . 0-[]S0092867412004643-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--457
+Underfull \hbox (badness 10000) in paragraph at lines 764--773
 \OT1/cmtt/m/n/12 pdf ? {_}tid = 7f25e6fa-[]8cd6-[]11e7-[]b642-[]00000aab0f6c{&}
 acdnat =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--457
+Underfull \hbox (badness 10000) in paragraph at lines 764--773
 \OT1/cmtt/m/n/12 1504024034{_}ea251b3bd7d6068bb351a33d320fd66ahttp : / / ac . e
 ls-[]cdn . com /
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 459--467
+Underfull \hbox (badness 10000) in paragraph at lines 775--784
+[]$\OT1/cmtt/m/n/12 https : / / www . nature . com / nature / journal / v150 / 
+n3811 / pdf / 150563a0 . pdfhttp :
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 839--847
 []\OT1/cmr/m/n/12 Suzanne L Ruther-ford and Su-san Lindquist.  Hsp90 as a ca-pa
 c-i-tor for mor-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--467
+Underfull \hbox (badness 10000) in paragraph at lines 839--847
 \OT1/cmr/m/n/12 10 . 1038 / 24550$.  URL []$\OT1/cmtt/m/n/12 http : / / www . n
 cbi . nlm . nih . gov / entrez / query . fcgi ?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--467
+Underfull \hbox (badness 10000) in paragraph at lines 839--847
 \OT1/cmtt/m/n/12 cmd = Retrieve{&}db = PubMed{&}dopt = Citation{&}list{_}uids =
  9845070https :
  []
@@ -2734,36 +2699,158 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[128]
+[131]
+Underfull \hbox (badness 1742) in paragraph at lines 910--919
+[]\OT1/cmr/m/n/12 Mark L Sie-gal and Jun-Yi Leu.  On the Na-ture and Evo-lu-tio
+n-ary Im-pact
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 910--919
+\OT1/cmr/m/n/12 of Phe-no-typic Ro-bust-ness Mech-a-nisms.  \OT1/cmr/m/it/12 An
+-nual Re-view of Ecol-ogy, Evo-lu-
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 910--919
+\OT1/cmr/m/it/12 tion, and Sys-tem-at-ics\OT1/cmr/m/n/12 , 45:495--517, 2014.  
+ISSN 1543-592X.  doi: $10 . 1146 /
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[129]
+[132]
+Underfull \hbox (badness 2181) in paragraph at lines 942--950
+\OT1/cmr/m/it/12 Na-ture re-views. Ge-net-ics\OT1/cmr/m/n/12 , 8(10):803--13, 2
+007.  ISSN 1471-0064.  doi: $10 .
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 952--961
+[]\OT1/cmr/m/n/12 Andreas Wag-ner.  How the global struc-ture of pro-tein in-te
+r-ac-tion net-
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 952--961
+\OT1/cmr/m/n/12 works evolves.  \OT1/cmr/m/it/12 Pro-ceed-ings. Bi-o-log-i-cal 
+sci-ences / The Royal So-ci-ety\OT1/cmr/m/n/12 , 270
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 952--961
+\OT1/cmr/m/n/12 (1514):457--66, 2003.  ISSN 0962-8452.  doi: $10 . 1098 / rspb 
+. 2002 . 2269$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--961
+[]$\OT1/cmtt/m/n/12 http : / / rspb . royalsocietypublishing . org / content / 
+royprsb / 270 / 1514 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--961
+\OT1/cmtt/m/n/12 457 . full . pdfhttp : / / www . ncbi . nlm . nih . gov / pubm
+ed / 12641899{%}5Cnhttp :
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 982--989
+\OT1/cmr/m/it/12 Na-ture ge-net-ics\OT1/cmr/m/n/12 , 24(4):355--61, 2000.  ISSN
+ 1061-4036.  doi: $10 . 1038 /
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 982--989
+\OT1/cmr/m/n/12 74174$.  URL []$\OT1/cmtt/m/n/12 http : / / www . nature . com 
+. turing . library . northwestern . edu / ng /
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[130]
-Underfull \hbox (badness 1424) in paragraph at lines 716--724
+[133]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[134]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[135]
+Underfull \hbox (badness 1424) in paragraph at lines 1214--1222
 \OT1/cmr/m/n/12 1186 / 1471-[]2105-[]11-[]372$.  URL []$\OT1/cmtt/m/n/12 http :
  / / bmcbioinformatics . biomedcentral . com /
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 776--783
+Underfull \hbox (badness 1005) in paragraph at lines 1274--1281
 \OT1/cmr/m/n/12 Ef-fi-ciency us-ing Spec-tral Imag-ing.  \OT1/cmr/m/it/12 Sci-e
 n-tific Re-ports\OT1/cmr/m/n/12 , 7(1), dec 2017.  ISSN
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 776--783
+Underfull \hbox (badness 1515) in paragraph at lines 1274--1281
 \OT1/cmr/m/n/12 20452322.  doi: $10 . 1038 / s41598-[]017-[]15411-[]8$.  URL []
 $\OT1/cmtt/m/n/12 http : / / www . nature . com /
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 1293--1303
+[]\OT1/cmr/m/n/12 Patrick D. Mc-Mullen, Richard I. Mo-ri-moto, and Lu^^S^^Ps A.
+ Nunes Ama-ral.
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 1293--1303
+\OT1/cmr/m/n/12 Phys-i-cally grounded ap-proach for es-ti-mat-ing gene ex-pres-
+sion from mi-croar-
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 1293--1303
+\OT1/cmr/m/n/12 ray data.  \OT1/cmr/m/it/12 Pro-ceed-ings of the Na-tional Acad
+-emy of Sci-ences\OT1/cmr/m/n/12 , 107(31):13690--
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 1293--1303
+\OT1/cmr/m/n/12 13695, aug 2010.  ISSN 1091-6490.  doi: $10 . 1073 / pnas . 100
+0938107$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1303
+[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 20643961
+http : / / www . pubmedcentral .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1303
+\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC2922271http : / 
+/ dx . doi . org / 10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1303
+\OT1/cmtt/m/n/12 1073 / pnas . 1000938107{%}5Cnhttp : / / www . pnas . org / co
+ntent / 107 / 31 / 13690 .
  []
 
 
@@ -2773,50 +2860,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[131]
-Underfull \hbox (badness 3895) in paragraph at lines 795--805
-[]\OT1/cmr/m/n/12 Patrick D. Mc-Mullen, Richard I. Mo-ri-moto, and Lu^^S^^Ps A.
- Nunes Ama-ral.
- []
-
-
-Underfull \hbox (badness 3815) in paragraph at lines 795--805
-\OT1/cmr/m/n/12 Phys-i-cally grounded ap-proach for es-ti-mat-ing gene ex-pres-
-sion from mi-croar-
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 795--805
-\OT1/cmr/m/n/12 ray data.  \OT1/cmr/m/it/12 Pro-ceed-ings of the Na-tional Acad
--emy of Sci-ences\OT1/cmr/m/n/12 , 107(31):13690--
- []
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 795--805
-\OT1/cmr/m/n/12 13695, aug 2010.  ISSN 1091-6490.  doi: $10 . 1073 / pnas . 100
-0938107$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 795--805
-[]$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 20643961
-http : / / www . pubmedcentral .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 795--805
-\OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC2922271http : / 
-/ dx . doi . org / 10 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 795--805
-\OT1/cmtt/m/n/12 1073 / pnas . 1000938107{%}5Cnhttp : / / www . pnas . org / co
-ntent / 107 / 31 / 13690 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 808--818
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1316
 \OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 27857550http : / /
  www . pubmedcentral . nih . gov /
  []
@@ -2828,44 +2873,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[132]
-Underfull \hbox (badness 7907) in paragraph at lines 896--905
+[137]
+Underfull \hbox (badness 7907) in paragraph at lines 1394--1403
 []\OT1/cmr/m/n/12 Pierre Dourlen, Clemence Levet, Alexan-dre Me-jat, Alexis Gam
 -bis, and
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 896--905
+Underfull \hbox (badness 3872) in paragraph at lines 1394--1403
 \OT1/cmr/m/n/12 Bertrand Mollereau.  The Tomato/GFP-FLP/FRT Method for Live Ima
 g-
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 896--905
+Underfull \hbox (badness 1910) in paragraph at lines 1394--1403
 \OT1/cmr/m/n/12 ing of Mo-saic Adult Drosophila Pho-tore-cep-tor Cells.  \OT1/c
 mr/m/it/12 Jour-nal of Vi-su-al-ized
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 896--905
+Underfull \hbox (badness 1565) in paragraph at lines 1394--1403
 \OT1/cmr/m/it/12 Ex-per-i-ments\OT1/cmr/m/n/12 , 79, sep 2013.  ISSN 1940-087X.
   doi: $10 . 3791 / 50610$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 896--905
+Underfull \hbox (badness 10000) in paragraph at lines 1394--1403
 []$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 24084155
 http : / / www . pubmedcentral .
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 908--916
+Underfull \hbox (badness 1205) in paragraph at lines 1406--1414
 \OT1/cmr/m/n/12 Gohl, and Thomas R Clan-dinin.  Flp-Stop, a tool for con-di-tio
 nal gene con-
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 908--916
+Underfull \hbox (badness 3590) in paragraph at lines 1406--1414
 \OT1/cmr/m/n/12 trol in Drosophila.  \OT1/cmr/m/it/12 eLife\OT1/cmr/m/n/12 , 6,
  2017.  ISSN 2050084X.  doi: $10 . 7554 /
  []
@@ -2877,113 +2922,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[133]
-Underfull \hbox (badness 1286) in paragraph at lines 1024--1033
+[138]
+Underfull \hbox (badness 1286) in paragraph at lines 1522--1531
 []\OT1/cmr/m/n/12 Celia Mu~noz-Jim^^Senez, Cristina Ayuso, Ag-nieszka Do-brzyn-
 ska, An-to-nio Torres-
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 1035--1043
+Underfull \hbox (badness 2538) in paragraph at lines 1533--1541
 []\OT1/cmr/m/n/12 Wei Wang, Mad-huri War-ren, and Al-lan Bradley.  In-duced mi-
 totic re-com-
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 1035--1043
+Underfull \hbox (badness 4621) in paragraph at lines 1533--1541
 \OT1/cmr/m/n/12 bi-na-tion of p53 in vivo.  \OT1/cmr/m/it/12 Pro-ceed-ings of t
 he Na-tional Acad-emy of Sci-
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 1035--1043
+Underfull \hbox (badness 1776) in paragraph at lines 1533--1541
 \OT1/cmr/m/it/12 ences\OT1/cmr/m/n/12 , 104(11):4501--4505, mar 2007.  ISSN 002
 7-8424.  doi: $10 . 1073 / pnas .
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[134]
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1063
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1561
 []$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0092867400802408 / 1-[]
 s2 . 0-[]S0092867400802408-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1063
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1561
 \OT1/cmtt/m/n/12 pdf ? {_}tid = a1ac0cd4-[]e6df-[]46a9-[]929b-[]256dc6bb5031{&}
 acdnat =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1063
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1561
 \OT1/cmtt/m/n/12 1521552994{_}0bd11e44665e33813f08708743cad4f8http : / / linkin
 ghub .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1079--1092
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0012160608013560 / 1-[]
-s2 . 0-[]S0012160608013560-[]main .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1079--1092
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 9124866b-[]92ab-[]4aa5-[]835e-[]b0b1e01cb022{&}
-acdnat =
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 1094--1102
-[]\OT1/cmr/m/n/12 Mary O'Riordan and Rudolf Gross-chedl.  Co-or-di-nate reg-u-l
-a-tion of B cell
- []
-
-
-Underfull \hbox (badness 2726) in paragraph at lines 1094--1102
-\OT1/cmr/m/n/12 dif-fer-en-ti-a-tion by the tran-scrip-tion fac-tors EBF and E2
-A.  \OT1/cmr/m/it/12 Im-mu-nity\OT1/cmr/m/n/12 , 11:
- []
-
-
-Underfull \hbox (badness 1688) in paragraph at lines 1094--1102
-\OT1/cmr/m/n/12 21--31, 1999.  ISSN 10747613.  doi: $10 . 1016 / S1074-[]7613(0
-0 ) 80078-[]3$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1094--1102
-[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S1074761300800783 / 1-[]
-s2 . 0-[]S1074761300800783-[]main .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1094--1102
-\OT1/cmtt/m/n/12 pdf ? {_}tid = 21992660-[]5fde-[]4241-[]8e1c-[]f8e71a18638f{&}
-acdnat =
- []
-
-
-Underfull \hbox (badness 2452) in paragraph at lines 1116--1128
-\OT1/cmr/m/n/12 1240831$.  URL []$\OT1/cmtt/m/n/12 http : / / science . science
-mag . org / content / sci / 341 / 6146 / 670 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1116--1128
-\OT1/cmtt/m/n/12 full . pdfhttp : / / www . sciencemag . org / content / 341 / 
-6146 / 670 . short{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1116--1128
-\OT1/cmtt/m/n/12 / / www . sciencemag . org / content / 341 / 6146 / 670 . full
- . pdfhttp : / / www . jem . org /
  []
 
 
@@ -2993,38 +2971,105 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[135]
-Underfull \hbox (badness 1953) in paragraph at lines 1130--1137
+[139]
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1590
+[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0012160608013560 / 1-[]
+s2 . 0-[]S0012160608013560-[]main .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1590
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 9124866b-[]92ab-[]4aa5-[]835e-[]b0b1e01cb022{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 1592--1600
+[]\OT1/cmr/m/n/12 Mary O'Riordan and Rudolf Gross-chedl.  Co-or-di-nate reg-u-l
+a-tion of B cell
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 1592--1600
+\OT1/cmr/m/n/12 dif-fer-en-ti-a-tion by the tran-scrip-tion fac-tors EBF and E2
+A.  \OT1/cmr/m/it/12 Im-mu-nity\OT1/cmr/m/n/12 , 11:
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 1592--1600
+\OT1/cmr/m/n/12 21--31, 1999.  ISSN 10747613.  doi: $10 . 1016 / S1074-[]7613(0
+0 ) 80078-[]3$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1600
+[]$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S1074761300800783 / 1-[]
+s2 . 0-[]S1074761300800783-[]main .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1600
+\OT1/cmtt/m/n/12 pdf ? {_}tid = 21992660-[]5fde-[]4241-[]8e1c-[]f8e71a18638f{&}
+acdnat =
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1614--1626
+\OT1/cmr/m/n/12 1240831$.  URL []$\OT1/cmtt/m/n/12 http : / / science . science
+mag . org / content / sci / 341 / 6146 / 670 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1614--1626
+\OT1/cmtt/m/n/12 full . pdfhttp : / / www . sciencemag . org / content / 341 / 
+6146 / 670 . short{%}5Cnhttp :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1614--1626
+\OT1/cmtt/m/n/12 / / www . sciencemag . org / content / 341 / 6146 / 670 . full
+ . pdfhttp : / / www . jem . org /
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 1628--1635
 \OT1/cmr/m/n/12 A bistable Rb-E2F switch un-der-lies the re-stric-tion point.  
 \OT1/cmr/m/it/12 Na-ture Cell Bi-
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 1130--1137
+Underfull \hbox (badness 1418) in paragraph at lines 1628--1635
 \OT1/cmr/m/it/12 ol-ogy\OT1/cmr/m/n/12 , 10(4):476--482, 2008.  ISSN 14657392. 
  doi: $10 . 1038 / ncb1711$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1130--1137
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1635
 []$\OT1/cmtt/m/n/12 https : / / www . researchgate . net / profile / Lingchong{
 _}You / publication /
  []
 
 
-Overfull \hbox (60.07275pt too wide) in paragraph at lines 1130--1137
+Overfull \hbox (60.07275pt too wide) in paragraph at lines 1628--1635
 \OT1/cmtt/m/n/12 5487129{_}A{_}bistable{_}Rb-[]E2F{_}switch{_}underlies{_}the{_
 }restriction{_}point /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1159--1169
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 1657--1667
 []$\OT1/cmtt/m/n/12 https : / / ac . els-[]cdn . com / S0092867406009809 / 1-[]
 s2 . 0-[]S0092867406009809-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1159--1169
+Underfull \hbox (badness 10000) in paragraph at lines 1657--1667
 \OT1/cmtt/m/n/12 pdf ? {_}tid = 92734ac4-[]a659-[]4761-[]9be4-[]796f090733d5{&}
 acdnat =
  []
@@ -3033,13 +3078,13 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1189--1200
+Underfull \hbox (badness 10000) in paragraph at lines 1687--1698
 []$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 28495969
 http : / / www . pubmedcentral .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1189--1200
+Underfull \hbox (badness 10000) in paragraph at lines 1687--1698
 \OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC5448168http : / 
 / www . pnas . org / lookup /
  []
@@ -3051,48 +3096,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[136]
+[141]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ê in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1723
 []$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 28034910
 http : / / www . pubmedcentral .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1225
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1723
 \OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC5199120http : / 
 / msb . embopress . org /
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 1238--1247
+Underfull \hbox (badness 1668) in paragraph at lines 1736--1745
 []\OT1/cmr/m/n/12 Chris Q. Doe.  Tem-po-ral pat-tern-ing in the Drosophila CNS.
   \OT1/cmr/m/it/12 An-nual Re-
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 1238--1247
+Underfull \hbox (badness 3861) in paragraph at lines 1736--1745
 \OT1/cmr/m/it/12 view of Cell and De-vel-op-men-tal Bi-ol-ogy\OT1/cmr/m/n/12 , 
 33(1):219--240, oct 2017.  ISSN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1238--1247
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1745
 \OT1/cmr/m/n/12 1081-0706.  doi: $10 . 1146 / annurev-[]cellbio-[]111315-[]1252
 10$.  URL []$\OT1/cmtt/m/n/12 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1238--1247
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1745
 \OT1/cmtt/m/n/12 / / www . annualreviews . org / doi / 10 . 1146 / annurev-[]ce
 llbio-[]111315-[]125210http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1238--1247
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1745
 \OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 28992439{%}0Ahttp 
 : / / www . annualreviews .
  []
@@ -3104,8 +3149,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[137]
-Underfull \hbox (badness 1097) in paragraph at lines 1345--1357
+[142]
+Underfull \hbox (badness 1097) in paragraph at lines 1843--1855
 []\OT1/cmr/m/n/12 Gong Hong Wei, Gwe-nael Badis, Michael F. Berger, Teemu Kiv-i
 oja, Kimmo
  []
@@ -3117,108 +3162,120 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[138]
-Underfull \hbox (badness 1394) in paragraph at lines 1396--1407
+[143]
+Underfull \hbox (badness 1394) in paragraph at lines 1894--1905
 \OT1/cmr/m/n/12 Re-bay.  Col-lab-o-ra-tive re-pres-sive ac-tion of the an-tag-o
 -nis-tic ETS tran-scrip-tion
  []
 
 
-Underfull \hbox (badness 2653) in paragraph at lines 1396--1407
+Underfull \hbox (badness 2653) in paragraph at lines 1894--1905
 \OT1/cmr/m/n/12 fac-tors Pointed and Yan fine-tunes gene ex-pres-sion to con-fe
 r ro-bust-ness in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1905
 \OT1/cmtt/m/n/12 / / www . pubmedcentral . nih . gov / articlerender . fcgi ? a
 rtid = PMC6053666http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1445
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1934
 \OT1/cmtt/m/n/12 / / www . ncbi . nlm . nih . gov / pubmed / 17108002http : / /
  dev . biologists . org / cgi /
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[139]
-Underfull \hbox (badness 2941) in paragraph at lines 1455--1463
+Underfull \hbox (badness 2941) in paragraph at lines 1944--1952
 \OT1/cmr/m/n/12 An ac-ti-vated Notch re-cep-tor blocks cell-fate com-mit-ment i
 n the de-vel-op-ing
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 1513--1523
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[144]
+Underfull \hbox (badness 7362) in paragraph at lines 1982--1992
 \OT1/cmr/m/n/12 doi: $10 . 7554 / eLife . 04837$.  URL []$\OT1/cmtt/m/n/12 http
 s : / / search . proquest . com / openview /
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 1525--1533
+Underfull \hbox (badness 1259) in paragraph at lines 1994--2002
 []\OT1/cmr/m/n/12 Zhi-Xin Wang.  An ex-act math-e-mat-i-cal ex-pres-sion for de
 -scrib-ing com-pet-i-tive
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 1525--1533
+Underfull \hbox (badness 1325) in paragraph at lines 1994--2002
 \OT1/cmr/m/n/12 bind-ing of two dif-fer-ent lig-ands to a pro-tein mol-e-cule. 
  \OT1/cmr/m/it/12 FEBS Let-ters\OT1/cmr/m/n/12 , 360:
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 1525--1533
+Underfull \hbox (badness 1184) in paragraph at lines 1994--2002
 \OT1/cmr/m/n/12 111--114, 1995.  ISSN 00145793.  doi: $10 . 1016 / 0014-[]5793(
 95 ) 00062-[]E$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1525--1533
+Underfull \hbox (badness 10000) in paragraph at lines 1994--2002
 []$\OT1/cmtt/m/n/12 http : / / ac . els-[]cdn . com / 001457939500062E / 1-[]s2
  . 0-[]001457939500062E-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1525--1533
+Underfull \hbox (badness 10000) in paragraph at lines 1994--2002
 \OT1/cmtt/m/n/12 pdf ? {_}tid = 2fc90d24-[]7fd1-[]11e7-[]94e3-[]00000aacb35e{&}
 acdnat =
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[140]
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1546
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2015
 \OT1/cmtt/m/n/12 / / www . sciencedirect . com / science / article / pii / S009
 2867404006634http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1585--1594
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[145]
+Underfull \hbox (badness 10000) in paragraph at lines 2054--2063
 \OT1/cmtt/m/n/12 gov / pubmed / 11245584http : / / www . pubmedcentral . nih . 
 gov / articlerender . fcgi ?
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 1605--1613
+Underfull \hbox (badness 1838) in paragraph at lines 2074--2082
 []\OT1/cmr/m/n/12 Yanxia Li and Nicholas E. Baker.  Proneu-ral en-hance-ment by
  Notch over-
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 1605--1613
+Underfull \hbox (badness 1418) in paragraph at lines 2074--2082
 \OT1/cmr/m/it/12 Cur-rent Bi-ol-ogy\OT1/cmr/m/n/12 , 11(5):330--338, mar 2001. 
  ISSN 09609822.  doi: $10 . 1016 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2105--2113
+\OT1/cmtt/m/n/12 355559a0 . pdfhttp : / / www . ncbi . nlm . nih . gov / pubmed
+ / 1311054{%}5Cnhttp :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2105--2113
+\OT1/cmtt/m/n/12 / / www . nature . com / nature / journal / v355 / n6360 / pdf
+ / 355559a0 . pdf{%}5Cnhttp :
  []
 
 
@@ -3228,20 +3285,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[141]
-Underfull \hbox (badness 10000) in paragraph at lines 1636--1644
-\OT1/cmtt/m/n/12 355559a0 . pdfhttp : / / www . ncbi . nlm . nih . gov / pubmed
- / 1311054{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1636--1644
-\OT1/cmtt/m/n/12 / / www . nature . com / nature / journal / v355 / n6360 / pdf
- / 355559a0 . pdf{%}5Cnhttp :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1684--1696
+[146]
+Underfull \hbox (badness 10000) in paragraph at lines 2153--2165
 \OT1/cmtt/m/n/12 nih . gov / pubmed / 20048052http : / / www . pubmedcentral . 
 nih . gov / articlerender .
  []
@@ -3253,20 +3298,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[142]
-Underfull \hbox (badness 1259) in paragraph at lines 1768--1775
+[147]
+Underfull \hbox (badness 1259) in paragraph at lines 2237--2244
 \OT1/cmr/m/n/12 tem-per-a-ture in de-vel-op-men-tally di-verse species.  \OT1/c
 mr/m/it/12 PLoS Genet\OT1/cmr/m/n/12 , 10(4):e1004293,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1777--1786
+Underfull \hbox (badness 1043) in paragraph at lines 2246--2255
 []\OT1/cmr/m/n/12 Wenyun Zuo, Melanie E Moses, Ge-of-frey B West, Chen Hou, and
  James H
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 1777--1786
+Underfull \hbox (badness 2173) in paragraph at lines 2246--2255
 \OT1/cmr/m/n/12 2000$.  URL []$\OT1/cmtt/m/n/12 http : / / www . pubmedcentral 
 . nih . gov / articlerender . fcgi ? artid =
  []
@@ -3278,19 +3323,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[143]
+[148]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[144]
-Underfull \hbox (badness 10000) in paragraph at lines 1901--1909
+[149]
+Underfull \hbox (badness 10000) in paragraph at lines 2370--2378
 []$\OT1/cmtt/m/n/12 http : / / www . nature . com / doifinder / 10 . 1038 / 417
 070ahttp : / / www . nature . com .
  []
 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3298,97 +3346,86 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[145]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-
-Underfull \hbox (badness 1661) in paragraph at lines 2018--2026
+[150]
+Underfull \hbox (badness 1661) in paragraph at lines 2487--2495
 []\OT1/cmr/m/n/12 X J Quan and B A Has-san.  From skin to nerve: flies, ver-te-
 brates and
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 2018--2026
+Underfull \hbox (badness 2600) in paragraph at lines 2487--2495
 \OT1/cmr/m/n/12 the first he-lix.  \OT1/cmr/m/it/12 Cell Mol Life Sci\OT1/cmr/m
 /n/12 , 62(18):2036--2049, 2005.  ISSN 1420-
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 2018--2026
+Underfull \hbox (badness 2197) in paragraph at lines 2487--2495
 \OT1/cmr/m/n/12 682X (Print) 1420-682X (Link-ing).  doi: $10 . 1007 / s00018-[]
 005-[]5124-[]1$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2018--2026
+Underfull \hbox (badness 10000) in paragraph at lines 2487--2495
 []$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / entrez / query . 
 fcgi ? cmd = Retrieve{&}db =
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 2028--2037
+Underfull \hbox (badness 5302) in paragraph at lines 2497--2506
 []\OT1/cmr/m/n/12 Xin Li and Richard W Carthew.  A mi-croRNA me-di-ates EGF re-
 cep-
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 2028--2037
+Underfull \hbox (badness 5245) in paragraph at lines 2497--2506
 \OT1/cmr/m/n/12 tor sig-nal-ing and pro-motes pho-tore-cep-tor dif-fer-en-ti-a-
 tion in the Drosophila
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 2028--2037
+Underfull \hbox (badness 2189) in paragraph at lines 2497--2506
 \OT1/cmr/m/n/12 eye.  \OT1/cmr/m/it/12 Cell\OT1/cmr/m/n/12 , 123(7):1267--1277,
  2005.  ISSN 00928674.  doi: $10 . 1016 / j . cell .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2037
+Underfull \hbox (badness 10000) in paragraph at lines 2497--2506
 \OT1/cmr/m/n/12 2005 . 10 . 040$.  URL []$\OT1/cmtt/m/n/12 http : / / www . ncb
 i . nlm . nih . gov / entrez / query . fcgi ? cmd =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2037
+Underfull \hbox (badness 10000) in paragraph at lines 2497--2506
 \OT1/cmtt/m/n/12 Retrieve{&}db = PubMed{&}dopt = Citation{&}list{_}uids = 16377
 567http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2037
+Underfull \hbox (badness 10000) in paragraph at lines 2497--2506
 \OT1/cmtt/m/n/12 / / ac . els-[]cdn . com / S0092867405013279 / 1-[]s2 . 0-[]S0
 092867405013279-[]main .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2028--2037
+Underfull \hbox (badness 10000) in paragraph at lines 2497--2506
 \OT1/cmtt/m/n/12 pdf ? {_}tid = 2e440a3c-[]667f-[]11e7-[]ad15-[]00000aab0f27{&}
 acdnat =
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[146]
-Underfull \hbox (badness 1728) in paragraph at lines 2055--2063
+Underfull \hbox (badness 1728) in paragraph at lines 2524--2532
 \OT1/cmr/m/n/12 pre-cise spec-i-fi-ca-tion of sen-sory or-gan pre-cur-sors in D
 rosophila.  \OT1/cmr/m/it/12 Genes Dev\OT1/cmr/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 2055--2063
+Underfull \hbox (badness 1430) in paragraph at lines 2524--2532
 \OT1/cmr/m/n/12 20(20):2793--2805, 2006.  ISSN 08909369.  doi: $10 . 1101 / gad
  . 1466306$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2055--2063
+Underfull \hbox (badness 10000) in paragraph at lines 2524--2532
 []$\OT1/cmtt/m/n/12 http : / / www . genesdev . org . http : / / www . ncbi . n
 lm . nih . gov / entrez / query . fcgi ?
  []
@@ -3400,27 +3437,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[147]
+[151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[148]
-Underfull \hbox (badness 10000) in paragraph at lines 2220--2231
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2700
 []$\OT1/cmtt/m/n/12 http : / / www . ncbi . nlm . nih . gov / pubmed / 17959824
 http : / / www . pubmedcentral .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2220--2231
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2700
 \OT1/cmtt/m/n/12 nih . gov / articlerender . fcgi ? artid = PMC2174172http : / 
 / eutils . ncbi . nlm . nih .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2220--2231
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2700
 \OT1/cmtt/m/n/12 gov / entrez / eutils / elink . fcgi ? dbfrom = pubmed{&}id = 
 17959824{&}retmode =
  []
@@ -3432,8 +3469,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[149]
-Underfull \hbox (badness 1728) in paragraph at lines 2304--2311
+[153]
+Underfull \hbox (badness 1728) in paragraph at lines 2762--2769
 \OT1/cmr/m/it/12 2012\OT1/cmr/m/n/12 , pages 47--54, 2012.  ISBN 9781467346252.
   doi: $10 . 1109 / CIDU . 2012 .
  []
@@ -3445,27 +3482,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[150]) (./appendix/main.tex
+[154]) (./appendix/main.tex
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[151]
+[155]
 Appendix A
 (./appendix/ratio/ratio_experiments.tex
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[152
+[156
 
 
 ]
-Underfull \vbox (badness 1281) has occurred while \output is active []
-
-
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[153]
+[157]
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no µ in font cmr12!
 ) (./appendix/ratio/ratio_analysis.tex
@@ -3475,32 +3509,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[154]
-Underfull \vbox (badness 4013) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[155]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[156]
-Underfull \vbox (badness 5939) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[157]
-Underfull \vbox (badness 4013) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
 [158]
+Underfull \vbox (badness 4013) has occurred while \output is active []
+
+
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
@@ -3508,8 +3520,30 @@ Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[160]) (./appendix/ratio/ratio_sfigures.tex
-<./figures/ratio/./figure_S1.png, id=2469, 582.0144pt x 405.9165pt>
+[160]
+Underfull \vbox (badness 5939) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[161]
+Underfull \vbox (badness 4013) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[162]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[163]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[164]) (./appendix/ratio/ratio_sfigures.tex
+<./figures/ratio/./figure_S1.png, id=2692, 582.0144pt x 405.9165pt>
 File: ./figures/ratio/./figure_S1.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S1.png>
@@ -3519,7 +3553,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S1.png used on input line 9.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S2.png, id=2470, 600.3228pt x 477.7047pt>
+<./figures/ratio/./figure_S2.png, id=2693, 600.3228pt x 477.7047pt>
 File: ./figures/ratio/./figure_S2.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S2.png>
@@ -3530,7 +3564,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S2.png used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S6.png, id=2471, 518.4168pt x 379.1766pt>
+<./figures/ratio/./figure_S6.png, id=2694, 518.4168pt x 379.1766pt>
 File: ./figures/ratio/./figure_S6.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S6.png>
@@ -3541,7 +3575,7 @@ Package pdftex.def Info: ./figures/ratio/./figure_S6.png used on input line 44.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures/ratio/./figure_S7.png, id=2472, 714.7503pt x 427.1157pt>
+<./figures/ratio/./figure_S7.png, id=2695, 714.7503pt x 427.1157pt>
 File: ./figures/ratio/./figure_S7.png Graphic file (type png)
 
 <use ./figures/ratio/./figure_S7.png>
@@ -3556,23 +3590,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[161]
+[165]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[162 <./figures/ratio/./figure_S1.png (PNG copy)>]
+[166 <./figures/ratio/./figure_S1.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[163 <./figures/ratio/./figure_S2.png (PNG copy)>]
+[167 <./figures/ratio/./figure_S2.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[164 <./figures/ratio/./figure_S6.png (PNG copy)>]
+[168 <./figures/ratio/./figure_S6.png (PNG copy)>]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[165 <./figures/ratio/./figure_S7.png (PNG copy)>]
+[169 <./figures/ratio/./figure_S7.png (PNG copy)>]
 Appendix B
 (./appendix/metabolism/experiments.tex
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <8> not available
@@ -3588,14 +3622,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[166
+[170
 
 
 ]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[167] <./figures/metabolism/./alleles.png, id=2531, 152.7306pt x 136.5903pt>
+[171] <./figures/metabolism/./alleles.png, id=2753, 152.7306pt x 136.5903pt>
 File: ./figures/metabolism/./alleles.png Graphic file (type png)
 
 <use ./figures/metabolism/./alleles.png>
@@ -3607,28 +3641,21 @@ Package pdftex.def Info: ./figures/metabolism/./alleles.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 1540) has occurred while \output is active []
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[172]
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[173 <./figures/metabolism/./alleles.png (PNG copy)>]
+Underfull \vbox (badness 1424) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[168]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[169 <./figures/metabolism/./alleles.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[170]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[171]
+[174]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ≤ in font cmr12!
@@ -3636,7 +3663,14 @@ Missing character: There is no ≤ in font cmr12!
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[172]
+[175]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[176]
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 92.
 
@@ -3646,22 +3680,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[173]
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[174]
+[177]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[175]) (./appendix/metabolism/modeling.tex
+[178]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[176] <./figures/metabolism/./figure_S3a.png, id=2598, 317.988pt x 83.3514pt>
+[179]) (./appendix/metabolism/modeling.tex
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
+
+
+[180] <./figures/metabolism/./figure_S3a.png, id=2819, 317.988pt x 83.3514pt>
 File: ./figures/metabolism/./figure_S3a.png Graphic file (type png)
 
 <use ./figures/metabolism/./figure_S3a.png>
@@ -3669,37 +3706,20 @@ Package pdftex.def Info: ./figures/metabolism/./figure_S3a.png used on input li
 ne 17.
 (pdftex.def)             Requested size: 317.98721pt x 83.35117pt.
 
+Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
+[181 <./figures/metabolism/./figure_S3a.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[177]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (5.73332pt too high) has occurred while \output is active []
-
-
-[178 <./figures/metabolism/./figure_S3a.png (PNG copy)>]
+[182]
 Overfull \hbox (10.25232pt too wide) in paragraph at lines 56--65
  [][] 
  []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3708,11 +3728,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[179]
+[183]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[180]
+[184]
 Appendix C
 (./appendix/resources/software.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3721,36 +3741,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[181
+[185
 
 
 ])
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[182]
+[186]
 Appendix D
 (./appendix/resources/data.tex
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ))
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
 
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[183
+[187
 
 
 ]
 Overfull \vbox (5.73332pt too high) has occurred while \output is active []
 
 
-[184]
+[188]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (./thesis.aux
 
@@ -3762,20 +3779,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 5CA65DA6A372B6E33206E123700FF81A;5639.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 21950 strings out of 493014
- 409634 string characters out of 6133351
- 494121 words of memory out of 5000000
- 24431 multiletter control sequences out of 15000+600000
+ 22096 strings out of 493014
+ 412398 string characters out of 6133351
+ 500694 words of memory out of 5000000
+ 24527 multiletter control sequences out of 15000+600000
  20759 words of font info for 79 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 40i,20n,44p,10379b,1367s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,20n,44p,10379b,1442s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -3805,10 +3818,10 @@ ts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2016/texmf-dist/font
 s/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on thesis.pdf (184 pages, 31377738 bytes).
+Output written on thesis.pdf (188 pages, 31399866 bytes).
 PDF statistics:
- 2890 PDF objects out of 2984 (max. 8388607)
- 2588 compressed objects within 26 object streams
- 610 named destinations out of 1000 (max. 500000)
+ 3124 PDF objects out of 3580 (max. 8388607)
+ 2815 compressed objects within 29 object streams
+ 660 named destinations out of 1000 (max. 500000)
  745 words of extra memory for PDF output out of 10000 (max. 10000000)
 

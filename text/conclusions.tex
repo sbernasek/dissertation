@@ -1,15 +1,51 @@
 \chapter{Conclusions}
 \label{ch:conclusion}
 
-This dissertation surveyed cell fate decisions through a quantitative lens. Its findings broadly provide a fresh perspective as to how the structure and function of gene regulatory networks control emergent behavior at the organismal scale. Each chapter advances the fields of systems and developmental biology in a unique way.
+This dissertation surveyed developmental cell fate decisions through a quantitative lens. Its findings offer fresh perspectives into how the structure and function of gene regulatory networks control emergent patterns at the organismal scale. Each chapter advances the fields of systems and developmental biology in unique ways.
 
-Chapter \ref{ch:clones} introduced a computational framework for automated quantitative analysis of genetic mosaics; a class of experiments designed to probe cell fate decisions \textit{in vivo}. The framework combines computer vision and statistics to measure protein levels in individual cells and infer their respective genotypes. It thereby enables automated and systematic comparison of cells subject to control and perturbation conditions in an otherwise equivalent background. The accompanying open-source software eliminates each of the labor-intensive steps of a quantitative workflow. Its release will make quantitative mosaic analysis more accessible to the broader research community, thus contributing toward the quantification of biology.
+Chapter \ref{ch:clones} introduced a computational framework for automated analysis of genetic mosaics; a class of experiments commonly used to probe cell fate decisions \textit{in situ} \cite{Germani2018,Atkins2019}. The framework combines computer vision and statistics to automate the labor-intensive steps of a quantitative work-flow, enabling automated and systematic comparison of cells subject to control and perturbation conditions in an otherwise equivalent background.
 
-Chapter \ref{ch:ratio} explored a novel cell fate decision mechanism underlying photoreceptor specification in the larval eye. Computer vision techniques were used to extract quantitative measurements of transcription factor dynamics from a wealth of confocal microscopy data. Statistical analysis of these data revealed that differentiation is driven by dynamic changes in the ratio between two transcription factors, and is agnostic to changes in their absolute concentrations as long as the ratio remains constant. A general model based on the statistical physics of transcription factor DNA binding showed that this phenomenon is a natural consequence of competition between the two transcription factors for common binding sites. The findings add a new dimension to our understanding of how transcription factors coordinate cell fate decisions, and have broader implications for other developmental contexts in which multiple transcription factors control subsequent developmental events. They also rebuke the canonical model of photoreceptor specification in the larval eye \cite{Graham2010}, while rationalizing all existing experimental data \cite{Shwartz2013,BoisclairLachance2014,Pelaez2015a}. The results also exemplify the importance of both quantitative and dynamic measurements for characterizing developmental systems. 
+Quantitative mosaic analysis itself is not new, nor is it uncommon in high profile publications \cite{Dai2017,Gavish2016,Li2018}. Yet, these studies deploy an irreproducible mix of ad hoc implementations and costly commercial software. Worse still, qualitative analysis pervades less prominent corners of the literature. Contributing a fully automated framework to the open-source ecosystem will make quantitative mosaic analysis accessible to the research community as a whole. A unified framework will also dramatically simplify the reproduction of existing analyses. Chapter \ref{ch:clones} therefore advances the quantification of developmental biology by adding potential for rigor and reproducibility where they are currently lacking.
 
-Chapter \ref{ch:metabolism} proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain several repressors tasked with attenuating expression of a single target gene. The theory posits that auxiliary negative regulators enable development to proceed more quickly by mitigating erroneous cell fate decisions when cells are rapidly metabolizing. It is supported by a robust collection of qualitative experiments showing that a broad variety of repressor loss-of-function phenotypes are reversed when biosynthesis rates are artificially slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect. Namely, that auxiliary repressors help avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity served to validate the predictions made by the modeling framework. As shorter developmental times confer a selective advantage upon organisms, these findings may represent a novel evolutionary driving force for increased robustness of cell fate decisions.
+Chapter \ref{ch:ratio} explored a novel cell fate decision mechanism underlying photoreceptor specification in the \textit{Drosophila} larval eye. Computer vision techniques were used to extract quantitative measurements of Pnt and Yan dynamics from a wealth of confocal microscopy data. Statistical analysis revealed that differentiation is driven by dynamic changes in the ratio between Pnt and Yan, and is agnostic to changes in their absolute concentrations as long as the ratio remains constant. The data therefore provide the first direct evidence that cell fate decisions can be triggered by changes in the relative abundance of separate transcription factors. This finding rebukes the canonical model of photoreceptor specification \cite{Graham2010}. More importantly, it adds a new dimension to our understanding of how multiple transcription factors cooperatively control cell fate decisions, with broad implications for many developmental contexts within and beyond \textit{Drosophila}. 
+
+The ratiometric sensing mechanism identified in Chapter \ref{ch:ratio} adds to a growing body of evidence that cells are able to sense relative changes in the abundance of GRN components \cite{Goentoro2009a,Frick2017}. These discoveries are exciting because relative sensing could potentially isolate cell decisions from environmental sources of variation, since environmental fluctuations would likely affect all GRN components in a directionally similar manner. Relative sensing could then increase fitness in variable environments. Indeed, Chapter \ref{ch:metabolism} also showed that the microRNA miR-7 buffers Yan expression against environmental variation. Perhaps future experiments could address how Pnt levels are affected before and after IPC ablation in $yan^{\Delta miR\hyphy7}$ mutants.
+
+Chapter \ref{ch:metabolism} proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain several seemingly redundant repressors tasked with attenuating expression of a single target gene. The theory posits that auxiliary negative regulators enable development to proceed more quickly by mitigating erroneous cell fate decisions when cells are rapidly metabolizing. It is supported by a diverse collection of experiments in which repressor loss-of-function phenotypes are reversed when biosynthesis rates are slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect, and theoretically demonstrated that auxiliary repressors could avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity confirmed the hypothesized mechanism in vivo.
+
+The postulated theory may represent a novel evolutionary driving force that shapes the structure and function of gene regulatory networks. The fin
+
+
+
+As shorter developmental times confer a selective advantage upon organisms, 
+
+
 
 === EXPAND ===
+
+
+
+
+
+
+It is all too easy to coax data into a desired framework
+But models should fit the data; not the other way around. 
+
+Core strength of this work is its flexibility
+equilibrium model
+dynamoc model
+
+yet the newly proposed rationalizing all existing experimental data \cite{Shwartz2013,BoisclairLachance2014,Pelaez2015a}.
+
+A general model based on the statistical physics of transcription factor DNA binding showed that this phenomenon is a natural consequence of competition between the two transcription factors for common binding sites. 
+
+The results also exemplify the importance of both quantitative and dynamic measurements for characterizing developmental systems. 
+
+
+
+
+
+
 
 
 

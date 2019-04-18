@@ -1,7 +1,7 @@
 \chapter{Conclusions}
 \label{ch:conclusion}
 
-This dissertation surveyed developmental cell fate decisions through a quantitative lens. Its findings offer fresh perspectives into how the structure and function of gene regulatory networks control emergent patterns at the organismal scale. Each chapter advances the fields of systems and developmental biology in unique ways.
+The previous chapters surveyed developmental cell fate decisions through a quantitative lens. Their collective findings offer fresh perspectives into how the structure and function of gene regulatory networks control emergent patterns at the organismal scale. Individually, each chapter advances the fields of systems and developmental biology in unique ways.
 
 Chapter \ref{ch:clones} introduced a computational framework for automated analysis of genetic mosaics; a class of experiments commonly used to probe cell fate decisions \textit{in situ} \cite{Germani2018,Atkins2019}. The framework combines computer vision and statistics to automate the labor-intensive steps of a quantitative work-flow, enabling automated and systematic comparison of cells subject to control and perturbation conditions in an otherwise equivalent background.
 
@@ -9,22 +9,54 @@ Quantitative mosaic analysis itself is not new, nor is it uncommon in high profi
 
 Chapter \ref{ch:ratio} explored a novel cell fate decision mechanism underlying photoreceptor specification in the \textit{Drosophila} larval eye. Computer vision techniques were used to extract quantitative measurements of Pnt and Yan dynamics from a wealth of confocal microscopy data. Statistical analysis revealed that differentiation is driven by dynamic changes in the ratio between Pnt and Yan, and is agnostic to changes in their absolute concentrations as long as the ratio remains constant. The data therefore provide the first direct evidence that cell fate decisions can be triggered by changes in the relative abundance of separate transcription factors. This finding rebukes the canonical model of photoreceptor specification \cite{Graham2010}. More importantly, it adds a new dimension to our understanding of how multiple transcription factors cooperatively control cell fate decisions, with broad implications for many developmental contexts within and beyond \textit{Drosophila}. 
 
-The ratiometric sensing mechanism identified in Chapter \ref{ch:ratio} adds to a growing body of evidence that cells are able to sense relative changes in the abundance of GRN components \cite{Goentoro2009a,Frick2017}. These discoveries are exciting because relative sensing could potentially isolate cell decisions from environmental sources of variation, since environmental fluctuations would likely affect all GRN components in a directionally similar manner. Relative sensing could then increase fitness in variable environments. Indeed, Chapter \ref{ch:metabolism} also showed that the microRNA miR-7 buffers Yan expression against environmental variation. Perhaps future experiments could address how Pnt levels are affected before and after IPC ablation in $yan^{\Delta miR\hyphy7}$ mutants.
+The ratiometric sensing mechanism identified in Chapter \ref{ch:ratio} adds to a growing body of evidence that cells are able to sense relative changes in the abundance of GRN components \cite{Goentoro2009a,Frick2017}. These discoveries are exciting because relative sensing could potentially isolate cell fate decisions from environmental sources of variation. This is because environmental fluctuations would likely manifest as correlated extrinsic noise that affects all GRN components in a similar manner, causing absolute but not relative concentrations to vary between cells. Relative sensing might then increase fitness in variable environments. 
 
-Chapter \ref{ch:metabolism} proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain several seemingly redundant repressors tasked with attenuating expression of a single target gene. The theory posits that auxiliary negative regulators enable development to proceed more quickly by mitigating erroneous cell fate decisions when cells are rapidly metabolizing. It is supported by a diverse collection of experiments in which repressor loss-of-function phenotypes are reversed when biosynthesis rates are slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect, and theoretically demonstrated that auxiliary repressors could avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity confirmed the hypothesized mechanism in vivo.
+Regulatory interactions may provide additional layers of stability. Dual-reporter experiments have shown that regulation buffers cell-by-cell differences in yeast gene expression to enhance the precision of decisions to commit to a mating response phenotype \cite{Colman-Lerner2005}. Indeed, Chapter \ref{ch:metabolism} also showed that the microRNA miR-7 buffers Yan expression levels, and by extension R cell fate decisions, against varying biosynthesis capacity. Perhaps future experiments could address how Pnt levels are affected before and after IPC ablation in $yan^{\Delta miR\hyphy 7}$ mutants. 
 
-The postulated theory may represent a novel evolutionary driving force that shapes the structure and function of gene regulatory networks. The fin
+These observations reflect a central theme of this dissertation; the structure and function of developmental GRNs dictate the robustness of cell fate decisions to environmental variation. Chapter \ref{ch:metabolism} directly embraced this sentiment. It proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain many seemingly redundant repressors acting upon the same target genes. The theory posits that auxiliary negative regulators mitigate erroneous cell fate decisions when cells are rapidly metabolizing, and implies that auxiliary repressors may help GRNs adapt their behavior to environmentally driven variation in metabolism. The central hypothesis is supported by a diverse collection of experiments in which repressor loss-of-function phenotypes are reversed when biosynthesis rates are slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect, and theoretically demonstrated that auxiliary repressors could avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity confirmed the hypothesized mechanism in vivo.
+
+The theory implies that a novel evolutionary driving force may shape the structure and function of developmental gene regulatory networks. Chapter \ref{ch:introduction} introduced the notion that developmental GRNs guide organisms through a tortuous journey from embryo to adulthood. The journey is not a sprint. Rather, cells must carefully navigate the many twists and turns of developmental programs; rapidly synthesizing GRN components when and where they are needed, then degrading them with equivalent urgency. The protein synthesis and degradation machineries supply the engine and brakes needed to successfully circumvent these obstacles. Individuals stand to benefit from completing the journey quickly because they are generally vulnerable during this time, with little means to defend themselves against predation and other dangers. They could naively swap out the engine for something more potent, but only at the risk of perilous consequences. By simultaneously upgrading the brakes they could realize the best of both worlds. Similarly, organisms could accelerate development by expanding biosynthesis capacity, but the resultant increase in protein expression might misregulate cell fate decisions and drive the emergence of developmental errors. By simultaneously incorporating additional repressors, they could tolerate faster metabolic rates without compromising accuracy. The data presented in Chapter \ref{ch:metabolism} illustrate the inverse perspective; repressors are dispensable when metabolism is slow, much in the way that the original brakes suffice at low speeds. The data therefore imply that auxiliary repressors allow development to proceed more quickly, without any adverse consequences. Beyond reduced vulnerability, shorter generational times also confer a selective advantage by facilitating rapid exploration of the phenotypic landscape, and thus faster adaptation to varied environments. GRNs should therefore be expected to incorporate any topological features that allow development to proceed more quickly. The abundance of redundant regulation found in developmental GRNs certainly appears to support this hypothesis.
 
 
 
-As shorter developmental times confer a selective advantage upon organisms, 
+
+Aryal
+
+
+Csontitute phosphor of dcr1 impacts metabolism and aging in mice
+
+
+Tollerson2018
+
+Another experimental study of the connection between phenotype penetrance and cell metabolism appeared in PNAS this week. They're looking at how mutations that cause ribosomal queuing are masked under slow growth conditions in E coli. The deleterious effects of these mutations are not truly mitigated under slow-growth (as in our paper), rather the reduced demand for protein synthesis relieves a translational bottleneck. They conclude that elongation factor P enables adaptation to variable growth conditions. They are focused on protein homeostasis, use a less complex organism, and don't attempt to model the underlying mechanism, but many of their figures and overall conclusions are in principle very similar to our study. I presented this during group meeting this morning and Luis agreed it was worth passing along.
+
+
+Burnaevskiy2018
+
+They do not focus on negative feedback or developmental decisions, but they show (in worms) that organism-scale phenotype penetrance can is driven by variation in metabolic conditions. This is quite similar to how I rationalize the model underlying our metabolism paper.
+
+
+
+
+
+
+\section{ Avenues for further exploration }
+
+- Relation to temperature - would require knowledge of temperature/metabolism scaling
+- Introduction of simpler model
+- Exploration of tradeoff between synthesis and degradation
+- Potential for a complete theoretical framework
+- Is redundant regulation the only link? What about promoters?
+
+
+
 
 
 
 === EXPAND ===
 
 
-
+Chapter \ref{ch:ratio} also used the framework developed in Chapter \ref{ch:clones} to show that regulation stabilizes the Pnt-to-Yan ratio against genetic variation in \textit{pnt} and \textit{yan} copy number. Subsequent R cell fate decisions therefore also appear to be isolated from genetic variation, permitting rapid accumulation of mutations that allow for wider exploration of the fitness landscape. MicroRNAs are known to play a similar role \cite{Cassidy2013,Cassidy2016}.
 
 
 
@@ -43,21 +75,6 @@ The results also exemplify the importance of both quantitative and dynamic measu
 
 
 
-
-
-
-
-
-
-
-\section{ A novel driving force in the evolution of GRN topologies }
-
-- Cartoon analogy
-- Relation to temperature - would require knowledge of temperature/metabolism scaling
-- Introduction of simpler model
-- Exploration of tradeoff between synthesis and degradation
-- Potential for a complete theoretical framework
-- Is redundant regulation the only link? What about promoters?
 
 
 
@@ -143,28 +160,6 @@ The research presented in this dissertation spawned several computational tools 
 
 
 
-
-% recent papers on metabolism & phenotypes --- see PNAS presentation and paper to rich/luis
-% recent gap genes example, all information encoded in a handful of factors
-% emphasis on dynamics - simple model, how does one process scale versus another
-
-
-
-%\section{Dynamic perspective of cell behavior}
-%	\subsection{Dynamics matter}
-%		\paragraph{Decisions are localized in time.}
-%	\subsection{Control theoretical insights into cell behavior}
-%		\paragraph{Yeast papers}
-%		\paragraph{Khammash papers}
-
-
-\Chapter{Conclusions}
-
-reconcile pnt/yan mechanism with yan over-expression
-
-discuss impact of clones pipeline on pnt/yan study
-
-
 - development of 'penetrance theory' based on analytical framework using moment equations
 - rigorous exploration of other control architectures
 - quantitative characterization of a well known system (yeast)
@@ -204,17 +199,23 @@ discuss impact of clones pipeline on pnt/yan study
 		\paragraph{Open source ecosystem.}
 
 
+\section{Dynamic perspective of cell behavior}
+	\subsection{Dynamics matter}
+		\paragraph{Decisions are localized in time.}
+	\subsection{Control theoretical insights into cell behavior}
+		\paragraph{Yeast papers}
+		\paragraph{Khammash papers}
 
 
+% recent papers on metabolism & phenotypes --- see PNAS presentation and paper to rich/luis
+% recent gap genes example, all information encoded in a handful of factors
+% emphasis on dynamics - simple model, how does one process scale versus another
 
+\Chapter{Conclusions}
 
+reconcile pnt/yan mechanism with yan over-expression
 
-
-
-
-
-
-
+discuss impact of clones pipeline on pnt/yan study
 
 
 

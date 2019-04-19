@@ -1,4 +1,4 @@
-\begin{thebibliography}{284}
+\begin{thebibliography}{287}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1134,6 +1134,16 @@ Mardelle Atkins.
 \newblock \doi{10.1007/978-1-4939-8910-2_2}.
 \newblock URL \url{http://link.springer.com/10.1007/978-1-4939-8910-2{\_}2}.
 
+\bibitem[Dai et~al.(2017)Dai, Peterson, Kenney, Burrous, and Montell]{Dai2017}
+Wei Dai, Amy Peterson, Thomas Kenney, Haley Burrous, and Denise~J. Montell.
+\newblock {Quantitative microscopy of the Drosophila ovary shows multiple niche
+  signals specify progenitor cell fate}.
+\newblock \emph{Nature Communications}, 8\penalty0 (1):\penalty0 1244, dec
+  2017.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/s41467-017-01322-9}.
+\newblock URL \url{http://www.nature.com/articles/s41467-017-01322-9}.
+
 \bibitem[Bernasek et~al.(2018)Bernasek, Lachance, Pel{\'{a}}ez, Bakker,
   Navarro, Amaral, Bagheri, Rebay, and Carthew]{Bernasek2018}
 Sebastian~M. Bernasek, Jean-Fran{\c{c}}ois~Boisclair Lachance, Nicol{\'{a}}s
@@ -1144,17 +1154,6 @@ Sebastian~M. Bernasek, Jean-Fran{\c{c}}ois~Boisclair Lachance, Nicol{\'{a}}s
 \newblock \emph{bioRxiv}, page 430744, sep 2018.
 \newblock \doi{http://dx.doi.org/10.1101/430744}.
 \newblock URL \url{https://www.biorxiv.org/content/10.1101/430744v1}.
-
-\bibitem[Burrous et~al.(2017)Burrous, Kenney, Dai, Montell, and
-  Peterson]{Burrous2017}
-Haley Burrous, Thomas Kenney, Wei Dai, Denise~J. Montell, and Amy Peterson.
-\newblock {Quantitative microscopy of the Drosophila ovary shows multiple niche
-  signals specify progenitor cell fate}.
-\newblock \emph{Nature Communications}, 8\penalty0 (1):\penalty0 1244, dec
-  2017.
-\newblock ISSN 2041-1723.
-\newblock \doi{10.1038/s41467-017-01322-9}.
-\newblock URL \url{http://www.nature.com/articles/s41467-017-01322-9}.
 
 \bibitem[Ghiglione et~al.(2018)Ghiglione, Jouandin, C{\'{e}}r{\'{e}}zo, and
   Noselli]{Ghiglione2018}
@@ -2726,6 +2725,49 @@ D~F Jarosz and S~Lindquist.
 \newblock URL
   \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=21205668}.
 
+\bibitem[Visscher et~al.(2016)Visscher, {De Henau}, Wildschut, van Es, Dhondt,
+  Michels, Kemmeren, Nollen, Braeckman, Burgering, Vos, and
+  Dansen]{Visscher2016}
+Marieke Visscher, Sasha {De Henau}, Mattheus~H.E. Wildschut, Robert~M. van Es,
+  Ineke Dhondt, Helen Michels, Patrick Kemmeren, Ellen~A. Nollen, Bart~P.
+  Braeckman, Boudewijn~M.T. Burgering, Harmjan~R. Vos, and Tobias~B. Dansen.
+\newblock {Proteome-wide Changes in Protein Turnover Rates in C. elegans Models
+  of Longevity and Age-Related Disease}.
+\newblock \emph{Cell Reports}, 16\penalty0 (11):\penalty0 3041--3051, sep 2016.
+\newblock ISSN 22111247.
+\newblock \doi{10.1016/j.celrep.2016.08.025}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/27626671
+  https://linkinghub.elsevier.com/retrieve/pii/S2211124716310725}.
+
+\bibitem[Tollerson et~al.(2018)Tollerson, Witzky, and Ibba]{Tollerson2018}
+Rodney Tollerson, Anne Witzky, and Michael Ibba.
+\newblock {Elongation factor P is required to maintain proteome homeostasis at
+  high growth rate}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 115\penalty0
+  (43):\penalty0 11072--11077, oct 2018.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1812025115}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/30297417
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6205485}.
+
+\bibitem[Burnaevskiy et~al.(2018)Burnaevskiy, Sands, Yun, Tedesco, Johnson,
+  Kaeberlein, Brent, and Mendenhall]{Burnaevskiy2018}
+Nikolay Burnaevskiy, Bryan Sands, Soo Yun, Patricia~M Tedesco, Thomas~E
+  Johnson, Matt Kaeberlein, Roger Brent, and Alexander Mendenhall.
+\newblock {Differences in protein dosage underlie nongenetic differences in
+  traits}.
+\newblock \emph{bioRxiv}, page 431643, oct 2018.
+\newblock \doi{10.1101/431643}.
+\newblock URL \url{https://www.biorxiv.org/content/10.1101/431643v1}.
+
+\bibitem[Gillespie(1977)]{Gillespie1977}
+Daniel~T Gillespie.
+\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
+\newblock \emph{The Journal of Physical Chemistry}, 81\penalty0 (25):\penalty0
+  2340--2361, 1977.
+\newblock \doi{10.1021/j100540a008}.
+\newblock URL \url{http://pubs.acs.org/doi/abs/10.1021/j100540a008}.
+
 \bibitem[Shellenbarger and Mohler(1975)]{Shellenbarger1975}
 David~L. Shellenbarger and Dawson~J. Mohler.
 \newblock {Temperature-sensitive mutations of the notch locus in Drosophila
@@ -2813,13 +2855,5 @@ R~Milo and R~Phillips.
 \newblock \emph{{Cell Biology by the Numbers}}.
 \newblock Garland Science, New York, NY, 2016.
 \newblock ISBN 0815345372.
-
-\bibitem[Gillespie(1977)]{Gillespie1977}
-Daniel~T Gillespie.
-\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
-\newblock \emph{The Journal of Physical Chemistry}, 81\penalty0 (25):\penalty0
-  2340--2361, 1977.
-\newblock \doi{10.1021/j100540a008}.
-\newblock URL \url{http://pubs.acs.org/doi/abs/10.1021/j100540a008}.
 
 \end{thebibliography}

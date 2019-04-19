@@ -1,7 +1,7 @@
 \chapter{Conclusions}
 \label{ch:conclusion}
 
-The previous chapters surveyed developmental cell fate decisions through a quantitative lens. Their collective findings offer fresh perspectives into how the structure and function of gene regulatory networks control emergent patterns at the organismal scale. Individually, each chapter advances the fields of systems and developmental biology in unique ways.
+The preceding chapters explore how the structure and function of gene regulatory networks control cell fate decisions and yield emergent properties at the organismal scale. Each chapter individually advances the fields of systems and developmental biology in unique ways.
 
 Chapter \ref{ch:clones} introduced a computational framework for automated analysis of genetic mosaics; a class of experiments commonly used to probe cell fate decisions \textit{in situ} \cite{Germani2018,Atkins2019}. The framework combines computer vision and statistics to automate the labor-intensive steps of a quantitative work-flow, enabling automated and systematic comparison of cells subject to control and perturbation conditions in an otherwise equivalent background.
 
@@ -13,233 +13,51 @@ The ratiometric sensing mechanism identified in Chapter \ref{ch:ratio} adds to a
 
 Regulatory interactions may provide additional layers of stability. Dual-reporter experiments have shown that regulation buffers cell-by-cell differences in yeast gene expression to enhance the precision of decisions to commit to a mating response phenotype \cite{Colman-Lerner2005}. Indeed, Chapter \ref{ch:metabolism} also showed that the microRNA miR-7 buffers Yan expression levels, and by extension R cell fate decisions, against varying biosynthesis capacity. Perhaps future experiments could address how Pnt levels are affected before and after IPC ablation in $yan^{\Delta miR\hyphy 7}$ mutants. 
 
-These observations reflect a central theme of this dissertation; the structure and function of developmental GRNs dictate the robustness of cell fate decisions to environmental variation. Chapter \ref{ch:metabolism} directly embraced this sentiment. It proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain many seemingly redundant repressors acting upon the same target genes. The theory posits that auxiliary negative regulators mitigate erroneous cell fate decisions when cells are rapidly metabolizing, and implies that auxiliary repressors may help GRNs adapt their behavior to environmentally driven variation in metabolism. The central hypothesis is supported by a diverse collection of experiments in which repressor loss-of-function phenotypes are reversed when biosynthesis rates are slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect, and theoretically demonstrated that auxiliary repressors could avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity confirmed the hypothesized mechanism in vivo.
+These observations reflect a central theme of this dissertation; the structure and function of developmental GRNs dictate the robustness of cell fate decisions to environmental variation. Chapter \ref{ch:metabolism} directly embraced this sentiment. It proposed a new theory to explain why the regulatory networks that coordinate cell fate decisions often contain many seemingly redundant repressors acting upon the same target genes. The theory posits that auxiliary negative regulators mitigate erroneous cell fate decisions when cells are rapidly metabolizing, and implies that auxiliary repressors may help GRNs adapt their behavior to environmentally driven variation in cell metabolism. The theory is supported by a diverse collection of experiments in which repressor loss-of-function phenotypes were reversed when biosynthesis rates were slowed. A quantitative modeling framework was used to explore the mechanistic origin of this effect, and theoretically demonstrated that auxiliary repressors could avert erroneous decisions by expanding cells capacity to buffer excess protein expression. Quantitative measurements of transcription factor activity confirmed the hypothesized mechanism in vivo.
 
-The theory implies that a novel evolutionary driving force may shape the structure and function of developmental gene regulatory networks. Chapter \ref{ch:introduction} introduced the notion that developmental GRNs guide organisms through a tortuous journey from embryo to adulthood. The journey is not a sprint. Rather, cells must carefully navigate the many twists and turns of developmental programs; rapidly synthesizing GRN components when and where they are needed, then degrading them with equivalent urgency. The protein synthesis and degradation machineries supply the engine and brakes needed to successfully circumvent these obstacles. Individuals stand to benefit from completing the journey quickly because they are generally vulnerable during this time, with little means to defend themselves against predation and other dangers. They could naively swap out the engine for something more potent, but only at the risk of perilous consequences. By simultaneously upgrading the brakes they could realize the best of both worlds. Similarly, organisms could accelerate development by expanding biosynthesis capacity, but the resultant increase in protein expression might misregulate cell fate decisions and drive the emergence of developmental errors. By simultaneously incorporating additional repressors, they could tolerate faster metabolic rates without compromising accuracy. The data presented in Chapter \ref{ch:metabolism} illustrate the inverse perspective; repressors are dispensable when metabolism is slow, much in the way that the original brakes suffice at low speeds. The data therefore imply that auxiliary repressors allow development to proceed more quickly, without any adverse consequences. Beyond reduced vulnerability, shorter generational times also confer a selective advantage by facilitating rapid exploration of the phenotypic landscape, and thus faster adaptation to varied environments. GRNs should therefore be expected to incorporate any topological features that allow development to proceed more quickly. The abundance of redundant regulation found in developmental GRNs certainly appears to support this hypothesis.
+Chapter \ref{ch:introduction} introduced the notion that developmental GRNs guide organisms through a tortuous journey from embryo to adulthood. The journey is not a sprint. Rather, cells must carefully navigate the many twists and turns of developmental programs; rapidly synthesizing GRN components when and where they are needed, then degrading them with comparable urgency. Protein synthesis and degradation machineries supply the engine and brakes needed to negotiate these obstacles. Individuals stand to benefit from completing the journey quickly because they are generally vulnerable until adulthood, with little means to defend themselves against predation and other dangers. They could naively swap out the engine for something more potent, but added power escalates the risk of perilous consequences. Instead, they could realize the best of both worlds by simultaneously upgrading the brakes. Similarly, organisms may accelerate development by expanding biosynthesis capacity, but the resultant boost in protein expression can cause erroneous cell fate decisions that lead to the emergence of deleterious phenotypes. By simultaneously incorporating additional repressors, they can tolerate faster metabolic rates without compromising the accuracy of cell fate decisions. The data presented in Chapter \ref{ch:metabolism} demonstrate that auxiliary repressors enable faster development by illustrating the inverse perspective. Repressors were shown to be dispensable when metabolism was slow, much in the way that stock brakes would suffice at low speeds. 
 
+This line of reasoning implies that a novel evolutionary driving force may shape the structure and function of developmental gene regulatory networks. Shorter generational times confer a selective advantage beyond reducing individuals exposure during infancy. They facilitate rapid exploration of the phenotypic landscape, enabling fast adaptation to variable environments. GRNs should therefore be expected to incorporate any topological features that allow development to proceed more quickly. The abundance of seemingly redundant regulation found in developmental GRNs certainly appears to support this hypothesis, and thus reinforce our contemporary understanding that robustness is a fundamental organizational principle underlying the evolution of biological systems \cite{Kitano2004,Stelling2004}. 
 
+The findings also contribute to an emerging view that cells capacity to rapidly adjust protein homeostasis directly affects organismal fitness and health \cite{Visscher2016,Tollerson2018,Burnaevskiy2018}. The assertion is backed by convincing experimental evidence. Burnaevskiy et al used a dual-reporter scheme in \textit{C. elegans} to show that cellular differences in the abundance of protein synthesis machinery manifest in the population-wide penetrance of adult phenotypes. The authors went on to speculate that longevity might be similarly be affected \cite{Burnaevskiy2018}. Tollerson et al showed that Elongation factor P alleviates a translational bottleneck caused by ribosomal queuing in \textit{E. coli}, facilitating adaption to environmentally-driven increases in cell metabolism \cite{Tollerson2018}. Chapter \ref{ch:metabolism} contributes unique evidence that the accuracy of cell fate decisions depends upon cells ability to dynamically balance the push and pull of protein synthesis and degradation. 
 
+%
+%\section{ Avenues for further exploration }
+%
+%The findings presented in Chapters \ref{ch:ratio} and \ref{ch:metabolism} prompt consideration of several new directions for future research.
+%
+%- Ratio control mechanism?
+%- Direct perturbation of Pnt/Yan ratio?
+%- Exploration of cis-regulatory syntax
+%
+%- Relation to temperature - would require knowledge of temperature/metabolism scaling
+%- Introduction of simpler model
+%- Exploration of tradeoff between synthesis and degradation
+%- Potential for a complete 'penetrance theory' framework using moment equations
+%- Rigorous exploration of other control architectures: What about promoters?
+%- Consideration of other systems (yeast mating response) - potential for quantitative dynamics
+%
 
-Aryal
+\section{Lessons for quantitative biology}
 
+This dissertation surveyed developmental cell fate decisions through a quantitative lens. It used numbers and equations to derive nuanced understanding of processes that are notoriously difficult to characterize. Doing so required forcible reconciliation with traditional biological insight. Two valuable lessons were learned in the process whose continued discussion will benefit the field of quantitative biology as a whole.
 
-Csontitute phosphor of dcr1 impacts metabolism and aging in mice
+First, models should fit the data; not the other way around. While it may be possible to coax data into a predefined framework, tailoring one appropriate for the task at hand will generally return more meaningful insight. Mathematical flexibility was a key strength of this dissertation. Each chapter leveraged a customized modeling framework to tease deeper meaning out of experimental data than would otherwise have been possible using conventional techniques. Chapter \ref{ch:clones} deployed a Bayesian statistical framework to infer cell genotypes from an image of clonal marker expression. Biological intuition suggests it should have enforced detection of three distinct components strictly delimited by clonal marker level. Instead, the model was designed to tolerate an arbitrary number of components defined by both clonal marker level and spatial context, which were later aggregated into the three anticipated genotypes. This empirical formulation buffered the uncertainties imparted by expression heterogeneity and imaging noise to improve annotation performance. 
 
+Chapter \ref{ch:ratio} used a model to explore how \textit{cis}-regulatory interactions between Yan monomers bias the transcriptional output of genes simultaneously regulated by Pnt. Conventional wisdom suggests an equilibrium competitive binding model based on the Hill-Langmuir equation would be appropriate \cite{Gesztelyi2012}. Instead, an equilibrium statistical mechanical approach was adapted from earlier work by Hope et al \cite{Hope2017}. Contrary to the empirical strategies used in other chapters, this model substantially increased the resolution of analysis. Doing so provided detailed mechanistic insight into the intricacies of polymerizing transcription factors that would have otherwise been inaccessible (see Fig. \ref{fig:ratio:figS5}C). 
 
-Tollerson2018
+Chapter \ref{ch:metabolism} sought to model the dynamic behavior of GRNs controlling a broad spectrum of cell fate decisions. Biological intuition suggests the first step should have been to identify known regulatory interactions in each system. Such an endeavor was certainly possible for Yan-mediated control of retinal patterning as the pertinent interactions have been studied for decades \cite{Ready1976,Rebay1995,Rohrbaugh2002,Carthew2009}. Chapter \ref{ch:metabolism} instead drew inspiration from control theory to develop a mathematical model strictly concerned with the salient features of pulsatile protein expression dynamics. Namely, the magnitude of induction and timescale of decay. The model neglected the molecular detail of each system, instead favoring a coarse-grained depiction that was much more generalizable. This reductionist approach was vital to the model's success in representing a diverse set of developmental contexts. 
 
-Another experimental study of the connection between phenotype penetrance and cell metabolism appeared in PNAS this week. They're looking at how mutations that cause ribosomal queuing are masked under slow growth conditions in E coli. The deleterious effects of these mutations are not truly mitigated under slow-growth (as in our paper), rather the reduced demand for protein synthesis relieves a translational bottleneck. They conclude that elongation factor P enables adaptation to variable growth conditions. They are focused on protein homeostasis, use a less complex organism, and don't attempt to model the underlying mechanism, but many of their figures and overall conclusions are in principle very similar to our study. I presented this during group meeting this morning and Luis agreed it was worth passing along.
+The coarse-grained model deployed in Chapter \ref{ch:metabolism} wholly embraces the second major lesson: The resolution of analysis should match the resolution of the data. Biological networks are complex, often far more complex than we can intuitively comprehend. Their emergent behavior arises from the collective interactions of many components, most of which are typically unknown. These uncertainties make it particularly dangerous to represent systems level behavior as the sum of its parts. Furthermore, predictions made by aggregating interactions that were characterized in isolation are all but meaningless.
 
+Despite its pitfalls, this practice remains tragically common in the literature. It is perhaps most strongly embodied by the abundance of cartoons that purport to depict systems level behavior by assembling a compendium of qualitative regulatory interactions. Figure \ref{fig:ratio:fig7}A provides a convenient example. These cartoons are harmless by themselves, but problems arise when unsuspecting viewers ascribe mechanistic meaning to the individual arrows. There is no unified standard to define what these arrows mean. A single arrow might actually represent an entire sub-network of nonlinear processes. Intermediate chemical species within an arrow might even interact with others in separate arrow drawn elsewhere in the diagram. The rampant ambiguity in these cartoons starkly contrasts the standardized design languages used in engineering \cite{Lazebnik2004}. It also hinders the communication of otherwise outstanding research.
 
-Burnaevskiy2018
+Fortunately, a viable solution to this challenge already exists. Control theory emphasizes an empirical representation of systems-level dynamics that is easily matched to the resolution of available data. It offers a particularly appropriate perspective for rationalizing the behavior of developmental GRNs, as most are inherently localized in time and contain numerous unknown components and interactions. This rationale inspired the conceptual model of ratiometric control used to interpret the Pnt-Yan network analyzed in Chapter \ref{ch:ratio}. Similar reasoning inspired the design of the control theoretic modeling framework used throughout Chapter \ref{ch:metabolism}. The breadth of experiments pointed toward a dynamic phenomenon agnostic to the molecular detail of repressors and their targets. More importantly, among all systems surveyed, only Yan and Sens expression were measurable. The resolution of analysis was therefore matched to the resolution of the data; resulting in the pulsatile expression of a generic protein.
 
-They do not focus on negative feedback or developmental decisions, but they show (in worms) that organism-scale phenotype penetrance can is driven by variation in metabolic conditions. This is quite similar to how I rationalize the model underlying our metabolism paper.
-
-
-
-
-
-
-\section{ Avenues for further exploration }
-
-- Relation to temperature - would require knowledge of temperature/metabolism scaling
-- Introduction of simpler model
-- Exploration of tradeoff between synthesis and degradation
-- Potential for a complete theoretical framework
-- Is redundant regulation the only link? What about promoters?
-
-
-
-
-
-
-=== EXPAND ===
-
-
-Chapter \ref{ch:ratio} also used the framework developed in Chapter \ref{ch:clones} to show that regulation stabilizes the Pnt-to-Yan ratio against genetic variation in \textit{pnt} and \textit{yan} copy number. Subsequent R cell fate decisions therefore also appear to be isolated from genetic variation, permitting rapid accumulation of mutations that allow for wider exploration of the fitness landscape. MicroRNAs are known to play a similar role \cite{Cassidy2013,Cassidy2016}.
-
-
-
-It is all too easy to coax data into a desired framework
-But models should fit the data; not the other way around. 
-
-Core strength of this work is its flexibility
-equilibrium model
-dynamoc model
-
-yet the newly proposed rationalizing all existing experimental data \cite{Shwartz2013,BoisclairLachance2014,Pelaez2015a}.
-
-A general model based on the statistical physics of transcription factor DNA binding showed that this phenomenon is a natural consequence of competition between the two transcription factors for common binding sites. 
-
-The results also exemplify the importance of both quantitative and dynamic measurements for characterizing developmental systems. 
-
-
-
-
-
-
-
-
-Each chapter of this dissertation leveraged the power of quantitative measurement and mathematical modeling to tease deeper meaning out of experimental data than would otherwise have been possible using conventional techniques.
-
-ask how cells reliably commit to appropriate fates at the correct time and place.
-
-tease explanations out of experimental data, rebuke existing dogma, propose new mechanisms, and postulate new theories. 
-
-The findings of this dissertation provide a fresh perspective as to how the structure and function of gene regulatory networks control emergent behavior at the organismal scale.
-
-They suggest 
-
-These achievements were attained through principled application of existing knowledge from other technical disciplines.
-
-
-
-
-
-
-
-\section{New computational resources for quantitative biologists}
-
-The research presented in this dissertation spawned several computational tools that may prove valuable to the broader community of quantitative biologists. All of these resources have been made freely available online under open license for unrestricted use and future development. They are published alongside \textbf{FlyEye Silhouette}: \url{http://silhouette.amaral.northwestern.edu}, a GUI-based MacOS application for segmentation, quantification, and annotation of cell nuclei in the \textit{Drosophila} eye imaginal disc that was developed by Helio Tejedor in the Amaral lab at Northwestern University. The list below describes each of the new tools and their high level functions. All are accessible via GitHub repositories mirrored between both \href{https://github.com/sebastianbernasek/}{my personal account} and the \href{https://github.com/amarallab}{Amaral} and \href{https://github.com/bagherilab}{Bagheri} lab accounts. These repositories contain high level API documentation in addition to a series of Jupyter notebooks that walk the user through a series of usage examples. 
-
-\begin{itemize}[leftmargin=*, topsep=10pt, parsep=5pt, partopsep=5pt, itemsep=10pt]
-    
-  % FLYEYE ANALYSIS
-  \item \textbf{FlyEye Analysis}: \url{https://github.com/sebastianbernasek/flyeye}
-  \newline
-  Python framework for analyzing data generated using FlyEye Silhouette. Core features include inference of cell developmental ages and analysis of the resultant expression dynamics. Also provides tools to quantify expression heterogeneity and spatial patterns.
-  
-  % FLYEYE ANALYSIS
-  \item \textbf{FlyEye Clones}: \url{https://github.com/sebastianbernasek/clones}  
-  \newline
-  Python framework for automated mosaic analysis of \textit{Drosophila} eye imaginal discs. Core features will be integrated with future versions of FlyEye Silhouette. 
-  
-  % FLYEYE SYCLONES
-  \item \textbf{FlyEye SyClones}: \url{https://github.com/sebastianbernasek/syclones}
-  \newline 
-  Python framework for generating synthetic microscopy data that mimic key features of mosaic eye imaginal discs.
-  
-  % PolyTF BINDING
-  \item \textbf{PolyTF Binding}: \url{https://github.com/sebastianbernasek/binding}
-  \newline 
-  Python framework for simulating the equilibrium occupancy of DNA binding sites by one or more polymerizing transcription factors. Utilizes a C backend that efficiently enumerates all possible microstates in a recursive fashion, enabling nested parallelization of the main computational bottleneck. For systems of two or more transcription factors, the implementation confers a major performance advantage over the sequential enumeration strategy proposed by the manuscript that inspired the model \cite{Hope2017}.
-  
-  % GENESSA
-  \item \textbf{GeneSSA}: \url{https://github.com/sebastianbernasek/genessa}
-  \newline
-  Python framework for exact stochastic simulation of gene regulatory network dynamics \cite{Gillespie1977}. Simulations are executed by a C backend optimized for performance on networks with a narrow scope of pre-defined reaction propensity functions. The limited scope is by design; GeneSSA prioritizes computational efficiency at the expense of flexibility by explicitly hard coding a set of functional forms. This design places GeneSSA among the most performant implementations of the exact stochastic simulation algorithm for several common types of GRNs. The framework may be (and has been) extended to include additional kinetic formulations as they are required.
-  
-\end{itemize}
-
-\textbf{NOTE}: See Appendix \ref{appendix:resources} for all experimental data and another set of Jupyter notebooks walk the user through reproducing all of the results and figures presented in this dissertation.
-
-
-
-
-
-
-
-
-
-
-
-\section{ Tools for a quantitative future }
-
-- Need for quantification in each set of experiments
-- Danger of 'feedback' diagrams
-- Need for quantitative measurements
-
-
-\section{ Development viewed through the lens of control theory }
-
-- Value of 'dynamics' only perspective
-- Discussion on link to molecular mechanisms
-- Ratio control circuit
-
-
-
-
-
-- development of 'penetrance theory' based on analytical framework using moment equations
-- rigorous exploration of other control architectures
-- quantitative characterization of a well known system (yeast)
--
-
-
-\section{Robustness as an evolutionary design principle}
-
-	\subsection{Ubiquity of noise}	
-	
-	\subsection{Scale free ratiometric sensing}
-	
-	\subsection{Selective pressure on negative regulation}
-	
-		\paragraph{Evidence of further phenotype suppression (papers sent to Rich)}
-
-\section{Harnessing the power of quantitative models}
-
-	\subsection{Demand for accurate measurements}
-	
-	\subsection{Knowledge at the expense of molecular detail}
-		\paragraph{Dynamic model of ratiometric control.}		
-		
-	\subsection{Generating hypotheses to guide experiments}
-		\paragraph{Cell decisions under variable temperature.}		
-		\paragraph{Robustness to loss of promoters.}
-		\paragraph{Exploration of simpler systems (yeast mating response).}
-		
-\section{Outlook for studies of cell decisions}
-
-	\subsection{Open questions for further exploration}
-		\paragraph{Robustness of cell decisions to other environmental conditions.}	
-					
-	\subsection{Consolidating knowledge through collaboration}
-	
-		\paragraph{Grounding theory with experimental validation.}		
-		\paragraph{Open source ecosystem.}
-
-
-\section{Dynamic perspective of cell behavior}
-	\subsection{Dynamics matter}
-		\paragraph{Decisions are localized in time.}
-	\subsection{Control theoretical insights into cell behavior}
-		\paragraph{Yeast papers}
-		\paragraph{Khammash papers}
-
-
-% recent papers on metabolism & phenotypes --- see PNAS presentation and paper to rich/luis
-% recent gap genes example, all information encoded in a handful of factors
-% emphasis on dynamics - simple model, how does one process scale versus another
-
-\Chapter{Conclusions}
-
-reconcile pnt/yan mechanism with yan over-expression
-
-discuss impact of clones pipeline on pnt/yan study
-
-
-
-
-
----------- GET CITES FROM NRSA
-
-Robustness is a fundamental organizational principle underlying the evolution of biological systems7. This need for reliability amidst genetic and environmental perturbations is typically assumed to explain the prevalence of redundancy and feedback within gene regulatory networks8. The proposed research poses a complementary explanation for the ubiquity of these regulatory features; redundant negative feedback confers a selective advantage by enabling rapid growth and development. By exploring this hypothesis, the study promises to identify a novel driving force for increased complexity in gene regulatory network topologies. 
-
-
-
-Loss of function mutations affecting regulatory mechanisms have been implicated in the emergence of cancer, autoimmune disease, neurological disorders, diabetes, cardiovascular disease, and morphological abnormalities. Understanding when and how regulation fails is vital to controlling its proper function in humans.
-
-1.	Misregulation of gene expression results in human cancer and disease. Genome-wide association studies have shown non-coding regulatory DNA variation to be strongly associated with human cancer and disease1. Understanding how regulatory variants give rise to disease states is vital to the development and implementation of novel medical strategies. These functional relationships have been explored for a number of transcriptional, post-transcriptional, and epigenetic regulators, but in most cases the precise molecular details remain elusive2–5. This study proposes both mechanistic and phenomenological frameworks for studying the emergence of developmental errors when regulation fails to attenuate transient signals. By studying how developmental processes fail when regulation is perturbed in Drosophila and yeast, the proposed research will advance our understanding of how regulation ensures accurate and timely cellular decisions in all animals.  
-
-In the future, model-informed design of engineered repressors could serve as a platform for tuning signaling dynamics in a manner conducive to proper human development and health.
-
-The prevalence of redundant regulation in gene regulatory networks is often ascribed to a need for robustness against genetic and environmental variability8. These experiments motivate an alternate hypothesis; redundant negative feedback facilitates faster growth and development. While intriguing, the data are limited to fractions of animal populations exhibiting abnormal phenotypes and do not address the underlying mechanism. Any approach toward understanding this phenomenon must bridge the gap between gene expression and phenotypic outcomes with sufficient generality to explain the breadth of surveyed systems. The proposed research plan provides an extension to this hypothesis; redundant negative feedback facilitates faster growth and development by coupling developmental gene expression programs to physiological cell state. My hypothesis is predicated on the notion that cells make mistakes when global rates of transcription and translation outpace regulatory networks’ abilities to attenuate transient signals. From this perspective, redundant repressors provide overflow capacity to buffer against increased protein synthesis, ensuring the timely degradation of transiently expressed proteins when growth and development are fast. Together, increased biosynthesis and sufficient negative feedback would enable development to proceed more quickly without incurring additional errors.
-
-The breadth of experiments in Drosophila points toward a dynamic phenomenon agnostic to the molecular detail of repressors and their targets. To demonstrate the generality of my hypothesis, I propose a coarse-grained framework relating expression of a generic protein to population-wide phenotype distributions that does not depend upon the specifics of each developmental system. My goal is to predict how removal of a negative feedback mechanism causes protein levels within affected cells to differ from their unperturbed counterparts. As nuanced changes in expression yield abnormal morphologies in vivo, differences in protein levels manifest as differences in phenotype penetrance25. I aim to quantify both how different a population of cells behaves when negative feedback is removed and how the magnitude of this difference depends upon biosynthesis rates.
-
-The framework suggests the experiments reflect a general principle of dynamic systems; they are more sensitive to perturbation when internal dynamics are fast. In this case, transcription factor activity is more sensitive to changes in regulation when mRNA and protein biosynthesis rates are high.
-
-
-
-
-Together, these results indicate that tightly coordinated competition between Yan and Pnt lies at the heart of neuronal fate commitment. These observations are consistent with the notion that Yan and Pnt compete for occupancy of shared binding sites in the promoter region of downstream effectors of neuronal differentiation(Gabay et al., 1996; O’Neill et al., 1994). Consequently, altering the expression dynamics of either protein is expected to increase the frequency of erroneous fate commitment, and subsequently increase the likelihood of a roughened eye phenotype. 
+%
+%\section{Tools for quantitative biologists}
+%
+%The research presented in this dissertation spawned several computational tools that may prove valuable to the broader community of quantitative biologists. All of these resources have been made freely available online under open license for unrestricted use and future development. They are published alongside \textbf{FlyEye Silhouette}: \url{http://silhouette.amaral.northwestern.edu}, a GUI-based MacOS application for segmentation, quantification, and annotation of cell nuclei in the \textit{Drosophila} eye imaginal disc that was developed by Helio Tejedor in the Amaral lab at Northwestern University. The list below describes each of the new tools and their high level functions. All are accessible via GitHub repositories mirrored between both \href{https://github.com/sebastianbernasek/}{my personal account} and the \href{https://github.com/amarallab}{Amaral} and \href{https://github.com/bagherilab}{Bagheri} lab accounts. These repositories contain high level API documentation in addition to a series of Jupyter notebooks that walk the user through a series of usage examples. 
+%
+%
+%\textbf{NOTE}: See Appendix \ref{appendix:resources} for all experimental data and another set of Jupyter notebooks walk the user through reproducing all of the results and figures presented in this dissertation.

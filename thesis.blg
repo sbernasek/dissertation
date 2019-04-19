@@ -2,47 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 The style file: unsrtnat.bst
-Reallocated field_info (elt_size=4) to 12952 items from 5000.
+Reallocated field_info (elt_size=4) to 13036 items from 5000.
 Database file #1: ./bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-You've used 284 entries,
+You've used 287 entries,
             2481 wiz_defined-function locations,
-            3044 strings with 93698 characters,
-and the built_in function-call counts, 133445 in all, are:
-= -- 11896
-> -- 8032
-< -- 136
-+ -- 2995
-- -- 2426
-* -- 12331
-:= -- 22345
-add.period$ -- 1536
-call.type$ -- 284
-change.case$ -- 561
-chr.to.int$ -- 283
-cite$ -- 284
-duplicate$ -- 5440
-empty$ -- 10534
-format.name$ -- 2850
-if$ -- 27548
+            3067 strings with 94877 characters,
+and the built_in function-call counts, 135267 in all, are:
+= -- 12041
+> -- 8179
+< -- 137
++ -- 3047
+- -- 2472
+* -- 12513
+:= -- 22653
+add.period$ -- 1553
+call.type$ -- 287
+change.case$ -- 567
+chr.to.int$ -- 286
+cite$ -- 287
+duplicate$ -- 5510
+empty$ -- 10653
+format.name$ -- 2899
+if$ -- 27922
 int.to.chr$ -- 2
-int.to.str$ -- 285
-missing$ -- 277
-newline$ -- 2106
-num.names$ -- 854
-pop$ -- 1453
+int.to.str$ -- 288
+missing$ -- 280
+newline$ -- 2129
+num.names$ -- 863
+pop$ -- 1469
 preamble$ -- 1
-purify$ -- 284
+purify$ -- 287
 quote$ -- 0
-skip$ -- 3057
+skip$ -- 3101
 stack$ -- 0
-substring$ -- 6762
-swap$ -- 793
-text.length$ -- 16
+substring$ -- 6848
+swap$ -- 815
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1970
+type$ -- 1991
 warning$ -- 0
-while$ -- 1060
+while$ -- 1071
 width$ -- 0
-write$ -- 5044
+write$ -- 5099

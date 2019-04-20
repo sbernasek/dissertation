@@ -47,14 +47,18 @@
 \contentsline {figure}{\numberline {4.17}{\ignorespaces Reduced metabolism desensitizes protein dynamics to repression.}}{121}{figure.caption.52}
 \contentsline {figure}{\numberline {4.18}{\ignorespaces Robustness of ribosomopathy simulations to model assumptions.}}{121}{figure.caption.53}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Simplified framework for modeling the loss of an auxiliary repressor.}}{129}{figure.caption.54}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Environmental sensitivities under which auxiliary repressors are dispensable.}}{130}{figure.caption.55}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Phase diagram of auxiliary promoter loss.}}{132}{figure.caption.56}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Phase diagram of auxiliary repressor loss.}}{132}{figure.caption.57}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces PntGFP expression during eye development.}}{173}{figure.caption.55}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces PntGFP and Yan expression dynamics in additional cell types.}}{174}{figure.caption.56}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces \textit {yan} null clones in the eye.}}{175}{figure.caption.57}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{176}{figure.caption.58}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces PntGFP expression during eye development.}}{183}{figure.caption.59}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces PntGFP and Yan expression dynamics in additional cell types.}}{184}{figure.caption.60}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces \textit {yan} null clones in the eye.}}{185}{figure.caption.61}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{186}{figure.caption.62}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{180}{figure.caption.60}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{188}{figure.caption.61}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{190}{figure.caption.64}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{198}{figure.caption.65}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

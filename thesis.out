@@ -39,27 +39,28 @@
 \BOOKMARK [1][]{section.4.8}{4.8. Implications for the evolution of GRNs}{chapter.4}% 39
 \BOOKMARK [1][]{section.4.9}{4.9. Robustness of modeling results}{chapter.4}% 40
 \BOOKMARK [0][]{chapter.5}{Chapter 5. Conclusions}{}% 41
-\BOOKMARK [1][]{section.5.1}{5.1. Lessons for quantitative biology}{chapter.5}% 42
-\BOOKMARK [0][]{chapter*.54}{References}{}% 43
-\BOOKMARK [0][]{appendix.A}{Appendix A. Supporting information for Chapter 3}{}% 44
-\BOOKMARK [1][]{section.A.1}{A.1. Genetics}{appendix.A}% 45
-\BOOKMARK [1][]{section.A.2}{A.2. Immunohistochemistry}{appendix.A}% 46
-\BOOKMARK [1][]{section.A.3}{A.3. Quantification of expression levels}{appendix.A}% 47
-\BOOKMARK [1][]{section.A.4}{A.4. Conversion of distance to time}{appendix.A}% 48
-\BOOKMARK [1][]{section.A.5}{A.5. Computation of moving averages and confidence intervals}{appendix.A}% 49
-\BOOKMARK [1][]{section.A.6}{A.6. Alignment of expression data}{appendix.A}% 50
-\BOOKMARK [1][]{section.A.7}{A.7. Analysis of yan clones}{appendix.A}% 51
-\BOOKMARK [1][]{section.A.8}{A.8. Parameterization of equilibrium binding model}{appendix.A}% 52
-\BOOKMARK [1][]{section.A.9}{A.9. Visualization of relative Pnt and Yan expression in Notch mutant discs}{appendix.A}% 53
-\BOOKMARK [1][]{section.A.10}{A.10. Analysis of periodic spatial patterns in Notch mutant discs}{appendix.A}% 54
-\BOOKMARK [1][]{section.A.11}{A.11. Supplementary figures}{appendix.A}% 55
-\BOOKMARK [0][]{appendix.B}{Appendix B. Supporting information for Chapter 4}{}% 56
-\BOOKMARK [1][]{section.B.1}{B.1. Model system}{appendix.B}% 57
-\BOOKMARK [1][]{section.B.2}{B.2. Genetics}{appendix.B}% 58
-\BOOKMARK [1][]{section.B.3}{B.3. Analysis of mutant phenotypes}{appendix.B}% 59
-\BOOKMARK [1][]{section.B.4}{B.4. Quantification of sfGFP-Sens in the wing disc}{appendix.B}% 60
-\BOOKMARK [1][]{section.B.5}{B.5. Quantification of Yan-YFP dynamics in the eye}{appendix.B}% 61
-\BOOKMARK [1][]{section.B.6}{B.6. Simulation procedure}{appendix.B}% 62
-\BOOKMARK [1][]{section.B.7}{B.7. Dependence of model parameters on metabolic conditions}{appendix.B}% 63
-\BOOKMARK [0][]{appendix.C}{Appendix C. Computational tools for quantitative biologists}{}% 64
-\BOOKMARK [0][]{appendix.D}{Appendix D. Reproduction data and code}{}% 65
+\BOOKMARK [1][]{section.5.1}{5.1. \040Avenues for further exploration }{chapter.5}% 42
+\BOOKMARK [1][]{section.5.2}{5.2. Perspectives for quantitative biology}{chapter.5}% 43
+\BOOKMARK [0][]{chapter*.58}{References}{}% 44
+\BOOKMARK [0][]{appendix.A}{Appendix A. Supporting information for Chapter 3}{}% 45
+\BOOKMARK [1][]{section.A.1}{A.1. Genetics}{appendix.A}% 46
+\BOOKMARK [1][]{section.A.2}{A.2. Immunohistochemistry}{appendix.A}% 47
+\BOOKMARK [1][]{section.A.3}{A.3. Quantification of expression levels}{appendix.A}% 48
+\BOOKMARK [1][]{section.A.4}{A.4. Conversion of distance to time}{appendix.A}% 49
+\BOOKMARK [1][]{section.A.5}{A.5. Computation of moving averages and confidence intervals}{appendix.A}% 50
+\BOOKMARK [1][]{section.A.6}{A.6. Alignment of expression data}{appendix.A}% 51
+\BOOKMARK [1][]{section.A.7}{A.7. Analysis of yan clones}{appendix.A}% 52
+\BOOKMARK [1][]{section.A.8}{A.8. Parameterization of equilibrium binding model}{appendix.A}% 53
+\BOOKMARK [1][]{section.A.9}{A.9. Visualization of relative Pnt and Yan expression in Notch mutant discs}{appendix.A}% 54
+\BOOKMARK [1][]{section.A.10}{A.10. Analysis of periodic spatial patterns in Notch mutant discs}{appendix.A}% 55
+\BOOKMARK [1][]{section.A.11}{A.11. Supplementary figures}{appendix.A}% 56
+\BOOKMARK [0][]{appendix.B}{Appendix B. Supporting information for Chapter 4}{}% 57
+\BOOKMARK [1][]{section.B.1}{B.1. Model system}{appendix.B}% 58
+\BOOKMARK [1][]{section.B.2}{B.2. Genetics}{appendix.B}% 59
+\BOOKMARK [1][]{section.B.3}{B.3. Analysis of mutant phenotypes}{appendix.B}% 60
+\BOOKMARK [1][]{section.B.4}{B.4. Quantification of sfGFP-Sens in the wing disc}{appendix.B}% 61
+\BOOKMARK [1][]{section.B.5}{B.5. Quantification of Yan-YFP dynamics in the eye}{appendix.B}% 62
+\BOOKMARK [1][]{section.B.6}{B.6. Simulation procedure}{appendix.B}% 63
+\BOOKMARK [1][]{section.B.7}{B.7. Dependence of model parameters on metabolic conditions}{appendix.B}% 64
+\BOOKMARK [0][]{appendix.C}{Appendix C. Computational tools for quantitative biologists}{}% 65
+\BOOKMARK [0][]{appendix.D}{Appendix D. Reproduction data and code}{}% 66

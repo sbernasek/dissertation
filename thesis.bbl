@@ -1,4 +1,4 @@
-\begin{thebibliography}{287}
+\begin{thebibliography}{289}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -2760,13 +2760,25 @@ Nikolay Burnaevskiy, Bryan Sands, Soo Yun, Patricia~M Tedesco, Thomas~E
 \newblock \doi{10.1101/431643}.
 \newblock URL \url{https://www.biorxiv.org/content/10.1101/431643v1}.
 
-\bibitem[Gillespie(1977)]{Gillespie1977}
-Daniel~T Gillespie.
-\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
-\newblock \emph{The Journal of Physical Chemistry}, 81\penalty0 (25):\penalty0
-  2340--2361, 1977.
-\newblock \doi{10.1021/j100540a008}.
-\newblock URL \url{http://pubs.acs.org/doi/abs/10.1021/j100540a008}.
+\bibitem[Sotiropoulos and Kaznessis(2011)]{Sotiropoulos2011}
+Vassilios Sotiropoulos and Yiannis~N. Kaznessis.
+\newblock {Analytical derivation of moment equations in stochastic chemical
+  kinetics}.
+\newblock \emph{Chemical Engineering Science}, 66\penalty0 (3):\penalty0
+  268--277, feb 2011.
+\newblock ISSN 00092509.
+\newblock \doi{10.1016/j.ces.2010.10.024}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S000925091000610X}.
+
+\bibitem[Gesztelyi et~al.(2012)Gesztelyi, Zsuga, Kemeny-Beke, Varga, Juhasz,
+  and Tosaki]{Gesztelyi2012}
+Rudolf Gesztelyi, Judit Zsuga, Adam Kemeny-Beke, Balazs Varga, Bela Juhasz, and
+  Arpad Tosaki.
+\newblock {The Hill equation and the origin of quantitative pharmacology}, jul
+  2012.
+\newblock ISSN 00039519.
+\newblock URL \url{http://link.springer.com/10.1007/s00407-012-0098-5}.
 
 \bibitem[Shellenbarger and Mohler(1975)]{Shellenbarger1975}
 David~L. Shellenbarger and Dawson~J. Mohler.
@@ -2855,5 +2867,13 @@ R~Milo and R~Phillips.
 \newblock \emph{{Cell Biology by the Numbers}}.
 \newblock Garland Science, New York, NY, 2016.
 \newblock ISBN 0815345372.
+
+\bibitem[Gillespie(1977)]{Gillespie1977}
+Daniel~T Gillespie.
+\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
+\newblock \emph{The Journal of Physical Chemistry}, 81\penalty0 (25):\penalty0
+  2340--2361, 1977.
+\newblock \doi{10.1021/j100540a008}.
+\newblock URL \url{http://pubs.acs.org/doi/abs/10.1021/j100540a008}.
 
 \end{thebibliography}

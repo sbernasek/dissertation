@@ -1,3 +1,4 @@
+
 %%% This is nuthesis.cls
 %%% for writing doctoral dissertations at the
 %%% Mathematics Department of Northwestern University

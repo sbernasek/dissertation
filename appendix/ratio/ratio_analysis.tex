@@ -28,10 +28,7 @@ None of our conclusions are sensitive to our choice of filtration or smoothing m
 
 Cells were aligned with a reference population by shifting them in time. The magnitude of this shift was determined by maximizing the cross-correlation of progenitor Pnt-GFP expression $Y(t)$ with the corresponding reference time series $X(t)$. Rather than raw measurements, moving averages within a window of ten cells were used to improve robustness against noise. This operation amounts to:
 \begin{equation}
-z = \argmax_{dt} \ {\hat{\gamma}_{X(t),Y(t)}}
-\end{equation}
-\begin{equation}
-\hat{\gamma}_{X(t),Y(t)} (dt) = E \Big[ \frac{(Y(t+dt)-\mu_Y)(X(t+dt)-\mu_X)}{\sigma_Y \sigma_X} \Big]
+z = \argmax_{dt} \ { E \Big[ \frac{(Y(t+dt)-\mu_Y)(X(t+dt)-\mu_X)}{\sigma_Y \sigma_X} \Big] }
 \end{equation}
 where, $\mu$ and $\sigma$ are the mean and standard deviation of each time series, and $dt$ is the time by which the population should be shifted.
 
@@ -42,7 +39,7 @@ This approach differs from the previous implementation of our pipeline in which 
 \section{Analysis of \textit{yan} clones}
 \label{appendix:ratio:clones}
 
-We used \textit{ey$>$FLP} and \textit{FRT40A} to generate $yan^{833}$ null clones within 23 eye discs carrying the Pnt-GFP transgene (see Section \ref{appendix:ratio:genetics}). The chromosome carrying the wildtype \textit{yan} allele was marked with a Ubi-mRFPnls transgene, enabling automated detection of subpopulations with distinct \textit{yan} gene dosages, each characterized by a distinct level of mRFP fluorescence. Discs were dissected, fixed, and co-stained with DAPI prior to confocal imaging. Images of 36 unique vertical cross-sections spanning non-overlapping cells were collected in total. 
+We used \textit{ey$>$FLP} and \textit{FRT40A} to generate \textit{yan\textsuperscript{833}} null clones within 23 eye discs carrying the Pnt-GFP transgene (see Section \ref{appendix:ratio:genetics}). The chromosome carrying the wildtype \textit{yan} allele was marked with a Ubi-mRFPnls transgene, enabling automated detection of subpopulations with distinct \textit{yan} gene dosages, each characterized by a distinct level of mRFP fluorescence. Discs were dissected, fixed, and co-stained with DAPI prior to confocal imaging. Images of 36 unique vertical cross-sections spanning non-overlapping cells were collected in total. 
 
 We deployed the framework developed in Chapter \ref{ch:clones} to measure the expression level of each reporter in each nucleus and automatically label each measurement as mutant, heterozygous, or homozygous for the Ubi-mRFPnls clonal marker. For each segment, Ubi-mRFPnls and Pnt-GFP fluorescence was quantified by normalizing the average intensity of all pixels within the respective fluorescence channel by the average DAPI fluorescence. Segments containing less than 250 pixels were removed. 
 
@@ -53,7 +50,7 @@ As described in Section \ref{ch:clones:model_fit}, we limited the analysis to ce
 \section{Parameterization of equilibrium binding model}
 \label{appendix:ratio:model_params}
 
-We restricted our focus to a regulatory element comprised of 12 binding sites in which only the first site carried the ETS designation. We retain the same parameterization of Yan binding proposed by Hope, Rebay, and Reinitz (2017): $\alpha_Y = -9.955 kcal mol^{-1}$, $\beta_Y = -5.837 kcal mol^{-1}$, and $\gamma_Y = -7.043 kcal mol^{-1}$. We parameterized Pnt binding thermodynamics to provide balanced competition between Pnt and Yan in the absence of any SAM-mediated polymerization of Pnt. That is, we set Pnt binding affinities such that the transition from Pnt to Yan occupancy occurs when Pnt and Yan concentrations are approximately equal. While a parameterization using experimentally measured data would improve predictive accuracy, our aim here is primarily to obtain insight. The model used to generate Fig. \ref{fig:ratio:fig3}D-F assumes that Pnt binds individual sites with elevated affinities $\alpha_P = 0.96 (\alpha_Y + \gamma_Y )$ and $\beta_P = 0.96 (\beta_Y + \gamma_Y )$. The model used to generate Fig. \ref{fig:ratio:fig3}A-C uses these same elevated binding affinities for Yan, while setting $\gamma_Y = 0 kcal mol^{-1}$. Qualitatively, our results are not sensitive to this parameterization. 
+We restricted our focus to a regulatory element comprised of 12 binding sites in which only the first site carried the ETS designation. We retain the same parameterization of Yan binding proposed by Hope, Rebay, and Reinitz (2017): $\alpha_Y$ = -9.955 kcal mol\textsuperscript{-1}, $\beta_Y$ = -5.837 kcal mol\textsuperscript{-1}, and $\gamma_Y$ = -7.043 kcal mol\textsuperscript{-1}. We parameterized Pnt binding thermodynamics to provide balanced competition between Pnt and Yan in the absence of any SAM-mediated polymerization of Pnt. That is, we set Pnt binding affinities such that the transition from Pnt to Yan occupancy occurs when Pnt and Yan concentrations are approximately equal. While a parameterization using experimentally measured data would improve predictive accuracy, our aim here is primarily to obtain insight. The model used to generate Fig. \ref{fig:ratio:fig3}D-F assumes that Pnt binds individual sites with elevated affinities $\alpha_P = 0.96 (\alpha_Y + \gamma_Y )$ and $\beta_P = 0.96 (\beta_Y + \gamma_Y )$. The model used to generate Fig. \ref{fig:ratio:fig3}A-C uses these same elevated binding affinities for Yan, while setting $\gamma_Y$ = 0 kcal mol\textsuperscript{-1}. Qualitatively, our results are not sensitive to this parameterization. 
 
 \section{Visualization of relative Pnt and Yan expression in \textit{Notch} mutant discs}
 \label{appendix:ratio:notch_images}

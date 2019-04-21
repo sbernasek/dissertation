@@ -4,13 +4,6 @@
 %\usepackage{times}
 %\renewcommand{\familydefault}{\sfdefault}
 
-% set dimensions
-\setlength{\textfloatsep}{0.5in} % space between last top float or first bottom float and the text.
-\setlength{\floatsep}{0.5in} % space left between floats.
-\setlength{\intextsep}{0.25in} % space left on top and bottom of an in-text float.  
-\setlength{\abovecaptionskip}{5pt} % space above caption
-\setlength{\belowcaptionskip}{5pt} % space below caption
-
 % paragraph spacing
 \setlength{\parindent}{0.5in} % indentation of paragraphs
 \setlength{\parskip}{10pt} % gap between paragraphs
@@ -18,66 +11,78 @@
 % figures
 \usepackage[margin=1in,letterpaper,includehead]{geometry}
 \usepackage{graphicx}
+\graphicspath{ {./figures/} } % define graphics location
+
+% figure setting
+%\setlength{\textfloatsep}{0.25in} % space between last top float or first bottom float and the text.
+%\setlength{\floatsep}{0.5in} % space left between floats.
+%\setlength{\intextsep}{0.25in} % space left on top and bottom of an in-text float.  
+\setlength{\textfloatsep}{15pt plus 3pt minus 2pt} % space between last top float or first bottom float and the text.
+\setlength{\intextsep}{15pt plus 3pt minus 2pt} % space left on top and bottom of an in-text float.  
+\setlength{\floatsep}{15pt plus 3pt minus 2pt} % space left between floats.
+\setlength{\abovecaptionskip}{10pt plus 3pt minus 3pt} % space above caption
+\setlength{\belowcaptionskip}{3pt plus 2pt minus 1pt} % space below caption
+
+% captions
 \usepackage{ccaption}
-\usepackage[margin=0in,skip=5pt,font={scriptsize,bf}]{caption}
-%\captionsetup[figure]{font=small}
-%\usepackage{minipage}
+\usepackage[margin=0in,skip=5pt,font={footnotesize,bf},labelfont=bf]{caption}
+\captionsetup[figure]{margin=20pt}
+%\usepackage{subcaption}
 
-\usepackage{subcaption}
-\graphicspath{ {./figures/} }
-
-% amsmath, amssymb, and mathtools packages, useful for mathematical formulas and symbols
-\usepackage{siunitx} % scientific notation
-\usepackage{mathtools}
-\usepackage{amsmath,amssymb}
-\DeclareMathOperator*{\argmax}{\arg\!\max}
-\DeclareMathOperator*{\argmin}{\arg\!\min}
-
-% Custom column types (see Macros below) and thick rules for tables
+% tables
 \usepackage{array}
 \usepackage{multirow}
 \usepackage{booktabs}
-% Arrows
-\usepackage{extarrows}
-% Degrees C
-\usepackage{textcomp}
-% Multi-page tables
-\usepackage{longtable}
-% compress repeated, and un-bold citations
-\usepackage[numbers,sort&compress]{natbib}
-% Hyperlinks
+
+% formulas and symbols
+\usepackage{mathtools}
+\usepackage{amsmath,amssymb}
+\DeclareMathOperator*{\argmax}{\arg\!\max} % argmax formatter
+\DeclareMathOperator*{\argmin}{\arg\!\min} % argmin formatter
+\usepackage{siunitx} % scientific notation
+\usepackage{extarrows} % arrows
+\usepackage[euler]{textgreek} % greek characters
+\usepackage{textcomp} % degrees C
+\mathchardef\hyphy="2D % hyphen for mathmode
+
+% links
 \usepackage{hyperref}
 \usepackage{enumitem}
 
-% tools
-\usepackage{comment}
-\sloppy
-\usepackage[euler]{textgreek}
+% references formatting
+\usepackage[numbers,sort&compress]{natbib}
+
+% additional tools
+%\usepackage{comment}
+%\sloppy
+
+\usepackage[activate={true,nocompatibility},final,tracking=true,kerning=true,spacing=true,factor=1050,stretch=10,shrink=10]{microtype}
+\microtypecontext{spacing=nonfrench}
+% activate={true,nocompatibility} - activate protrusion and expansion
+% final - enable microtype; use "draft" to disable
+% tracking=true, kerning=true, spacing=true - activate these techniques
+% factor=1100 - add 10% to the protrusion amount (default is 1000)
+% stretch=10, shrink=10 - reduce stretchability/shrinkability (default is 20/20)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % USER-DEFINED MACROS AND VARIABLES %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% hyphen for mathmode
-\mathchardef\hyphy="2D
-
-% Vertically centered and horizontally centered column.
+% vertically centered and horizontally centered column
 \newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
-% Vertically centered and horizontally right-aligned column.
+
+% vertically centered and horizontally right-aligned column
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}}
-% Vertically centered and horizontally centered column.
+
+% vertically centered and horizontally left-aligned column
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
 
-
 % Always capitalize "Chapter" when using \autoref
-\renewcommand{\chapterautorefname}{Chapter}
+%\renewcommand{\chapterautorefname}{Chapter}
 
-% Load all variables
-%\input{VARIABLES.tex}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% DATA OF AUTHOR AND DISSERTATION %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%
+% TITLE PAGE %
+%%%%%%%%%%%%%%
 
 \author{Sebastian Michal Bernasek}
 
@@ -91,73 +96,52 @@
                              
 \graduationyear{2019}          
 
-
-% Mark a subset of chapters for inclusion				
-%\includeonly{chap1,chap2,...}
-				
-
+%%%%%%%%%%%%%%%%%%%%%%%%
+% DISSERTATION CONTENT %
+%%%%%%%%%%%%%%%%%%%%%%%%
+		
 \begin{document}
-%
-%	THE BODY OF YOUR THESIS STARTS HERE
-%
+\frontmatter		
+\maketitle		
+\copyrightpage	
 
-%%%%%%%%%%%%%%%%%%%%%%
-% Some initial stuff %
-%%%%%%%%%%%%%%%%%%%%%%
-
-\frontmatter		% Preliminary pages start here.
-
-\maketitle		% Produces the title page.
-
-\copyrightpage		% Creates the copyright page.
-
-\abstract       % Abstract.
-
+% abstract
+\abstract       
 \input{text/abstract}
 
-
-\acknowledgements	% Acknowledgements (optional).
-
+% acknowledgements
+\acknowledgements
 \input{text/acknowledgements}
 
+% table of contents
+\clearpage\phantomsection
+\tableofcontents	
 
-\clearpage\phantomsection % needed for the hyperlinks to work correctly
-\tableofcontents	% Table of Contents will be automatically
-			% generated and placed here.
+% list of figures
+\clearpage\phantomsection
+\listoffigures
 
-\clearpage\phantomsection % needed for the hyperlinks to work correctly
-\listoftables		% List of Tables and List of Figures will be placed
+% list of tables
+\clearpage\phantomsection 
+\listoftables	
 
-\clearpage\phantomsection % needed for the hyperlinks to work correctly
-\listoffigures		% here, if applicable (optional).
-
-\mainmatter             
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Actual text starts here %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-% If there is an introduction it must be the first chapter
-
+% primary text
+\mainmatter     
 \input{text/introduction}
 \input{text/clones}
 \input{text/ratio}
 \input{text/metabolism}
 \input{text/conclusions}
 
-% Uncomment the 'singlespace' environment and '\bibsep' command
-% if needed - some bibliographic styles overide the definition
-% of 'thebibliography' in nuthesis.cls
-%
+% bibliography
 \begin{singlespace}
-\bibsep 12pt
+\bibsep 10pt
 \bibliography{./bib/thesis}
 \bibliographystyle{unsrtnat}
 \end{singlespace}
 
+% appendix
 \appendix
-
 \input{appendix/main}
 
 \end{document}

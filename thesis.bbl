@@ -1,110 +1,215 @@
-\begin{thebibliography}{289}
+\begin{thebibliography}{316}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Wilkins(1993)]{Wilkins1993}
+Adam~S Wilkins.
+\newblock \emph{{Genetic analysis of animal development}}.
+\newblock Wiley-Liss Inc, 1993.
+
+\bibitem[Editorial(2010)]{Immuno2010}
+Editorial.
+\newblock {Elements of a good decision}.
+\newblock \emph{Nat. Immunol.}, 11\penalty0 (8):\penalty0 645--645, aug 2010.
+\newblock \doi{10.1038/ni0810-645}.
+
+\bibitem[Wang et~al.(2009)Wang, Li, Banerjee, and Sarkar]{Wang2009}
+Zhiwei Wang, Yiwei Li, Sanjeev Banerjee, and Fazlul~H. Sarkar.
+\newblock {Emerging role of Notch in stem cells and cancer}, jun 2009.
+
+\bibitem[Hornberg et~al.(2006)Hornberg, Bruggeman, Westerhoff, and
+  Lankelma]{Hornberg2006}
+Jorrit~J Hornberg, Frank~J Bruggeman, Hans~V Westerhoff, and Jan Lankelma.
+\newblock {Cancer: A Systems Biology disease}.
+\newblock In \emph{BioSystems}, volume~83, pages 81--90, 2006.
+\newblock \doi{10.1016/j.biosystems.2005.05.014}.
+
+\bibitem[Morgan(1915{\natexlab{a}})]{Morgan1915a}
+Thomas~Hunt Morgan.
+\newblock \emph{{The mechanism of Mendelian heredity}}.
+\newblock Holt, 1915{\natexlab{a}}.
+
+\bibitem[Beadle and Ephrussi(1936)]{Beadle1936}
+G~W Beadle and B~Ephrussi.
+\newblock {The Differentiation of Eye Pigments in Drosophila as Studied by
+  Transplantation.}
+\newblock \emph{Genetics}, 21\penalty0 (3):\penalty0 225--47, may 1936.
+
+\bibitem[Lewis(1978)]{Lewis1978}
+E.~B. Lewis.
+\newblock {A gene complex controlling segmentation in Drosophila}.
+\newblock \emph{Nature}, 276\penalty0 (5688):\penalty0 565--570, dec 1978.
+\newblock \doi{10.1038/276565a0}.
+
+\bibitem[N{\"{u}}sslein-volhard and Wieschaus(1980)]{Nusslein-Volhard1980}
+Christiane N{\"{u}}sslein-volhard and Eric Wieschaus.
+\newblock {Mutations affecting segment number and polarity in drosophila}.
+\newblock \emph{Nature}, 287\penalty0 (5785):\penalty0 795--801, oct 1980.
+\newblock \doi{10.1038/287795a0}.
+
+\bibitem[Halder et~al.(2006)Halder, Callaerts, and Gehring]{Halder1995}
+G~Halder, P~Callaerts, and W.~Gehring.
+\newblock {Induction of ectopic eyes by targeted expression of the eyeless gene
+  in Drosophila}.
+\newblock \emph{Science (80-. ).}, 267\penalty0 (5205):\penalty0 1788--1792,
+  mar 2006.
+\newblock \doi{10.1126/science.7892602}.
+
+\bibitem[Perrimon(1994)]{Perrimon1994}
+Norbert Perrimon.
+\newblock {The genetic basis of patterned baldness in Drosophila}, mar 1994.
+
+\bibitem[Bellen et~al.(2010)Bellen, Tong, and Tsuda]{Bellen2010}
+Hugo~J Bellen, Chao Tong, and Hiroshi Tsuda.
+\newblock {100 years of Drosophila research and its impact on vertebrate
+  neuroscience: A history lesson for the future}, jul 2010.
+
+\bibitem[Parody and Muskavitch(1993{\natexlab{a}})]{Parody1993a}
+T~R Parody and M.~A~T Muskavitch.
+\newblock {The pleiotropic function of Delta during postembryonic development
+  of Drosophila melanogaster}.
+\newblock \emph{Genetics}, 135\penalty0 (2):\penalty0 527--539,
+  1993{\natexlab{a}}.
+
+\bibitem[{Ian Simpson} and Price(2002)]{IanSimpson2002a}
+T.~{Ian Simpson} and David~J. Price.
+\newblock {Pax6; a pleiotropic player in development}, nov 2002.
+
+\bibitem[Bhanot et~al.(1999)Bhanot, Fish, Jemison, Nusse, Nathans, and
+  Cadigan]{Bhanot1999}
+P~Bhanot, M~Fish, J~A Jemison, R~Nusse, J~Nathans, and K~M Cadigan.
+\newblock {Frizzled and Dfrizzled-2 function as redundant receptors for
+  Wingless during Drosophila embryonic development.}
+\newblock \emph{Development}, 1999.
+
+\bibitem[Pappu(2005)]{Pappu2005}
+Kartik~S Pappu.
+\newblock {Dual regulation and redundant function of two eye-specific enhancers
+  of the Drosophila retinal determination gene dachshund}.
+\newblock \emph{Development}, 132\penalty0 (12):\penalty0 2895--2905, jun 2005.
+\newblock \doi{10.1242/dev.01869}.
+
+\bibitem[Li and Carthew(2005)]{Li2005}
+Xin Li and Richard~W Carthew.
+\newblock {A microRNA mediates EGF receptor signaling and promotes
+  photoreceptor differentiation in the Drosophila eye}.
+\newblock \emph{Cell}, 123\penalty0 (7):\penalty0 1267--1277, 2005.
+\newblock \doi{10.1016/j.cell.2005.10.040}.
+
 \bibitem[Beira and Paro(2016)]{Beira2016}
 Jorge~V. Beira and Renato Paro.
 \newblock {The legacy of Drosophila imaginal discs}, sep 2016.
-\newblock ISSN 14320886.
-\newblock URL \url{http://link.springer.com/10.1007/s00412-016-0595-4}.
 
 \bibitem[Enomoto et~al.(2018)Enomoto, Siow, and Igaki]{Enomoto2018}
 Masato Enomoto, Carmen Siow, and Tatsushi Igaki.
 \newblock {Drosophila as a cancer model.}
-\newblock In \emph{Advances in Experimental Medicine and Biology}, volume 1076,
-  pages 173--194. Springer, Singapore, 2018.
-\newblock ISBN 9789811305290.
+\newblock In \emph{Adv. Exp. Med. Biol.}, volume 1076, pages 173--194.
+  Springer, Singapore, 2018.
 \newblock \doi{10.1007/978-981-13-0529-0_10}.
-\newblock URL \url{http://link.springer.com/10.1007/978-981-13-0529-0{\_}10}.
 
 \bibitem[Germani et~al.(2018)Germani, Bergantinos, and Johnston]{Germani2018}
 Federico Germani, Cora Bergantinos, and Laura~A Johnston.
 \newblock {Mosaic analysis in Drosophila}.
 \newblock \emph{Genetics}, 208\penalty0 (2):\penalty0 473--490, feb 2018.
-\newblock ISSN 19432631.
 \newblock \doi{10.1534/genetics.117.300256}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/29378809
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5788516}.
+
+\bibitem[Levine and Davidson(2005)]{Levine2005}
+M.~Levine and E.~H. Davidson.
+\newblock {Gene regulatory networks for development}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 2005.
+\newblock \doi{10.1073/pnas.0408031102}.
+
+\bibitem[Stathopoulos and Levine(2005)]{Stathopoulos2005}
+Angelike Stathopoulos and Michael Levine.
+\newblock {Genomic regulatory networks and animal development}, oct 2005.
+
+\bibitem[H{\"{u}}lskamp et~al.(1990)H{\"{u}}lskamp, Pfeifle, and
+  Tautz]{Hulskamp1990}
+Martin H{\"{u}}lskamp, Christine Pfeifle, and Diethard Tautz.
+\newblock {A morphogenetic gradient of hunchback protein organizes the
+  expression of the gap genes Kr{\"{u}}ppel and knirps in the early Drosophila
+  embryo}.
+\newblock \emph{Nature}, 346\penalty0 (6284):\penalty0 577--580, aug 1990.
+\newblock \doi{10.1038/346577a0}.
+
+\bibitem[H{\"{u}}lskamp and Tautz(1991)]{Hulskamp1991}
+Martin H{\"{u}}lskamp and Diathard Tautz.
+\newblock {Gap genes and gradients – The logic behind the gaps}, jun 1991.
+
+\bibitem[Johnston and N{\"{u}}sslein-Volhard(1992)]{Johnston1992}
+Daniel~St Johnston and Christiane N{\"{u}}sslein-Volhard.
+\newblock {The origin of pattern and polarity in the Drosophila embryo}, jan
+  1992.
+
+\bibitem[Perry et~al.(2011)Perry, Boettiger, and Levine]{Perry2011}
+M.~W. Perry, A.~N. Boettiger, and M.~Levine.
+\newblock {Multiple enhancers ensure precision of gap gene-expression patterns
+  in the Drosophila embryo}.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 2011.
+\newblock \doi{10.1073/pnas.1109873108}.
+
+\bibitem[Struhl and Basler(1993{\natexlab{a}})]{Struhl1993a}
+Gary Struhl and Konrad Basler.
+\newblock {Organizing activity of wingless protein in Drosophila}.
+\newblock \emph{Cell}, 72\penalty0 (4):\penalty0 527--540, feb
+  1993{\natexlab{a}}.
+\newblock \doi{10.1016/0092-8674(93)90072-X}.
 
 \bibitem[Ready et~al.(1976)Ready, Hanson, and Benzer]{Ready1976a}
 Donald~F. Ready, Thomas~E. Hanson, and Seymour Benzer.
 \newblock {Development of the Drosophila retina, a neurocrystalline lattice}.
-\newblock \emph{Developmental Biology}, 53\penalty0 (2):\penalty0 217--240, oct
-  1976.
-\newblock ISSN 00121606.
+\newblock \emph{Dev. Biol.}, 53\penalty0 (2):\penalty0 217--240, oct 1976.
 \newblock \doi{10.1016/0012-1606(76)90225-6}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/0012160676902256}.
 
 \bibitem[Tomlinson and Ready(1987)]{Tomlinson1987a}
 Andrew Tomlinson and Donald~F. Ready.
 \newblock {Neuronal differentiation in the Drosophila ommatidium}.
-\newblock \emph{Developmental Biology}, 120\penalty0 (2):\penalty0 366--376,
-  apr 1987.
-\newblock ISSN 00121606.
+\newblock \emph{Dev. Biol.}, 120\penalty0 (2):\penalty0 366--376, apr 1987.
 \newblock \doi{10.1016/0012-1606(87)90239-9}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/0012160687902399}.
 
 \bibitem[Voas and Rebay(2004)]{Voas2004}
 Matthew~G. Voas and Ilaria Rebay.
 \newblock {Signal integration during development: insights from the Drosophila
   eye}.
 \newblock \emph{Dev Dyn}, 229\penalty0 (1):\penalty0 162--175, jan 2004.
-\newblock ISSN 10588388.
 \newblock \doi{10.1002/dvdy.10449}.
-\newblock URL \url{http://doi.wiley.com/10.1002/dvdy.10449}.
 
 \bibitem[Jarman et~al.(1994)Jarman, Grell, Ackerman, Jan, and Jan]{Jarman1994}
 Andrew~P. Jarman, Ellsworth~H. Grell, Larry Ackerman, Lily~Y. Jan, and Yuh~Nung
   Jan.
 \newblock {atonal is the proneural gene for Drosophila photoreceptors}.
 \newblock \emph{Nature}, 369\penalty0 (6479):\penalty0 398--400, 1994.
-\newblock URL
-  \url{http://www.nature.com/nature/journal/v369/n6479/pdf/369398a0.pdf}.
 
 \bibitem[Frankfort and Mardon(2002)]{Frankfort2002a}
 Benjamin~Jay Frankfort and Graeme Mardon.
 \newblock {R8 development in the Drosophila eye: a paradigm for neural
   selection and differentiation.}
-\newblock \emph{Development (Cambridge, England)}, 129\penalty0 (6):\penalty0
-  1295--306, 2002.
-\newblock ISSN 0950-1991.
-\newblock URL
-  \url{https://www.semanticscholar.org/paper/R8-development-in-the-Drosophila-eye{\%}3A-a-paradigm-Frankfort-Mardon/fac459f976737f3273b1733809e231aaf0c8d799
-  http://www.ncbi.nlm.nih.gov/pubmed/11880339}.
+\newblock \emph{Development}, 129\penalty0 (6):\penalty0 1295--306, 2002.
 
 \bibitem[Baker and Yu(1997)]{Baker1997}
 Nicholas~E. Baker and Sung-Yun Yu.
 \newblock {Proneural function of neurogenic genes in the developing Drosophila
   eye}.
-\newblock \emph{Current Biology}, 7:\penalty0 122--132, feb 1997.
-\newblock ISSN 09609822.
+\newblock \emph{Curr. Biol.}, 7:\penalty0 122--132, feb 1997.
 \newblock \doi{10.1016/S0960-9822(06)00056-X}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S096098220600056X}.
 
 \bibitem[Hsiung(2002)]{Hsiung2002}
 F.~Hsiung.
 \newblock {Retinal development in Drosophila: specifying the first neuron}.
-\newblock \emph{Human Molecular Genetics}, 11\penalty0 (10):\penalty0
-  1207--1214, may 2002.
-\newblock ISSN 14602083.
+\newblock \emph{Hum. Mol. Genet.}, 11\penalty0 (10):\penalty0 1207--1214, may
+  2002.
 \newblock \doi{10.1093/hmg/11.10.1207}.
-\newblock URL
-  \url{https://academic.oup.com/hmg/article-lookup/doi/10.1093/hmg/11.10.1207}.
 
 \bibitem[Baker et~al.(1990)Baker, Mlodzik, and Rubin]{Baker1990}
 Nicholas~E Baker, Marek Mlodzik, and Gerald~M Rubin.
 \newblock {Spacing differentiation in the developing Drosophila eye: A
   fibrinogen-related lateral inhibitor encoded by scabrous}.
-\newblock \emph{Science}, 250\penalty0 (4986):\penalty0 1370--1377, dec 1990.
-\newblock ISSN 00368075.
+\newblock \emph{Science (80-. ).}, 250\penalty0 (4986):\penalty0 1370--1377,
+  dec 1990.
 \newblock \doi{10.1126/science.2175046}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/2175046}.
 
 \bibitem[Gavish et~al.(2016)Gavish, Shwartz, Weizman, Schejter, Shilo, and
   Barkai]{Gavish2016}
@@ -112,36 +217,33 @@ Avishai Gavish, Arkadi Shwartz, Abraham Weizman, Eyal Schejter, Ben-Zion Shilo,
   and Naama Barkai.
 \newblock {Periodic patterning of the Drosophila eye is stabilized by the
   diffusible activator Scabrous}.
-\newblock \emph{Nature Communications}, 7:10461, 2016.
-\newblock ISSN 2041-1723.
+\newblock \emph{Nat. Commun.}, 7:10461, 2016.
 \newblock \doi{10.1038/ncomms10461}.
-\newblock URL \url{https://www.nature.com/articles/ncomms10461.pdf
-  http://www.nature.com/doifinder/10.1038/ncomms10461}.
 
 \bibitem[Ghysen and Dambly‐Chaudi{\`{e}}re(1993)]{Ghysen1993}
 Alain Ghysen and Christine Dambly‐Chaudi{\`{e}}re.
 \newblock {The specification of sensory neuron identity in Drosophila}, may
   1993.
-\newblock ISSN 15211878.
-\newblock URL \url{http://doi.wiley.com/10.1002/bies.950150502}.
 
 \bibitem[Simpson(1997)]{Simpson1997}
 P~Simpson.
 \newblock {Notch signalling in development: on equivalence groups and
   asymmetric developmental potential.}
-\newblock \emph{Current opinion in genetics {\&} development}, 7\penalty0
-  (4):\penalty0 537--42, aug 1997.
-\newblock ISSN 0959-437X.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/9309187}.
+\newblock \emph{Curr. Opin. Genet. Dev.}, 7\penalty0 (4):\penalty0 537--42, aug
+  1997.
+
+\bibitem[Elowitz et~al.(2002)Elowitz, Levine, Siggia, and Swain]{Elowitz2002}
+Michael~B Elowitz, Arnold~J Levine, Eric~D Siggia, and Peter~S Swain.
+\newblock {Stochastic gene expression in a single cell}.
+\newblock \emph{Science (80-. ).}, 297\penalty0 (5584):\penalty0 1183--1186,
+  aug 2002.
+\newblock \doi{10.1126/science.1070919}.
 
 \bibitem[Raj et~al.(2010)Raj, Rifkin, Andersen, and van Oudenaarden]{Raj2010}
 Arjun Raj, Scott~A. Rifkin, Erik Andersen, and Alexander van Oudenaarden.
 \newblock {Variability in gene expression underlies incomplete penetrance}.
 \newblock \emph{Nature}, 463\penalty0 (7283):\penalty0 913--918, 2010.
-\newblock ISSN 1476-4687.
 \newblock \doi{10.1038/nature08781}.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836165/pdf/nihms167246.pdf}.
 
 \bibitem[Paulsen et~al.(2011)Paulsen, Legewie, Eils, Karaulanov, and
   Niehrs]{Paulsen2011}
@@ -150,24 +252,16 @@ Malte Paulsen, Stefan Legewie, Roland Eils, Emil Karaulanov, and Christof
 \newblock {Negative feedback in the bone morphogenetic protein 4 (BMP4)
   synexpression group governs its dynamic signaling range and canalizes
   development}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 108\penalty0
-  (25):\penalty0 10202--10207, jun 2011.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 108\penalty0 (25):\penalty0
+  10202--10207, jun 2011.
 \newblock \doi{10.1073/pnas.1100179108}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/21633009
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3121836
-  http://www.pnas.org/cgi/doi/10.1073/pnas.1100179108}.
 
 \bibitem[Burga et~al.(2011)Burga, Casanueva, and Lehner]{Burga2011}
 Alejandro Burga, M~Olivia Casanueva, and Ben Lehner.
 \newblock {Predicting mutation outcome from early stochastic variation in
   genetic interaction partners}.
 \newblock \emph{Nature}, 480\penalty0 (7376):\penalty0 250--253, 2011.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/nature10665}.
-\newblock URL
-  \url{https://pdfs.semanticscholar.org/6b1d/9bd605bed0890a2f54a0f3e683236156a624.pdf
-  http://www.nature.com/doifinder/10.1038/nature10665}.
 
 \bibitem[Colman-Lerner et~al.(2005)Colman-Lerner, Gordon, Serra, Chin,
   Resnekov, Endy, {Gustavo Pesce}, and Brent]{Colman-Lerner2005}
@@ -175,11 +269,7 @@ Alejandro Colman-Lerner, Andrew Gordon, Eduard Serra, Tina Chin, Orna Resnekov,
   Drew Endy, C.~{Gustavo Pesce}, and Roger Brent.
 \newblock {Regulated cell-to-cell variation in a cell-fate decision system}.
 \newblock \emph{Nature}, 437\penalty0 (7059):\penalty0 699--706, 2005.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/nature03998}.
-\newblock URL
-  \url{http://brentlab.fredhutch.org/content/dam/stripe/brent/files/48.pdf
-  http://www.nature.com/doifinder/10.1038/nature03998}.
 
 \bibitem[Pel{\'{a}}ez et~al.(2015)Pel{\'{a}}ez, Gavalda-Miralles, Wang,
   Navarro, Gudjonson, Rebay, Dinner, Katsaggelos, Amaral, and
@@ -189,69 +279,75 @@ Nicol{\'{a}}s Pel{\'{a}}ez, Arnau Gavalda-Miralles, Bao Wang, Heliodoro~Tejedor
   Katsaggelos, Lu{\'{i}}s A.~Nunes Amaral, and Richard~W. Carthew.
 \newblock {Dynamics and heterogeneity of a fate determinant during transition
   towards cell differentiation}.
-\newblock \emph{eLife}, 4, nov 2015.
-\newblock ISSN 2050-084X.
+\newblock \emph{Elife}, 4, nov 2015.
 \newblock \doi{10.7554/eLife.08924}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26583752
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4720516}.
 
 \bibitem[Lazebnik(2004)]{Lazebnik2004}
 Y.~Lazebnik.
 \newblock {Can a biologist fix a radio? - Or, what I learned while studying
   apoptosis}, 2004.
-\newblock ISSN 00062979.
-\newblock URL
-  \url{http://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf}.
 
 \bibitem[Oates et~al.(2009)Oates, Gorfinkiel, Gonz{\'{a}}lez-Gait{\'{a}}n, and
   Heisenberg]{Oates2009}
 Andrew~C. Oates, Nicole Gorfinkiel, Marcos Gonz{\'{a}}lez-Gait{\'{a}}n, and
   Carl~Philipp Heisenberg.
 \newblock {Quantitative approaches in developmental biology}, aug 2009.
-\newblock ISSN 14710056.
-\newblock URL \url{http://www.nature.com/articles/nrg2548}.
 
-\bibitem[Hornberg et~al.(2006)Hornberg, Bruggeman, Westerhoff, and
-  Lankelma]{Hornberg2006}
-Jorrit~J Hornberg, Frank~J Bruggeman, Hans~V Westerhoff, and Jan Lankelma.
-\newblock {Cancer: A Systems Biology disease}.
-\newblock In \emph{BioSystems}, volume~83, pages 81--90, 2006.
-\newblock ISBN 0303-2647 (Print)$\backslash$r0303-2647 (Linking).
-\newblock \doi{10.1016/j.biosystems.2005.05.014}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0303264705001176/1-s2.0-S0303264705001176-main.pdf?{\_}tid=1c7460a4-6972-11e7-8ef7-00000aab0f27{\&}acdnat=1500132633{\_}da653246f723a0377bbdd5a72e9a3262}.
+\bibitem[Herring et~al.(2018)Herring, Chen, McKinley, and Lau]{Herring2018}
+Charles~A. Herring, Bob Chen, Eliot~T. McKinley, and Ken~S. Lau.
+\newblock {Single-Cell Computational Strategies for Lineage Reconstruction in
+  Tissue Systems}, jan 2018.
+
+\bibitem[Keller(2013)]{Keller2013}
+Philipp~J Keller.
+\newblock {Imaging morphogenesis: Technological advances and biological
+  insights}, jun 2013.
 
 \bibitem[Sbalzarini(2016)]{Sbalzarini2016}
 Ivo~F. Sbalzarini.
 \newblock {Seeing is believing: Quantifying is convincing: Computational image
   analysis in biology}.
-\newblock \emph{Advances in Anatomy, Embryology and Cell Biology},
-  219:\penalty0 1--39, 2016.
-\newblock ISSN 03015556.
+\newblock \emph{Adv. Anatomy, Embryol. Cell Biol.}, 219:\penalty0 1--39, 2016.
 \newblock \doi{10.1007/978-3-319-28549-8_1}.
-\newblock URL \url{http://link.springer.com/10.1007/978-3-319-28549-8{\_}1}.
+
+\bibitem[Munsky et~al.(2018)Munsky, Tuzman, Fey, Dobrzynski, Kholodenko, Olson,
+  Huang, Fox, Singh, Grima, Bertolusso, Kimmel, Voliotis, Thomas, Bowsher,
+  Sokolowski, ten Wolde, Sulc, Doye, Louis, Natale, Hofmann, Hernandez,
+  Nemenman, Lee, Lomnitz, Savageau, Daniels, Nienaltowski, Jetka, Komorowski,
+  {Bernie J. Daigle}, Jia, Jolly, Levine, Lopez-Garcia, Nowicka, Fearnley,
+  Ponnambalam, Lythe, Molina-Paris, Sauro, Cazzaniga, Nobile, Tangherloni,
+  Besozzi, Blinov, Vasilescu, Moraru, Schaff, Slepchenko, Loew, Drawert, Sanft,
+  Abel, Hellander, Pourzanjani, Petzold, Gupta, Czech, Kuczewski, Bartol,
+  Sejnowski, Lee, Faeder, Chandra, Lan, Perelson, Ribeiro, Mugler, Fancher,
+  Weber, Raymond, Munsky, Hlavacek, and Tsimring]{qbio2018}
+Brian Munsky, Karen~Tkach Tuzman, Dirk Fey, Maciej Dobrzynski, Boris~N.
+  Kholodenko, Sarah Olson, Jianjun Huang, Zachary Fox, Abhyudai Singh, Ramon
+  Grima, Roberto Bertolusso, Marek Kimmel, Margaritis Voliotis, Philipp Thomas,
+  Clive~G. Bowsher, Thomas~R. Sokolowski, Pieter~Rein ten Wolde, Petr Sulc,
+  Jonathan~P. Doye, Ard~A. Louis, Joe Natale, David Hofmann, Damian Hernandez,
+  Ilya Nemenman, Heeseob Lee, Jason~G. Lomnitz, Michael~A. Savageau, Bryan~C.
+  Daniels, Karol Nienaltowski, Tomasz Jetka, Michal Komorowski, Jr. {Bernie J.
+  Daigle}, Dongya Jia, Mohit~Kumar Jolly, Herbert Levine, Martin Lopez-Garcia,
+  Maria Nowicka, Gareth~W. Fearnley, Sreenivasan Ponnambalam, Grant Lythe,
+  Carmen Molina-Paris, Herbert~M. Sauro, Paolo Cazzaniga, Marco~S. Nobile,
+  Andrea Tangherloni, Daniela Besozzi, Michael~L. Blinov, Dan Vasilescu, Ion~I.
+  Moraru, James~C. Schaff, Boris~M. Slepchenko, Leslie~M. Loew, Brian Drawert,
+  Kevin~R. Sanft, John~H. Abel, Stefan Hellander, Arya Pourzanjani, Linda~R.
+  Petzold, Sanjana Gupta, Jacob Czech, Robert Kuczewski, Thomas~M. Bartol,
+  Terrence~J. Sejnowski, Robin E.~C. Lee, James~R. Faeder, Fiona~A. Chandra,
+  Ganhui Lan, Alan~S. Perelson, Ruy~M. Ribeiro, Andrew Mugler, Sean Fancher,
+  Lisa Weber, William Raymond, Brian Munsky, William~S. Hlavacek, and Lev~S.
+  Tsimring.
+\newblock \emph{{Quantitative Biology: Theory, Computational Methods, and
+  Models}}.
+\newblock The MIT Press, 2018.
 
 \bibitem[Frick et~al.(2017)Frick, Yarka, Nunns, and Goentoro]{Frick2017}
 Christopher~L. Frick, Clare Yarka, Harry Nunns, and Lea Goentoro.
 \newblock {Sensing relative signal in the Tgf-$\beta$/Smad pathway}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 114\penalty0
-  (14):\penalty0 E2975--E2982, mar 2017.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 114\penalty0 (14):\penalty0
+  E2975--E2982, mar 2017.
 \newblock \doi{10.1073/pnas.1611428114}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/28320972
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5389321
-  http://www.pnas.org/lookup/doi/10.1073/pnas.1611428114}.
-
-\bibitem[Petkova et~al.(2019)Petkova, Tka{\v{c}}ik, Bialek, Wieschaus, and
-  Gregor]{Petkova2019}
-Mariela~D. Petkova, Ga{\v{s}}per Tka{\v{c}}ik, William Bialek, Eric~F.
-  Wieschaus, and Thomas Gregor.
-\newblock {Optimal Decoding of Cellular Identities in a Genetic Network}.
-\newblock \emph{Cell}, 176\penalty0 (4):\penalty0 844--855.e15, feb 2019.
-\newblock ISSN 10974172.
-\newblock \doi{10.1016/j.cell.2019.01.007}.
-\newblock URL
-  \url{https://linkinghub.elsevier.com/retrieve/pii/S0092867419300406}.
 
 \bibitem[Wolff et~al.(2018)Wolff, Kedziora, Dumitru, Dungee, Zikry, Beltran,
   Haggerty, Cheng, Redick, and Purvis]{Wolff2018}
@@ -260,10 +356,16 @@ Samuel~C. Wolff, Kasia~M. Kedziora, Raluca Dumitru, Cierra~D. Dungee, Tarek~M.
   Redick, and Jeremy~E. Purvis.
 \newblock {Inheritance of OCT4 predetermines fate choice in human embryonic
   stem cells}.
-\newblock \emph{Molecular Systems Biology}, 14\penalty0 (9):\penalty0 e8140,
-  jan 2018.
+\newblock \emph{Mol. Syst. Biol.}, 14\penalty0 (9):\penalty0 e8140, jan 2018.
 \newblock \doi{10.1101/137299}.
-\newblock URL \url{https://www.biorxiv.org/content/early/2018/01/26/137299}.
+
+\bibitem[Petkova et~al.(2019)Petkova, Tka{\v{c}}ik, Bialek, Wieschaus, and
+  Gregor]{Petkova2019}
+Mariela~D. Petkova, Ga{\v{s}}per Tka{\v{c}}ik, William Bialek, Eric~F.
+  Wieschaus, and Thomas Gregor.
+\newblock {Optimal Decoding of Cellular Identities in a Genetic Network}.
+\newblock \emph{Cell}, 176\penalty0 (4):\penalty0 844--855.e15, feb 2019.
+\newblock \doi{10.1016/j.cell.2019.01.007}.
 
 \bibitem[Aghaeepour et~al.(2013)Aghaeepour, Finak, Hoos, Mosmann, Brinkman,
   Gottardo, Scheuermann, Dougall, Khodabakhshi, Mah, Obermoser, Spidlen,
@@ -301,10 +403,8 @@ Nima Aghaeepour, Greg Finak, Holger Hoos, Tim~R Mosmann, Ryan Brinkman, Raphael
   Strickert, and Jose~M.G. Vilar.
 \newblock {Critical assessment of automated flow cytometry data analysis
   techniques}.
-\newblock \emph{Nature Methods}, 10\penalty0 (3):\penalty0 228--238, mar 2013.
-\newblock ISSN 15487091.
+\newblock \emph{Nat. Methods}, 10\penalty0 (3):\penalty0 228--238, mar 2013.
 \newblock \doi{10.1038/NMETH.2365}.
-\newblock URL \url{http://www.nature.com/articles/nmeth.2365}.
 
 \bibitem[Chen et~al.(2015)Chen, Hasan, Libri, Urrutia, Beitz, Rouilly, Duffy,
   Patin, Chalmond, Rogge, Quintana-Murci, Albert, and Schwikowski]{Chen2015}
@@ -313,12 +413,8 @@ Xiaoyi Chen, Milena Hasan, Valentina Libri, Alejandra Urrutia, Beno{\^{i}}t
   Lars Rogge, Lluis Quintana-Murci, Matthew~L. Albert, and Benno Schwikowski.
 \newblock {Automated flow cytometric analysis across large numbers of samples
   and cell types}.
-\newblock \emph{Clinical Immunology}, 157\penalty0 (2):\penalty0 249--260, apr
-  2015.
-\newblock ISSN 15217035.
+\newblock \emph{Clin. Immunol.}, 157\penalty0 (2):\penalty0 249--260, apr 2015.
 \newblock \doi{10.1016/j.clim.2014.12.009}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1521661614002873}.
 
 \bibitem[Pyne et~al.(2009)Pyne, Maier, Lin, Wang, Rossin, Hu, Tamayo, Hafler,
   {De Jager}, McLachlan, Baecher-Allan, and Mesirov]{Pyne2009}
@@ -326,12 +422,9 @@ Saumyadipta Pyne, Lisa~M Maier, T.-I Lin, Kui Wang, Elizabeth Rossin, Xinli Hu,
   Pablo Tamayo, David~A Hafler, Philip~L {De Jager}, Geoffrey~J McLachlan,
   Clare Baecher-Allan, and Jill~P Mesirov.
 \newblock {Automated high-dimensional flow cytometric data analysis}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 106\penalty0
-  (21):\penalty0 8519--8524, may 2009.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 106\penalty0 (21):\penalty0
+  8519--8524, may 2009.
 \newblock \doi{10.1073/pnas.0903028106}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19443687
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2682540}.
 
 \bibitem[Bernstein et~al.(2008)Bernstein, Brown, Johnson, Liu, Nussbaum, Myers,
   Liu, Li, Meyer, Eeckhoute, and Zhang]{Bernstein2008}
@@ -339,11 +432,8 @@ Bradley~E Bernstein, Myles Brown, David~S Johnson, X~Shirley Liu, Chad
   Nussbaum, Richard~M Myers, Tao Liu, Wei Li, Clifford~A Meyer,
   J{\'{e}}r{\^{o}}me Eeckhoute, and Yong Zhang.
 \newblock {Model-based Analysis of ChIP-Seq (MACS)}.
-\newblock \emph{Genome Biology}, 9\penalty0 (9):\penalty0 R137, sep 2008.
-\newblock ISSN 1465-6906.
+\newblock \emph{Genome Biol.}, 9\penalty0 (9):\penalty0 R137, sep 2008.
 \newblock \doi{10.1186/gb-2008-9-9-r137}.
-\newblock URL
-  \url{http://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-9-r137}.
 
 \bibitem[Hellemans et~al.(2007)Hellemans, Mortier, {De Paepe}, Speleman, and
   Vandesompele]{Hellemans2007}
@@ -351,30 +441,21 @@ Jan Hellemans, Geert Mortier, Anne {De Paepe}, Frank Speleman, and
   Jo~Vandesompele.
 \newblock {qBase relative quantification framework and software for management
   and automated analysis of real-time quantitative PCR data}.
-\newblock \emph{Genome Biology}, 8\penalty0 (2), feb 2007.
-\newblock ISSN 1465-6914.
+\newblock \emph{Genome Biol.}, 8\penalty0 (2), feb 2007.
 \newblock \doi{10.1186/gb-2007-8-2-r19}.
-\newblock URL
-  \url{http://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-2-r19}.
 
 \bibitem[Langmead and Salzberg(2012)]{Langmead2012}
 Ben Langmead and Steven~L Salzberg.
 \newblock {Fast gapped-read alignment with Bowtie 2.}
-\newblock \emph{Nature methods}, 9\penalty0 (4):\penalty0 357--9, apr 2012.
-\newblock ISSN 1548-7105.
+\newblock \emph{Nat. Methods}, 9\penalty0 (4):\penalty0 357--9, apr 2012.
 \newblock \doi{10.1038/nmeth.1923}.
-\newblock URL \url{http://www.nature.com/articles/nmeth.1923
-  http://www.ncbi.nlm.nih.gov/pubmed/22388286{\%}0Ahttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3322381}.
 
 \bibitem[Trapnell et~al.(2009)Trapnell, Pachter, and Salzberg]{Trapnell2009}
 Cole Trapnell, Lior Pachter, and Steven~L. Salzberg.
 \newblock {TopHat: Discovering splice junctions with RNA-Seq}.
 \newblock \emph{Bioinformatics}, 25\penalty0 (9):\penalty0 1105--1111, may
   2009.
-\newblock ISSN 13674803.
 \newblock \doi{10.1093/bioinformatics/btp120}.
-\newblock URL
-  \url{https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp120}.
 
 \bibitem[Costes et~al.(2004)Costes, Daelemans, Cho, Dobbin, Pavlakis, and
   Lockett]{Costes2004}
@@ -382,12 +463,8 @@ Sylvain~V. Costes, Dirk Daelemans, Edward~H. Cho, Zachary Dobbin, George
   Pavlakis, and Stephen Lockett.
 \newblock {Automatic and quantitative measurement of protein-protein
   colocalization in live cells}.
-\newblock \emph{Biophysical Journal}, 86\penalty0 (6):\penalty0 3993--4003, jun
-  2004.
-\newblock ISSN 00063495.
+\newblock \emph{Biophys. J.}, 86\penalty0 (6):\penalty0 3993--4003, jun 2004.
 \newblock \doi{10.1529/biophysj.103.038422}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0006349504744392}.
 
 \bibitem[Kelley et~al.(2015)Kelley, Mezulis, Yates, Wass, and
   Sternberg]{Kelley2015}
@@ -395,11 +472,8 @@ Lawrence~A Kelley, Stefans Mezulis, Christopher~M Yates, Mark~N Wass, and
   Michael~J.E. Sternberg.
 \newblock {The Phyre2 web portal for protein modeling, prediction and
   analysis}.
-\newblock \emph{Nature Protocols}, 10\penalty0 (6):\penalty0 845--858, jun
-  2015.
-\newblock ISSN 17502799.
+\newblock \emph{Nat. Protoc.}, 10\penalty0 (6):\penalty0 845--858, jun 2015.
 \newblock \doi{10.1038/nprot.2015.053}.
-\newblock URL \url{http://www.nature.com/articles/nprot.2015.053}.
 
 \bibitem[Carpenter et~al.(2006)Carpenter, Jones, Lamprecht, Clarke, Kang,
   Friman, Guertin, Chang, Lindquist, Moffat, Golland, and
@@ -409,11 +483,8 @@ Anne~E Carpenter, Thouis~R Jones, Michael~R Lamprecht, Colin Clarke, In~Han
   Moffat, Polina Golland, and David~M Sabatini.
 \newblock {CellProfiler: Image analysis software for identifying and
   quantifying cell phenotypes}.
-\newblock \emph{Genome Biology}, 7\penalty0 (10):\penalty0 R100, oct 2006.
-\newblock ISSN 14747596.
+\newblock \emph{Genome Biol.}, 7\penalty0 (10):\penalty0 R100, oct 2006.
 \newblock \doi{10.1186/gb-2006-7-10-r100}.
-\newblock URL
-  \url{http://genomebiology.biomedcentral.com/articles/10.1186/gb-2006-7-10-r100}.
 
 \bibitem[Paintdakhi et~al.(2016)Paintdakhi, Parry, Campos, Irnov, Elf,
   Surovtsev, and Jacobs-Wagner]{Paintdakhi2016}
@@ -421,11 +492,8 @@ Ahmad Paintdakhi, Bradley Parry, Manuel Campos, Irnov Irnov, Johan Elf, Ivan
   Surovtsev, and Christine Jacobs-Wagner.
 \newblock {Oufti: An integrated software package for high-accuracy,
   high-throughput quantitative microscopy analysis}.
-\newblock \emph{Molecular Microbiology}, 99\penalty0 (4):\penalty0 767--777,
-  feb 2016.
-\newblock ISSN 13652958.
+\newblock \emph{Mol. Microbiol.}, 99\penalty0 (4):\penalty0 767--777, feb 2016.
 \newblock \doi{10.1111/mmi.13264}.
-\newblock URL \url{http://doi.wiley.com/10.1111/mmi.13264}.
 
 \bibitem[Schindelin et~al.(2012)Schindelin, Arganda-Carreras, Frise, Kaynig,
   Longair, Pietzsch, Preibisch, Rueden, Saalfeld, Schmid, Tinevez, White,
@@ -436,42 +504,31 @@ Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark
   Kevin Eliceiri, Pavel Tomancak, and Albert Cardona.
 \newblock {Fiji: An open-source platform for biological-image analysis}, jul
   2012.
-\newblock ISSN 15487091.
-\newblock URL \url{http://www.nature.com/articles/nmeth.2019}.
 
 \bibitem[Sommer et~al.(2011)Sommer, Straehle, Kothe, and Hamprecht]{Sommer2011}
 Christoph Sommer, Christoph Straehle, Ullrich Kothe, and Fred~A. Hamprecht.
 \newblock {Ilastik: Interactive learning and segmentation toolkit}.
-\newblock In \emph{Proceedings - International Symposium on Biomedical
-  Imaging}, pages 230--233. IEEE, mar 2011.
-\newblock ISBN 9781424441280.
+\newblock In \emph{Proc. - Int. Symp. Biomed. Imaging}, pages 230--233. IEEE,
+  mar 2011.
 \newblock \doi{10.1109/ISBI.2011.5872394}.
-\newblock URL \url{http://ieeexplore.ieee.org/document/5872394/}.
-
-\bibitem[Jug et~al.(2014)Jug, Pietzsch, Preibisch, and Tomancak]{Jug2014}
-Florian Jug, Tobias Pietzsch, Stephan Preibisch, and Pavel Tomancak.
-\newblock {Bioimage Informatics in the context of Drosophila research}.
-\newblock \emph{Methods}, 68\penalty0 (1):\penalty0 60--73, jun 2014.
-\newblock ISSN 10959130.
-\newblock \doi{10.1016/j.ymeth.2014.04.004}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1046202314001480}.
 
 \bibitem[Schindelin et~al.(2015)Schindelin, Rueden, Hiner, and
   Eliceiri]{Schindelin2015}
 Johannes Schindelin, Curtis~T. Rueden, Mark~C. Hiner, and Kevin~W. Eliceiri.
 \newblock {The ImageJ ecosystem: An open platform for biomedical image
   analysis}, jul 2015.
-\newblock ISSN 10982795.
-\newblock URL \url{http://doi.wiley.com/10.1002/mrd.22489}.
+
+\bibitem[Jug et~al.(2014)Jug, Pietzsch, Preibisch, and Tomancak]{Jug2014}
+Florian Jug, Tobias Pietzsch, Stephan Preibisch, and Pavel Tomancak.
+\newblock {Bioimage Informatics in the context of Drosophila research}.
+\newblock \emph{Methods}, 68\penalty0 (1):\penalty0 60--73, jun 2014.
+\newblock \doi{10.1016/j.ymeth.2014.04.004}.
 
 \bibitem[Barkai and Leibler(1997)]{Barkai1997b}
 N.~Barkai and S.~Leibler.
 \newblock {Robustness in simple biochemical networks}.
 \newblock \emph{Nature}, 387\penalty0 (6636):\penalty0 913--917, jun 1997.
-\newblock ISSN 00280836.
 \newblock \doi{10.1038/43199}.
-\newblock URL \url{http://www.nature.com/articles/43199}.
 
 \bibitem[Yu et~al.(2008)Yu, Pesce, Colman-Lerner, Lok, Pincus, Serra, Holl,
   Benjamin, Gordon, and Brent]{Yu2008a}
@@ -481,31 +538,21 @@ Richard~C Yu, C~Gustavo Pesce, Alejandro Colman-Lerner, Larry Lok, David
 \newblock {Negative feedback that improves information transmission in yeast
   signalling.}
 \newblock \emph{Nature}, 456\penalty0 (7223):\penalty0 755--61, 2008.
-\newblock ISSN 1476-4687.
 \newblock \doi{10.1038/nature07513}.
-\newblock URL
-  \url{https://www.nature.com/nature/journal/v456/n7223/pdf/nature07513.pdf
-  http://dx.doi.org/10.1038/nature07513}.
 
 \bibitem[Alon et~al.(1999)Alon, Surette, Barkai, and Leibler]{Alon1999}
 U.~Alon, M.~G. Surette, N.~Barkai, and S.~Leibler.
 \newblock {Robustness in bacterial chemotaxis}.
 \newblock \emph{Nature}, 1999.
-\newblock ISSN 00280836.
 \newblock \doi{10.1038/16483}.
 
 \bibitem[Yi et~al.(2000)Yi, Huang, Simon, and Doyle]{Yi2000}
 T.-M.~M Yi, Yun Huang, Melvin~I Simon, and John Doyle.
 \newblock {Robust perfect adaptation in bacterial chemotaxis through integral
   feedback control.}
-\newblock \emph{Proceedings of the National Academy of Sciences}, 97\penalty0
-  (9):\penalty0 4649--53, 2000.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 97\penalty0 (9):\penalty0 4649--53,
+  2000.
 \newblock \doi{10.1073/pnas.97.9.4649}.
-\newblock URL \url{http://www.pnas.org/content/pnas/97/9/4649.full.pdf
-  http://www.pnas.org/cgi/doi/10.1073/pnas.97.9.4649
-  http://www.pnas.org/content/97/9/4649.full.pdf
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=18287{\&}tool=pmcentrez{\&}rendertype=abstract}.
 
 \bibitem[Muzzey et~al.(2009)Muzzey, G{\'{o}}mez-Uribe, Mettetal, and van
   Oudenaarden]{Muzzey2009}
@@ -514,21 +561,14 @@ Dale Muzzey, Carlos~A. G{\'{o}}mez-Uribe, Jerome~T Mettetal, and Alexander van
 \newblock {A Systems-Level Analysis of Perfect Adaptation in Yeast
   Osmoregulation}.
 \newblock \emph{Cell}, 138\penalty0 (1):\penalty0 160--171, 2009.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2009.04.047}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S009286740900508X/1-s2.0-S009286740900508X-main.pdf?{\_}tid=e095f21a-73af-44bf-8998-fbeb03ab23d3{\&}acdnat=1523285892{\_}3269a18d028b9b3e95e15a1c9e001929
-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3109981/pdf/nihms121222.pdf}.
 
 \bibitem[Ma et~al.(2009)Ma, Trusina, El-Samad, Lim, and Tang]{Ma2009}
 Wenzhe Ma, Ala Trusina, Hana El-Samad, Wendell~A Lim, and Chao Tang.
 \newblock {Defining Network Topologies that Can Achieve Biochemical
   Adaptation}.
 \newblock \emph{Cell}, 138\penalty0 (4):\penalty0 760--773, 2009.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2009.06.013}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S0092867409007120/1-s2.0-S0092867409007120-main.pdf?{\_}tid=257c8902-9152-4762-a24c-dec4af470d67{\&}acdnat=1523897402{\_}593100e7c1be810b2fe3361296d3ba06}.
 
 \bibitem[Rahimi et~al.(2016)Rahimi, Averbukh, Haskel-Ittah, Degani, Schejter,
   Barkai, and Shilo]{Rahimi2016}
@@ -536,71 +576,49 @@ Neta Rahimi, Inna Averbukh, Michal Haskel-Ittah, Neta Degani, Eyal~D Schejter,
   Naama Barkai, and Ben~Zion Shilo.
 \newblock {A WntD-Dependent Integral Feedback Loop Attenuates Variability in
   Drosophila Toll Signaling}.
-\newblock \emph{Developmental Cell}, 36\penalty0 (4):\penalty0 401--414, 2016.
-\newblock ISSN 18781551.
+\newblock \emph{Dev. Cell}, 36\penalty0 (4):\penalty0 401--414, 2016.
 \newblock \doi{10.1016/j.devcel.2016.01.023}.
-\newblock URL \url{http://dx.doi.org/10.1016/j.devcel.2016.01.023}.
 
 \bibitem[Benzinger and Khammash(2018)]{Benzinger2018}
 Dirk Benzinger and Mustafa Khammash.
 \newblock {Pulsatile inputs achieve tunable attenuation of gene expression
   variability and graded multi-gene regulation}.
-\newblock \emph{Nature Communications}, 9\penalty0 (1):\penalty0 3521, dec
-  2018.
-\newblock ISSN 2041-1723.
+\newblock \emph{Nat. Commun.}, 9\penalty0 (1):\penalty0 3521, dec 2018.
 \newblock \doi{10.1038/s41467-018-05882-2}.
-\newblock URL \url{http://www.nature.com/articles/s41467-018-05882-2}.
 
 \bibitem[Adler and Alon(2018)]{Adler2018}
 Miri Adler and Uri Alon.
 \newblock {Fold-change detection in biological systems}.
-\newblock \emph{Current Opinion in Systems Biology}, 8:\penalty0 81--89, apr
-  2018.
-\newblock ISSN 2452-3100.
+\newblock \emph{Curr. Opin. Syst. Biol.}, 8:\penalty0 81--89, apr 2018.
 \newblock \doi{10.1016/j.coisb.2017.12.005}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S2452310017301889
-  https://doi.org/10.1016/j.coisb.2017.12.005}.
 
 \bibitem[Yordanov and Stelling(2018)]{Yordanov2018}
 Pencho Yordanov and J{\"{o}}rg Stelling.
 \newblock {Steady-State Differential Dose Response in Biological Systems}.
-\newblock \emph{Biophysical Journal}, 114\penalty0 (3):\penalty0 723--736, feb
-  2018.
-\newblock ISSN 15420086.
+\newblock \emph{Biophys. J.}, 114\penalty0 (3):\penalty0 723--736, feb 2018.
 \newblock \doi{10.1016/j.bpj.2017.11.3780}.
-\newblock URL
-  \url{https://linkinghub.elsevier.com/retrieve/pii/S0006349517350427}.
 
 \bibitem[Lubensky et~al.(2011)Lubensky, Pennington, Shraiman, and
   Baker]{Lubensky2011}
 David~K. Lubensky, Matthew~W. Pennington, Boris~I. Shraiman, and Nicholas~E.
   Baker.
 \newblock {A dynamical model of ommatidial crystal formation}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 108\penalty0
-  (27):\penalty0 11145--11150, 2011.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 108\penalty0 (27):\penalty0
+  11145--11150, 2011.
 \newblock \doi{10.1073/pnas.1015302108}.
-\newblock URL \url{http://www.pnas.org/content/108/27/11145.full.pdf
-  http://www.pnas.org/cgi/doi/10.1073/pnas.1015302108}.
 
 \bibitem[Melen et~al.(2005)Melen, Levy, Barkai, and Shilo]{Melen2005}
 Gustavo~J. Melen, Sagi Levy, Naama Barkai, and Ben-Zion Shilo.
 \newblock {Threshold responses to morphogen gradients by zero-order
   ultrasensitivity}.
-\newblock \emph{Molecular Systems Biology}, pages 1--11, 2005.
-\newblock ISSN 1744-4292.
+\newblock \emph{Mol. Syst. Biol.}, pages 1--11, 2005.
 \newblock \doi{10.1038/msb4100036}.
-\newblock URL
-  \url{http://msb.embopress.org/content/msb/1/1/2005.0028.full.pdf}.
 
 \bibitem[Lai and Rubin(1992)]{Lai1992a}
 Zhi-Chun Lai and Gerald~M Rubin.
 \newblock {Negative Control of Photoreceptor Development in Drosophila by the
   Product of the yan Gene, an ETS Domain Protein}.
 \newblock \emph{Cell}, 70\penalty0 (609420), 1992.
-\newblock URL
-  \url{http://ac.els-cdn.com/009286749290430K/1-s2.0-009286749290430K-main.pdf?{\_}tid=f955cd7a-1d35-11e7-9dfe-00000aab0f6b{\&}acdnat=1491750511{\_}22ccbdfb0875302083e33919f38dc8c0}.
 
 \bibitem[Rogge et~al.(1995)Rogge, Green, Urano, Horn-Saban, Mlodzik, Shilo,
   Hartenstein, and Banerjee]{Rogge1995}
@@ -609,7 +627,6 @@ R.~Rogge, P.~J. Green, J.~Urano, S.~Horn-Saban, M.~Mlodzik, B~Z Shilo,
 \newblock {The role of yan in mediating the choice between cell division and
   differentiation}.
 \newblock \emph{Development}, 121\penalty0 (12):\penalty0 3947--3958, 1995.
-\newblock ISSN 0950-1991.
 
 \bibitem[Rebay and Rubin(1995)]{Rebay1995}
 Ilaria Rebay and Gerald~M. Rubin.
@@ -622,24 +639,14 @@ Thomas G.~W. Graham, S.~M.~Ali Tabei, Aaron~R. Dinner, and Ilaria Rebay.
 \newblock {Modeling bistable cell-fate choices in the Drosophila eye:
   qualitative and quantitative perspectives}.
 \newblock \emph{Development}, 137\penalty0 (14):\penalty0 2265--78, jul 2010.
-\newblock ISSN 1477-9129.
 \newblock \doi{10.1242/dev.044826}.
-\newblock URL
-  \url{http://dev.biologists.org/content/develop/137/14/2265.full.pdf
-  http://dev.biologists.org/cgi/doi/10.1242/dev.044826{\%}5Cnpapers3://publication/doi/10.1242/dev.044826
-  http://www.ncbi.nlm.nih.gov/pubmed/20570936
-  http://www.pubmedcentral.nih.gov/articlerender.}
 
 \bibitem[Shwartz et~al.(2013)Shwartz, Yogev, Schejter, and Shilo]{Shwartz2013}
 Arkadi Shwartz, Shaul Yogev, Eyal~D. Schejter, and Ben-Zion Shilo.
 \newblock {Sequential activation of ETS proteins provides a sustained
   transcriptional response to EGFR signaling}.
 \newblock \emph{Development}, 140\penalty0 (13):\penalty0 2746--2754, 2013.
-\newblock ISSN 1477-9129.
 \newblock \doi{10.1242/dev.093138}.
-\newblock URL
-  \url{http://dev.biologists.org/content/develop/140/13/2746.full.pdf
-  http://dev.biologists.org/lookup/doi/10.1242/dev.093138}.
 
 \bibitem[{Boisclair Lachance} et~al.(2014){Boisclair Lachance}, Pel{\'{a}}ez,
   Cassidy, Webber, Rebay, and Carthew]{BoisclairLachance2014}
@@ -648,93 +655,63 @@ Jean-Fran{\c{c}}ois {Boisclair Lachance}, Nicol{\'{a}}s Pel{\'{a}}ez, Justin~J.
 \newblock {A comparative study of Pointed and Yan expression reveals new
   complexity to the transcriptional networks downstream of receptor tyrosine
   kinase signaling}.
-\newblock \emph{Developmental Biology}, 385:\penalty0 263--278, jan 2014.
-\newblock ISSN 00121606.
+\newblock \emph{Dev. Biol.}, 385:\penalty0 263--278, jan 2014.
 \newblock \doi{10.1016/j.ydbio.2013.11.002}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012160613006027}.
 
 \bibitem[Freeman(2000)]{Freeman2000}
 Matthew Freeman.
 \newblock {Feedback control of intercellular signalling in development}.
 \newblock \emph{Nature}, 408\penalty0 (November):\penalty0 313--319, 2000.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/35042500}.
-\newblock URL \url{https://me.ucsb.edu/{~}moehlis/APC514/2002{\_}2.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/11099031{\%}5Cnhttp://www.nature.com/nature/journal/v408/n6810/pdf/408313a0.pdf}.
 
 \bibitem[Alon(2007)]{Alon2007}
 Uri Alon.
 \newblock {Network motifs: theory and experimental approaches.}
-\newblock \emph{Nature reviews. Genetics}, 8\penalty0 (6):\penalty0 450--61,
-  2007.
-\newblock ISSN 1471-0056.
+\newblock \emph{Nat. Rev. Genet.}, 8\penalty0 (6):\penalty0 450--61, 2007.
 \newblock \doi{10.1038/nrg2102}.
-\newblock URL \url{https://www.nature.com/nrg/journal/v8/n6/pdf/nrg2102.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/17510665}.
 
 \bibitem[Behar et~al.(2007)Behar, Hao, Dohlman, and Elston]{Behar2007}
 Marcelo Behar, Nan Hao, Henrik~G Dohlman, and Timothy~C Elston.
 \newblock {Mathematical and computational analysis of adaptation via feedback
   inhibition in signal transduction pathways.}
-\newblock \emph{Biophysical journal}, 93\penalty0 (3):\penalty0 806--21, 2007.
-\newblock ISSN 0006-3495.
+\newblock \emph{Biophys. J.}, 93\penalty0 (3):\penalty0 806--21, 2007.
 \newblock \doi{10.1529/biophysj.107.107516}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0006349507713383/1-s2.0-S0006349507713383-main.pdf?{\_}tid=227f53e0-8070-11e7-a70c-00000aab0f01{\&}acdnat=1502660656{\_}cca3148074153087b8a339f6366981d5
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1913166{\&}tool=pmcentrez{\&}rendert}.
 
 \bibitem[Bhalla et~al.(2002)Bhalla, Ram, and Iyengar]{Bhalla2002}
 Upinder~S. Bhalla, Prahlad~T. Ram, and Ravi Iyengar.
 \newblock {MAP Kinase Phosphatase As a Locus of Flexibility in a
   Mitogen-Activated Protein Kinase Signaling Network}.
-\newblock \emph{Science}, 297\penalty0 (5583):\penalty0 1018--1023, 2002.
-\newblock ISSN 0036-8075, 1095-9203.
+\newblock \emph{Science (80-. ).}, 297\penalty0 (5583):\penalty0 1018--1023,
+  2002.
 \newblock \doi{10.1126/science.1068873}.
-\newblock URL
-  \url{http://science.sciencemag.org/content/sci/297/5583/1018.full.pdf
-  http://www.sciencemag.org/content/297/5583/1018{\%}5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/12169734{\%}5Cnhttp://www.sciencemag.org/content/297/5583/1018.full.pdf}.
 
 \bibitem[Cheong et~al.(2011)Cheong, Rhee, Wang, Nemenman, and
   Levchenko]{Cheong2011}
 Raymond Cheong, Alex Rhee, C.~J. Wang, Ilya Nemenman, and Andre Levchenko.
 \newblock {Information Transduction Capacity of Noisy Biochemical Signaling
   Networks}.
-\newblock \emph{Science}, 334\penalty0 (6054):\penalty0 354--358, 2011.
-\newblock ISSN 0036-8075.
+\newblock \emph{Science (80-. ).}, 334\penalty0 (6054):\penalty0 354--358,
+  2011.
 \newblock \doi{10.1126/science.1204553}.
-\newblock URL
-  \url{http://science.sciencemag.org/content/sci/334/6054/354.full.pdf}.
 
 \bibitem[Yi et~al.(2003)Yi, Kitano, and Simon]{Yi2003}
 Tau-Mu Yi, Hiroaki Kitano, and Melvin~I Simon.
 \newblock {A quantitative characterization of the yeast heterotrimeric G
   protein cycle.}
-\newblock \emph{Proceedings of the National Academy of Sciences of the United
-  States of America}, 100\penalty0 (19):\penalty0 10764--9, 2003.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 100\penalty0 (19):\penalty0
+  10764--9, 2003.
 \newblock \doi{10.1073/pnas.1834247100}.
-\newblock URL \url{http://www.pnas.org/content/100/19/10764.full.pdf
-  http://www.pnas.org/content/100/19/10764}.
 
 \bibitem[Khammash(2016)]{Khammash2016}
 Mustafa Khammash.
 \newblock {An engineering viewpoint on biological robustness}, mar 2016.
-\newblock ISSN 17417007.
-\newblock URL
-  \url{http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0241-x
-  http://www.ncbi.nlm.nih.gov/pubmed/27007299
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4804522}.
 
 \bibitem[Cassidy et~al.(2016)Cassidy, Straughan, and Carthew]{Cassidy2016a}
 Justin~J. Cassidy, Alexander~J. Straughan, and Richard~W. Carthew.
 \newblock {Differential masking of natural genetic variation by miR-9a in
   Drosophila}.
 \newblock \emph{Genetics}, 202\penalty0 (2):\penalty0 675--687, 2016.
-\newblock ISSN 19432631.
 \newblock \doi{10.1534/genetics.115.183822}.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4788242/pdf/675.pdf}.
 
 \bibitem[Cassidy et~al.(2013)Cassidy, Jha, Posadas, Giri, Venken, Ji, Jiang,
   Bellen, White, and Carthew]{Cassidy2013}
@@ -744,10 +721,7 @@ Justin~J Cassidy, Aashish~R Jha, Diana~M Posadas, Ritika Giri, Koen J~T Venken,
 \newblock {MiR-9a minimizes the phenotypic impact of genomic diversity by
   buffering a transcription factor}.
 \newblock \emph{Cell}, 155\penalty0 (7):\penalty0 1556--1567, 2013.
-\newblock ISSN 10974172.
 \newblock \doi{10.1016/j.cell.2013.10.057}.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3891883/pdf/nihms543592.pdf}.
 
 \bibitem[Li et~al.(2009)Li, Cassidy, Reinke, Fischboeck, and Carthew]{Li2009b}
 Xin Li, Justin~J Cassidy, Catherine~A Reinke, Stephen Fischboeck, and Richard~W
@@ -755,95 +729,66 @@ Xin Li, Justin~J Cassidy, Catherine~A Reinke, Stephen Fischboeck, and Richard~W
 \newblock {A MicroRNA Imparts Robustness against Environmental Fluctuation
   during Development}.
 \newblock \emph{Cell}, 137\penalty0 (2):\penalty0 273--282, 2009.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2009.01.058}.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674871/pdf/nihms104381.pdf}.
 
 \bibitem[Ebert and Sharp(2012)]{Ebert2012}
 Margaret~S. Ebert and Phillip~A. Sharp.
 \newblock {Roles for microRNAs in conferring robustness to biological
   processes}.
 \newblock \emph{Cell}, 149\penalty0 (3):\penalty0 515--524, 2012.
-\newblock ISSN 1097-4172 (Electronic) 0092-8674 (Linking).
 \newblock \doi{S0092-8674(12)00464-3 [pii] 10.1016/j.cell.2012.04.005}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0092867412004643/1-s2.0-S0092867412004643-main.pdf?{\_}tid=7f25e6fa-8cd6-11e7-b642-00000aab0f6c{\&}acdnat=1504024034{\_}ea251b3bd7d6068bb351a33d320fd66a
-  http://ac.els-cdn.com/S0092867412004643/1-s2.0-S0092867412004643-main.pdf?{\_}tid=775f4790-}.
 
 \bibitem[Waddington(1942)]{Waddington1942}
 CH~H Waddington.
 \newblock {Canalization of Development and the Inheritance of Acquired
   Characters}.
 \newblock \emph{Nature}, 150\penalty0 (3811):\penalty0 563--565, 1942.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/150563a0}.
-\newblock URL
-  \url{https://www.nature.com/nature/journal/v150/n3811/pdf/150563a0.pdf
-  http://chd.ucsd.edu/{\_}files/winter2009/waddington.nature.pdf}.
 
 \bibitem[Bateman(1959)]{Bateman1959a}
 K~G Bateman.
 \newblock {The genetic assimilation of four venation phenocopies}.
-\newblock \emph{Journal of Genetics}, 56\penalty0 (3):\penalty0 443--474, 1959.
-\newblock ISSN 00221333.
+\newblock \emph{J. Genet.}, 56\penalty0 (3):\penalty0 443--474, 1959.
 \newblock \doi{10.1007/BF02984796}.
-\newblock URL
-  \url{https://link.springer.com/content/pdf/10.1007/BF02984796.pdf}.
 
 \bibitem[Rendel(1959)]{Rendel1959}
 J~M Rendel.
 \newblock {Canalisation of the scute phenotype of Drosophila}.
-\newblock \emph{Evolution}, 13:\penalty0 425--439, 1959.
+\newblock \emph{Evolution (N. Y).}, 13:\penalty0 425--439, 1959.
 \newblock \doi{10.1111/j.1558-5646.1959.tb03033.x}.
-\newblock URL \url{file:///Users/Sebi/Downloads/Rendel-1959-Evolution.pdf}.
 
 \bibitem[Rendel et~al.(1966)Rendel, Sheldon, and Finlay]{Rendel1966a}
 J~M Rendel, B~L Sheldon, and D~E Finlay.
 \newblock {Selection for Canalization of the Scute Phenotype. II.}
-\newblock \emph{The American Naturalist}, 100\penalty0 (910):\penalty0 13--31,
-  1966.
-\newblock ISSN 00030147.
+\newblock \emph{Am. Nat.}, 100\penalty0 (910):\penalty0 13--31, 1966.
 \newblock \doi{10.2307/2459376}.
-\newblock URL \url{http://www.publish.csiro.au/bi/pdf/bi9600036
-  http://www.jstor.org/stable/2459376}.
 
 \bibitem[Scharloo(1991)]{Scharloo1991}
 Willem Scharloo.
 \newblock {Canalization: genetic and developmental aspects}.
-\newblock \emph{Annual Review of Ecology and Systematics}, 22\penalty0
-  (1991):\penalty0 65--93, 1991.
-\newblock ISSN 0066-4162.
+\newblock \emph{Annu. Rev. Ecol. Syst.}, 22\penalty0 (1991):\penalty0 65--93,
+  1991.
 \newblock \doi{10.1146/annurev.es.22.110191.000433}.
-\newblock URL
-  \url{http://www.annualreviews.org/doi/pdf/10.1146/annurev.es.22.110191.000433
-  http://www.jstor.org/stable/2097255}.
 
 \bibitem[Dun and Fraser(1958)]{Dun1958}
 R.B. Dun and A.S. Fraser.
 \newblock {Selection for an Invariant Character - 'Vibrissa Number' - in the
   House Mouse}.
 \newblock \emph{Nature}, 182:\penalty0 1638 -- 1640, 1958.
-\newblock URL
-  \url{https://www.nature.com/nature/journal/v181/n4614/pdf/1811018a0.pdf}.
 
 \bibitem[Gibson and Hogness(1996)]{Gibson1996}
 G~Gibson and David~S. Hogness.
 \newblock {Effect of Polymorphism in the Drosophila Regulatory Gene
   Ultrabithorax on Homeotic Stability}.
-\newblock \emph{Science}, 271\penalty0 (5246):\penalty0 200--203, 1996.
+\newblock \emph{Science (80-. ).}, 271\penalty0 (5246):\penalty0 200--203,
+  1996.
 \newblock \doi{10.1126/science.271.5246.200}.
-\newblock URL \url{http://science.sciencemag.org/content/271/5246/200.long}.
 
 \bibitem[Rutherford and Lindquist(1998)]{Rutherford1998}
 Suzanne~L Rutherford and Susan Lindquist.
 \newblock {Hsp90 as a capacitor for morphological evolution}.
 \newblock \emph{Nature}, 396\penalty0 (6709):\penalty0 336--342, 1998.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/24550}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=9845070
-  https://www.nature.com/nature/journal/v396/n6709/pdf/396336a0.pdf}.
 
 \bibitem[Eldar et~al.(2002)Eldar, Dorfman, Weiss, Ashe, Shilo, and
   Barkai]{Eldar2002}
@@ -852,31 +797,22 @@ Avigdor Eldar, Ruslan Dorfman, Daniel Weiss, Hilary Ashe, Ben-Zion Shilo, and
 \newblock {Robustness of the BMP morphogen gradient in Drosophila embryonic
   patterning.}
 \newblock \emph{Nature}, 419\penalty0 (September):\penalty0 304--308, 2002.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/nature01061}.
-\newblock URL \url{http://dx.doi.org/10.1038/nature01061}.
 
 \bibitem[Denby et~al.(2012)Denby, Im, Yu, Pesce, and Brem]{Denby2012}
 Charles~M Denby, Joo~Hyun Im, Richard~C Yu, C.~Gustavo Pesce, and Rachel~B
   Brem.
 \newblock {Negative feedback confers mutational robustness in yeast
   transcription factor regulation}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 109\penalty0
-  (10):\penalty0 3874--3878, 2012.
-\newblock ISSN 0027-8424, 1091-6490.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 109\penalty0 (10):\penalty0
+  3874--3878, 2012.
 \newblock \doi{10.1073/pnas.1116360109}.
-\newblock URL \url{http://www.pnas.org/content/109/10/3874.full.pdf
-  http://www.pnas.org/content/109/10/3874}.
 
 \bibitem[Hartman et~al.(2001)Hartman, Garvik, and Hartwell]{Hartman2001}
 John L I~V Hartman, Barbara Garvik, and Lee Hartwell.
 \newblock {Principles for the Buffering of Genetic Variation}.
-\newblock \emph{Science}, 1001\penalty0 (2001):\penalty0 1--5, 2001.
-\newblock ISSN 00368075.
+\newblock \emph{Science (80-. ).}, 1001\penalty0 (2001):\penalty0 1--5, 2001.
 \newblock \doi{10.1126/science.1056072}.
-\newblock URL
-  \url{http://science.sciencemag.org/content/sci/291/5506/1001.full.pdf
-  papers3://publication/doi/10.1126/science.1056072}.
 
 \bibitem[Marciano et~al.(2014)Marciano, Lua, Katsonis, Amin, Herman, and
   Lichtarge]{Marciano2014}
@@ -884,124 +820,85 @@ David~C Marciano, Rhonald~C Lua, Panagiotis Katsonis, Shivas~R Amin, Christophe
   Herman, and Olivier Lichtarge.
 \newblock {Negative Feedback in Genetic Circuits Confers Evolutionary
   Resilience and Capacitance}.
-\newblock \emph{Cell Reports}, 7\penalty0 (6):\penalty0 1789--1795, 2014.
-\newblock ISSN 22111247.
+\newblock \emph{Cell Rep.}, 7\penalty0 (6):\penalty0 1789--1795, 2014.
 \newblock \doi{10.1016/j.celrep.2014.05.018}.
-\newblock URL \url{http://dx.doi.org/10.1016/j.celrep.2014.05.018}.
 
 \bibitem[Kitano(2004)]{Kitano2004}
 Hiroaki Kitano.
 \newblock {Biological Robustness}.
-\newblock \emph{Nature Reviews Genetics}, 837\penalty0 (November):\penalty0
-  826--837, 2004.
+\newblock \emph{Nat. Rev. Genet.}, 837\penalty0 (November):\penalty0 826--837,
+  2004.
 \newblock \doi{10.1038/nrg1471}.
-\newblock URL \url{https://www.nature.com/nrg/journal/v5/n11/pdf/nrg1471.pdf}.
 
 \bibitem[Stelling et~al.(2004)Stelling, Sauer, Szallasi, Doyle, and
   Doyle]{Stelling2004}
 J{\"{o}}rg Stelling, Uwe Sauer, Zoltan Szallasi, Francis~J. Doyle, and John
   Doyle.
 \newblock {Robustness of cellular functions}, sep 2004.
-\newblock ISSN 00928674.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867404008402}.
 
 \bibitem[Siegal and Leu(2014)]{Siegal2014}
 Mark~L Siegal and Jun-Yi Leu.
 \newblock {On the Nature and Evolutionary Impact of Phenotypic Robustness
   Mechanisms}.
-\newblock \emph{Annual Review of Ecology, Evolution, and Systematics},
-  45:\penalty0 495--517, 2014.
-\newblock ISSN 1543-592X.
+\newblock \emph{Annu. Rev. Ecol. Evol. Syst.}, 45:\penalty0 495--517, 2014.
 \newblock \doi{10.1146/annurev-ecolsys-120213-091705}.
-\newblock URL
-  \url{http://www.annualreviews.org/doi/pdf/10.1146/annurev-ecolsys-120213-091705}.
 
 \bibitem[Siegal and Bergman(2002)]{Siegal2002}
 Mark~L Siegal and Aviv Bergman.
 \newblock {Waddington's canalization revisited: developmental stability and
   evolution.}
-\newblock \emph{Proceedings of the National Academy of Sciences of the United
-  States of America}, 99:\penalty0 10528--10532, 2002.
-\newblock ISSN 00278424.
+\newblock \emph{Proc. Natl. Acad. Sci. U. S. A.}, 99:\penalty0 10528--10532,
+  2002.
 \newblock \doi{10.1073/pnas.102303999}.
-\newblock URL \url{http://www.pnas.org/content/99/16/10528.full.pdf}.
 
 \bibitem[Bergman and Siegal(2003)]{Bergman2003}
 Aviv Bergman and Mark~L. Siegal.
 \newblock {Evolutionary capacitance as a general feature of complex gene
   networks}.
 \newblock \emph{Nature}, 424\penalty0 (6948):\penalty0 549--552, 2003.
-\newblock ISSN 00280836.
 \newblock \doi{10.1038/nature01765}.
-\newblock URL
-  \url{https://www.nature.com/nature/journal/v424/n6948/pdf/nature01765.pdf
-  http://www.nature.com/doifinder/10.1038/nature01765}.
 
 \bibitem[Lynch(2007)]{Lynch2007}
 Michael Lynch.
 \newblock {The evolution of genetic networks by non-adaptive processes.}
-\newblock \emph{Nature reviews. Genetics}, 8\penalty0 (10):\penalty0 803--13,
-  2007.
-\newblock ISSN 1471-0064.
+\newblock \emph{Nat. Rev. Genet.}, 8\penalty0 (10):\penalty0 803--13, 2007.
 \newblock \doi{10.1038/nrg2192}.
-\newblock URL \url{https://www.nature.com/nrg/journal/v8/n10/pdf/nrg2192.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/17878896}.
 
 \bibitem[Wagner(2003)]{Wagner2003}
 Andreas Wagner.
 \newblock {How the global structure of protein interaction networks evolves.}
-\newblock \emph{Proceedings. Biological sciences / The Royal Society},
-  270\penalty0 (1514):\penalty0 457--66, 2003.
-\newblock ISSN 0962-8452.
+\newblock \emph{Proc. Biol. Sci.}, 270\penalty0 (1514):\penalty0 457--66, 2003.
 \newblock \doi{10.1098/rspb.2002.2269}.
-\newblock URL
-  \url{http://rspb.royalsocietypublishing.org/content/royprsb/270/1514/457.full.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/12641899{\%}5Cnhttp://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1691265}.
 
 \bibitem[McAdams and Arkin(1999)]{McAdams1999}
 Harley~H. McAdams and Adam Arkin.
 \newblock {It's a noisy business! Genetic regulation at the nanomolar scale},
   1999.
-\newblock ISSN 01689525.
-\newblock URL
-  \url{http://www.cell.com/trends/genetics/pdf/S0168-9525(98)01659-X.pdf}.
 
 \bibitem[Nowak et~al.(1997)Nowak, Boerlijst, Cooke, and {Maynard
   Smith}]{Nowak1997}
 M~A Nowak, M~C Boerlijst, J~Cooke, and John {Maynard Smith}.
 \newblock {Evolution of genetic redundancy.}
 \newblock \emph{Nature}, 388\penalty0 (6638):\penalty0 167--71, 1997.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/40618}.
-\newblock URL
-  \url{https://www.nature.com/nature/journal/v388/n6638/pdf/388167a0.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/9217155}.
 
 \bibitem[Wagner(2000)]{Wagner2000}
 Andreas Wagner.
 \newblock {Robustness against mutations in genetic networks of yeast.}
-\newblock \emph{Nature genetics}, 24\penalty0 (4):\penalty0 355--61, 2000.
-\newblock ISSN 1061-4036.
+\newblock \emph{Nat. Genet.}, 24\penalty0 (4):\penalty0 355--61, 2000.
 \newblock \doi{10.1038/74174}.
-\newblock URL
-  \url{http://www.nature.com.turing.library.northwestern.edu/ng/journal/v24/n4/pdf/ng0400{\_}355.pdf}.
 
 \bibitem[Muzzey and van Oudenaarden(2009)]{Muzzey2009a}
 Dale Muzzey and Alexander van Oudenaarden.
 \newblock {Quantitative Time-Lapse Fluorescence Microscopy in Single Cells}.
-\newblock \emph{Annual Review of Cell and Developmental Biology}, 25\penalty0
-  (1):\penalty0 301--327, nov 2009.
-\newblock ISSN 1081-0706.
+\newblock \emph{Annu. Rev. Cell Dev. Biol.}, 25\penalty0 (1):\penalty0
+  301--327, nov 2009.
 \newblock \doi{10.1146/annurev.cellbio.042308.113408}.
-\newblock URL
-  \url{http://www.annualreviews.org/doi/10.1146/annurev.cellbio.042308.113408}.
 
 \bibitem[Stelzer(2014)]{Stelzer2014}
 Ernst H~K Stelzer.
 \newblock {Light-sheet fluorescence microscopy for quantitative biology}.
-\newblock \emph{Nature Methods}, 12\penalty0 (1):\penalty0 23--26, dec 2014.
-\newblock ISSN 1548-7091.
+\newblock \emph{Nat. Methods}, 12\penalty0 (1):\penalty0 23--26, dec 2014.
 \newblock \doi{10.1038/nmeth.3219}.
 
 \bibitem[Truong and Supatto(2011)]{Truong2011}
@@ -1009,101 +906,73 @@ Thai~V. Truong and Willy Supatto.
 \newblock {Toward high-content/high-throughput imaging and analysis of
   embryonic morphogenesis}.
 \newblock \emph{Genesis}, 49\penalty0 (7):\penalty0 555--569, jul 2011.
-\newblock ISSN 1526954X.
 \newblock \doi{10.1002/dvg.20760}.
-\newblock URL \url{http://doi.wiley.com/10.1002/dvg.20760}.
 
 \bibitem[Simpson and Price(2002)]{IanSimpson2002}
 Ian~T. Simpson and David~J. Price.
 \newblock {Pax6; a pleiotropic player in development}, nov 2002.
-\newblock ISSN 02659247.
-\newblock URL \url{http://doi.wiley.com/10.1002/bies.10174}.
 
-\bibitem[Parody and Muskavitch(1993)]{Parody1993}
+\bibitem[Parody and Muskavitch(1993{\natexlab{b}})]{Parody1993}
 T~R Parody and M.~A~T Muskavitch.
 \newblock {The pleiotropic function of Delta during postembryonic development
   of Drosophila melanogaster}.
-\newblock \emph{Genetics}, 135\penalty0 (2):\penalty0 527--539, 1993.
-\newblock ISSN 00166731.
+\newblock \emph{Genetics}, 135\penalty0 (2):\penalty0 527--539,
+  1993{\natexlab{b}}.
 
 \bibitem[Shilo and Raz(1991)]{Shilo1991}
 Ben~Zion Shilo and Erez Raz.
 \newblock {Developmental control by the Drosophila EGF receptor homolog DER},
   nov 1991.
-\newblock ISSN 01689525.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/016895259190261N}.
 
 \bibitem[Xu and Rubin(1993)]{Xu1993}
 T~Xu and G~M Rubin.
 \newblock {Analysis of genetic mosaics in developing and adult Drosophila
   tissues.}
-\newblock \emph{Development (Cambridge, England)}, 117\penalty0 (4):\penalty0
-  1223--37, apr 1993.
-\newblock ISSN 0950-1991.
+\newblock \emph{Development}, 117\penalty0 (4):\penalty0 1223--37, apr 1993.
 \newblock \doi{8404527}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/8404527}.
 
 \bibitem[Xu and Rubin(2012)]{Xu2012}
 Tian Xu and Gerald~M Rubin.
 \newblock {The effort to make mosaic analysis a household tool}.
 \newblock \emph{Development}, 139\penalty0 (24):\penalty0 4501--4503, dec 2012.
-\newblock ISSN 0950-1991.
 \newblock \doi{10.1242/dev.085183}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/23172911
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3509720}.
 
 \bibitem[Newsome et~al.(2000)Newsome, Asling, and Dickson]{Newsome2000}
 T~P Newsome, B~Asling, and B~J Dickson.
 \newblock {Analysis of Drosophila photoreceptor axon guidance in eye-specific
   mosaics.}
-\newblock \emph{Development (Cambridge, England)}, 127\penalty0 (4):\penalty0
-  851--60, feb 2000.
-\newblock ISSN 0950-1991.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/10648243}.
+\newblock \emph{Development}, 127\penalty0 (4):\penalty0 851--60, feb 2000.
 
 \bibitem[Theodosiou and Xu(1998)]{Theodosiou1998}
 Nicole~A. Theodosiou and Tian Xu.
 \newblock {Use of FLP/FRT system to study Drosophila development}.
-\newblock \emph{Methods: A Companion to Methods in Enzymology}, 14\penalty0
+\newblock \emph{Methods A Companion to Methods Enzymol.}, 14\penalty0
   (4):\penalty0 355--365, apr 1998.
-\newblock ISSN 10462023.
 \newblock \doi{10.1006/meth.1998.0591}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1046202398905916?via{\%}3Dihub}.
 
-\bibitem[Struhl and Basler(1993)]{Struhl1993}
+\bibitem[Struhl and Basler(1993{\natexlab{b}})]{Struhl1993}
 Gary Struhl and Konrad Basler.
 \newblock {Organizing activity of wingless protein in Drosophila}.
-\newblock \emph{Cell}, 1993.
-\newblock ISSN 00928674.
+\newblock \emph{Cell}, 1993{\natexlab{b}}.
 \newblock \doi{10.1016/0092-8674(93)90072-X}.
 
 \bibitem[Halfar et~al.(2001)Halfar, Rommel, Stocker, and Hafen]{Halfar2001}
 K~Halfar, C~Rommel, H~Stocker, and E~Hafen.
 \newblock {Ras controls growth, survival and differentiation in the Drosophila
   eye by different thresholds of MAP kinase activity.}
-\newblock \emph{Development (Cambridge, England)}, 128\penalty0 (9):\penalty0
-  1687--96, may 2001.
-\newblock ISSN 0950-1991.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11290305}.
+\newblock \emph{Development}, 128\penalty0 (9):\penalty0 1687--96, may 2001.
 
 \bibitem[Tomlinson and Struhl(2001)]{Tomlinson2001}
 A~Tomlinson and G~Struhl.
 \newblock {Delta/Notch and Boss/Sevenless signals act combinatorially to
   specify the Drosophila R7 photoreceptor.}
-\newblock \emph{Molecular cell}, 7\penalty0 (3):\penalty0 487--95, mar 2001.
-\newblock ISSN 1097-2765.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11463374}.
+\newblock \emph{Mol. Cell}, 7\penalty0 (3):\penalty0 487--95, mar 2001.
 
 \bibitem[Yang and Baker(2001)]{Yang2001}
 L~Yang and N~E Baker.
 \newblock {Role of the EGFR/Ras/Raf pathway in specification of photoreceptor
   cells in the Drosophila retina.}
-\newblock \emph{Development (Cambridge, England)}, 128\penalty0 (7):\penalty0
-  1183--91, apr 2001.
-\newblock ISSN 0950-1991.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11245584}.
+\newblock \emph{Development}, 128\penalty0 (7):\penalty0 1183--91, apr 2001.
 
 \bibitem[Huang et~al.(2005)Huang, Wu, Barrera, Matthews, and Pan]{Huang2005}
 Jianbin Huang, Shian Wu, Jose Barrera, Krista Matthews, and Duojia Pan.
@@ -1111,38 +980,28 @@ Jianbin Huang, Shian Wu, Jose Barrera, Krista Matthews, and Duojia Pan.
   proliferation and apoptosis by inactivating Yorkie, the Drosophila homolog of
   YAP}.
 \newblock \emph{Cell}, 122\penalty0 (3):\penalty0 421--434, aug 2005.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2005.06.007}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867405005520}.
 
 \bibitem[Thompson and Cohen(2006)]{Thompson2006}
 Barry~J. Thompson and Stephen~M. Cohen.
 \newblock {The Hippo Pathway Regulates the bantam microRNA to Control Cell
   Proliferation and Apoptosis in Drosophila}.
 \newblock \emph{Cell}, 126\penalty0 (4):\penalty0 767--774, aug 2006.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2006.07.013}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867406009536{\#}bib4}.
 
 \bibitem[Atkins(2019)]{Atkins2019}
 Mardelle Atkins.
 \newblock {Drosophila Genetics: The Power of Genetic Mosaic Approaches.}
-\newblock In \emph{Methods in Molecular Biology}, volume 1893, pages 27--42.
-  Humana Press, New York, NY, 2019.
+\newblock In \emph{Methods Mol. Biol.}, volume 1893, pages 27--42. Humana
+  Press, New York, NY, 2019.
 \newblock \doi{10.1007/978-1-4939-8910-2_2}.
-\newblock URL \url{http://link.springer.com/10.1007/978-1-4939-8910-2{\_}2}.
 
 \bibitem[Dai et~al.(2017)Dai, Peterson, Kenney, Burrous, and Montell]{Dai2017}
 Wei Dai, Amy Peterson, Thomas Kenney, Haley Burrous, and Denise~J. Montell.
 \newblock {Quantitative microscopy of the Drosophila ovary shows multiple niche
   signals specify progenitor cell fate}.
-\newblock \emph{Nature Communications}, 8\penalty0 (1):\penalty0 1244, dec
-  2017.
-\newblock ISSN 2041-1723.
+\newblock \emph{Nat. Commun.}, 8\penalty0 (1):\penalty0 1244, dec 2017.
 \newblock \doi{10.1038/s41467-017-01322-9}.
-\newblock URL \url{http://www.nature.com/articles/s41467-017-01322-9}.
 
 \bibitem[Bernasek et~al.(2018)Bernasek, Lachance, Pel{\'{a}}ez, Bakker,
   Navarro, Amaral, Bagheri, Rebay, and Carthew]{Bernasek2018}
@@ -1153,7 +1012,6 @@ Sebastian~M. Bernasek, Jean-Fran{\c{c}}ois~Boisclair Lachance, Nicol{\'{a}}s
   transit to differentiation}.
 \newblock \emph{bioRxiv}, page 430744, sep 2018.
 \newblock \doi{http://dx.doi.org/10.1101/430744}.
-\newblock URL \url{https://www.biorxiv.org/content/10.1101/430744v1}.
 
 \bibitem[Ghiglione et~al.(2018)Ghiglione, Jouandin, C{\'{e}}r{\'{e}}zo, and
   Noselli]{Ghiglione2018}
@@ -1162,20 +1020,14 @@ Christian Ghiglione, Patrick Jouandin, Delphine C{\'{e}}r{\'{e}}zo, and
 \newblock {The Drosophila insulin pathway controls Profilin expression and
   dynamic actin-rich protrusions during collective cell migration}.
 \newblock \emph{Development}, 145\penalty0 (14):\penalty0 dev161117, jul 2018.
-\newblock ISSN 0950-1991.
 \newblock \doi{10.1242/dev.161117}.
-\newblock URL
-  \url{http://dev.biologists.org/content/145/14/dev161117.abstract}.
 
 \bibitem[Li and Baker(2018)]{Li2018}
 Ke~Li and Nicholas~E Baker.
 \newblock {Regulation of the Drosophila ID protein Extra macrochaetae by
   proneural dimerization partners}.
-\newblock \emph{eLife}, 7, 2018.
-\newblock ISSN 2050-084X.
+\newblock \emph{Elife}, 7, 2018.
 \newblock \doi{10.7554/elife.33967}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/29687780
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5915177}.
 
 \bibitem[Bacia et~al.(2012)Bacia, Petr{\'{a}}{\v{s}}ek, and
   Schwille]{Bacia2012}
@@ -1183,9 +1035,7 @@ Kirsten Bacia, Zden{\v{e}}k Petr{\'{a}}{\v{s}}ek, and Petra Schwille.
 \newblock {Correcting for spectral cross-talk in dual-color fluorescence
   cross-correlation spectroscopy}.
 \newblock \emph{ChemPhysChem}, 13\penalty0 (5):\penalty0 1221--1231, apr 2012.
-\newblock ISSN 14394235.
 \newblock \doi{10.1002/cphc.201100801}.
-\newblock URL \url{http://doi.wiley.com/10.1002/cphc.201100801}.
 
 \bibitem[Elangovan et~al.(2003)Elangovan, Wallrabe, Chen, Day, Barroso, and
   Periasamy]{Elangovan2003}
@@ -1194,30 +1044,21 @@ Masilamani Elangovan, Horst Wallrabe, Ye~Chen, Richard~N. Day, Margarida
 \newblock {Characterization of one- and two-photon excitation fluorescence
   resonance energy transfer microscopy}.
 \newblock \emph{Methods}, 29\penalty0 (1):\penalty0 58--73, jan 2003.
-\newblock ISSN 10462023.
 \newblock \doi{10.1016/S1046-2023(02)00283-9}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1046202302002839}.
 
 \bibitem[Mort(2009)]{Mort2009}
 Richard~L. Mort.
 \newblock {Quantitative analysis of patch patterns in mosaic tissues with
   ClonalTools software}.
-\newblock \emph{Journal of Anatomy}, 215\penalty0 (6):\penalty0 698--704, dec
-  2009.
-\newblock ISSN 00218782.
+\newblock \emph{J. Anat.}, 215\penalty0 (6):\penalty0 698--704, dec 2009.
 \newblock \doi{10.1111/j.1469-7580.2009.01150.x}.
-\newblock URL \url{http://doi.wiley.com/10.1111/j.1469-7580.2009.01150.x}.
 
 \bibitem[Helmuth et~al.(2010)Helmuth, Paul, and Sbalzarini]{Helmuth2010}
 Jo~A Helmuth, Gr{\'{e}}gory Paul, and Ivo~F Sbalzarini.
 \newblock {Beyond co-localization: Inferring spatial interactions between
   sub-cellular structures from microscopy images}.
 \newblock \emph{BMC Bioinformatics}, 11\penalty0 (1):\penalty0 372, jul 2010.
-\newblock ISSN 14712105.
 \newblock \doi{10.1186/1471-2105-11-372}.
-\newblock URL
-  \url{http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-372}.
 
 \bibitem[Shivanandan et~al.(2013)Shivanandan, Radenovic, and
   Sbalzarini]{Shivanandan2013}
@@ -1225,10 +1066,7 @@ Arun Shivanandan, Aleksandra Radenovic, and Ivo~F Sbalzarini.
 \newblock {MosaicIA: An ImageJ/Fiji plugin for spatial pattern and interaction
   analysis}.
 \newblock \emph{BMC Bioinformatics}, 14\penalty0 (1):\penalty0 349, dec 2013.
-\newblock ISSN 14712105.
 \newblock \doi{10.1186/1471-2105-14-349}.
-\newblock URL
-  \url{http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-349}.
 
 \bibitem[van~der Walt et~al.(2014)van~der Walt, Sch{\"{o}}nberger,
   Nunez-Iglesias, Boulogne, Warner, Yager, Gouillart, and Yu]{VanderWalt2014}
@@ -1237,13 +1075,12 @@ St{\'{e}}fan van~der Walt, Johannes~L. Sch{\"{o}}nberger, Juan Nunez-Iglesias,
   and Tony Yu.
 \newblock {scikit-image: image processing in Python}.
 \newblock \emph{PeerJ}, 2014.
-\newblock ISSN 2167-8359.
 \newblock \doi{10.7717/peerj.453}.
 
 \bibitem[{Nobuyuki Otsu}(1979)]{NobuyukiOtsu1979}
 {Nobuyuki Otsu}.
 \newblock {A Threshold Selection Method from Gray-Level Histograms}.
-\newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics}, 1979.
+\newblock \emph{IEEE Trans. Syst. Man. Cybern.}, 1979.
 
 \bibitem[Bugarski et~al.(2014)Bugarski, Mansouri, Niemann, Rizk, Berger,
   Ziegler, Sbalzarini, Incardona, and Paul]{Bugarski2014}
@@ -1252,10 +1089,8 @@ Milica Bugarski, Maysam Mansouri, Axel Niemann, Aur{\'{e}}lien Rizk, Philipp
   Paul.
 \newblock {Segmentation and quantification of subcellular structures in
   fluorescence microscopy images using Squassh}.
-\newblock \emph{Nature Protocols}, 9\penalty0 (3):\penalty0 586--596, mar 2014.
-\newblock ISSN 1754-2189.
+\newblock \emph{Nat. Protoc.}, 9\penalty0 (3):\penalty0 586--596, mar 2014.
 \newblock \doi{10.1038/nprot.2014.037}.
-\newblock URL \url{http://www.nature.com/articles/nprot.2014.037}.
 
 \bibitem[Zinchuk et~al.(2007)Zinchuk, Zinchuk, and Okada]{Zinchuk2007}
 Vadim Zinchuk, Olga Zinchuk, and Teruhiko Okada.
@@ -1264,41 +1099,29 @@ Vadim Zinchuk, Olga Zinchuk, and Teruhiko Okada.
   Phenomena}.
 \newblock \emph{Acta Histochem. Cytochem.}, 40\penalty0 (4):\penalty0 101--111,
   2007.
-\newblock ISSN 0044-5991.
 \newblock \doi{10.1267/ahc.07002}.
-\newblock URL
-  \url{http://joi.jlc.jst.go.jp/JST.JSTAGE/ahc/07002?from=CrossRef}.
 
 \bibitem[Arsenovic et~al.(2017)Arsenovic, Mayer, and Conway]{Arsenovic2017}
 Paul~T. Arsenovic, Carl~R. Mayer, and Daniel~E. Conway.
 \newblock {SensorFRET: A Standardless Approach to Measuring Pixel-based
   Spectral Bleed-through and FRET Efficiency using Spectral Imaging}.
-\newblock \emph{Scientific Reports}, 7\penalty0 (1), dec 2017.
-\newblock ISSN 20452322.
+\newblock \emph{Sci. Rep.}, 7\penalty0 (1), dec 2017.
 \newblock \doi{10.1038/s41598-017-15411-8}.
-\newblock URL \url{http://www.nature.com/articles/s41598-017-15411-8}.
 
 \bibitem[Kim et~al.(2013)Kim, Curthoys, Parent, and Hess]{Kim2013}
 Dahan Kim, Nikki~M Curthoys, Matthew~T Parent, and Samuel~T Hess.
 \newblock {Bleed-through correction for rendering and correlation analysis in
   multi-colour localization microscopy}.
-\newblock \emph{Journal of Optics}, 15\penalty0 (9), sep 2013.
-\newblock ISSN 20408978.
+\newblock \emph{J. Opt.}, 15\penalty0 (9), sep 2013.
 \newblock \doi{10.1088/2040-8978/15/9/094011}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26185614
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4501387}.
 
 \bibitem[McMullen et~al.(2010)McMullen, Morimoto, and Amaral]{McMullen2010}
 Patrick~D. McMullen, Richard~I. Morimoto, and Lu{\'{i}}s A.~Nunes Amaral.
 \newblock {Physically grounded approach for estimating gene expression from
   microarray data}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 107\penalty0
-  (31):\penalty0 13690--13695, aug 2010.
-\newblock ISSN 1091-6490.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 107\penalty0 (31):\penalty0
+  13690--13695, aug 2010.
 \newblock \doi{10.1073/pnas.1000938107}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20643961
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2922271
-  http://dx.doi.org/10.1073/pnas.1000938107{\%}5Cnhttp://www.pnas.org/content/107/31/13690.abstract{\%}5Cnhttp://www.pnas.org/content/107/31/13690.ful}.
 
 \bibitem[Furusawa et~al.(2005)Furusawa, Suzuki, Kashiwagi, Yomo, and
   Kaneko]{Furusawa2005}
@@ -1306,87 +1129,64 @@ Chikara Furusawa, Takao Suzuki, Akiko Kashiwagi, Tetsuya Yomo, and Kunihiko
   Kaneko.
 \newblock {Ubiquity of Log-normal Distributions in Intra-cellular Reaction
   Dynamics}.
-\newblock \emph{Biophysics}, 1:\penalty0 25--31, 2005.
-\newblock ISSN 1349-2942.
+\newblock \emph{Biophysics (Oxf).}, 1:\penalty0 25--31, 2005.
 \newblock \doi{10.2142/biophysics.1.25}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/27857550
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5036630
-  http://arxiv.org/abs/q-bio/0503040}.
 
 \bibitem[Beal(2017)]{Beal2017}
 Jacob Beal.
 \newblock {Biochemical complexity drives log-normal variation in genetic
   expression}.
-\newblock \emph{Engineering Biology}, 1\penalty0 (1):\penalty0 55--60, jun
-  2017.
-\newblock ISSN 2398-6182.
+\newblock \emph{Eng. Biol.}, 1\penalty0 (1):\penalty0 55--60, jun 2017.
 \newblock \doi{10.1049/enb.2017.0004}.
-\newblock URL
-  \url{https://digital-library.theiet.org/content/journals/10.1049/enb.2017.0004}.
 
 \bibitem[Teicher(1963)]{Teicher1963}
 Henry Teicher.
 \newblock {Identifiability of Finite Mixtures}.
-\newblock \emph{The Annals of Mathematical Statistics}, 34\penalty0
-  (4):\penalty0 1265--1269, dec 1963.
-\newblock ISSN 0003-4851.
+\newblock \emph{Ann. Math. Stat.}, 34\penalty0 (4):\penalty0 1265--1269, dec
+  1963.
 \newblock \doi{10.1214/aoms/1177703862}.
-\newblock URL \url{http://projecteuclid.org/euclid.aoms/1177703862}.
 
 \bibitem[Rosvall et~al.(2009)Rosvall, Axelsson, and Bergstrom]{Rosvall2009}
 M.~Rosvall, D.~Axelsson, and C.~T. Bergstrom.
 \newblock {The map equation}.
-\newblock \emph{European Physical Journal: Special Topics}, 2009.
-\newblock ISSN 19516355.
+\newblock \emph{Eur. Phys. J. Spec. Top.}, 2009.
 \newblock \doi{10.1140/epjst/e2010-01179-1}.
 
 \bibitem[Katz(1953)]{Katz1953}
 Leo Katz.
 \newblock {A new status index derived from sociometric analysis}.
 \newblock \emph{Psychometrika}, 1953.
-\newblock ISSN 00333123.
 \newblock \doi{10.1007/BF02289026}.
 
 \bibitem[Kamada and Kawai(1989)]{Kamada1989}
 Tomihisa Kamada and Satoru Kawai.
 \newblock {An algorithm for drawing general undirected graphs}.
-\newblock \emph{Information Processing Letters}, 31\penalty0 (1):\penalty0
-  7--15, apr 1989.
-\newblock ISSN 00200190.
+\newblock \emph{Inf. Process. Lett.}, 31\penalty0 (1):\penalty0 7--15, apr
+  1989.
 \newblock \doi{10.1016/0020-0190(89)90102-6}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/0020019089901026?via{\%}3Dihub}.
 
 \bibitem[Gaudette and Japkowicz(2009)]{Gaudette2009}
 Lisa Gaudette and Nathalie Japkowicz.
 \newblock {Evaluation methods for ordinal classification.}
-\newblock In \emph{Lecture Notes in Computer Science}, volume 5549 LNAI, pages
-  207--210. Springer, Berlin, Heidelberg, 2009.
-\newblock ISBN 3642018173.
+\newblock In \emph{Lect. Notes Comput. Sci.}, volume 5549 LNAI, pages 207--210.
+  Springer, Berlin, Heidelberg, 2009.
 \newblock \doi{10.1007/978-3-642-01818-3_25}.
-\newblock URL \url{http://link.springer.com/10.1007/978-3-642-01818-3{\_}25}.
 
 \bibitem[Nguyen and Wu(2012)]{Nguyen2012}
 Thanh~Minh Nguyen and Q.~M.Jonathan Wu.
 \newblock {Gaussian mixture-model-based spatial neighborhood relationships for
   pixel labeling problems}.
-\newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics},
-  42\penalty0 (1):\penalty0 193--202, feb 2012.
-\newblock ISSN 10834419.
+\newblock \emph{IEEE Trans. Syst. Man. Cybern.}, 42\penalty0 (1):\penalty0
+  193--202, feb 2012.
 \newblock \doi{10.1109/TSMCB.2011.2161284}.
-\newblock URL \url{http://ieeexplore.ieee.org/document/5983453/}.
 
 \bibitem[Gambis et~al.(2011)Gambis, Dourlen, Steller, and
   Mollereau]{Gambis2011}
 Alexis Gambis, Pierre Dourlen, Hermann Steller, and Bertrand Mollereau.
 \newblock {Two-color in vivo imaging of photoreceptor apoptosis and development
   in Drosophila}.
-\newblock \emph{Developmental Biology}, 351\penalty0 (1):\penalty0 128--134,
-  mar 2011.
-\newblock ISSN 1095564X.
+\newblock \emph{Dev. Biol.}, 351\penalty0 (1):\penalty0 128--134, mar 2011.
 \newblock \doi{10.1016/j.ydbio.2010.12.040}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0012160610012960}.
 
 \bibitem[Dourlen et~al.(2013)Dourlen, Levet, Mejat, Gambis, and
   Mollereau]{Dourlen2013}
@@ -1394,42 +1194,30 @@ Pierre Dourlen, Clemence Levet, Alexandre Mejat, Alexis Gambis, and Bertrand
   Mollereau.
 \newblock {The Tomato/GFP-FLP/FRT Method for Live Imaging of Mosaic Adult
   Drosophila Photoreceptor Cells}.
-\newblock \emph{Journal of Visualized Experiments}, 79, sep 2013.
-\newblock ISSN 1940-087X.
+\newblock \emph{J. Vis. Exp.}, 79, sep 2013.
 \newblock \doi{10.3791/50610}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24084155
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3923918}.
 
 \bibitem[Fisher et~al.(2017)Fisher, Yang, Isaacman-Beck, Xie, Gohl, and
   Clandinin]{Fisher2017}
 Yvette~E Fisher, Helen~H Yang, Jesse Isaacman-Beck, Marjorie Xie, Daryl~M Gohl,
   and Thomas~R Clandinin.
 \newblock {FlpStop, a tool for conditional gene control in Drosophila}.
-\newblock \emph{eLife}, 6, 2017.
-\newblock ISSN 2050084X.
+\newblock \emph{Elife}, 6, 2017.
 \newblock \doi{10.7554/eLife.22279}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/28211790
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5342825}.
 
 \bibitem[Wu and Luo(2007)]{Wu2007}
 Joy~S Wu and Liqun Luo.
 \newblock {A protocol for mosaic analysis with a repressible cell marker
   (MARCM) in Drosophila}.
-\newblock \emph{Nature Protocols}, 1\penalty0 (6):\penalty0 2583--2589, jan
-  2007.
-\newblock ISSN 1754-2189.
+\newblock \emph{Nat. Protoc.}, 1\penalty0 (6):\penalty0 2583--2589, jan 2007.
 \newblock \doi{10.1038/nprot.2006.320}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17406512
-  http://www.nature.com/doifinder/10.1038/nprot.2006.320}.
 
 \bibitem[Zhou et~al.(2016)Zhou, Neal, and Pignoni]{Zhou2016}
 Qingxiang Zhou, Scott~J. Neal, and Francesca Pignoni.
 \newblock {Mutant analysis by rescue gene excision: New tools for mosaic
   studies in Drosophila}.
 \newblock \emph{Genesis}, 54\penalty0 (11):\penalty0 589--592, nov 2016.
-\newblock ISSN 1526968X.
 \newblock \doi{10.1002/dvg.22984}.
-\newblock URL \url{http://doi.wiley.com/10.1002/dvg.22984}.
 
 \bibitem[Heffern et~al.(2009)Heffern, Perrimon, Hohl, {del Valle Rodriguez},
   Bakal, Bonvin, Sustar, Grunwald, Griffin, Villalta, Wu, Bateman, Desplan,
@@ -1440,21 +1228,16 @@ Elleard Heffern, Norbert Perrimon, Amber~M Hohl, Alberto {del Valle Rodriguez},
   Binari, and Gerold Schubiger.
 \newblock {The twin spot generator for differential Drosophila lineage
   analysis}.
-\newblock \emph{Nature Methods}, 6\penalty0 (8):\penalty0 600--602, aug 2009.
-\newblock ISSN 1548-7091.
+\newblock \emph{Nat. Methods}, 6\penalty0 (8):\penalty0 600--602, aug 2009.
 \newblock \doi{10.1038/nmeth.1349}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19633664
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2720837}.
 
 \bibitem[Yu et~al.(2010)Yu, Kao, He, Ding, Kao, and Lee]{Yu2010}
 Hung~Hsiang Yu, Chih~Fei Kao, Yisheng He, Peng Ding, Jui~Chun Kao, and Tzumin
   Lee.
 \newblock {A complete developmental sequence of a Drosophila neuronal lineage
   as revealed by twin-spot MARCM}.
-\newblock \emph{PLoS Biology}, 8\penalty0 (8):\penalty0 39--40, aug 2010.
-\newblock ISSN 15449173.
+\newblock \emph{PLoS Biol.}, 8\penalty0 (8):\penalty0 39--40, aug 2010.
 \newblock \doi{10.1371/journal.pbio.1000461}.
-\newblock URL \url{https://dx.plos.org/10.1371/journal.pbio.1000461}.
 
 \bibitem[Denes et~al.(2013)Denes, Caussinus, Affolter, Kanca, and
   Percival-Smith]{Denes2013}
@@ -1463,9 +1246,7 @@ Alexandru~S. Denes, Emmanuel Caussinus, Markus Affolter, Oguz Kanca, and
 \newblock {Raeppli: a whole-tissue labeling tool for live imaging of Drosophila
   development}.
 \newblock \emph{Development}, 141\penalty0 (2):\penalty0 472--480, jan 2013.
-\newblock ISSN 0950-1991.
 \newblock \doi{10.1242/dev.102913}.
-\newblock URL \url{http://dev.biologists.org/content/141/2/472.short}.
 
 \bibitem[Hadjieconomou et~al.(2011)Hadjieconomou, Rotkopf, Alexandre, Bell,
   Dickson, and Salecker]{Hadjieconomou2011}
@@ -1473,10 +1254,8 @@ Dafni Hadjieconomou, Shay Rotkopf, Cyrille Alexandre, Donald~M Bell, Barry~J
   Dickson, and Iris Salecker.
 \newblock {Flybow: Genetic multicolor cell labeling for neural circuit analysis
   in Drosophila melanogaster}.
-\newblock \emph{Nature Methods}, 8\penalty0 (3):\penalty0 260--266, mar 2011.
-\newblock ISSN 15487091.
+\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 260--266, mar 2011.
 \newblock \doi{10.1038/nmeth.1567}.
-\newblock URL \url{http://www.nature.com/articles/nmeth.1567}.
 
 \bibitem[Hampel et~al.(2011)Hampel, Chung, McKellar, Hall, Looger, and
   Simpson]{Hampel2011}
@@ -1484,10 +1263,8 @@ Stefanie Hampel, Phuong Chung, Claire~E McKellar, Donald Hall, Loren~L Looger,
   and Julie~H Simpson.
 \newblock {Drosophila Brainbow: a recombinase-based fluorescence labeling
   technique to subdivide neural expression patterns}.
-\newblock \emph{Nature Methods}, 8\penalty0 (3):\penalty0 253--259, mar 2011.
-\newblock ISSN 1548-7091.
+\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 253--259, mar 2011.
 \newblock \doi{10.1038/nmeth.1566}.
-\newblock URL \url{http://www.nature.com/articles/nmeth.1566}.
 
 \bibitem[Neufeld et~al.(1998)Neufeld, {De La Cruz}, Johnston, and
   Edgar]{Neufeld1998}
@@ -1495,10 +1272,7 @@ Thomas~P Neufeld, Aida Flor~A. {De La Cruz}, Laura~A Johnston, and Bruce~A
   Edgar.
 \newblock {Coordination of growth and cell division in the Drosophila wing}.
 \newblock \emph{Cell}, 93\penalty0 (7):\penalty0 1183--1193, jun 1998.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)81462-2}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867400814622}.
 
 \bibitem[Tworoger et~al.(1999)Tworoger, Larkin, Bryant, and
   Ruohola-Baker]{Tworoger1999}
@@ -1506,15 +1280,12 @@ Michael Tworoger, Michele~Keller Larkin, Zev Bryant, and Hannele Ruohola-Baker.
 \newblock {Mosaic analysis in the Drosophila ovary reveals a common Hedgehog-
   inducible precursor stage for stalk and polar cells}.
 \newblock \emph{Genetics}, 1999.
-\newblock ISSN 00166731.
 
 \bibitem[Collins et~al.(2010)Collins, Linker, and Lewis]{Collins2010}
 Russell~T Collins, Claudia Linker, and Julian Lewis.
 \newblock {MAZe: A tool for mosaic analysis of gene function in zebrafish}.
-\newblock \emph{Nature Methods}, 7\penalty0 (3):\penalty0 219--223, mar 2010.
-\newblock ISSN 15487091.
+\newblock \emph{Nat. Methods}, 7\penalty0 (3):\penalty0 219--223, mar 2010.
 \newblock \doi{10.1038/nmeth.1423}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/nmeth.1423}.
 
 \bibitem[Mu{\~{n}}oz-Jim{\'{e}}nez et~al.(2017)Mu{\~{n}}oz-Jim{\'{e}}nez,
   Ayuso, Dobrzynska, Torres-Mend{\'{e}}z, Ruiz, and Askjaer]{Munoz-Jimenez2017}
@@ -1523,40 +1294,28 @@ Celia Mu{\~{n}}oz-Jim{\'{e}}nez, Cristina Ayuso, Agnieszka Dobrzynska, Antonio
 \newblock {An efficient FLP-based toolkit for spatiotemporal control of gene
   expression in Caenorhabditis elegans}.
 \newblock \emph{Genetics}, 206\penalty0 (4):\penalty0 1763--1778, aug 2017.
-\newblock ISSN 19432631.
 \newblock \doi{10.1534/genetics.117.201012}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/28646043
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5560786}.
 
 \bibitem[Wang et~al.(2007)Wang, Warren, and Bradley]{Wang2007}
 Wei Wang, Madhuri Warren, and Allan Bradley.
 \newblock {Induced mitotic recombination of p53 in vivo}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 104\penalty0
-  (11):\penalty0 4501--4505, mar 2007.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 104\penalty0 (11):\penalty0
+  4501--4505, mar 2007.
 \newblock \doi{10.1073/pnas.0607953104}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17360553
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1838630}.
 
 \bibitem[Meijering(2012)]{Meijering2012}
 Erik Meijering.
 \newblock {Cell Segmentation: 50 Years Down the Road}.
-\newblock \emph{IEEE Signal Processing Magazine}, 29\penalty0 (5):\penalty0
-  140--145, sep 2012.
-\newblock ISSN 1053-5888.
+\newblock \emph{IEEE Signal Process. Mag.}, 29\penalty0 (5):\penalty0 140--145,
+  sep 2012.
 \newblock \doi{10.1109/msp.2012.2204190}.
-\newblock URL \url{http://ieeexplore.ieee.org/document/6279591/}.
 
 \bibitem[Zheng and Flavell(1997)]{Zheng1997}
 Wei-ping Zheng and Richard~A. Flavell.
 \newblock {The transcription factor GATA-3 is necessary and sufficient for Th2
   cytokine gene expression in CD4 T cells}.
 \newblock \emph{Cell}, 89\penalty0 (4):\penalty0 587--596, may 1997.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)80240-8}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S0092867400802408/1-s2.0-S0092867400802408-main.pdf?{\_}tid=a1ac0cd4-e6df-46a9-929b-256dc6bb5031{\&}acdnat=1521552994{\_}0bd11e44665e33813f08708743cad4f8
-  http://linkinghub.elsevier.com/retrieve/pii/S0092867400802408}.
 
 \bibitem[Ducy et~al.(1997)Ducy, Zhang, Geoffroy, Ridall, and
   Karsenty]{Ducy1997}
@@ -1565,10 +1324,7 @@ Patricia Ducy, Rui Zhang, Val{\'{e}}rie Geoffroy, Amy~L. Ridall, and
 \newblock {Osf2/Cbfa1: a transcriptional activator of osteoblast
   differentiation}.
 \newblock \emph{Cell}, 89\penalty0 (5):\penalty0 747--754, may 1997.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)80257-3}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867400802573}.
 
 \bibitem[McGhee et~al.(2009)McGhee, Fukushige, Krause, Minnema, Goszczynski,
   Gaudet, Kohara, Bossinger, Zhao, Khattra, Hirst, Jones, Marra, Ruzanov,
@@ -1580,33 +1336,22 @@ James~D. McGhee, Tetsunari Fukushige, Michael~W. Krause, Stephanie~E. Minnema,
 \newblock {ELT-2 is the predominant transcription factor controlling
   differentiation and function of the C. elegans intestine, from embryo to
   adult}.
-\newblock \emph{Developmental Biology}, 327\penalty0 (2):\penalty0 551--565,
-  2009.
-\newblock ISSN 1095564X.
+\newblock \emph{Dev. Biol.}, 327\penalty0 (2):\penalty0 551--565, 2009.
 \newblock \doi{10.1016/j.ydbio.2008.11.034}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S0012160608013560/1-s2.0-S0012160608013560-main.pdf?{\_}tid=9124866b-92ab-4aa5-835e-b0b1e01cb022{\&}acdnat=1521552088{\_}ccca6e5d118b216f1b71e3382b6e4263}.
 
 \bibitem[O'Riordan and Grosschedl(1999)]{ORiordan1999}
 Mary O'Riordan and Rudolf Grosschedl.
 \newblock {Coordinate regulation of B cell differentiation by the transcription
   factors EBF and E2A}.
 \newblock \emph{Immunity}, 11:\penalty0 21--31, 1999.
-\newblock ISSN 10747613.
 \newblock \doi{10.1016/S1074-7613(00)80078-3}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S1074761300800783/1-s2.0-S1074761300800783-main.pdf?{\_}tid=21992660-5fde-4241-8e1c-f8e71a18638f{\&}acdnat=1521552607{\_}36c8de119def2a9c57f3edd31a4eeecd}.
 
 \bibitem[Evans et~al.(2003)Evans, Tian, Steadman, and Phillips]{Evans2003}
 Rachel~A. Evans, Y.~Chung Tian, Robert Steadman, and Aled~O. Phillips.
 \newblock {TGF-$\beta$1-mediated fibroblast-myofibroblast terminal
   differentiation - The role of Smad proteins}.
-\newblock \emph{Experimental Cell Research}, 282\penalty0 (2):\penalty0
-  90--100, jan 2003.
-\newblock ISSN 00144827.
+\newblock \emph{Exp. Cell Res.}, 282\penalty0 (2):\penalty0 90--100, jan 2003.
 \newblock \doi{10.1016/S0014-4827(02)00015-0}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0014482702000150}.
 
 \bibitem[Kueh et~al.(2013)Kueh, Champhekar, Nutt, Elowitz, and
   Rothenberg]{Kueh2013}
@@ -1614,42 +1359,28 @@ Hao~Y. Kueh, Ameya Champhekar, Stephen~L. Nutt, Michael~B. Elowitz, and
   Ellen~V. Rothenberg.
 \newblock {Positive feedback between PU.1 and the cell cycle controls myeloid
   differentiation}.
-\newblock \emph{Science}, 341:\penalty0 670--673, aug 2013.
-\newblock ISSN 0036-8075.
+\newblock \emph{Science (80-. ).}, 341:\penalty0 670--673, aug 2013.
 \newblock \doi{10.1126/science.1240831}.
-\newblock URL
-  \url{http://science.sciencemag.org/content/sci/341/6146/670.full.pdf
-  http://www.sciencemag.org/content/341/6146/670.short{\%}5Cnhttp://www.sciencemag.org/content/341/6146/670.full.pdf
-  http://www.jem.org/lookup/doi/10.1084/jem.20041535
-  http://www.sciencemag.org/cg}.
 
 \bibitem[Yao et~al.(2008)Yao, Lee, Mori, Nevins, and You]{Yao2008}
 Guang Yao, Tae~Jun Lee, Seiichi Mori, Joseph~R. Nevins, and Lingchong You.
 \newblock {A bistable Rb-E2F switch underlies the restriction point}.
-\newblock \emph{Nature Cell Biology}, 10\penalty0 (4):\penalty0 476--482, 2008.
-\newblock ISSN 14657392.
+\newblock \emph{Nat. Cell Biol.}, 10\penalty0 (4):\penalty0 476--482, 2008.
 \newblock \doi{10.1038/ncb1711}.
-\newblock URL
-  \url{https://www.researchgate.net/profile/Lingchong{\_}You/publication/5487129{\_}A{\_}bistable{\_}Rb-E2F{\_}switch{\_}underlies{\_}the{\_}restriction{\_}point/links/00463529a47db8a7db000000.pdf}.
 
 \bibitem[Park et~al.(2012)Park, Ahrends, and Teruel]{Park2012}
 Byung~Ouk Park, Robert Ahrends, and Mary~N. Teruel.
 \newblock {Consecutive Positive Feedback Loops Create a Bistable Switch that
   Controls Preadipocyte-to-Adipocyte Conversion}.
-\newblock \emph{Cell Reports}, 2\penalty0 (4):\penalty0 976--990, oct 2012.
-\newblock ISSN 22111247.
+\newblock \emph{Cell Rep.}, 2\penalty0 (4):\penalty0 976--990, oct 2012.
 \newblock \doi{10.1016/j.celrep.2012.08.038}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S2211124712002793}.
 
 \bibitem[Tontonoz et~al.(1994)Tontonoz, Hu, and Spiegelman]{Tontonoz1994}
 Peter Tontonoz, Erding Hu, and Bruce~M Spiegelman.
 \newblock {Stimulation of adipogenesis in fibroblasts by PPAR$\gamma$2, a
   lipid-activated transcription factor}.
 \newblock \emph{Cell}, 79\penalty0 (7):\penalty0 1147--1156, 1994.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/0092-8674(94)90006-X}.
-\newblock URL \url{http://www.cell.com/cell/pdf/0092-8674(94)90006-X.pdf}.
 
 \bibitem[Laslo et~al.(2006)Laslo, Spooner, Warmflash, Lancki, Lee, Sciammas,
   Gantner, Dinner, and Singh]{Laslo2006}
@@ -1659,27 +1390,20 @@ Peter Laslo, Chauncey~J. Spooner, Aryeh Warmflash, David~W. Lancki, Hyun-Jun
 \newblock {Multilineage transcriptional priming and determination of alternate
   hematopoietic cell fates}.
 \newblock \emph{Cell}, 126\penalty0 (4):\penalty0 755--766, 2006.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2006.06.052}.
-\newblock URL
-  \url{https://ac.els-cdn.com/S0092867406009809/1-s2.0-S0092867406009809-main.pdf?{\_}tid=92734ac4-a659-4761-9be4-796f090733d5{\&}acdnat=1521556329{\_}7e66697d61f6e4109d31895a6a1a0c24}.
 
 \bibitem[Niwa et~al.(2000)Niwa, Miyazaki, and Smith]{Niwa2000}
 Hitoshi Niwa, Jun-Ichi Miyazaki, and Austin~G. Smith.
 \newblock {Quantitative expression of Oct-3/4 defines differentiation,
   dedifferentiation or self-renewal of ES cells}.
-\newblock \emph{Nature Genetics}, 24\penalty0 (April):\penalty0 372--376, 2000.
-\newblock URL \url{https://www.nature.com/articles/ng0400{\_}372.pdf}.
+\newblock \emph{Nat. Genet.}, 24\penalty0 (April):\penalty0 372--376, 2000.
 
 \bibitem[Goentoro and Kirschner(2009)]{Goentoro2009a}
 Lea Goentoro and Marc~W. Kirschner.
 \newblock {Evidence that Fold-Change, and Not Absolute Level, of
   $\beta$-Catenin Dictates Wnt Signaling}.
-\newblock \emph{Molecular Cell}, 36\penalty0 (5):\penalty0 872--884, dec 2009.
-\newblock ISSN 10972765.
+\newblock \emph{Mol. Cell}, 36\penalty0 (5):\penalty0 872--884, dec 2009.
 \newblock \doi{10.1016/j.molcel.2009.11.017}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1097276509008582}.
 
 \bibitem[Kamino et~al.(2017)Kamino, Kondo, Nakajima, Honda-Kitahara, Kaneko,
   and Sawai]{Kamino2017}
@@ -1687,13 +1411,9 @@ Keita Kamino, Yohei Kondo, Akihiko Nakajima, Mai Honda-Kitahara, Kunihiko
   Kaneko, and Satoshi Sawai.
 \newblock {Fold-change detection and scale invariance of cell–cell signaling
   in social amoeba}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 114\penalty0
-  (21):\penalty0 E4149--E4157, may 2017.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 114\penalty0 (21):\penalty0
+  E4149--E4157, may 2017.
 \newblock \doi{10.1073/pnas.1702181114}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/28495969
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5448168
-  http://www.pnas.org/lookup/doi/10.1073/pnas.1702181114}.
 
 \bibitem[Antebi et~al.(2017)Antebi, Linton, Klumpe, Bintu, Gong, Su, McCardell,
   and Elowitz]{Antebi2017}
@@ -1701,10 +1421,7 @@ Yaron~E. Antebi, James~M. Linton, Heidi Klumpe, Bogdan Bintu, Mengsha Gong,
   Christina Su, Reed McCardell, and Michael~B. Elowitz.
 \newblock {Combinatorial Signal Perception in the BMP Pathway}.
 \newblock \emph{Cell}, 170:\penalty0 1184--1196, sep 2017.
-\newblock ISSN 10974172.
 \newblock \doi{10.1016/j.cell.2017.08.015}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867417309406}.
 
 \bibitem[Bush et~al.(2016)Bush, Vasen, Constantinou, Dunayevich, Patop,
   Blaustein, and Colman‐Lerner]{Bush2016}
@@ -1713,34 +1430,23 @@ Alan Bush, Gustavo Vasen, Andreas Constantinou, Paula Dunayevich,
   Colman‐Lerner.
 \newblock {Yeast GPCR signaling reflects the fraction of occupied receptors,
   not the number}.
-\newblock \emph{Molecular Systems Biology}, 12:\penalty0 898, dec 2016.
-\newblock ISSN 1744-4292.
+\newblock \emph{Mol. Syst. Biol.}, 12:\penalty0 898, dec 2016.
 \newblock \doi{10.15252/msb.20166910}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/28034910
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5199120
-  http://msb.embopress.org/lookup/doi/10.15252/msb.20166910}.
 
 \bibitem[Goentoro et~al.(2009)Goentoro, Shoval, Kirschner, and
   Alon]{Goentoro2009}
 Lea Goentoro, Oren Shoval, Marc~W. Kirschner, and Uri Alon.
 \newblock {The incoherent feedforward loop can provide fold-change detection in
   gene regulation}.
-\newblock \emph{Molecular Cell}, 36:\penalty0 894--899, dec 2009.
-\newblock ISSN 10972765.
+\newblock \emph{Mol. Cell}, 36:\penalty0 894--899, dec 2009.
 \newblock \doi{10.1016/j.molcel.2009.11.018}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1097276509008594}.
 
 \bibitem[Doe(2017)]{Doe2017}
 Chris~Q. Doe.
 \newblock {Temporal patterning in the Drosophila CNS}.
-\newblock \emph{Annual Review of Cell and Developmental Biology}, 33\penalty0
-  (1):\penalty0 219--240, oct 2017.
-\newblock ISSN 1081-0706.
+\newblock \emph{Annu. Rev. Cell Dev. Biol.}, 33\penalty0 (1):\penalty0
+  219--240, oct 2017.
 \newblock \doi{10.1146/annurev-cellbio-111315-125210}.
-\newblock URL
-  \url{http://www.annualreviews.org/doi/10.1146/annurev-cellbio-111315-125210
-  http://www.ncbi.nlm.nih.gov/pubmed/28992439{\%}0Ahttp://www.annualreviews.org/doi/10.1146/annurev-cellbio-111315-125210}.
 
 \bibitem[Erclik et~al.(2017)Erclik, Li, Courgeon, Bertet, Chen, Baumert, Ng,
   Koo, Arain, Behnia, {Del Valle Rodriguez}, Senderowicz, Negre, White, and
@@ -1752,9 +1458,7 @@ Ted Erclik, Xin Li, Maximilien Courgeon, Claire Bertet, Zhenqing Chen, Ryan
 \newblock {Integration of temporal and spatial patterning generates neural
   diversity}.
 \newblock \emph{Nature}, 541\penalty0 (7637):\penalty0 365--370, jan 2017.
-\newblock ISSN 14764687.
 \newblock \doi{10.1038/nature20794}.
-\newblock URL \url{http://www.nature.com/articles/nature20794}.
 
 \bibitem[Gabay et~al.(1996)Gabay, Scholz, Golembo, Klaes, Shilo, and
   Klambt]{Gabay1996}
@@ -1771,10 +1475,7 @@ Marc~S. Halfon, Ana Carmena, Stephen Gisselbrecht, Charles~M. Sackerson,
 \newblock {Ras pathway specificity is determined by the integration of multiple
   signal-activated and tissue-restricted transcription factors}.
 \newblock \emph{Cell}, 103\penalty0 (1):\penalty0 63--74, sep 2000.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)00105-7}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867400001057?via{\%}3Dihub}.
 
 \bibitem[Morimoto et~al.(1996)Morimoto, Jordan, Tietze, Britton, O'Neill, and
   Ruohola-Baker]{Morimoto1996}
@@ -1783,7 +1484,6 @@ Alyssa~M. Morimoto, Katherine~C. Jordan, Kyria Tietze, Jessica~S. Britton,
 \newblock {Pointed, an ETS domain transcription factor, negatively regulates
   the EGF receptor pathway in Drosophila oogenesis}.
 \newblock \emph{Development}, 122:\penalty0 3745--3754, 1996.
-\newblock ISSN 0950-1991.
 
 \bibitem[Xu et~al.(2000)Xu, Kauffmann, Zhang, Kladny, and Carthew]{Xu2000}
 Chunyan Xu, Rachele~C. Kauffmann, Jianjun Zhang, Susan Kladny, and Richard~W.
@@ -1791,9 +1491,7 @@ Chunyan Xu, Rachele~C. Kauffmann, Jianjun Zhang, Susan Kladny, and Richard~W.
 \newblock {Overlapping activators and repressors delimit transcriptional
   response to receptor tyrosine kinase signals in the Drosophila eye}.
 \newblock \emph{Cell}, 103:\penalty0 87--97, 2000.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)00107-0}.
-\newblock URL \url{http://www.cell.com/cell/pdf/S0092-8674(00)00107-0.pdf}.
 
 \bibitem[Flores et~al.(2000)Flores, Duan, Yan, Nagaraj, Fu, Zou, Noll, and
   Banerjee]{Flores2000}
@@ -1801,10 +1499,7 @@ Gail~V Flores, Hong Duan, Huajun Yan, Raghavendra Nagaraj, Weimin Fu, Yu~Zou,
   Markus Noll, and Utpal Banerjee.
 \newblock {Combinatorial signaling in the specification of unique cell fates}.
 \newblock \emph{Cell}, 103:\penalty0 75--85, sep 2000.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)00106-9}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867400001069}.
 
 \bibitem[Brunner et~al.(1994)Brunner, D{\"{u}}cker, Oellers, Hafen, Scholz, and
   Kl{\"{a}}mbt]{Brunner1994}
@@ -1812,9 +1507,7 @@ D~Brunner, K~D{\"{u}}cker, N~Oellers, E~Hafen, H~Scholz, and C~Kl{\"{a}}mbt.
 \newblock {The ETS domain protein pointed-P2 is a target of MAP kinase in the
   sevenless signal transduction pathway.}
 \newblock \emph{Nature}, 370\penalty0 (6488):\penalty0 386--9, aug 1994.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/370386a0}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/8047146}.
 
 \bibitem[O'Neill et~al.(1994)O'Neill, Rebay, Tjian, and Rubin]{ONeill1994a}
 Elizabeth~M. O'Neill, Ilaria Rebay, Robert Tjian, and Gerald Rubin.
@@ -1827,7 +1520,6 @@ C~Kl{\"{a}}mbt.
 \newblock {The Drosophila gene pointed encodes two ETS-like proteins which are
   involved in the development of the midline glial cells}.
 \newblock \emph{Development}, 117\penalty0 (1):\penalty0 163--176, 1993.
-\newblock ISSN 0950-1991.
 
 \bibitem[Scholz et~al.(1993)Scholz, Deatrick, Klaes, and
   Kl{\"{a}}mbt]{Scholz1993}
@@ -1846,11 +1538,8 @@ Gong~Hong Wei, Gwenael Badis, Michael~F. Berger, Teemu Kivioja, Kimmo Palin,
   Taipale.
 \newblock {Genome-wide analysis of ETS-family DNA-binding in vitro and in
   vivo}.
-\newblock \emph{EMBO Journal}, 29\penalty0 (13):\penalty0 2147--2160, jul 2010.
-\newblock ISSN 02614189.
+\newblock \emph{EMBO J.}, 29\penalty0 (13):\penalty0 2147--2160, jul 2010.
 \newblock \doi{10.1038/emboj.2010.106}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20517297
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2905244}.
 
 \bibitem[Webber et~al.(2013{\natexlab{a}})Webber, Zhang, Cote, Vivekanand, Ni,
   Zhou, Negre, Carthew, White, and Rebay]{Webber2013}
@@ -1860,7 +1549,6 @@ Jemma~L. Webber, Jie Zhang, Lauren Cote, Pavithra Vivekanand, Xiaochun Ni, Jie
   polymerization of the drosophila ETS family transcriptional repressor Yan}.
 \newblock \emph{Genetics}, 193\penalty0 (2):\penalty0 633--649,
   2013{\natexlab{a}}.
-\newblock ISSN 00166731.
 \newblock \doi{10.1534/genetics.112.146647}.
 
 \bibitem[Webber et~al.(2013{\natexlab{b}})Webber, Zhang, Mitchell-Dick, and
@@ -1868,12 +1556,9 @@ Jemma~L. Webber, Jie Zhang, Lauren Cote, Pavithra Vivekanand, Xiaochun Ni, Jie
 Jemma~L. Webber, Jie Zhang, Aaron Mitchell-Dick, and Ilaria Rebay.
 \newblock {3D chromatin interactions organize Yan chromatin occupancy and
   repression at the even-skipped locus}.
-\newblock \emph{Genes {\&} Development}, 27\penalty0 (21):\penalty0 2293--2298,
-  nov 2013{\natexlab{b}}.
-\newblock ISSN 08909369.
+\newblock \emph{Genes Dev.}, 27\penalty0 (21):\penalty0 2293--2298, nov
+  2013{\natexlab{b}}.
 \newblock \doi{10.1101/gad.225789.113}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24186975
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3828515}.
 
 \bibitem[{Boisclair Lachance} et~al.(2018){Boisclair Lachance}, Webber, Hong,
   Dinner, and Rebay]{BoisclairLachance2018}
@@ -1882,11 +1567,8 @@ Jean-Fran{\c{c}}ois {Boisclair Lachance}, Jemma~L Webber, Lu~Hong, Aaron~R
 \newblock {Cooperative recruitment of Yan via a high-affinity ETS supersite
   organizes repression to confer specificity and robustness to cardiac cell
   fate specification}.
-\newblock \emph{Genes and Development}, 32:\penalty0 389--401, mar 2018.
-\newblock ISSN 15495477.
+\newblock \emph{Genes Dev.}, 32:\penalty0 389--401, mar 2018.
 \newblock \doi{10.1101/gad.307132.117}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/29535190
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5900712}.
 
 \bibitem[Webber et~al.(2018)Webber, Zhang, Massey, Sanchez-Luege, and
   Rebay]{Webber2018}
@@ -1896,28 +1578,21 @@ Jemma~L Webber, Jie Zhang, Alex Massey, Nicelio Sanchez-Luege, and Ilaria
   transcription factors Pointed and Yan fine-tunes gene expression to confer
   robustness in Drosophila}.
 \newblock \emph{Development}, 145\penalty0 (13):\penalty0 dev165985, may 2018.
-\newblock ISSN 0950-1991.
 \newblock \doi{10.1242/dev.165985}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/29848501
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6053666
-  http://dev.biologists.org/lookup/doi/10.1242/dev.165985}.
 
 \bibitem[Freeman(1996)]{Freeman1996}
 Matthew Freeman.
 \newblock {Reiterative use of the EGF receptor triggers differentiation of all
   cell types in the Drosophila eye}.
 \newblock \emph{Cell}, 87:\penalty0 651--660, nov 1996.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/S0092-8674(00)81385-9}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867400813859}.
 
 \bibitem[Wolff and Ready(1993)]{Wolff1993}
 Tanya Wolff and Donald~F. Ready.
 \newblock {Pattern formation in the Drosophila retina}.
-\newblock In M.~Bate and A.~Martinez-Arias, editors, \emph{In the Development
-  of Drosophila Melanogaster Vol. 2}, pages 1277--1325. Cold Spring Harbor
-  Press, Plainview, NY, 1993.
+\newblock In M.~Bate and A.~Martinez-Arias, editors, \emph{Dev. Drosoph.
+  Melanogaster Vol. 2}, pages 1277--1325. Cold Spring Harbor Press, Plainview,
+  NY, 1993.
 
 \bibitem[Zhang et~al.(2006)Zhang, Ranade, Cai, Clouser, and Pignoni]{Zhang2006}
 Tianyi Zhang, Swati Ranade, Chuan~Qi Cai, Christopher Clouser, and Francesca
@@ -1925,17 +1600,12 @@ Tianyi Zhang, Swati Ranade, Chuan~Qi Cai, Christopher Clouser, and Francesca
 \newblock {Direct control of neurogenesis by selector factors in the fly eye:
   regulation of atonal by Ey and So}.
 \newblock \emph{Development}, 133\penalty0 (24):\penalty0 4881--4889, dec 2006.
-\newblock ISSN 0950-1991.
 \newblock \doi{10.1242/dev.02669}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/10207149
-  http://www.ncbi.nlm.nih.gov/pubmed/17108002
-  http://dev.biologists.org/cgi/doi/10.1242/dev.02669}.
 
 \bibitem[Wolff and Ready(1991)]{Wolff1991}
 T.~Wolff and Donalf~F. Ready.
 \newblock {Cell death in normal and rough eye mutants of Drosophila.}
 \newblock \emph{Development}, 113\penalty0 (3):\penalty0 825--839, 1991.
-\newblock ISSN 0950-1991.
 \newblock \doi{8223268}.
 
 \bibitem[Fortini et~al.(1993)Fortini, Rebay, Caron, and
@@ -1944,10 +1614,7 @@ Mark~E. Fortini, Ilaria Rebay, Laurent~A. Caron, and Spyros Artavanis-Tsakonas.
 \newblock {An activated Notch receptor blocks cell-fate commitment in the
   developing Drosophila eye}.
 \newblock \emph{Nature}, 365:\penalty0 555--557, oct 1993.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/365555a0}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/365555a0
-  papers2://publication/doi/10.1038/365555a0}.
 
 \bibitem[Pel{\'{a}}ez(2016)]{Pelaez2016}
 Nicol{\'{a}}s Pel{\'{a}}ez.
@@ -1965,16 +1632,13 @@ Konrad Basler and Ernst Hafen.
 J.~A. Campos-Ortega and A.~Hofbauer.
 \newblock {Cell Clones and Pattern Formation: On the Lineage of Photoreceptor
   Cells in the Compound Eye of Drosophila}.
-\newblock \emph{Roux's Archives of Developmental Biology}, 181:\penalty0
-  227--245, 1977.
+\newblock \emph{Roux's Arch. Dev. Biol.}, 181:\penalty0 227--245, 1977.
 
 \bibitem[Tomlinson(1985)]{Tomlinson1985}
 Andrew Tomlinson.
 \newblock {The cellular dynamics of pattern formation in the eye of
   Drosophila}.
 \newblock \emph{Development}, 89:\penalty0 313--331, 1985.
-\newblock ISSN 0022-0752.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/3937883}.
 
 \bibitem[Nitta et~al.(2015)Nitta, Jolma, Yin, Morgunova, Kivioja, Akhtar, Hens,
   Toivonen, Deplancke, Furlong, and Taipale]{Nitta2015}
@@ -1983,21 +1647,15 @@ Kazuhiro~R. Nitta, Arttu Jolma, Yimeng Yin, Ekaterina Morgunova, Teemu Kivioja,
   Furlong, and Jussi Taipale.
 \newblock {Conservation of transcription factor binding specificities across
   600 million years of bilateria evolution}.
-\newblock \emph{eLife}, 4, 2015.
-\newblock ISSN 2050084X.
+\newblock \emph{Elife}, 4, 2015.
 \newblock \doi{10.7554/eLife.04837}.
-\newblock URL
-  \url{https://search.proquest.com/openview/7d6023879cf2bf4acad5238131f7acf3/1?pq-origsite=gscholar{\&}cbl=2045579}.
 
 \bibitem[Wang(1995)]{Wang1995}
 Zhi-Xin Wang.
 \newblock {An exact mathematical expression for describing competitive binding
   of two different ligands to a protein molecule}.
-\newblock \emph{FEBS Letters}, 360:\penalty0 111--114, 1995.
-\newblock ISSN 00145793.
+\newblock \emph{FEBS Lett.}, 360:\penalty0 111--114, 1995.
 \newblock \doi{10.1016/0014-5793(95)00062-E}.
-\newblock URL
-  \url{http://ac.els-cdn.com/001457939500062E/1-s2.0-001457939500062E-main.pdf?{\_}tid=2fc90d24-7fd1-11e7-94e3-00000aacb35e{\&}acdnat=1502592388{\_}8237163457ade068f84572379522ea03}.
 
 \bibitem[Qiao et~al.(2004)Qiao, Song, Kim, Sawaya, Hunter, Gingery, Rebay,
   Courey, and Bowie]{Qiao2004}
@@ -2006,28 +1664,19 @@ Feng Qiao, Haiyun Song, Chongwoo~A. Kim, Michael~R. Sawaya, Jacob~B. Hunter,
 \newblock {Derepression by depolymerization: Structural insights into the
   regulation of Yan by Mae}.
 \newblock \emph{Cell}, 118:\penalty0 163--173, jul 2004.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/j.cell.2004.07.010}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867404006634
-  http://www.sciencedirect.com/science/article/pii/S0092867404006634}.
 
 \bibitem[Hope et~al.(2017)Hope, Rebay, and Reinitz]{Hope2017}
 Matthew~C. Hope, Ilaria Rebay, and John Reinitz.
 \newblock {DNA Occupancy of polymerizing transcription factors: A chemical
   model of the ETS family factor Yan}.
-\newblock \emph{Biophysical Journal}, 112\penalty0 (1):\penalty0 180--192, jan
-  2017.
-\newblock ISSN 15420086.
+\newblock \emph{Biophys. J.}, 112\penalty0 (1):\penalty0 180--192, jan 2017.
 \newblock \doi{10.1016/j.bpj.2016.11.901}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0006349516319312}.
 
 \bibitem[Fogler(1987)]{Fogler1987}
 H.~S. Fogler.
 \newblock \emph{{Elements of chemical reaction engineering}}.
 \newblock Prentice Hall, 1987.
-\newblock ISBN 0139737855.
 \newblock \doi{10.1016/0009-2509(87)80130-6}.
 
 \bibitem[Lucchesi and Rawls(1973)]{Lucchesi1973}
@@ -2035,11 +1684,8 @@ John~C. Lucchesi and John~M. Rawls.
 \newblock {Regulation of gene function: A comparison of enzyme activity levels
   in relation to gene dosage in diploids and triploids of Drosophila
   melanogaster}.
-\newblock \emph{Biochemical Genetics}, 9\penalty0 (1):\penalty0 41--51, may
-  1973.
-\newblock ISSN 0006-2928.
+\newblock \emph{Biochem. Genet.}, 9\penalty0 (1):\penalty0 41--51, may 1973.
 \newblock \doi{10.1007/BF00485589}.
-\newblock URL \url{http://link.springer.com/10.1007/BF00485589}.
 
 \bibitem[Rohrbaugh et~al.(2002)Rohrbaugh, Ramos, Nguyen, Price, Wen, and
   Lai]{Rohrbaugh2002}
@@ -2047,37 +1693,28 @@ Margaret Rohrbaugh, Edward Ramos, Duc Nguyen, Mitch Price, Yu~Wen, and Zhi-Chun
   Lai.
 \newblock {Notch activation of yan expression is antagonized by RTK/Pointed
   signaling in the Drosophila eye}.
-\newblock \emph{Current Biology}, 12:\penalty0 576--581, 2002.
+\newblock \emph{Curr. Biol.}, 12:\penalty0 576--581, 2002.
 
 \bibitem[Kumar et~al.(2003)Kumar, Hsiung, Powers, and Moses]{Kumar2003}
 Justin~P. Kumar, Frank Hsiung, Maureen~A. Powers, and Kevin Moses.
 \newblock {Nuclear translocation of activated MAP kinase is developmentally
   regulated in the developing Drosophila eye}.
-\newblock \emph{Development (Cambridge, England)}, 130\penalty0 (16):\penalty0
-  3703--14, apr 2003.
-\newblock ISSN 0950-1991.
+\newblock \emph{Development}, 130\penalty0 (16):\penalty0 3703--14, apr 2003.
 \newblock \doi{10.1242/dev.00556}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11245584
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2778067{\&}tool=pmcentrez{\&}rendertype=abstract}.
 
 \bibitem[Cagan and Ready(1989)]{Cagan1989}
 Ross~L. Cagan and Donald~F. Ready.
 \newblock {Notch is required for successive cell decisions in the developing
   Drosophila retina.}
-\newblock \emph{Genes {\&} Development}, 3:\penalty0 1099--1112, 1989.
-\newblock ISSN 08909369.
+\newblock \emph{Genes Dev.}, 3:\penalty0 1099--1112, 1989.
 \newblock \doi{10.1101/gad.3.8.1099}.
-\newblock URL \url{http://genesdev.cshlp.org/content/3/8/1099.full.pdf}.
 
 \bibitem[Li and Baker(2001)]{Li2001}
 Yanxia Li and Nicholas~E. Baker.
 \newblock {Proneural enhancement by Notch overcomes suppressor-of-hairless
   repressor function in the developing Drosophila eye}.
-\newblock \emph{Current Biology}, 11\penalty0 (5):\penalty0 330--338, mar 2001.
-\newblock ISSN 09609822.
+\newblock \emph{Curr. Biol.}, 11\penalty0 (5):\penalty0 330--338, mar 2001.
 \newblock \doi{10.1016/S0960-9822(01)00093-8}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0960982201000938}.
 
 \bibitem[Kumar et~al.(1998)Kumar, Tio, Hsiung, Akopyan, Gabay, Seger, Shilo,
   and Moses]{Kumar1998}
@@ -2086,7 +1723,6 @@ Justin~P. Kumar, Murni Tio, Frank Hsiung, Sevak Akopyan, Limor Gabay, Rony
 \newblock {Dissecting the roles of the Drosophila EGF receptor in eye
   development and MAP kinase activation.}
 \newblock \emph{Development}, 125\penalty0 (19):\penalty0 3875--3885, 1998.
-\newblock ISSN 0950-1991.
 
 \bibitem[Simon et~al.(1991)Simon, Bowtell, Dodson, Laverty, and
   Rubin]{Simon1991}
@@ -2095,47 +1731,36 @@ Michael~A. Simon, David~D.L. Bowtell, G.~Steven Dodson, Todd~R. Laverty, and
 \newblock {Ras1 and a putative guanine nucleotide exchange factor perform
   crucial steps in signaling by the sevenless protein tyrosine kinase}.
 \newblock \emph{Cell}, 67\penalty0 (4):\penalty0 701--716, nov 1991.
-\newblock ISSN 00928674.
 \newblock \doi{10.1016/0092-8674(91)90065-7}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/0092867491900657}.
 
 \bibitem[Fortini et~al.(1992)Fortini, Simon, and Rubin]{Fortini1992}
 Mark~E. Fortini, Michael~A. Simon, and Gerald~M. Rubin.
 \newblock {Signalling by the sevenless protein tyrosine kinase is mimicked by
   Ras1 activation}.
 \newblock \emph{Nature}, 355:\penalty0 559--61, 1992.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/355559a0}.
-\newblock URL \url{https://www.nature.com/articles/355559a0.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/1311054{\%}5Cnhttp://www.nature.com/nature/journal/v355/n6360/pdf/355559a0.pdf{\%}5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/1311054}.
 
 \bibitem[Spitz and Furlong(2012)]{Spitz2012}
 Fran{\c{c}}ois Spitz and Eileen E.~M. Furlong.
 \newblock {Transcription factors: From enhancer binding to developmental
   control}.
-\newblock \emph{Nature Reviews Genetics}, 13\penalty0 (9):\penalty0 613--626,
-  sep 2012.
-\newblock ISSN 14710056.
+\newblock \emph{Nat. Rev. Genet.}, 13\penalty0 (9):\penalty0 613--626, sep
+  2012.
 \newblock \doi{10.1038/nrg3207}.
-\newblock URL \url{http://www.nature.com/articles/nrg3207}.
 
 \bibitem[Nagaraj et~al.(2002)Nagaraj, Canon, and Banerjee]{Nagaraj2002}
 Raghavendra Nagaraj, Jude Canon, and Utpal Banerjee.
 \newblock {Cell fate specification in the Drosophila eye}.
-\newblock In \emph{Results and Problems in Cell Differentiation, Vol. 37},
-  pages 73--88. Springer, Berlin, Heidelberg, 2002.
+\newblock In \emph{Results Probl. Cell Differ. Vol. 37}, pages 73--88.
+  Springer, Berlin, Heidelberg, 2002.
 \newblock \doi{10.1007/978-3-540-45398-7_6}.
-\newblock URL \url{http://link.springer.com/10.1007/978-3-540-45398-7{\_}6}.
 
 \bibitem[Lin et~al.(2015)Lin, Sohn, Dalal, Cai, and Elowitz]{Lin2015}
 Yihan Lin, Chang~Ho Sohn, Chiraj~K. Dalal, Long Cai, and Michael~B. Elowitz.
 \newblock {Combinatorial gene regulation by modulation of relative pulse
   timing}.
 \newblock \emph{Nature}, 527:\penalty0 54--58, nov 2015.
-\newblock ISSN 14764687.
 \newblock \doi{10.1038/nature15710}.
-\newblock URL \url{http://www.nature.com/articles/nature15710}.
 
 \bibitem[Kim et~al.(2001)Kim, Phillips, Kim, Gingery, Tran, Robinson, Faham,
   and Bowie]{Kim2001}
@@ -2143,8 +1768,7 @@ Chongwoo~A. Kim, Martin~L. Phillips, Woojae Kim, Mari Gingery, Hoang~H. Tran,
   Michael~A. Robinson, Salem Faham, and James~U. Bowie.
 \newblock {Polymerization of the SAM domain of TEL in leukemogenesis and
   transcriptional repression}.
-\newblock \emph{EMBO Journal}, 20\penalty0 (15):\penalty0 4173--4182, 2001.
-\newblock ISSN 02614189.
+\newblock \emph{EMBO J.}, 20\penalty0 (15):\penalty0 4173--4182, 2001.
 \newblock \doi{10.1093/emboj/20.15.4173}.
 
 \bibitem[Zhang et~al.(2010)Zhang, Graham, Vivekanand, Cote, Cetera, and
@@ -2154,24 +1778,16 @@ Jie Zhang, Thomas~G.W. Graham, Pavithra Vivekanand, Lauren Cote, Maureen
 \newblock {Sterile alpha motif domain-mediated self-association plays an
   essential role in modulating the activity of the Drosophila ETS family
   transcriptional repressor Yan}.
-\newblock \emph{Molecular and Cellular Biology}, 30\penalty0 (5):\penalty0
-  1158--1170, mar 2010.
-\newblock ISSN 0270-7306.
+\newblock \emph{Mol. Cell. Biol.}, 30\penalty0 (5):\penalty0 1158--1170, mar
+  2010.
 \newblock \doi{10.1128/MCB.01225-09}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20048052
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2820895
-  http://mcb.asm.org/cgi/doi/10.1128/MCB.01225-09}.
 
 \bibitem[Yang and Baker(2006)]{Yang2006}
 Lihui Yang and Nicholas~E. Baker.
 \newblock {Notch activity opposes ras-induced differentiation during the second
   mitotic wave of the developing Drosophila eye}.
-\newblock \emph{BMC Developmental Biology}, 6\penalty0 (8):\penalty0 1--10, feb
-  2006.
-\newblock ISSN 1471213X.
+\newblock \emph{BMC Dev. Biol.}, 6\penalty0 (8):\penalty0 1--10, feb 2006.
 \newblock \doi{10.1186/1471-213X-6-8}.
-\newblock URL
-  \url{http://bmcdevbiol.biomedcentral.com/articles/10.1186/1471-213X-6-8}.
 
 \bibitem[Ebisuya and Briscoe(2018)]{Ebisuya2018}
 Miki Ebisuya and James Briscoe.
@@ -2190,73 +1806,59 @@ V~E Foe.
 J~E Sulston, E~Schierenberg, J~G White, and J~N Thomson.
 \newblock {The embryonic cell lineage of the nematode Caenorhabditis elegans}.
 \newblock \emph{Dev Biol}, 100\penalty0 (1):\penalty0 64--119, 1983.
-\newblock ISSN 0012-1606 (Print) 0012-1606 (Linking).
 \newblock \doi{0012-1606(83)90201-4 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/6684600}.
 
 \bibitem[Francesconi and Lehner(2014)]{Francesconi2014}
 M~Francesconi and B~Lehner.
 \newblock {The effects of genetic variation on gene expression dynamics during
   development}.
 \newblock \emph{Nature}, 505\penalty0 (7482):\penalty0 208--211, 2014.
-\newblock ISSN 1476-4687 (Electronic) 0028-0836 (Linking).
 \newblock \doi{10.1038/nature12772 nature12772 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/24270809}.
 
 \bibitem[Poullet et~al.(2016)Poullet, Vielle, Gimond, Carvalho, Teotonio, and
   Braendle]{Poullet2016}
 N~Poullet, A~Vielle, C~Gimond, S~Carvalho, H~Teotonio, and C~Braendle.
 \newblock {Complex heterochrony underlies the evolution of Caenorhabditis
   elegans hermaphrodite sex allocation}.
-\newblock \emph{Evolution}, 70\penalty0 (10):\penalty0 2357--2369, 2016.
-\newblock ISSN 1558-5646 (Electronic) 0014-3820 (Linking).
+\newblock \emph{Evolution (N. Y).}, 70\penalty0 (10):\penalty0 2357--2369,
+  2016.
 \newblock \doi{10.1111/evo.13032}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/27501095}.
 
 \bibitem[Moss(2007)]{Moss2007}
 Eric~G Moss.
 \newblock {Heterochronic genes and the nature of developmental time}.
-\newblock \emph{Current Biology}, 17\penalty0 (11):\penalty0 R425--R434, 2007.
-\newblock ISSN 0960-9822.
+\newblock \emph{Curr. Biol.}, 17\penalty0 (11):\penalty0 R425--R434, 2007.
 
 \bibitem[Atlas(1935)]{Atlas1935}
 M~Atlas.
 \newblock {The effect of temperature on the development of Rana pipiens}.
-\newblock \emph{Physiological Zoology}, 8\penalty0 (3):\penalty0 290--310,
-  1935.
+\newblock \emph{Physiol. Zool.}, 8\penalty0 (3):\penalty0 290--310, 1935.
 
 \bibitem[Davidson(1944)]{Davidson1944}
 J~Davidson.
 \newblock {On the relationship between temperature and rate of development of
   insects at constant temperatures}.
-\newblock \emph{The Journal of Animal Ecology}, pages 26--38, 1944.
-\newblock ISSN 0021-8790.
+\newblock \emph{J. Anim. Ecol.}, pages 26--38, 1944.
 
 \bibitem[Kuntz and Eisen(2014)]{Kuntz2014}
 S~G Kuntz and M~B Eisen.
 \newblock {Drosophila embryogenesis scales uniformly across temperature in
   developmentally diverse species}.
 \newblock \emph{PLoS Genet}, 10\penalty0 (4):\penalty0 e1004293, 2014.
-\newblock ISSN 1553-7404 (Electronic) 1553-7390 (Linking).
 \newblock \doi{10.1371/journal.pgen.1004293 PGENETICS-D-13-02464 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24762628}.
 
 \bibitem[Zuo et~al.(2011)Zuo, Moses, West, Hou, and Brown]{Zuo2011}
 Wenyun Zuo, Melanie~E Moses, Geoffrey~B West, Chen Hou, and James~H Brown.
 \newblock {A general model for effects of temperature on ectotherm ontogenetic
   growth and development}.
-\newblock \emph{Proceedings of the Royal Society B: Biological Sciences},
-  279\penalty0 (November):\penalty0 1840--1846, 2011.
-\newblock ISSN 0962-8452.
+\newblock \emph{Proc. R. Soc. B Biol. Sci.}, 279\penalty0 (November):\penalty0
+  1840--1846, 2011.
 \newblock \doi{10.1098/rspb.2011.2000}.
-\newblock URL
-  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3297449{\&}tool=pmcentrez{\&}rendertype=abstract}.
 
 \bibitem[Arendt(1997)]{Arendt1997}
 J~D Arendt.
 \newblock {Adaptive intrinsic growth rates: An integration across taxa}.
-\newblock \emph{Quarterly Review of Biology}, 72\penalty0 (2):\penalty0
-  149--177, 1997.
+\newblock \emph{Q. Rev. Biol.}, 72\penalty0 (2):\penalty0 149--177, 1997.
 
 \bibitem[Brown et~al.(2004)Brown, Gillooly, Allen, Savage, and West]{Brown2004}
 J~H Brown, J~F Gillooly, A~P Allen, V~N Savage, and G~B West.
@@ -2267,9 +1869,7 @@ J~H Brown, J~F Gillooly, A~P Allen, V~N Savage, and G~B West.
 N~B Metcalfe and P~Monaghan.
 \newblock {Compensation for a bad start: grow now, pay later?}
 \newblock \emph{Trends Ecol Evol}, 16\penalty0 (5):\penalty0 254--260, 2001.
-\newblock ISSN 1872-8383 (Electronic) 0169-5347 (Linking).
 \newblock \doi{S0169534701021243 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/11301155}.
 
 \bibitem[Pontzer et~al.(2016)Pontzer, Brown, Raichlen, Dunsworth, Hare, Walker,
   Luke, Dugas, Durazo-Arvizu, Schoeller, Plange-Rhule, Bovet, Forrester,
@@ -2282,7 +1882,6 @@ Herman Pontzer, Mary~H Brown, David~A Raichlen, Holly Dunsworth, Brian Hare,
   life history}.
 \newblock \emph{Nature}, 533\penalty0 (7603):\penalty0 390--392, 2016.
 \newblock \doi{10.1038/nature17654}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature17654}.
 
 \bibitem[Felkai et~al.(1999)Felkai, Ewbank, Lemieux, Labbe, Brown, and
   Hekimi]{Felkai1999}
@@ -2290,9 +1889,7 @@ S~Felkai, J~J Ewbank, J~Lemieux, J~C Labbe, G~G Brown, and S~Hekimi.
 \newblock {CLK-1 controls respiration, behavior and aging in the nematode
   Caenorhabditis elegans}.
 \newblock \emph{EMBO J}, 18\penalty0 (7):\penalty0 1783--1792, 1999.
-\newblock ISSN 0261-4189 (Print) 0261-4189 (Linking).
 \newblock \doi{10.1093/emboj/18.7.1783}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/10202142}.
 
 \bibitem[Levavasseur et~al.(2001)Levavasseur, Miyadera, Sirois, Tremblay, Kita,
   Shoubridge, and Hekimi]{Levavasseur2001}
@@ -2301,9 +1898,7 @@ F~Levavasseur, H~Miyadera, J~Sirois, M~L Tremblay, K~Kita, E~Shoubridge, and
 \newblock {Ubiquinone is necessary for mouse embryonic development but is not
   essential for mitochondrial respiration}.
 \newblock \emph{J Biol Chem}, 276\penalty0 (49):\penalty0 46160--46164, 2001.
-\newblock ISSN 0021-9258 (Print) 0021-9258 (Linking).
 \newblock \doi{10.1074/jbc.M108980200 M108980200 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/11585841}.
 
 \bibitem[Nakai et~al.(2001)Nakai, Yuasa, Takahashi, Shimizu, Asaumi, Isono,
   Takao, Suzuki, Kuroyanagi, Hirokawa, Koseki, and Shirsawa]{Nakai2001}
@@ -2314,17 +1909,13 @@ D~Nakai, S~Yuasa, M~Takahashi, T~Shimizu, S~Asaumi, K~Isono, T~Takao, Y~Suzuki,
   integrity, and neurogenesis}.
 \newblock \emph{Biochem Biophys Res Commun}, 289\penalty0 (2):\penalty0
   463--471, 2001.
-\newblock ISSN 0006-291X (Print) 0006-291X (Linking).
 \newblock \doi{10.1006/bbrc.2001.5977 S0006291X01959777 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/11716496}.
 
 \bibitem[Wong et~al.(1995)Wong, Boutis, and Hekimi]{Wong1995}
 A~Wong, P~Boutis, and S~Hekimi.
 \newblock {Mutations in the clk-1 gene of Caenorhabditis elegans affect
   developmental and behavioral timing}.
 \newblock \emph{Genetics}, 139\penalty0 (3):\penalty0 1247--1259, 1995.
-\newblock ISSN 0016-6731 (Print) 0016-6731 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/7768437}.
 
 \bibitem[Brogiolo et~al.(2001)Brogiolo, Stocker, Ikeya, Rintelen, Fernandez,
   and Hafen]{Brogiolo2001}
@@ -2332,27 +1923,21 @@ W~Brogiolo, H~Stocker, T~Ikeya, F~Rintelen, R~Fernandez, and E~Hafen.
 \newblock {An evolutionarily conserved function of the Drosophila insulin
   receptor and insulin-like peptides in growth control}.
 \newblock \emph{Curr Biol}, 11\penalty0 (4):\penalty0 213--221, 2001.
-\newblock ISSN 0960-9822 (Print) 0960-9822 (Linking).
 \newblock \doi{S0960-9822(01)00068-9 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/11250149}.
 
 \bibitem[Layalle et~al.(2008)Layalle, Arquier, and L{\'{e}}opold]{Layalle2008}
 Sophie Layalle, Nathalie Arquier, and Pierre L{\'{e}}opold.
 \newblock {The TOR pathway couples nutrition and developmental timing in
   Drosophila}.
-\newblock \emph{Developmental cell}, 15\penalty0 (4):\penalty0 568--577, 2008.
-\newblock ISSN 1534-5807.
+\newblock \emph{Dev. Cell}, 15\penalty0 (4):\penalty0 568--577, 2008.
 
 \bibitem[Rulifson et~al.(2002)Rulifson, Kim, and Nusse]{Rulifson2002}
 Eric~J Rulifson, Seung~K Kim, and Roel Nusse.
 \newblock {Ablation of insulin-producing neurons in flies: growth and diabetic
   phenotypes}.
-\newblock \emph{Science}, 296\penalty0 (5570):\penalty0 1118--1120, 2002.
-\newblock ISSN 1095-9203 (Electronic) 0036-8075 (Linking).
+\newblock \emph{Science (80-. ).}, 296\penalty0 (5570):\penalty0 1118--1120,
+  2002.
 \newblock \doi{10.1126/science.1070058 296/5570/1118 [pii]}.
-\newblock URL
-  \url{http://science.sciencemag.org/content/sci/296/5570/1118.full.pdf
-  http://www.ncbi.nlm.nih.gov/pubmed/12004130}.
 
 \bibitem[Shingleton et~al.(2005)Shingleton, Das, Vinicius, and
   Stern]{Shingleton2005}
@@ -2360,9 +1945,7 @@ A~W Shingleton, J~Das, L~Vinicius, and D~L Stern.
 \newblock {The temporal requirements for insulin signaling during development
   in Drosophila}.
 \newblock \emph{PLoS Biol}, 3\penalty0 (9):\penalty0 e289, 2005.
-\newblock ISSN 1545-7885 (Electronic) 1544-9173 (Linking).
 \newblock \doi{04-PLBI-RA-0750R2 [pii] 10.1371/journal.pbio.0030289}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16086608}.
 
 \bibitem[Gillooly et~al.(2002)Gillooly, Charnov, West, Savage, and
   Brown]{Gillooly2002}
@@ -2370,10 +1953,7 @@ James.~F. Gillooly, Eric~L. Charnov, Geoffrey~B. West, Van~M. Savage, and
   James~H. Brown.
 \newblock {Effects of size and temperature on developmental time.}
 \newblock \emph{Nature}, 417\penalty0 (6884):\penalty0 70--3, may 2002.
-\newblock ISSN 0028-0836.
 \newblock \doi{10.1038/417070a}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/417070a
-  http://www.nature.com.ezp-prod1.hul.harvard.edu/nature/journal/v417/n6884/full/417070a.html}.
 
 \bibitem[Cusanovich et~al.(2018)Cusanovich, Reddington, Garfield, Daza,
   Aghamirzaie, Marco-Ferreres, Pliner, Christiansen, Qiu, Steemers, Trapnell,
@@ -2384,9 +1964,7 @@ D~A Cusanovich, J~P Reddington, D~A Garfield, R~M Daza, D~Aghamirzaie,
 \newblock {The cis-regulatory dynamics of embryonic development at single-cell
   resolution}.
 \newblock \emph{Nature}, 555\penalty0 (7697):\penalty0 538--542, 2018.
-\newblock ISSN 1476-4687 (Electronic) 0028-0836 (Linking).
 \newblock \doi{10.1038/nature25981 nature25981 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/29539636}.
 
 \bibitem[Lawrence(1992)]{Lawrence1992}
 P~Lawrence.
@@ -2398,44 +1976,37 @@ M~Kohwi and C~Q Doe.
 \newblock {Temporal fate specification and neural progenitor competence during
   development}.
 \newblock \emph{Nat Rev Neurosci}, 14\penalty0 (12):\penalty0 823--838, 2013.
-\newblock ISSN 1471-0048 (Electronic) 1471-003X (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/24400340}.
 
 \bibitem[Cepko(2014)]{Cepko2014}
 C~Cepko.
 \newblock {Intrinsically different retinal progenitor cells produce specific
   types of progeny}.
 \newblock \emph{Nat Rev Neurosci}, 15\penalty0 (9):\penalty0 615--627, 2014.
-\newblock ISSN 1471-0048 (Electronic) 1471-003X (Linking).
 \newblock \doi{10.1038/nrn3767 nrn3767 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/25096185}.
 
 \bibitem[Julian(2005)]{Julian2005}
 Richard~J Julian.
 \newblock {Production and growth related disorders and other metabolic diseases
   of poultry–a review}.
-\newblock \emph{The Veterinary Journal}, 169\penalty0 (3):\penalty0 350--369,
-  2005.
-\newblock ISSN 1090-0233.
+\newblock \emph{Vet. J.}, 169\penalty0 (3):\penalty0 350--369, 2005.
 
 \bibitem[Whitehead et~al.(2003)Whitehead, Fleming, Julian, and
   S{\o}rensen]{Whitehead2003}
 Colin~C Whitehead, Robert~H Fleming, Richard~J Julian, and P~S{\o}rensen.
 \newblock {Skeletal problems associated with selection for increased
   production}.
-\newblock \emph{Poultry Genetics, Breeding and Biotechnology}, pages 29--52,
-  2003.
+\newblock \emph{Poult. Genet. Breed. Biotechnol.}, pages 29--52, 2003.
 
 \bibitem[Child(1939)]{Child1939}
 G~Child.
 \newblock {The effect of increasing time of development at constant temperature
   on the wing size of vestigial of Drosophila melanogaster}.
-\newblock \emph{Biological Bulletin}, 77\penalty0 (2):\penalty0 432--442, 1939.
+\newblock \emph{Biol. Bull.}, 77\penalty0 (2):\penalty0 432--442, 1939.
 
-\bibitem[Morgan(1915)]{Morgan1915}
+\bibitem[Morgan(1915{\natexlab{b}})]{Morgan1915}
 T~H Morgan.
 \newblock \emph{{The mechanism of Mendelian heredity}}.
-\newblock Holt, New York, 1915.
+\newblock Holt, New York, 1915{\natexlab{b}}.
 
 \bibitem[Morgan(1929)]{Morgan1929}
 T~H Morgan.
@@ -2447,8 +2018,6 @@ J~H Sang and B~Burnet.
 \newblock {Environmental Modification of the Eyeless Phenotype in Drosophila
   Melanogaster}.
 \newblock \emph{Genetics}, 48:\penalty0 1683--1699, 1963.
-\newblock ISSN 0016-6731 (Print) 0016-6731 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/14105101}.
 
 \bibitem[Child(1935)]{Child1935}
 G~Child.
@@ -2456,16 +2025,12 @@ G~Child.
   Associations between the Bristles and the effects of Genetic Modifiers and
   Temperature}.
 \newblock \emph{Genetics}, 20\penalty0 (2):\penalty0 109--126, 1935.
-\newblock ISSN 0016-6731 (Print) 0016-6731 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/17246749}.
 
 \bibitem[Krafka(1920)]{Krafka1920}
 J~Krafka.
 \newblock {The Effect of Temperature Upon Facet Number in the Bar-Eyed Mutant
   of Drosophila : Part I}.
 \newblock \emph{J Gen Physiol}, 2\penalty0 (4):\penalty0 409--432, 1920.
-\newblock ISSN 0022-1295 (Print) 0022-1295 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/19871821}.
 
 \bibitem[Lewis et~al.(1980)Lewis, Wakimoto, Denell, and Kaufman]{Lewis1980}
 R~A Lewis, B~T Wakimoto, R~E Denell, and T~C Kaufman.
@@ -2473,8 +2038,6 @@ R~A Lewis, B~T Wakimoto, R~E Denell, and T~C Kaufman.
   Adjacent Chromosomal Regions of DROSOPHILA MELANOGASTER. II. Polytene
   Chromosome Segments 84A-84B1,2}.
 \newblock \emph{Genetics}, 95\penalty0 (2):\penalty0 383--397, 1980.
-\newblock ISSN 0016-6731 (Print) 0016-6731 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/17249042}.
 
 \bibitem[Villee(1943)]{Villee1943}
 C~Villee.
@@ -2487,21 +2050,7 @@ X~J Quan and B~A Hassan.
 \newblock {From skin to nerve: flies, vertebrates and the first helix}.
 \newblock \emph{Cell Mol Life Sci}, 62\penalty0 (18):\penalty0 2036--2049,
   2005.
-\newblock ISSN 1420-682X (Print) 1420-682X (Linking).
 \newblock \doi{10.1007/s00018-005-5124-1}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=16003490}.
-
-\bibitem[Li and Carthew(2005)]{Li2005}
-Xin Li and Richard~W Carthew.
-\newblock {A microRNA mediates EGF receptor signaling and promotes
-  photoreceptor differentiation in the Drosophila eye}.
-\newblock \emph{Cell}, 123\penalty0 (7):\penalty0 1267--1277, 2005.
-\newblock ISSN 00928674.
-\newblock \doi{10.1016/j.cell.2005.10.040}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=16377567
-  http://ac.els-cdn.com/S0092867405013279/1-s2.0-S0092867405013279-main.pdf?{\_}tid=2e440a3c-667f-11e7-ad15-00000aab0f27{\&}acdnat=1499808388{\_}25dc7220227806cf577}.
 
 \bibitem[Banerjee et~al.(1987)Banerjee, Renfranz, Hinton, Rabin, and
   Benzer]{Banerjee1987}
@@ -2516,18 +2065,13 @@ H~Jafar-Nejad, M~Acar, R~Nolo, H~Lacin, H~Pan, S~M Parkhurst, and H~J Bellen.
 \newblock {Senseless acts as a binary switch during sensory organ precursor
   selection}.
 \newblock \emph{Genes Dev}, 17\penalty0 (23):\penalty0 2966--2978, 2003.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=14665671}.
 
 \bibitem[Li et~al.(2006)Li, Wang, Lee, and Gao]{Li2006}
 Yan Li, Fay Wang, Jin~A. Lee, and Fen~Biao Gao.
 \newblock {MicroRNA-9a ensures the precise specification of sensory organ
   precursors in Drosophila}.
 \newblock \emph{Genes Dev}, 20\penalty0 (20):\penalty0 2793--2805, 2006.
-\newblock ISSN 08909369.
 \newblock \doi{10.1101/gad.1466306}.
-\newblock URL \url{http://www.genesdev.org.
-  http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=17015424}.
 
 \bibitem[{Van Doren} et~al.(1994){Van Doren}, Bailey, Esnayra, Ede, and
   Posakony]{VanDoren1994}
@@ -2535,11 +2079,8 @@ Mark {Van Doren}, Adina~M Bailey, Joan Esnayra, Kekoa Ede, and James~W.
   Posakony.
 \newblock {Negative regulation of proneural gene activity: Hairy is a direct
   transcriptional repressor of achaete}.
-\newblock \emph{Genes and Development}, 8\penalty0 (22):\penalty0 2729--2742,
-  1994.
-\newblock ISSN 08909369.
+\newblock \emph{Genes Dev.}, 8\penalty0 (22):\penalty0 2729--2742, 1994.
 \newblock \doi{10.1101/gad.8.22.2729}.
-\newblock URL \url{http://genesdev.cshlp.org/content/8/22/2729.full.pdf}.
 
 \bibitem[Neumann and Cohen(1996)]{Neumann1996a}
 Carl~J Neumann and Stephen~M Cohen.
@@ -2547,9 +2088,6 @@ Carl~J Neumann and Stephen~M Cohen.
   dominant and recessive effects on larval development of Drosophila
   melanogaster}.
 \newblock \emph{Genetics}, 142\penalty0 (4):\penalty0 1147--1155, 1996.
-\newblock ISSN 00166731.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1207114/pdf/ge14241147.pdf}.
 
 \bibitem[Kozomara and Griffiths-Jones(2014)]{Kozomara2014}
 A~Kozomara and S~Griffiths-Jones.
@@ -2557,33 +2095,25 @@ A~Kozomara and S~Griffiths-Jones.
   data}.
 \newblock \emph{Nucleic Acids Res}, 42\penalty0 (Database issue):\penalty0
   D68--73, 2014.
-\newblock ISSN 1362-4962 (Electronic) 0305-1048 (Linking).
 \newblock \doi{10.1093/nar/gkt1181 gkt1181 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24275495}.
 
 \bibitem[Carthew and Sontheimer(2009)]{Carthew2009a}
 Richard~W Carthew and Erik~J Sontheimer.
 \newblock {Origins and Mechanisms of miRNAs and siRNAs}, 2009.
-\newblock ISSN 00928674.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2675692/pdf/nihms-107442.pdf}.
 
 \bibitem[Pressman et~al.(2012)Pressman, Reinke, Wang, and
   Carthew]{Pressman2012}
 S~Pressman, C~A Reinke, X~Wang, and R~W Carthew.
 \newblock {A Systematic Genetic Screen to Dissect the MicroRNA Pathway in
   Drosophila}.
-\newblock \emph{G3 (Bethesda)}, 2\penalty0 (4):\penalty0 437--448, 2012.
-\newblock ISSN 2160-1836 (Electronic) 2160-1836 (Linking).
+\newblock \emph{G3}, 2\penalty0 (4):\penalty0 437--448, 2012.
 \newblock \doi{10.1534/g3.112.002030 GGG_002030 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/22540035}.
 
 \bibitem[Seborg et~al.(2011)Seborg, Edgar, Mellicamp, and {Doyle
   III}]{Seborg2011}
 D.~Seborg, T.~Edgar, D.~Mellicamp, and F.~{Doyle III}.
 \newblock \emph{{Process Dynamics and Control (3rd Edition)}}.
 \newblock John Wiley {\&} Sons, 2011.
-\newblock ISBN 978-0-470-64610-6.
 \newblock \doi{10.1007/s13398-014-0173-7.2}.
 
 \bibitem[Arias and Hayward(2006)]{Arias2006}
@@ -2591,17 +2121,13 @@ A~M Arias and P~Hayward.
 \newblock {Filtering transcriptional noise during development: concepts and
   mechanisms}.
 \newblock \emph{Nat Rev Genet}, 7\penalty0 (1):\penalty0 34--44, 2006.
-\newblock ISSN 1471-0056 (Print) 1471-0056 (Linking).
 \newblock \doi{nrg1750 [pii] 10.1038/nrg1750}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16369570}.
 
 \bibitem[Brown(1992)]{Brown1992}
 G~C Brown.
 \newblock {Control of respiration and ATP synthesis in mammalian mitochondria
   and cells}.
 \newblock \emph{Biochem J}, 284 ( Pt 1:\penalty0 1--13, 1992.
-\newblock ISSN 0264-6021 (Print) 0264-6021 (Linking).
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/1599389}.
 
 \bibitem[Atkinson(1977)]{Atkinson1977}
 D~E Atkinson.
@@ -2612,9 +2138,7 @@ D~E Atkinson.
 H~Lempiainen and D~Shore.
 \newblock {Growth control and ribosome biogenesis}.
 \newblock \emph{Curr Opin Cell Biol}, 21\penalty0 (6):\penalty0 855--863, 2009.
-\newblock ISSN 1879-0410 (Electronic) 0955-0674 (Linking).
 \newblock \doi{10.1016/j.ceb.2009.09.002 S0955-0674(09)00158-6 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19796927}.
 
 \bibitem[Marygold et~al.(2007)Marygold, Roote, Reuter, Lambertsson, Ashburner,
   Millburn, Harrison, Yu, Kenmochi, Kaufman, Leevers, and Cook]{Marygold2007}
@@ -2623,9 +2147,7 @@ S~J Marygold, J~Roote, G~Reuter, A~Lambertsson, M~Ashburner, G~H Millburn, P~M
 \newblock {The ribosomal protein genes and Minute loci of Drosophila
   melanogaster}.
 \newblock \emph{Genome Biol}, 8\penalty0 (10):\penalty0 R216, 2007.
-\newblock ISSN 1465-6914 (Electronic) 1465-6906 (Linking).
 \newblock \doi{gb-2007-8-10-r216 [pii] 10.1186/gb-2007-8-10-r216}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17927810}.
 
 \bibitem[S{\ae}b{\o}e-Larssen et~al.(1998)S{\ae}b{\o}e-Larssen, Lyamouri,
   Merriam, Oksvold, and Lambertsson]{Sæbøelarssen1998}
@@ -2634,20 +2156,14 @@ Stein S{\ae}b{\o}e-Larssen, May Lyamouri, John Merriam, Morten~P Oksvold, and
 \newblock {Ribosomal protein insufficiency and the minute syndrome in
   drosophila: A dose-response relationship}.
 \newblock \emph{Genetics}, 148\penalty0 (3):\penalty0 1215--1224, 1998.
-\newblock ISSN 00166731.
 \newblock \doi{10.1073/PNAS.89.23.11302}.
-\newblock URL
-  \url{http://www.genetics.org/content/genetics/148/3/1215.full.pdf}.
 
 \bibitem[Nolo et~al.(2000)Nolo, Abbott, and Bellen]{Nolo2000}
 R~Nolo, L~A Abbott, and H~J Bellen.
 \newblock {Senseless, a Zn finger transcription factor, is necessary and
   sufficient for sensory organ development in Drosophila}.
 \newblock \emph{Cell}, 102\penalty0 (3):\penalty0 349--362, 2000.
-\newblock ISSN 0092-8674 (Print) 0092-8674 (Linking).
 \newblock \doi{S0092-8674(00)00040-4 [pii]}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=10975525}.
 
 \bibitem[Jafar-Nejad et~al.(2006)Jafar-Nejad, Tien, Acar, and
   Bellen]{JafarNejad2006}
@@ -2655,33 +2171,25 @@ H~Jafar-Nejad, A~C Tien, M~Acar, and H~J Bellen.
 \newblock {Senseless and Daughterless confer neuronal identity to epithelial
   cells in the Drosophila wing margin}.
 \newblock \emph{Development}, 133\penalty0 (9):\penalty0 1683--1692, 2006.
-\newblock ISSN 0950-1991 (Print) 0950-1991 (Linking).
 \newblock \doi{dev.02338 [pii] 10.1242/dev.02338}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=16554363}.
 
 \bibitem[Venken et~al.(2006)Venken, He, Hoskins, and Bellen]{Venken2006}
 K~J Venken, Y~He, R~A Hoskins, and H~J Bellen.
 \newblock {P[acman]: a BAC transgenic platform for targeted insertion of large
   DNA fragments in D. melanogaster}.
-\newblock \emph{Science}, 314\penalty0 (5806):\penalty0 1747--1751, 2006.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=17138868}.
+\newblock \emph{Science (80-. ).}, 314\penalty0 (5806):\penalty0 1747--1751,
+  2006.
 
 \bibitem[Bushati and Cohen(2007)]{Bushati2007}
 N~Bushati and S~M Cohen.
 \newblock {microRNA functions}.
 \newblock \emph{Annu Rev Cell Dev Biol}, 23:\penalty0 175--205, 2007.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=17506695}.
 
 \bibitem[Carthew et~al.(2017)Carthew, Agbu, and Giri]{Carthew2017}
 R~W Carthew, P~Agbu, and R~Giri.
 \newblock {MicroRNA function in Drosophila melanogaster}.
 \newblock \emph{Semin Cell Dev Biol}, 65:\penalty0 29--37, 2017.
-\newblock ISSN 1096-3634 (Electronic) 1084-9521 (Linking).
 \newblock \doi{S1084-9521(16)30076-3 [pii] 10.1016/j.semcdb.2016.03.015}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/27000418}.
 
 \bibitem[Brauer et~al.(2008)Brauer, Huttenhower, Airoldi, Rosenstein, Matese,
   Gresham, Boer, Troyanskaya, and Botstein]{Brauer2008}
@@ -2691,39 +2199,29 @@ Matthew~J Brauer, Curtis Huttenhower, Edoardo~M Airoldi, Rachel Rosenstein,
 \newblock {Coordination of growth rate, cell cycle, stress response, and
   metabolic activity in yeast}.
 \newblock \emph{Mol Biol Cell}, 19\penalty0 (1):\penalty0 352--367, jan 2008.
-\newblock ISSN 1939-4586 (Electronic) 1059-1524 (Linking).
 \newblock \doi{E07-08-0779 [pii] 10.1091/mbc.E07-08-0779}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/17959824
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2174172
-  http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed{\&}id=17959824{\&}retmode=ref{\&}cmd=prlinks{\%}5Cnpapers2://publication/doi/10.1091}.
 
 \bibitem[Lu et~al.(2009)Lu, Brauer, and Botstein]{Lu2009}
 C~Lu, M~J Brauer, and D~Botstein.
 \newblock {Slow growth induces heat-shock resistance in normal and
   respiratory-deficient yeast}.
 \newblock \emph{Mol Biol Cell}, 20\penalty0 (3):\penalty0 891--903, 2009.
-\newblock ISSN 1939-4586 (Electronic) 1059-1524 (Linking).
 \newblock \doi{10.1091/mbc.E08-08-0852 E08-08-0852 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19056679}.
 
 \bibitem[Casanueva et~al.(2012)Casanueva, Burga, and Lehner]{Casanueva2012}
 M~O Casanueva, A~Burga, and B~Lehner.
 \newblock {Fitness trade-offs and environmentally induced mutation buffering in
   isogenic C. elegans}.
-\newblock \emph{Science}, 335\penalty0 (6064):\penalty0 82--85, 2012.
-\newblock ISSN 1095-9203 (Electronic) 0036-8075 (Linking).
+\newblock \emph{Science (80-. ).}, 335\penalty0 (6064):\penalty0 82--85, 2012.
 \newblock \doi{10.1126/science.1213491 science.1213491 [pii]}.
-\newblock URL \url{https://www.ncbi.nlm.nih.gov/pubmed/22174126}.
 
 \bibitem[Jarosz and Lindquist(2010)]{Jarosz2010}
 D~F Jarosz and S~Lindquist.
 \newblock {Hsp90 and environmental stress transform the adaptive value of
   natural genetic variation}.
-\newblock \emph{Science}, 330\penalty0 (6012):\penalty0 1820--1824, 2010.
-\newblock ISSN 1095-9203 (Electronic) 0036-8075 (Linking).
+\newblock \emph{Science (80-. ).}, 330\penalty0 (6012):\penalty0 1820--1824,
+  2010.
 \newblock \doi{330/6012/1820 [pii] 10.1126/science.1195487}.
-\newblock URL
-  \url{http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve{\&}db=PubMed{\&}dopt=Citation{\&}list{\_}uids=21205668}.
 
 \bibitem[Visscher et~al.(2016)Visscher, {De Henau}, Wildschut, van Es, Dhondt,
   Michels, Kemmeren, Nollen, Braeckman, Burgering, Vos, and
@@ -2733,22 +2231,16 @@ Marieke Visscher, Sasha {De Henau}, Mattheus~H.E. Wildschut, Robert~M. van Es,
   Braeckman, Boudewijn~M.T. Burgering, Harmjan~R. Vos, and Tobias~B. Dansen.
 \newblock {Proteome-wide Changes in Protein Turnover Rates in C. elegans Models
   of Longevity and Age-Related Disease}.
-\newblock \emph{Cell Reports}, 16\penalty0 (11):\penalty0 3041--3051, sep 2016.
-\newblock ISSN 22111247.
+\newblock \emph{Cell Rep.}, 16\penalty0 (11):\penalty0 3041--3051, sep 2016.
 \newblock \doi{10.1016/j.celrep.2016.08.025}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/27626671
-  https://linkinghub.elsevier.com/retrieve/pii/S2211124716310725}.
 
 \bibitem[Tollerson et~al.(2018)Tollerson, Witzky, and Ibba]{Tollerson2018}
 Rodney Tollerson, Anne Witzky, and Michael Ibba.
 \newblock {Elongation factor P is required to maintain proteome homeostasis at
   high growth rate}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 115\penalty0
-  (43):\penalty0 11072--11077, oct 2018.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proc. Natl. Acad. Sci.}, 115\penalty0 (43):\penalty0
+  11072--11077, oct 2018.
 \newblock \doi{10.1073/pnas.1812025115}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/30297417
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6205485}.
 
 \bibitem[Burnaevskiy et~al.(2018)Burnaevskiy, Sands, Yun, Tedesco, Johnson,
   Kaeberlein, Brent, and Mendenhall]{Burnaevskiy2018}
@@ -2758,18 +2250,27 @@ Nikolay Burnaevskiy, Bryan Sands, Soo Yun, Patricia~M Tedesco, Thomas~E
   traits}.
 \newblock \emph{bioRxiv}, page 431643, oct 2018.
 \newblock \doi{10.1101/431643}.
-\newblock URL \url{https://www.biorxiv.org/content/10.1101/431643v1}.
 
 \bibitem[Sotiropoulos and Kaznessis(2011)]{Sotiropoulos2011}
 Vassilios Sotiropoulos and Yiannis~N. Kaznessis.
 \newblock {Analytical derivation of moment equations in stochastic chemical
   kinetics}.
-\newblock \emph{Chemical Engineering Science}, 66\penalty0 (3):\penalty0
-  268--277, feb 2011.
-\newblock ISSN 00092509.
+\newblock \emph{Chem. Eng. Sci.}, 66\penalty0 (3):\penalty0 268--277, feb 2011.
 \newblock \doi{10.1016/j.ces.2010.10.024}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/S000925091000610X}.
+
+\bibitem[Singh and Hespanha(2011)]{Singh2011}
+Abhyudai Singh and Joao~P. Hespanha.
+\newblock {Approximate moment dynamics for chemically reacting systems}.
+\newblock \emph{IEEE Trans. Automat. Contr.}, 56\penalty0 (2):\penalty0
+  414--418, feb 2011.
+\newblock \doi{10.1109/TAC.2010.2088631}.
+
+\bibitem[Munsky and Khammash(2006)]{Munsky2006}
+Brian Munsky and Mustafa Khammash.
+\newblock {The finite state projection algorithm for the solution of the
+  chemical master equation}.
+\newblock \emph{J. Chem. Phys.}, 124\penalty0 (4):\penalty0 044104, jan 2006.
+\newblock \doi{10.1063/1.2145882}.
 
 \bibitem[Gesztelyi et~al.(2012)Gesztelyi, Zsuga, Kemeny-Beke, Varga, Juhasz,
   and Tosaki]{Gesztelyi2012}
@@ -2777,56 +2278,45 @@ Rudolf Gesztelyi, Judit Zsuga, Adam Kemeny-Beke, Balazs Varga, Bela Juhasz, and
   Arpad Tosaki.
 \newblock {The Hill equation and the origin of quantitative pharmacology}, jul
   2012.
-\newblock ISSN 00039519.
-\newblock URL \url{http://link.springer.com/10.1007/s00407-012-0098-5}.
 
 \bibitem[Shellenbarger and Mohler(1975)]{Shellenbarger1975}
 David~L. Shellenbarger and Dawson~J. Mohler.
 \newblock {Temperature-sensitive mutations of the notch locus in Drosophila
   melanogaster}.
 \newblock \emph{Genetics}, 81\penalty0 (1):\penalty0 143--162, 1975.
-\newblock ISSN 1943-2631.
 
 \bibitem[Clifford and Schupbach(1989)]{Clifford1989}
 R.J. Clifford and T.~Schupbach.
 \newblock {Coordinately and differentially mutable activities of torpedo, the
   Drosophila melanogaster homolog of the vertebrate EGF receptor gene}.
 \newblock \emph{Genetics}, 123\penalty0 (4):\penalty0 771--787, 1989.
-\newblock ISSN 00166731.
 \newblock \doi{10.1016/0168-9525(90)90089-O}.
 
 \bibitem[Fortune(1992)]{Fortune1992}
 Steven Fortune.
 \newblock {Voronoi diagrams and Delaunay triangulations}.
-\newblock \emph{Computing in Euclidean geometry}, 1992.
-\newblock ISSN 00983004.
+\newblock \emph{Comput. Euclidean Geom.}, 1992.
 \newblock \doi{10.1016/0098-3004(93)90062-A}.
 
 \bibitem[Savitzky and Golay(1964)]{Savitzky1964}
 Abraham Savitzky and Marcel~J.E. Golay.
 \newblock {Smoothing and Differentiation of Data by Simplified Least Squares
   Procedures}.
-\newblock \emph{Analytical Chemistry}, 36\penalty0 (8):\penalty0 1627--1639,
-  1964.
-\newblock ISSN 15206882.
+\newblock \emph{Anal. Chem.}, 36\penalty0 (8):\penalty0 1627--1639, 1964.
 \newblock \doi{10.1021/ac60214a047}.
 
 \bibitem[VanderPlas et~al.(2012)VanderPlas, Connolly, Ivezic, and
   Gray]{VanderPlas2012}
 Jacob VanderPlas, Andrew~J. Connolly, Zeljko Ivezic, and Alex Gray.
 \newblock {Introduction to astroML: Machine learning for astrophysics}.
-\newblock In \emph{Proceedings - CIDU 2012}, pages 47--54, 2012.
-\newblock ISBN 9781467346252.
+\newblock In \emph{Proc. - CIDU 2012}, pages 47--54, 2012.
 \newblock \doi{10.1109/CIDU.2012.6382200}.
-\newblock URL
-  \url{http://ieeexplore.ieee.org/ielx5/6373897/6382172/06382200.pdf?tp={\&}arnumber=6382200{\&}isnumber=6382172}.
 
 \bibitem[VanderPlas(2018)]{VanderPlas2018}
 Jacob VanderPlas.
 \newblock {Understanding the Lomb-Scargle periodogram}.
-\newblock \emph{The Astrophysical Journal Supplement Series}, 236\penalty0
-  (1):\penalty0 1--55, 2018.
-\newblock URL \url{http://arxiv.org/abs/1703.09824}.
+\newblock \emph{Astrophys. J. Suppl. Ser.}, 236\penalty0 (1):\penalty0 1--55,
+  2018.
 
 \bibitem[Lohmann et~al.(2002)Lohmann, McGinnis, Bodmer, and
   McGinnis]{Lohmann2002}
@@ -2834,9 +2324,7 @@ I~Lohmann, N~McGinnis, M~Bodmer, and W~McGinnis.
 \newblock {The Drosophila Hox gene deformed sculpts head morphology via direct
   regulation of the apoptosis activator reaper}.
 \newblock \emph{Cell}, 110\penalty0 (4):\penalty0 457--466, 2002.
-\newblock ISSN 0092-8674 (Print) 0092-8674 (Linking).
 \newblock \doi{S0092867402008711 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/12202035}.
 
 \bibitem[Graifer et~al.(2014)Graifer, Malygin, Zharkov, and
   Karpova]{Graifer2014}
@@ -2844,36 +2332,29 @@ D~Graifer, A~Malygin, D~O Zharkov, and G~Karpova.
 \newblock {Eukaryotic ribosomal protein S3: A constituent of translational
   machinery and an extraribosomal player in various cellular processes}.
 \newblock \emph{Biochimie}, 99:\penalty0 8--18, 2014.
-\newblock ISSN 1638-6183 (Electronic) 0300-9084 (Linking).
 \newblock \doi{10.1016/j.biochi.2013.11.001 S0300-9084(13)00397-0 [pii]}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/24239944}.
 
 \bibitem[Ferrus(1975)]{Ferrus1975}
 A~Ferrus.
 \newblock {Parameters of mitotic recombination in minute mutants of Drosophila
   melanogaster}.
 \newblock \emph{Genetics}, 79\penalty0 (4):\penalty0 589--599, 1975.
-\newblock ISSN 0016-6731.
 
 \bibitem[Golic and Golic(1996)]{Golic1996}
 Mary~M Golic and Kent~G Golic.
 \newblock {A quantitative measure of the mitotic pairing of alleles in
   Drosophila melanogaster and the influence of structural heterozygosity}.
 \newblock \emph{Genetics}, 143\penalty0 (1):\penalty0 385--400, 1996.
-\newblock ISSN 0016-6731.
 
 \bibitem[Milo and Phillips(2016)]{Milo2016}
 R~Milo and R~Phillips.
 \newblock \emph{{Cell Biology by the Numbers}}.
 \newblock Garland Science, New York, NY, 2016.
-\newblock ISBN 0815345372.
 
 \bibitem[Gillespie(1977)]{Gillespie1977}
 Daniel~T Gillespie.
 \newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
-\newblock \emph{The Journal of Physical Chemistry}, 81\penalty0 (25):\penalty0
-  2340--2361, 1977.
+\newblock \emph{J. Phys. Chem.}, 81\penalty0 (25):\penalty0 2340--2361, 1977.
 \newblock \doi{10.1021/j100540a008}.
-\newblock URL \url{http://pubs.acs.org/doi/abs/10.1021/j100540a008}.
 
 \end{thebibliography}

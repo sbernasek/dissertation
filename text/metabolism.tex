@@ -6,7 +6,7 @@
 \chapter{Layered repression synchronizes development with cellular metabolism}
 \label{ch:metabolism}
 
-A manuscript resembling much of this chapter was coauthored with Justin Cassidy, Rachael Bakker, Ritika Giri, Nicol\'{a}s Pel\'{a}ez, Bryan Eder, Anna Bobrowska, Neda Bagheri, Lu\'{i}s Amaral, and Richard Carthew. The preprint is available at \url{https://doi.org/10.1101/548032}. All of the experiments were conceived, designed, and executed by my colleagues. In particular, Justin Cassidy obtained the wealth of data that ultimately made this work possible. My personal contributions include all of the computational modeling and simulations. All of the text included in this chapter was either written by or under the guidance of Professor Richard Carthew, whose lab conducted all of the experiments.
+A manuscript resembling this chapter was coauthored with Justin Cassidy, Rachael Bakker, Ritika Giri, Nicol\'{a}s Pel\'{a}ez, Bryan Eder, Anna Bobrowska, Neda Bagheri, Lu\'{i}s Amaral, and Richard Carthew. The preprint is available at \url{https://doi.org/10.1101/548032}. All of the experiments were conceived, designed, and executed by my colleagues. In particular, Justin Cassidy obtained the wealth of data that ultimately made this work possible. My contributions include all of the computational modeling and simulations. Much of the text was either written by or under the guidance of Professor Richard Carthew.
 
 % MANUSCRIPT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
@@ -67,7 +67,7 @@ The mutations thus far examined affect diverse types of regulators, including mi
 
 \section{Modeling the emergence of developmental errors in variable environments}
 
-We turned to computational modeling in order to elucidate the biochemical mechanism linking gene repression and metabolism. Because this relationship appears to apply to many GRNs operating at many stages of \textit{Drosophila} development, we sought to model a general feature of dynamical systems rather than the specific regulatory mechanisms behind each of our experimental observations. We therefore explored the mechanism using a general modeling framework for GRNs premised on the progressive restriction of cell potential over time. Each step of restriction corresponds to a change in gene expression (Fig. \ref{fig:metabolism:fig4a}A). A common property of such dynamics is that they are transient; gene products are synthesized, act, and then are eliminated until they are again needed in other cells. While this property allows signaling molecules and transcription factors to be repeatedly used to build different body structures at different times, it also mandates the expression of these components to remain synchronized with the processes they govern. If they fall out of rhythm, developmental errors occur. Our modeling framework therefore captures the transiently-induced expression and regulation of a single gene within an intracellular cascade of developmental gene expression (Fig. \ref{fig:metabolism:fig4a}A, red line).
+We turned to computational modeling in order to elucidate the biochemical mechanism linking gene repression, developmental phenotypes, and metabolism. Because this relationship appeared relevant to many GRNs during many stages of \textit{Drosophila} development, we sought to directly model the emergent properties of these systems rather than the specific regulatory mechanisms behind them. We therefore explored the mechanism using a general modeling framework premised on the progressive restriction of cell potential over time. Each step of restriction corresponds to a change in gene expression; gene products are synthesized, act, and then are eliminated until they are again needed in other cells (Fig. \ref{fig:metabolism:fig4a}A). Temporally localized expression allows signaling molecules and transcription factors to be repeatedly used to build different body structures at different times. On the other hand, transient expression dynamics require GRN components to remain synchronized with the processes they govern. If they fall out of rhythm, developmental errors occur. We therefore modeled the transient expression and regulation of a single gene within an intracellular cascade of developmental gene expression (Fig. \ref{fig:metabolism:fig4a}A, red line).
 
 \begin{figure}[h!]
 \centering
@@ -79,14 +79,14 @@ We turned to computational modeling in order to elucidate the biochemical mechan
 \subsection{Mathematical model of gene expression}
 \label{metabolism:model:linear}
 
-We use a linear time invariant system to describe the dynamic evolution of activated DNA (\textit{D}), mRNA (\textit{R}), and protein (\textit{P}) in response to a stimulus (\textit{I}) that induces gene activation. These discrete state variables describe the extent of gene expression at any point in time. Transitions between each of the variables' states are governed by the set of elementary reactions listed in Table \ref{metabolism:model:rxns}.
+To model the dynamics of gene expression, we defined a linear time invariant system that describes the time evolution of activated DNA (\textit{D}), mRNA (\textit{R}), and protein (\textit{P}) in response to an inductive stimulus (\textit{I}). These state variables describe the extent of gene expression at any point in time. Transitions between each of the variables' discrete states are governed by the set of psuedo-elementary reactions listed in Table \ref{metabolism:model:rxns}.
 
 % TABLE OF REACTIONS
 %%%%%%%%%%%%%%%%%%%%
 \begin{table}[h!]
 \centering
-\small
-\caption{Elementary steps of gene expression}
+\footnotesize
+\caption[Elementary steps of gene expression]{\textbf{Elementary steps of gene expression}}
 \label{metabolism:model:rxns}
 \begin{tabular}{L{1.75in} C{1.1in} C{0.75in} C{1.35in}}
 \toprule
@@ -108,8 +108,8 @@ GRNs use layers of negative regulation to attenuate expression of target genes (
 %%%%%%%%%%%%%%%%%%%%%
 \begin{table}[h!]
 \centering
-\small
-\caption{Elementary steps of gene regulation}
+\footnotesize
+\caption[Elementary steps of gene regulation]{\textbf{Elementary steps of gene regulation}}
 \label{metabolism:model:regulation}
 \begin{tabular}{L{1.75in} C{1.1in} C{0.75in} C{1.35in}}
 \toprule
@@ -163,7 +163,6 @@ where the argument $s$ is the complex frequency. Given this formulation, control
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.0]{./figure_S1a}
-\captionsetup{width=.65\linewidth}
 \caption[Block diagram depiction of the mathematical model.]{\textbf{Block diagram depiction of the mathematical model.} Boxes contain transfer functions relating upstream and downstream variables, open circles indicate summation points. Transfer functions are expressed in the Laplace frequency domain.}
 \label{fig:metabolism:figS1a}
 \end{figure}
@@ -189,7 +188,6 @@ Reduced glucose consumption by cells might not only limit ATP fluxes, but also h
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=0.75]{./figure_S2b}
-\captionsetup{width=.65\linewidth}
 \caption[Reduced biosynthesis diminishes the frequency of developmental errors.]{\textbf{Partial repression imparts few developmental errors when biosynthesis is reduced.} Construction is equivalent to the right panel of Figure \ref{fig:metabolism:fig4b}D. However, rather than fully reduced energy metabolism, only the RNA and protein synthesis rate parameter values were reduced by 50\%.}
 \label{fig:metabolism:figS2b}
 \end{figure}
@@ -305,7 +303,6 @@ We also varied the level of the success threshold, and recalculated all error fr
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.0]{./figure_S1c}
-\captionsetup{width=.65\linewidth}
 \caption[Robustness of reduced metabolism simulations to threshold definition.]{\textbf{Error frequencies increase when a repressor is lost irrespective of where the success threshold is set.} Error frequencies for parameter sets from Fig. \ref{fig:metabolism:figS1b} were re-calculated across a range of different success thresholds. Thresholds are defined by the 99\textsuperscript{th} percentile of protein levels simulated with all repressors, and are evaluated at the time when the mean protein level with all repressors reaches the indicated fraction of its maximum value. Each line represents one of the parameter sets from Figure \ref{fig:metabolism:figS1b}. Color scale reflects maximum difference in error frequency across the range of thresholds tested.}
 \label{fig:metabolism:figS1c}
 \end{figure}

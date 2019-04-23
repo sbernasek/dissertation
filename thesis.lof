@@ -17,51 +17,49 @@
 \contentsline {figure}{\numberline {2.12}{\ignorespaces Synthetic benchmarking of automated annotation performance.}}{53}{figure.caption.21}
 \contentsline {figure}{\numberline {2.13}{\ignorespaces Spatial context is most informative for large and ambiguous clones.}}{55}{figure.caption.22}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Dynamics of Pnt and Yan expression during eye development.}}{63}{figure.caption.23}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Pnt-to-Yan ratios differ between cellular states.}}{67}{figure.caption.24}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces PntGFP and Yan expression dynamics in differentiating R8, R3/R4, and R7 cells.}}{68}{figure.caption.25}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Dynamics of expression variability in progenitors and R cells.}}{69}{figure.caption.26}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Simple two-species competitive binding model}}{70}{figure.caption.27}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Thermodynamic model of transcription factor DNA binding.}}{73}{figure.caption.28}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Cooperative DNA-binding sensitizes promoters to the Pnt-to-Yan ratio.}}{75}{figure.caption.29}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces P:Y ratio is stabilized against varying Pnt and Yan concentrations.}}{78}{figure.caption.30}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells.}}{81}{figure.caption.31}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Pnt and Yan expression dynamics in $EGFR^{ts}$ eye discs.}}{82}{figure.caption.32}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells.}}{83}{figure.caption.33}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Conceptual models for regulation of the Pnt-to-Yan ratio.}}{86}{figure.caption.34}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Pnt-GFP transgene rescues \emph {pnt} null mutants.}}{62}{figure.caption.23}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Pnt and Yan expression dynamics during eye development.}}{63}{figure.caption.24}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Pnt and Yan expression dynamics in R2/R5 and R1/R6 cells.}}{67}{figure.caption.25}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pnt and Yan expression dynamics in additional R cell types.}}{68}{figure.caption.26}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces R cell fate transitions coincide with increased Pnt-to-Yan ratios.}}{69}{figure.caption.27}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Dynamics of expression variability in progenitors and R cells.}}{70}{figure.caption.28}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Simple two-species competitive binding model}}{71}{figure.caption.29}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Thermodynamic model of transcription factor DNA binding.}}{74}{figure.caption.30}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Cooperative DNA-binding sensitizes promoters to the Pnt-to-Yan ratio.}}{76}{figure.caption.31}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces P:Y ratio is stabilized against varying Pnt and Yan concentrations.}}{78}{figure.caption.32}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{80}{figure.caption.33}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells.}}{83}{figure.caption.34}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Pnt and Yan expression dynamics in $EGFR^{ts}$ eye discs.}}{84}{figure.caption.35}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells.}}{85}{figure.caption.36}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Conceptual models for regulation of the Pnt-to-Yan ratio.}}{88}{figure.caption.37}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces IPC ablation slows development by restricting energy metabolism.}}{92}{figure.caption.35}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Eye developmental defects are rescued by slower energy metabolism.}}{93}{figure.caption.36}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Reducing energy metabolism rescues sensory bristle patterning.}}{94}{figure.caption.37}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces All microRNAs are dispensable when energy metabolism is slowed.}}{96}{figure.caption.38}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces A dynamic model of gene regulation during cell fate determination.}}{97}{figure.caption.39}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Block diagram depiction of the mathematical model.}}{101}{figure.caption.42}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Simulated errors are less frequent when metabolism is reduced.}}{104}{figure.caption.43}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Reduced biosynthesis diminishes the frequency of developmental errors.}}{105}{figure.caption.44}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Expression dynamics are less affected when metabolism is reduced.}}{106}{figure.caption.45}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Reduced metabolism cannot compensate for complete loss of repression.}}{108}{figure.caption.46}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Simulated errors are less frequent when protein synthesis is reduced.}}{109}{figure.caption.47}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Reducing ribosome number rescues sensory organ development.}}{110}{figure.caption.48}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Reducing ribosome number diminishes \textit {sfGFP-sens} overexpression.}}{111}{figure.caption.49}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Robustness of reduced metabolism simulations to parameter values.}}{115}{figure.caption.50}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Robustness of reduced metabolism simulations to threshold definition.}}{116}{figure.caption.51}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Robustness of reduced metabolism simulations to model assumptions.}}{119}{figure.caption.52}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Reduced metabolism desensitizes protein dynamics to repression.}}{120}{figure.caption.53}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Robustness of ribosomopathy simulations to model assumptions.}}{121}{figure.caption.54}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces IPC ablation slows development by restricting energy metabolism.}}{94}{figure.caption.38}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Eye developmental defects are rescued by slower energy metabolism.}}{95}{figure.caption.39}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Reducing energy metabolism rescues sensory bristle patterning.}}{96}{figure.caption.40}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces All microRNAs are dispensable when energy metabolism is slowed.}}{98}{figure.caption.41}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces A dynamic model of gene regulation during cell fate determination.}}{99}{figure.caption.42}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Block diagram depiction of the mathematical model.}}{103}{figure.caption.45}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Simulated errors are less frequent when metabolism is reduced.}}{106}{figure.caption.46}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Reduced biosynthesis diminishes the frequency of developmental errors.}}{107}{figure.caption.47}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Expression dynamics are less affected when metabolism is reduced.}}{108}{figure.caption.48}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Reduced metabolism cannot compensate for complete loss of repression.}}{110}{figure.caption.49}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Simulated errors are less frequent when protein synthesis is reduced.}}{111}{figure.caption.50}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Reducing ribosome number rescues sensory organ development.}}{112}{figure.caption.51}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Reducing ribosome number diminishes \textit {sfGFP-sens} overexpression.}}{113}{figure.caption.52}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Robustness of reduced metabolism simulations to parameter values.}}{117}{figure.caption.53}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Robustness of reduced metabolism simulations to threshold definition.}}{118}{figure.caption.54}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Robustness of reduced metabolism simulations to model assumptions.}}{121}{figure.caption.55}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Reduced metabolism desensitizes protein dynamics to repression.}}{122}{figure.caption.56}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Robustness of ribosomopathy simulations to model assumptions.}}{123}{figure.caption.57}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces The race from embryo to adulthood.}}{125}{figure.caption.55}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Simplified framework for modeling the loss of an auxiliary repressor.}}{130}{figure.caption.56}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Suppression depends on parameter sensitivity to the environment.}}{131}{figure.caption.57}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Phase diagram of auxiliary promoter loss.}}{132}{figure.caption.58}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Phase diagram of auxiliary repressor loss.}}{133}{figure.caption.59}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The race from embryo to adulthood.}}{127}{figure.caption.58}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Simplified framework for modeling the loss of an auxiliary repressor.}}{132}{figure.caption.59}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Suppression depends on parameter sensitivity to the environment.}}{133}{figure.caption.60}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Phase diagram of auxiliary promoter loss.}}{134}{figure.caption.61}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Phase diagram of auxiliary repressor loss.}}{135}{figure.caption.62}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces PntGFP expression during eye development.}}{172}{figure.caption.61}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces PntGFP and Yan expression dynamics in differentiating cone cells.}}{173}{figure.caption.62}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces \textit {yan} null clones in the eye.}}{173}{figure.caption.63}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Spatial analysis of Pnt and Yan expression in $N^{ts}$ eye discs.}}{174}{figure.caption.64}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{177}{figure.caption.66}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{186}{figure.caption.67}
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Mutation of the four identified miR-7 binding sites in the \textit {yan} transcript.}}{179}{figure.caption.65}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Evaluation of protein overexpression metric.}}{188}{figure.caption.66}
 \addvspace {10\p@ }

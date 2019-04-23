@@ -26,7 +26,7 @@ Chapter \ref{ch:intro} introduced the idea that developmental GRNs guide organis
 \begin{figure}[h!]
 \centering
 \includegraphics[scale=1.0]{./figure_0A}
-\caption[The race from embryo to adulthood.]{\textbf{The race from embryo to adulthood.} Individuals must navigate the many twists and turns of the developmental program to reach the finish line. (A) Slow and steady loses the race. (B) Adding power improves acceleration, but increases the risk of failure. (C) Adding power along with better brakes is a winning strategy. The analogous experimental conditions are (A) slow metabolism without auxiliary repression, (B) fast metabolism without auxiliary repression, and (C) fast metabolism with auxiliary repression. Evolution suggests this wildtype configuration consistently wins the race.}
+\caption[The race from embryo to adulthood.]{\textbf{The race from embryo to adulthood.} Individuals must navigate the many twists and turns of the developmental program to reach the finish line. (A) Slow and steady loses the race. (B) Adding power improves acceleration, but increases the risk of failure. (C) Adding power along with better brakes is a winning strategy. The analogous experimental conditions are (A) slow metabolism without auxiliary repression, (B) fast metabolism without auxiliary repression, and (C) fast metabolism with auxiliary repression. This configuration is equivalent to wildtype, suggesting it consistently wins the race.}
 \label{fig:conc:fig0}
 \end{figure}
 
@@ -122,7 +122,7 @@ The bands observed in Figures \ref{fig:conc:fig3}B and \ref{fig:conc:fig4}B indi
 The value of the models defined by equations \ref{eq:simple_repressor} and \ref{eq:simple_promoter} lies in their simplicity. Because each strictly employs linear kinetics, the stochastic dynamics are analytically tractable via a closed system of moment equations \cite{Sotiropoulos2011}. Even the more complex models presented in Chapter \ref{ch:metabolism} are approximately solvable, courtesy of modern moment closure and finite state projection techniques \cite{Singh2011,Munsky2006}. Future theoretical efforts could be directed toward the development of a complete analytical framework for studying the interplay of GRN dynamics, cell fate decisions, and the environment. An analytical platform would vastly reduce the computational burden imposed by the numerical methods used to conduct all of the analysis presented in this section and throughout Chapter \ref{ch:metabolism}. It would also expedite fitting the model to experimental data in order to generate testable predictions. 
 
 % ================================================ PERSPECTIVES ON QUANT BIO
-\section{Perspective on quantitative biology}
+\section{Perspectives for quantitative biology}
 
 This dissertation surveyed developmental cell fate decisions through a quantitative lens. It used numbers and equations to derive nuanced understanding of processes that are notoriously difficult to characterize. In many cases, doing so required forcible reconciliation with time-honored traditions in biological analysis. Two major obstacles encountered along the way merit further discussion.
 
@@ -142,4 +142,48 @@ This ambiguity starkly contrasts the standardized descriptive languages commonly
 
 Control theory offers a particularly compelling perspective for rationalizing the behavior of developmental GRNs. Most are inherently dynamic, contain numerous unknown components and interactions, and ultimately coordinate a manageable number of outputs. This rationale inspired the conceptual model of ratiometric control used to interpret the R cell fate decision analyzed in Chapter \ref{ch:ratio} (see Fig. \ref{fig:ratio:fig7}B). After all, Pnt and Yan are transiently expressed, subject to extensive uncharacterized regulation, and appear to mediate R cell fate transitions through a single observable output; the Pnt-to-Yan ratio. Similar reasoning inspired the modeling framework used throughout Chapter \ref{ch:metabolism}. The breadth of experiments pointed toward a dynamic phenomenon agnostic to the molecular detail of repressors and their targets. Furthermore, among all systems surveyed, only Yan and Sens expression were measurable. The resolution of analysis was therefore matched to the resolution of the data by modeling the representative dynamics of a generic protein, subject to feedback at each of the three levels that were experimentally surveyed (see Fig. \ref{fig:metabolism:figS1a}). Combined, these approaches reflect a growing trend of interpreting biological robustness from a control perspective \cite{Khammash2016}. 
 
-As biology and engineering converge on common interests, it is important to reconcile the strengths of both disciplines. Biology contributes a wealth of prior knowledge and experimental techniques that frequently bewilder even the most seasoned engineers. Engineering contributes quantitatively rigorous frameworks to systematically analyze, interpret, predict, and design complex systems. The promise of successful integration prompts continued dialogue to resolve any growing pains and advance the field of quantitative biology as a whole.
+As biology and engineering converge on common interests, it is important to reconcile the strengths of both disciplines. Biology contributes a wealth of prior knowledge and experimental techniques that frequently bewilder even the most seasoned engineers. Engineering contributes quantitatively rigorous frameworks to systematically analyze, interpret, predict, and design complex systems. The promise of successful integration prompts continued dialogue to resolve any growing pains and advance the field of quantitative biology as a whole. 
+
+Resource sharing must be a critical part of the conversation. Computational researchers wield tremendous power to support the experimental community by publishing user-friendly software that helps biologists quantify and analyze their results. They themselves stand to be duly rewarded in higher quality data. Contributing such resources to the open-source ecosystem will also yield dividends in reproducibility, as the community gradually converges on unified standards.
+
+% ================================================ PERSPECTIVES ON QUANT BIO
+\section{Software to support quantitative biologists}
+\label{appendix:software}
+
+The research enclosed in this dissertation spawned several computational tools that may catalyze future research. All of these resources have been made freely available online, with the hope that their continued use and development will benefit the broader community of quantitative biologists. The list below describes each tool and its high level functions. FlyEye Silhouette is freely available via the Mac App Store, while all software is accessible via GitHub repositories mirrored between both \href{https://github.com/sebastianbernasek/}{my personal account} and the \href{https://github.com/amarallab}{Amaral} and \href{https://github.com/bagherilab}{Bagheri} lab accounts. These repositories contain high level API documentation in addition to a series of Jupyter notebooks that walk the user through a series of usage examples. 
+
+\begin{itemize}[leftmargin=*,topsep=10pt, itemsep=10pt]
+  
+  % FLYEYE SILHOUETTE
+  \item \textbf{FlyEye Silhouette}: \url{http://silhouette.amaral.northwestern.edu}
+  \newline
+  GUI-based MacOS application for segmentation, quantification, and annotation of cell nuclei in the \textit{Drosophila} eye imaginal disc. Developed by Helio Tejedor in the Amaral lab.
+  
+  % FLYEYE ANALYSIS
+  \item \textbf{FlyEye Analysis}: \url{https://github.com/sebastianbernasek/flyeye}
+  \newline
+  Python framework for analyzing data generated using FlyEye Silhouette. Core features include inference of cell developmental ages and analysis of the resultant expression dynamics. Also provides tools to quantify expression heterogeneity and spatial patterns.
+  
+  % FLYEYE ANALYSIS
+  \item \textbf{FlyEye Clones}: \url{https://github.com/sebastianbernasek/clones}  
+  \newline
+  Python framework for automated mosaic analysis of \textit{Drosophila} eye imaginal discs. Core features will be integrated with future versions of FlyEye Silhouette. 
+  
+  % FLYEYE SYCLONES
+  \item \textbf{FlyEye SyClones}: \url{https://github.com/sebastianbernasek/syclones}
+  \newline 
+  Python framework for generating synthetic microscopy data that mimic key features of mosaic eye imaginal discs.
+  
+  % PolyTF BINDING
+  \item \textbf{PolyTF Binding}: \url{https://github.com/sebastianbernasek/binding}
+  \newline 
+  Python framework for simulating the equilibrium occupancy of DNA binding sites by one or more polymerizing transcription factors. Utilizes a C backend that efficiently enumerates all possible microstates in a recursive fashion, enabling nested parallelization of the main computational bottleneck. For systems of two or more transcription factors, the implementation confers a major performance advantage over the sequential enumeration strategy proposed by the manuscript that inspired the model \cite{Hope2017}.
+  
+  % GENESSA
+  \item \textbf{GeneSSA}: \url{https://github.com/sebastianbernasek/genessa}
+  \newline
+  Python framework for exact stochastic simulation of gene regulatory network dynamics \cite{Gillespie1977}. Simulations are executed by a C backend optimized for performance on networks with a narrow scope of pre-defined reaction propensity functions. The limited scope is by design; GeneSSA prioritizes computational efficiency at the expense of flexibility by explicitly hard coding a set of functional forms. This design places GeneSSA among the most performant implementations of the exact stochastic simulation algorithm for several common types of GRNs. The framework may be (and has been) extended to include additional kinetic formulations as they are required.
+  
+\end{itemize}
+
+Please see Appendix \ref{appendix:data} for the data and code required to replicate all of the results presented in this dissertation.

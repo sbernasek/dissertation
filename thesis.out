@@ -22,7 +22,7 @@
 \BOOKMARK [0][]{chapter.3}{Chapter 3. Ratiometric control of a transit to differentiation}{}% 22
 \BOOKMARK [1][]{section.3.1}{3.1. Background on the coordination of cell fate decisions}{chapter.3}% 23
 \BOOKMARK [1][]{section.3.2}{3.2. PntGFP expression dynamics in the developing eye }{chapter.3}% 24
-\BOOKMARK [1][]{section.3.3}{3.3. The Pnt-to-Yan ratio varies between cells in different states }{chapter.3}% 25
+\BOOKMARK [1][]{section.3.3}{3.3. The Pnt-to-Yan ratio varies between cells in different states}{chapter.3}% 25
 \BOOKMARK [1][]{section.3.4}{3.4. Cooperative DNA-binding sensitizes promoters to changes in Pnt-to-Yan ratio}{chapter.3}% 26
 \BOOKMARK [1][]{section.3.5}{3.5. Regulation stabilizes the ratio against varying Pnt and Yan concentrations}{chapter.3}% 27
 \BOOKMARK [1][]{section.3.6}{3.6. Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells}{chapter.3}% 28
@@ -41,20 +41,20 @@
 \BOOKMARK [0][]{chapter.5}{Chapter 5. Conclusions}{}% 41
 \BOOKMARK [1][]{section.5.1}{5.1. Implications for developmental and systems biology}{chapter.5}% 42
 \BOOKMARK [1][]{section.5.2}{5.2. Avenues for further exploration}{chapter.5}% 43
-\BOOKMARK [1][]{section.5.3}{5.3. Perspective on quantitative biology}{chapter.5}% 44
-\BOOKMARK [0][]{chapter*.60}{References}{}% 45
-\BOOKMARK [0][]{appendix.A}{Appendix A. Supporting information for Chapter 3}{}% 46
-\BOOKMARK [1][]{section.A.1}{A.1. Genetics}{appendix.A}% 47
-\BOOKMARK [1][]{section.A.2}{A.2. Immunohistochemistry}{appendix.A}% 48
-\BOOKMARK [1][]{section.A.3}{A.3. Quantification of expression levels}{appendix.A}% 49
-\BOOKMARK [1][]{section.A.4}{A.4. Conversion of distance to time}{appendix.A}% 50
-\BOOKMARK [1][]{section.A.5}{A.5. Computation of moving averages and confidence intervals}{appendix.A}% 51
-\BOOKMARK [1][]{section.A.6}{A.6. Alignment of expression data}{appendix.A}% 52
-\BOOKMARK [1][]{section.A.7}{A.7. Analysis of yan clones}{appendix.A}% 53
-\BOOKMARK [1][]{section.A.8}{A.8. Parameterization of equilibrium binding model}{appendix.A}% 54
-\BOOKMARK [1][]{section.A.9}{A.9. Visualization of relative Pnt and Yan expression in Notch mutant discs}{appendix.A}% 55
-\BOOKMARK [1][]{section.A.10}{A.10. Analysis of periodic spatial patterns in Notch mutant discs}{appendix.A}% 56
-\BOOKMARK [1][]{section.A.11}{A.11. Supplementary figures}{appendix.A}% 57
+\BOOKMARK [1][]{section.5.3}{5.3. Perspectives for quantitative biology}{chapter.5}% 44
+\BOOKMARK [1][]{section.5.4}{5.4. Software to support quantitative biologists}{chapter.5}% 45
+\BOOKMARK [0][]{chapter*.63}{References}{}% 46
+\BOOKMARK [0][]{appendix.A}{Appendix A. Supporting information for Chapter 3}{}% 47
+\BOOKMARK [1][]{section.A.1}{A.1. Genetics}{appendix.A}% 48
+\BOOKMARK [1][]{section.A.2}{A.2. Immunohistochemistry}{appendix.A}% 49
+\BOOKMARK [1][]{section.A.3}{A.3. Quantification of expression levels}{appendix.A}% 50
+\BOOKMARK [1][]{section.A.4}{A.4. Conversion of distance to time}{appendix.A}% 51
+\BOOKMARK [1][]{section.A.5}{A.5. Computation of moving averages and confidence intervals}{appendix.A}% 52
+\BOOKMARK [1][]{section.A.6}{A.6. Alignment of expression data}{appendix.A}% 53
+\BOOKMARK [1][]{section.A.7}{A.7. Analysis of yan clones}{appendix.A}% 54
+\BOOKMARK [1][]{section.A.8}{A.8. Parameterization of equilibrium binding model}{appendix.A}% 55
+\BOOKMARK [1][]{section.A.9}{A.9. Visualization of relative Pnt and Yan expression in Notch mutant discs}{appendix.A}% 56
+\BOOKMARK [1][]{section.A.10}{A.10. Analysis of periodic spatial patterns in Notch mutant discs}{appendix.A}% 57
 \BOOKMARK [0][]{appendix.B}{Appendix B. Supporting information for Chapter 4}{}% 58
 \BOOKMARK [1][]{section.B.1}{B.1. Model system}{appendix.B}% 59
 \BOOKMARK [1][]{section.B.2}{B.2. Genetics}{appendix.B}% 60
@@ -63,5 +63,4 @@
 \BOOKMARK [1][]{section.B.5}{B.5. Quantification of Yan-YFP dynamics in the eye}{appendix.B}% 63
 \BOOKMARK [1][]{section.B.6}{B.6. Simulation procedure}{appendix.B}% 64
 \BOOKMARK [1][]{section.B.7}{B.7. Dependence of model parameters on metabolic conditions}{appendix.B}% 65
-\BOOKMARK [0][]{appendix.C}{Appendix C. Computational tools for quantitative biologists}{}% 66
-\BOOKMARK [0][]{appendix.D}{Appendix D. Reproduction data and code}{}% 67
+\BOOKMARK [0][]{appendix.C}{Appendix C. Reproduction data and code}{}% 66

@@ -26,60 +26,59 @@
 \contentsline {chapter}{\tocchapter {Chapter}{3}{Ratiometric control of a transit to differentiation}}{57}{chapter.3}
 \contentsline {section}{\tocsection {}{3.1}{Background on the coordination of cell fate decisions}}{57}{section.3.1}
 \contentsline {section}{\tocsection {}{3.2}{PntGFP expression dynamics in the developing eye }}{62}{section.3.2}
-\contentsline {section}{\tocsection {}{3.3}{The Pnt-to-Yan ratio varies between cells in different states }}{62}{section.3.3}
-\contentsline {section}{\tocsection {}{3.4}{Cooperative DNA-binding sensitizes promoters to changes in Pnt-to-Yan ratio}}{69}{section.3.4}
-\contentsline {section}{\tocsection {}{3.5}{Regulation stabilizes the ratio against varying Pnt and Yan concentrations}}{74}{section.3.5}
-\contentsline {section}{\tocsection {}{3.6}{Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells}}{77}{section.3.6}
-\contentsline {section}{\tocsection {}{3.7}{Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells}}{80}{section.3.7}
-\contentsline {section}{\tocsection {}{3.8}{Ratiometric control as a model for cell fate commitment}}{83}{section.3.8}
-\contentsline {chapter}{\tocchapter {Chapter}{4}{Layered repression synchronizes development with cellular metabolism}}{88}{chapter.4}
-\contentsline {section}{\tocsection {}{4.1}{Background on the environmental dependence of developmental tempo}}{88}{section.4.1}
-\contentsline {section}{\tocsection {}{4.2}{Repressors are less impactful when metabolism is reduced}}{91}{section.4.2}
-\contentsline {section}{\tocsection {}{4.3}{MicroRNAs are dispensable when metabolism is reduced}}{94}{section.4.3}
-\contentsline {section}{\tocsection {}{4.4}{Modeling the emergence of developmental errors in variable environments}}{95}{section.4.4}
-\contentsline {subsection}{\tocsubsection {}{4.4.1}{Mathematical model of gene expression}}{97}{subsection.4.4.1}
-\contentsline {subsection}{\tocsubsection {}{4.4.2}{Model relation to control theory}}{99}{subsection.4.4.2}
-\contentsline {subsection}{\tocsubsection {}{4.4.3}{Simulation of developmental errors due to repressor loss}}{102}{subsection.4.4.3}
-\contentsline {section}{\tocsection {}{4.5}{Protein expression dynamics after partial repressor loss}}{103}{section.4.5}
-\contentsline {section}{\tocsection {}{4.6}{Effect of full repression loss}}{107}{section.4.6}
-\contentsline {section}{\tocsection {}{4.7}{Limiting protein synthesis reduces the need for repressors}}{108}{section.4.7}
-\contentsline {section}{\tocsection {}{4.8}{Implications for the evolution of GRNs}}{111}{section.4.8}
-\contentsline {section}{\tocsection {}{4.9}{Robustness of modeling results}}{114}{section.4.9}
-\contentsline {chapter}{\tocchapter {Chapter}{5}{Conclusions}}{122}{chapter.5}
-\contentsline {section}{\tocsection {}{5.1}{Implications for developmental and systems biology}}{122}{section.5.1}
-\contentsline {section}{\tocsection {}{5.2}{Avenues for further exploration}}{126}{section.5.2}
-\contentsline {section}{\tocsection {}{5.3}{Perspective on quantitative biology}}{133}{section.5.3}
-\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{138}{chapter*.60}
-\contentsline {chapter}{\tocappendix {Appendix}{A}{Supporting information for Chapter \ref {ch:ratio}}}{163}{appendix.A}
-\contentsline {section}{\tocsection {}{A.1}{Genetics}}{163}{section.A.1}
-\contentsline {section}{\tocsection {}{A.2}{Immunohistochemistry}}{164}{section.A.2}
-\contentsline {section}{\tocsection {}{A.3}{Quantification of expression levels}}{166}{section.A.3}
-\contentsline {section}{\tocsection {}{A.4}{Conversion of distance to time}}{166}{section.A.4}
-\contentsline {section}{\tocsection {}{A.5}{Computation of moving averages and confidence intervals}}{167}{section.A.5}
-\contentsline {section}{\tocsection {}{A.6}{Alignment of expression data}}{168}{section.A.6}
-\contentsline {section}{\tocsection {}{A.7}{Analysis of \textit {yan} clones}}{169}{section.A.7}
-\contentsline {section}{\tocsection {}{A.8}{Parameterization of equilibrium binding model}}{170}{section.A.8}
-\contentsline {section}{\tocsection {}{A.9}{Visualization of relative Pnt and Yan expression in \textit {Notch} mutant discs}}{170}{section.A.9}
-\contentsline {section}{\tocsection {}{A.10}{Analysis of periodic spatial patterns in \textit {Notch} mutant discs}}{171}{section.A.10}
-\contentsline {section}{\tocsection {}{A.11}{Supplementary figures}}{172}{section.A.11}
-\contentsline {chapter}{\tocappendix {Appendix}{B}{Supporting information for Chapter \ref {ch:metabolism}}}{175}{appendix.B}
-\contentsline {section}{\tocsection {}{B.1}{Model system}}{175}{section.B.1}
-\contentsline {section}{\tocsection {}{B.2}{Genetics}}{175}{section.B.2}
-\contentsline {subsection}{\tocsubsection {}{B.2.1}{IPC ablation}}{176}{subsection.B.2.1}
-\contentsline {subsection}{\tocsubsection {}{B.2.2}{Ribosomopathy}}{176}{subsection.B.2.2}
-\contentsline {subsection}{\tocsubsection {}{B.2.3}{yan \textsuperscript {\textDelta miR-7}-YFP}}{177}{subsection.B.2.3}
-\contentsline {subsection}{\tocsubsection {}{B.2.4}{sfGFP-sens and sfGFP-sens \textsuperscript {m1m2}}}{177}{subsection.B.2.4}
-\contentsline {section}{\tocsection {}{B.3}{Analysis of mutant phenotypes}}{178}{section.B.3}
-\contentsline {subsection}{\tocsubsection {}{B.3.1}{Eye mispatterning}}{178}{subsection.B.3.1}
-\contentsline {subsection}{\tocsubsection {}{B.3.2}{R7 cell analysis in the eye}}{179}{subsection.B.3.2}
-\contentsline {subsubsection}{\tocsubsubsection {}{B.3.2.1}{Bristle scoring}}{179}{subsubsection.B.3.2.1}
-\contentsline {subsection}{\tocsubsection {}{B.3.3}{Relative viability}}{180}{subsection.B.3.3}
-\contentsline {subsection}{\tocsubsection {}{B.3.4}{Population statistics}}{180}{subsection.B.3.4}
-\contentsline {section}{\tocsection {}{B.4}{Quantification of sfGFP-Sens in the wing disc}}{180}{section.B.4}
-\contentsline {section}{\tocsection {}{B.5}{Quantification of Yan-YFP dynamics in the eye}}{182}{section.B.5}
-\contentsline {section}{\tocsection {}{B.6}{Simulation procedure}}{185}{section.B.6}
-\contentsline {subsection}{\tocsubsection {}{B.6.1}{Simulation of protein expression dynamics}}{185}{subsection.B.6.1}
-\contentsline {subsection}{\tocsubsection {}{B.6.2}{Evaluation of error frequencies and changes in expression dynamics}}{185}{subsection.B.6.2}
-\contentsline {section}{\tocsection {}{B.7}{Dependence of model parameters on metabolic conditions}}{186}{section.B.7}
-\contentsline {chapter}{\tocappendix {Appendix}{C}{Computational tools for quantitative biologists}}{189}{appendix.C}
-\contentsline {chapter}{\tocappendix {Appendix}{D}{Reproduction data and code}}{191}{appendix.D}
+\contentsline {section}{\tocsection {}{3.3}{The Pnt-to-Yan ratio varies between cells in different states}}{62}{section.3.3}
+\contentsline {section}{\tocsection {}{3.4}{Cooperative DNA-binding sensitizes promoters to changes in Pnt-to-Yan ratio}}{70}{section.3.4}
+\contentsline {section}{\tocsection {}{3.5}{Regulation stabilizes the ratio against varying Pnt and Yan concentrations}}{75}{section.3.5}
+\contentsline {section}{\tocsection {}{3.6}{Notch signaling lowers the Pnt-to-Yan ratio in progenitor cells}}{79}{section.3.6}
+\contentsline {section}{\tocsection {}{3.7}{Ras signaling elevates the Pnt-to-Yan ratio in progenitor cells}}{82}{section.3.7}
+\contentsline {section}{\tocsection {}{3.8}{Ratiometric control as a model for cell fate commitment}}{85}{section.3.8}
+\contentsline {chapter}{\tocchapter {Chapter}{4}{Layered repression synchronizes development with cellular metabolism}}{90}{chapter.4}
+\contentsline {section}{\tocsection {}{4.1}{Background on the environmental dependence of developmental tempo}}{90}{section.4.1}
+\contentsline {section}{\tocsection {}{4.2}{Repressors are less impactful when metabolism is reduced}}{93}{section.4.2}
+\contentsline {section}{\tocsection {}{4.3}{MicroRNAs are dispensable when metabolism is reduced}}{96}{section.4.3}
+\contentsline {section}{\tocsection {}{4.4}{Modeling the emergence of developmental errors in variable environments}}{97}{section.4.4}
+\contentsline {subsection}{\tocsubsection {}{4.4.1}{Mathematical model of gene expression}}{99}{subsection.4.4.1}
+\contentsline {subsection}{\tocsubsection {}{4.4.2}{Model relation to control theory}}{101}{subsection.4.4.2}
+\contentsline {subsection}{\tocsubsection {}{4.4.3}{Simulation of developmental errors due to repressor loss}}{104}{subsection.4.4.3}
+\contentsline {section}{\tocsection {}{4.5}{Protein expression dynamics after partial repressor loss}}{105}{section.4.5}
+\contentsline {section}{\tocsection {}{4.6}{Effect of full repression loss}}{109}{section.4.6}
+\contentsline {section}{\tocsection {}{4.7}{Limiting protein synthesis reduces the need for repressors}}{110}{section.4.7}
+\contentsline {section}{\tocsection {}{4.8}{Implications for the evolution of GRNs}}{113}{section.4.8}
+\contentsline {section}{\tocsection {}{4.9}{Robustness of modeling results}}{116}{section.4.9}
+\contentsline {chapter}{\tocchapter {Chapter}{5}{Conclusions}}{124}{chapter.5}
+\contentsline {section}{\tocsection {}{5.1}{Implications for developmental and systems biology}}{124}{section.5.1}
+\contentsline {section}{\tocsection {}{5.2}{Avenues for further exploration}}{128}{section.5.2}
+\contentsline {section}{\tocsection {}{5.3}{Perspectives for quantitative biology}}{135}{section.5.3}
+\contentsline {section}{\tocsection {}{5.4}{Software to support quantitative biologists}}{139}{section.5.4}
+\contentsline {chapter}{\tocchapter {Chapter}{}{References}}{142}{chapter*.63}
+\contentsline {chapter}{\tocappendix {Appendix}{A}{Supporting information for Chapter \ref {ch:ratio}}}{167}{appendix.A}
+\contentsline {section}{\tocsection {}{A.1}{Genetics}}{167}{section.A.1}
+\contentsline {section}{\tocsection {}{A.2}{Immunohistochemistry}}{168}{section.A.2}
+\contentsline {section}{\tocsection {}{A.3}{Quantification of expression levels}}{170}{section.A.3}
+\contentsline {section}{\tocsection {}{A.4}{Conversion of distance to time}}{170}{section.A.4}
+\contentsline {section}{\tocsection {}{A.5}{Computation of moving averages and confidence intervals}}{171}{section.A.5}
+\contentsline {section}{\tocsection {}{A.6}{Alignment of expression data}}{172}{section.A.6}
+\contentsline {section}{\tocsection {}{A.7}{Analysis of \textit {yan} clones}}{173}{section.A.7}
+\contentsline {section}{\tocsection {}{A.8}{Parameterization of equilibrium binding model}}{174}{section.A.8}
+\contentsline {section}{\tocsection {}{A.9}{Visualization of relative Pnt and Yan expression in \textit {Notch} mutant discs}}{174}{section.A.9}
+\contentsline {section}{\tocsection {}{A.10}{Analysis of periodic spatial patterns in \textit {Notch} mutant discs}}{175}{section.A.10}
+\contentsline {chapter}{\tocappendix {Appendix}{B}{Supporting information for Chapter \ref {ch:metabolism}}}{177}{appendix.B}
+\contentsline {section}{\tocsection {}{B.1}{Model system}}{177}{section.B.1}
+\contentsline {section}{\tocsection {}{B.2}{Genetics}}{177}{section.B.2}
+\contentsline {subsection}{\tocsubsection {}{B.2.1}{IPC ablation}}{178}{subsection.B.2.1}
+\contentsline {subsection}{\tocsubsection {}{B.2.2}{Ribosomopathy}}{178}{subsection.B.2.2}
+\contentsline {subsection}{\tocsubsection {}{B.2.3}{yan \textsuperscript {\textDelta miR-7}-YFP}}{179}{subsection.B.2.3}
+\contentsline {subsection}{\tocsubsection {}{B.2.4}{sfGFP-sens and sfGFP-sens \textsuperscript {m1m2}}}{179}{subsection.B.2.4}
+\contentsline {section}{\tocsection {}{B.3}{Analysis of mutant phenotypes}}{180}{section.B.3}
+\contentsline {subsection}{\tocsubsection {}{B.3.1}{Eye mispatterning}}{180}{subsection.B.3.1}
+\contentsline {subsection}{\tocsubsection {}{B.3.2}{R7 cell analysis in the eye}}{181}{subsection.B.3.2}
+\contentsline {subsubsection}{\tocsubsubsection {}{B.3.2.1}{Bristle scoring}}{181}{subsubsection.B.3.2.1}
+\contentsline {subsection}{\tocsubsection {}{B.3.3}{Relative viability}}{182}{subsection.B.3.3}
+\contentsline {subsection}{\tocsubsection {}{B.3.4}{Population statistics}}{182}{subsection.B.3.4}
+\contentsline {section}{\tocsection {}{B.4}{Quantification of sfGFP-Sens in the wing disc}}{182}{section.B.4}
+\contentsline {section}{\tocsection {}{B.5}{Quantification of Yan-YFP dynamics in the eye}}{184}{section.B.5}
+\contentsline {section}{\tocsection {}{B.6}{Simulation procedure}}{187}{section.B.6}
+\contentsline {subsection}{\tocsubsection {}{B.6.1}{Simulation of protein expression dynamics}}{187}{subsection.B.6.1}
+\contentsline {subsection}{\tocsubsection {}{B.6.2}{Evaluation of error frequencies and changes in expression dynamics}}{187}{subsection.B.6.2}
+\contentsline {section}{\tocsection {}{B.7}{Dependence of model parameters on metabolic conditions}}{188}{section.B.7}
+\contentsline {chapter}{\tocappendix {Appendix}{C}{Reproduction data and code}}{191}{appendix.C}

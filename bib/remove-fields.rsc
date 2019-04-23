@@ -6,3 +6,4 @@ delete.field = { url }
 delete.field = { annote }
 delete.field = { keywords }
 delete.field = { pmid }
+delete.field = { doi }

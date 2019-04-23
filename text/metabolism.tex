@@ -277,16 +277,14 @@ Metabolic conditions drive variation about the intrinsic developmental tempo of 
 \label{metabolism:robust}
 
 We conducted numerous parameter sweeps to confirm the robustness of each result presented in this chapter. In each sweep, all model parameters were varied across a ten-fold range ($\pm \sim$three-fold). To efficiently sample the parameter space, we quasi-randomly sampled 2500 parameter sets from the multi-dimensional hyperspace defined by one order of magnitude variation in each of the model parameters. For each parameter set we independently ran six sets of five thousand simulations: 
-
-\begin{itemize}
+\begin{enumerate}
 	\item Full feedback with normal metabolism and translation
 	\item Partial feedback with normal metabolism and translation
 	\item Full feedback with reduced energy metabolism
 	\item Partial feedback with reduced energy metabolism
 	\item Full feedback with reduced protein synthesis	
 	\item Partial feedback with reduced protein synthesis
-\end{itemize}
-
+\end{enumerate}
 Full-repression systems were assigned two copies of each feedback element present in the corresponding partial-repression system. Error frequencies were evaluated as described previously. In total, this procedure constitutes one parameter sweep. 
 
 Our parameter sweeps sampled an N-dimensional space, prompting us to seek a lower dimensional representation in order to visualize and discern any characteristic trends. One option is to project the results of all simulations onto each of the $N(N-1)/2$ orthogonal 2-D planes. Figure \ref{fig:metabolism:figS1b}A demonstrates this approach for error frequencies simulated with partial feedback and normal metabolism. While it clearly shows that error frequency is greater than 1\% for most combinations of parameter values (lots of dark spots), we find that the complexity of the 2-D visualization offers little additional insight. Instead, for all remaining parameter sweeps we opt for the simpler one dimensional projection of parameter sweep results, as illustrated by Figure \ref{fig:metabolism:figS1b}B. The histogram simply conveys the global trend in simulated error frequency, which in this case is skewed heavily toward large error frequencies, indicating that partial loss of repression induces an increase in error frequency across a broad parameter range. 

@@ -7,16 +7,16 @@ Database file #1: ./bib/thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 You've used 316 entries,
             2481 wiz_defined-function locations,
-            2781 strings with 74616 characters,
-and the built_in function-call counts, 140801 in all, are:
-= -- 11448
+            2532 strings with 68504 characters,
+and the built_in function-call counts, 137595 in all, are:
+= -- 10761
 > -- 9110
 < -- 156
 + -- 3394
 - -- 2758
-* -- 12881
-:= -- 23237
-add.period$ -- 1161
+* -- 12423
+:= -- 22550
+add.period$ -- 932
 call.type$ -- 316
 change.case$ -- 622
 chr.to.int$ -- 312
@@ -24,13 +24,13 @@ cite$ -- 316
 duplicate$ -- 6008
 empty$ -- 11625
 format.name$ -- 3238
-if$ -- 28915
+if$ -- 28228
 int.to.chr$ -- 5
 int.to.str$ -- 317
 missing$ -- 302
-newline$ -- 1795
+newline$ -- 1566
 num.names$ -- 950
-pop$ -- 2222
+pop$ -- 2451
 preamble$ -- 1
 purify$ -- 316
 quote$ -- 0
@@ -45,4 +45,4 @@ type$ -- 2185
 warning$ -- 0
 while$ -- 1154
 width$ -- 0
-write$ -- 4502
+write$ -- 4044

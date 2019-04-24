@@ -7,3 +7,4 @@ delete.field = { annote }
 delete.field = { keywords }
 delete.field = { pmid }
 delete.field = { doi }
+delete.field = { month }

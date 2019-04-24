@@ -2057,6 +2057,11 @@ Rudolf Gesztelyi, Judit Zsuga, Adam Kemeny-Beke, Balazs Varga, Bela Juhasz, and
 \newblock {The Hill equation and the origin of quantitative pharmacology}, jul
   2012.
 
+\bibitem[Gillespie(1977)]{Gillespie1977}
+Daniel~T Gillespie.
+\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
+\newblock \emph{J. Phys. Chem.}, 81\penalty0 (25):\penalty0 2340--2361, 1977.
+
 \bibitem[Shellenbarger and Mohler(1975)]{Shellenbarger1975}
 David~L. Shellenbarger and Dawson~J. Mohler.
 \newblock {Temperature-sensitive mutations of the notch locus in Drosophila
@@ -2122,10 +2127,5 @@ Mary~M Golic and Kent~G Golic.
 R~Milo and R~Phillips.
 \newblock \emph{{Cell Biology by the Numbers}}.
 \newblock Garland Science, New York, NY, 2016.
-
-\bibitem[Gillespie(1977)]{Gillespie1977}
-Daniel~T Gillespie.
-\newblock {Exact Stochastic Simulation of Coupled Chemical Reactions}.
-\newblock \emph{J. Phys. Chem.}, 81\penalty0 (25):\penalty0 2340--2361, 1977.
 
 \end{thebibliography}

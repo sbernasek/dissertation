@@ -60,7 +60,7 @@ The mutations thus far examined affect diverse types of regulators, including mi
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=1.0\columnwidth]{./figure_3}
+\includegraphics[scale=1.0]{./figure_3}
 \caption[All microRNAs are dispensable when energy metabolism is slowed.]{\textbf{The microRNA family is dispensable when energy metabolism is slowed.} (A) The pupal viability of various \textit{dcr-1} nonsense mutants is fully rescued when IPCs are ablated in the mutants. (B) Adult viability of various \textit{ago1} missense and nonsense mutants is rescued when IPCs are ablated in the mutants. (C) Representative \textit{ago1} adults with normal or slowed metabolism. (D) Genetically mosaic individuals with $ago1^+$ bodies and $ago1^{W894X}$ mutant eyes. Left, representative individual with normal metabolism has almost no eye tissue (24/24 animals had this phenotype). Right, representative individual with slowed metabolism has rescued eye tissue. Of 70 such animals analyzed, 46 had this phenotype, 20 had normal eyes, and 4 had eyes that resembled the left animal. This is a statistically significant difference ($p<0.0001$; Chi square with Yates correction). Error bars, s.d. ****, $p<0.0001$; **, $p<0.01$; *, $p<0.05$; n.s., $p>0.05$}
 \label{fig:metabolism:fig3}
 \end{figure}
@@ -71,7 +71,7 @@ We turned to computational modeling in order to elucidate the biochemical mechan
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=1.0\columnwidth]{./figure_4a}
+\includegraphics[scale=1.0]{./figure_4a}
 \caption[A dynamic model of gene regulation during cell fate determination.]{\textbf{A dynamic model of gene regulation during cell fate determination.} (A) A program of gene expression occurs as a single cell passes through a series of developmental states. The model focuses on transient expression of a single gene within a cascade of gene expression. A state change is defined as the induction of gene expression by upstream gene products (input) and the action of the gene product (output). (B) Schematic representation of the response to a transient input, which can be either an extracellular or intracellular signal. Gene expression output is subject to layers of negative regulation acting at the gene, transcript, and protein levels. (C) Control representation of a single feedback loop as depicted in B. Boxes contain transfer functions, open circles indicate summation points, and closed circles indicate exclusive switches for each repressor. (D) Protein expression may be subject to layers multiple repressors acting in parallel.}
 \label{fig:metabolism:fig4a}
 \end{figure}
@@ -178,7 +178,7 @@ The modeling framework allowed us to ask whether multiple layers of repression a
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=1.0\columnwidth]{./figure_4b}
+\includegraphics[scale=1.0]{./figure_4b}
 \caption[Simulated errors are less frequent when metabolism is reduced.]{\textbf{Simulated developmental errors are less frequent when metabolism is reduced.} (A-C) Simulated emergence of developmental errors. (A) A transient input signal drives (B) pulsatile protein expression dynamics. Simulations may be performed with two post-translational repressors in place (full repression), or with only one repressor in place (partial repression). Shaded regions correspond to the 98\% confidence band of simulated protein trajectories. We define the commitment time as the time needed for 99\% of simulations with full repression to cross a predefined threshold. With partial repression, the protein levels take longer to decay, so fewer simulations cross the threshold within the defined commitment time. We interpret each failure of a simulated protein level to decay below the threshold in time as a developmental error. (C) Error frequency is greater with partial repression. (D) The model suggests that errors will occur more frequently under partial repression regardless of how repressors act on gene expression (left panel). However, partial repression imparts fewer developmental errors when ATP-dependent parameter values are reduced by 50\% (right panel).}
 \label{fig:metabolism:fig4b}
 \end{figure}
@@ -187,7 +187,7 @@ Reduced glucose consumption by cells might not only limit ATP fluxes, but also h
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.75]{./figure_S2b}
+\includegraphics[scale=1.0]{./figure_S2b}
 \caption[Reduced biosynthesis diminishes the frequency of developmental errors.]{\textbf{Partial repression imparts few developmental errors when biosynthesis is reduced.} Construction is equivalent to the right panel of Figure \ref{fig:metabolism:fig4b}D. However, rather than fully reduced energy metabolism, only the RNA and protein synthesis rate parameter values were reduced by 50\%.}
 \label{fig:metabolism:figS2b}
 \end{figure}
@@ -223,7 +223,7 @@ To test this prediction, we expressed in the eye a \textit{yan} mutant transgene
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=1.0\columnwidth]{./figure_6}
+\includegraphics[scale=1.0]{./figure_6}
 \caption[Reduced metabolism cannot compensate for complete loss of repression.]{\textbf{Reduced energy metabolism cannot compensate for complete loss of repression.} (A,B) Simulated expression of protein output both with (purple) and without (grey) any repression of the target gene. Shown are ten randomly chosen samples from a total population of 5000 trajectories for each condition. Error frequencies exceed 99\% irrespective of metabolic conditions. (A) Simulations performed under normal conditions. (B) Simulations performed following a 50\% reduction in the rate of ATP-dependent reactions. (C) Loss of eye tissue in a $yan^{ACT}$ mutant is not suppressed by slower metabolism. Representative individuals were taken from $N>100$ individuals for each condition. (D) Eye patterning in a $yan^{WT}$ control is not affected by slower metabolism. Representative individuals were taken from $N>100$ individuals for each condition.}
 \label{fig:metabolism:fig6}
 \end{figure}
@@ -234,7 +234,7 @@ The coupling of developmental dynamics to time can be explored with other aspect
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=1.0\columnwidth]{./figure_7a}
+\includegraphics[scale=1.0]{./figure_7a}
 \caption[Simulated errors are less frequent when protein synthesis is reduced.]{\textbf{Simulated developmental errors are less frequent when protein synthesis is reduced.} The model predicts increased frequency of error with partial repression regardless of how auxiliary repressors act on gene expression (left panel is copied from \ref{fig:metabolism:fig4b}D). However, partial repression induces fewer errors when protein synthesis-dependent parameter values are reduced by 50\% (right panel).}
 \label{fig:metabolism:fig7a}
 \end{figure}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{316}
+\begin{thebibliography}{317}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -13,11 +13,11 @@ Adam~S Wilkins.
 \bibitem[Editorial(2010)]{Immuno2010}
 Editorial.
 \newblock {Elements of a good decision}.
-\newblock \emph{Nat. Immunol.}, 11\penalty0 (8):\penalty0 645--645, aug 2010.
+\newblock \emph{Nat. Immunol.}, 11\penalty0 (8):\penalty0 645--645, 2010.
 
 \bibitem[Wang et~al.(2009)Wang, Li, Banerjee, and Sarkar]{Wang2009}
 Zhiwei Wang, Yiwei Li, Sanjeev Banerjee, and Fazlul~H. Sarkar.
-\newblock {Emerging role of Notch in stem cells and cancer}, jun 2009.
+\newblock {Emerging role of Notch in stem cells and cancer}, 2009.
 
 \bibitem[Hornberg et~al.(2006)Hornberg, Bruggeman, Westerhoff, and
   Lankelma]{Hornberg2006}
@@ -34,33 +34,33 @@ Thomas~Hunt Morgan.
 G~W Beadle and B~Ephrussi.
 \newblock {The Differentiation of Eye Pigments in Drosophila as Studied by
   Transplantation.}
-\newblock \emph{Genetics}, 21\penalty0 (3):\penalty0 225--47, may 1936.
+\newblock \emph{Genetics}, 21\penalty0 (3):\penalty0 225--47, 1936.
 
 \bibitem[Lewis(1978)]{Lewis1978}
 E.~B. Lewis.
 \newblock {A gene complex controlling segmentation in Drosophila}.
-\newblock \emph{Nature}, 276\penalty0 (5688):\penalty0 565--570, dec 1978.
+\newblock \emph{Nature}, 276\penalty0 (5688):\penalty0 565--570, 1978.
 
 \bibitem[N{\"{u}}sslein-volhard and Wieschaus(1980)]{Nusslein-Volhard1980}
 Christiane N{\"{u}}sslein-volhard and Eric Wieschaus.
 \newblock {Mutations affecting segment number and polarity in drosophila}.
-\newblock \emph{Nature}, 287\penalty0 (5785):\penalty0 795--801, oct 1980.
+\newblock \emph{Nature}, 287\penalty0 (5785):\penalty0 795--801, 1980.
 
 \bibitem[Halder et~al.(2006)Halder, Callaerts, and Gehring]{Halder1995}
 G~Halder, P~Callaerts, and W.~Gehring.
 \newblock {Induction of ectopic eyes by targeted expression of the eyeless gene
   in Drosophila}.
 \newblock \emph{Science (80-. ).}, 267\penalty0 (5205):\penalty0 1788--1792,
-  mar 2006.
+  2006.
 
 \bibitem[Perrimon(1994)]{Perrimon1994}
 Norbert Perrimon.
-\newblock {The genetic basis of patterned baldness in Drosophila}, mar 1994.
+\newblock {The genetic basis of patterned baldness in Drosophila}, 1994.
 
 \bibitem[Bellen et~al.(2010)Bellen, Tong, and Tsuda]{Bellen2010}
 Hugo~J Bellen, Chao Tong, and Hiroshi Tsuda.
 \newblock {100 years of Drosophila research and its impact on vertebrate
-  neuroscience: A history lesson for the future}, jul 2010.
+  neuroscience: A history lesson for the future}, 2010.
 
 \bibitem[Parody and Muskavitch(1993{\natexlab{a}})]{Parody1993a}
 T~R Parody and M.~A~T Muskavitch.
@@ -71,7 +71,7 @@ T~R Parody and M.~A~T Muskavitch.
 
 \bibitem[{Ian Simpson} and Price(2002)]{IanSimpson2002a}
 T.~{Ian Simpson} and David~J. Price.
-\newblock {Pax6; a pleiotropic player in development}, nov 2002.
+\newblock {Pax6; a pleiotropic player in development}, 2002.
 
 \bibitem[Bhanot et~al.(1999)Bhanot, Fish, Jemison, Nusse, Nathans, and
   Cadigan]{Bhanot1999}
@@ -84,7 +84,7 @@ P~Bhanot, M~Fish, J~A Jemison, R~Nusse, J~Nathans, and K~M Cadigan.
 Kartik~S Pappu.
 \newblock {Dual regulation and redundant function of two eye-specific enhancers
   of the Drosophila retinal determination gene dachshund}.
-\newblock \emph{Development}, 132\penalty0 (12):\penalty0 2895--2905, jun 2005.
+\newblock \emph{Development}, 132\penalty0 (12):\penalty0 2895--2905, 2005.
 
 \bibitem[Li and Carthew(2005)]{Li2005}
 Xin Li and Richard~W Carthew.
@@ -94,7 +94,7 @@ Xin Li and Richard~W Carthew.
 
 \bibitem[Beira and Paro(2016)]{Beira2016}
 Jorge~V. Beira and Renato Paro.
-\newblock {The legacy of Drosophila imaginal discs}, sep 2016.
+\newblock {The legacy of Drosophila imaginal discs}, 2016.
 
 \bibitem[Enomoto et~al.(2018)Enomoto, Siow, and Igaki]{Enomoto2018}
 Masato Enomoto, Carmen Siow, and Tatsushi Igaki.
@@ -105,7 +105,7 @@ Masato Enomoto, Carmen Siow, and Tatsushi Igaki.
 \bibitem[Germani et~al.(2018)Germani, Bergantinos, and Johnston]{Germani2018}
 Federico Germani, Cora Bergantinos, and Laura~A Johnston.
 \newblock {Mosaic analysis in Drosophila}.
-\newblock \emph{Genetics}, 208\penalty0 (2):\penalty0 473--490, feb 2018.
+\newblock \emph{Genetics}, 208\penalty0 (2):\penalty0 473--490, 2018.
 
 \bibitem[Levine and Davidson(2005)]{Levine2005}
 M.~Levine and E.~H. Davidson.
@@ -114,7 +114,7 @@ M.~Levine and E.~H. Davidson.
 
 \bibitem[Stathopoulos and Levine(2005)]{Stathopoulos2005}
 Angelike Stathopoulos and Michael Levine.
-\newblock {Genomic regulatory networks and animal development}, oct 2005.
+\newblock {Genomic regulatory networks and animal development}, 2005.
 
 \bibitem[H{\"{u}}lskamp et~al.(1990)H{\"{u}}lskamp, Pfeifle, and
   Tautz]{Hulskamp1990}
@@ -122,16 +122,15 @@ Martin H{\"{u}}lskamp, Christine Pfeifle, and Diethard Tautz.
 \newblock {A morphogenetic gradient of hunchback protein organizes the
   expression of the gap genes Kr{\"{u}}ppel and knirps in the early Drosophila
   embryo}.
-\newblock \emph{Nature}, 346\penalty0 (6284):\penalty0 577--580, aug 1990.
+\newblock \emph{Nature}, 346\penalty0 (6284):\penalty0 577--580, 1990.
 
 \bibitem[H{\"{u}}lskamp and Tautz(1991)]{Hulskamp1991}
 Martin H{\"{u}}lskamp and Diathard Tautz.
-\newblock {Gap genes and gradients – The logic behind the gaps}, jun 1991.
+\newblock {Gap genes and gradients – The logic behind the gaps}, 1991.
 
 \bibitem[Johnston and N{\"{u}}sslein-Volhard(1992)]{Johnston1992}
 Daniel~St Johnston and Christiane N{\"{u}}sslein-Volhard.
-\newblock {The origin of pattern and polarity in the Drosophila embryo}, jan
-  1992.
+\newblock {The origin of pattern and polarity in the Drosophila embryo}, 1992.
 
 \bibitem[Perry et~al.(2011)Perry, Boettiger, and Levine]{Perry2011}
 M.~W. Perry, A.~N. Boettiger, and M.~Levine.
@@ -142,24 +141,23 @@ M.~W. Perry, A.~N. Boettiger, and M.~Levine.
 \bibitem[Struhl and Basler(1993{\natexlab{a}})]{Struhl1993a}
 Gary Struhl and Konrad Basler.
 \newblock {Organizing activity of wingless protein in Drosophila}.
-\newblock \emph{Cell}, 72\penalty0 (4):\penalty0 527--540, feb
-  1993{\natexlab{a}}.
+\newblock \emph{Cell}, 72\penalty0 (4):\penalty0 527--540, 1993{\natexlab{a}}.
 
 \bibitem[Ready et~al.(1976)Ready, Hanson, and Benzer]{Ready1976a}
 Donald~F. Ready, Thomas~E. Hanson, and Seymour Benzer.
 \newblock {Development of the Drosophila retina, a neurocrystalline lattice}.
-\newblock \emph{Dev. Biol.}, 53\penalty0 (2):\penalty0 217--240, oct 1976.
+\newblock \emph{Dev. Biol.}, 53\penalty0 (2):\penalty0 217--240, 1976.
 
 \bibitem[Tomlinson and Ready(1987)]{Tomlinson1987a}
 Andrew Tomlinson and Donald~F. Ready.
 \newblock {Neuronal differentiation in the Drosophila ommatidium}.
-\newblock \emph{Dev. Biol.}, 120\penalty0 (2):\penalty0 366--376, apr 1987.
+\newblock \emph{Dev. Biol.}, 120\penalty0 (2):\penalty0 366--376, 1987.
 
 \bibitem[Voas and Rebay(2004)]{Voas2004}
 Matthew~G. Voas and Ilaria Rebay.
 \newblock {Signal integration during development: insights from the Drosophila
   eye}.
-\newblock \emph{Dev Dyn}, 229\penalty0 (1):\penalty0 162--175, jan 2004.
+\newblock \emph{Dev Dyn}, 229\penalty0 (1):\penalty0 162--175, 2004.
 
 \bibitem[Jarman et~al.(1994)Jarman, Grell, Ackerman, Jan, and Jan]{Jarman1994}
 Andrew~P. Jarman, Ellsworth~H. Grell, Larry Ackerman, Lily~Y. Jan, and Yuh~Nung
@@ -177,20 +175,19 @@ Benjamin~Jay Frankfort and Graeme Mardon.
 Nicholas~E. Baker and Sung-Yun Yu.
 \newblock {Proneural function of neurogenic genes in the developing Drosophila
   eye}.
-\newblock \emph{Curr. Biol.}, 7:\penalty0 122--132, feb 1997.
+\newblock \emph{Curr. Biol.}, 7:\penalty0 122--132, 1997.
 
 \bibitem[Hsiung(2002)]{Hsiung2002}
 F.~Hsiung.
 \newblock {Retinal development in Drosophila: specifying the first neuron}.
-\newblock \emph{Hum. Mol. Genet.}, 11\penalty0 (10):\penalty0 1207--1214, may
-  2002.
+\newblock \emph{Hum. Mol. Genet.}, 11\penalty0 (10):\penalty0 1207--1214, 2002.
 
 \bibitem[Baker et~al.(1990)Baker, Mlodzik, and Rubin]{Baker1990}
 Nicholas~E Baker, Marek Mlodzik, and Gerald~M Rubin.
 \newblock {Spacing differentiation in the developing Drosophila eye: A
   fibrinogen-related lateral inhibitor encoded by scabrous}.
 \newblock \emph{Science (80-. ).}, 250\penalty0 (4986):\penalty0 1370--1377,
-  dec 1990.
+  1990.
 
 \bibitem[Gavish et~al.(2016)Gavish, Shwartz, Weizman, Schejter, Shilo, and
   Barkai]{Gavish2016}
@@ -202,21 +199,20 @@ Avishai Gavish, Arkadi Shwartz, Abraham Weizman, Eyal Schejter, Ben-Zion Shilo,
 
 \bibitem[Ghysen and Dambly‐Chaudi{\`{e}}re(1993)]{Ghysen1993}
 Alain Ghysen and Christine Dambly‐Chaudi{\`{e}}re.
-\newblock {The specification of sensory neuron identity in Drosophila}, may
-  1993.
+\newblock {The specification of sensory neuron identity in Drosophila}, 1993.
 
 \bibitem[Simpson(1997)]{Simpson1997}
 P~Simpson.
 \newblock {Notch signalling in development: on equivalence groups and
   asymmetric developmental potential.}
-\newblock \emph{Curr. Opin. Genet. Dev.}, 7\penalty0 (4):\penalty0 537--42, aug
+\newblock \emph{Curr. Opin. Genet. Dev.}, 7\penalty0 (4):\penalty0 537--42,
   1997.
 
 \bibitem[Elowitz et~al.(2002)Elowitz, Levine, Siggia, and Swain]{Elowitz2002}
 Michael~B Elowitz, Arnold~J Levine, Eric~D Siggia, and Peter~S Swain.
 \newblock {Stochastic gene expression in a single cell}.
 \newblock \emph{Science (80-. ).}, 297\penalty0 (5584):\penalty0 1183--1186,
-  aug 2002.
+  2002.
 
 \bibitem[Raj et~al.(2010)Raj, Rifkin, Andersen, and van Oudenaarden]{Raj2010}
 Arjun Raj, Scott~A. Rifkin, Erik Andersen, and Alexander van Oudenaarden.
@@ -231,7 +227,7 @@ Malte Paulsen, Stefan Legewie, Roland Eils, Emil Karaulanov, and Christof
   synexpression group governs its dynamic signaling range and canalizes
   development}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 108\penalty0 (25):\penalty0
-  10202--10207, jun 2011.
+  10202--10207, 2011.
 
 \bibitem[Burga et~al.(2011)Burga, Casanueva, and Lehner]{Burga2011}
 Alejandro Burga, M~Olivia Casanueva, and Ben Lehner.
@@ -254,7 +250,7 @@ Nicol{\'{a}}s Pel{\'{a}}ez, Arnau Gavalda-Miralles, Bao Wang, Heliodoro~Tejedor
   Katsaggelos, Lu{\'{i}}s A.~Nunes Amaral, and Richard~W. Carthew.
 \newblock {Dynamics and heterogeneity of a fate determinant during transition
   towards cell differentiation}.
-\newblock \emph{Elife}, 4, nov 2015.
+\newblock \emph{Elife}, 4, 2015.
 
 \bibitem[Lazebnik(2004)]{Lazebnik2004}
 Y.~Lazebnik.
@@ -265,17 +261,17 @@ Y.~Lazebnik.
   Heisenberg]{Oates2009}
 Andrew~C. Oates, Nicole Gorfinkiel, Marcos Gonz{\'{a}}lez-Gait{\'{a}}n, and
   Carl~Philipp Heisenberg.
-\newblock {Quantitative approaches in developmental biology}, aug 2009.
+\newblock {Quantitative approaches in developmental biology}, 2009.
 
 \bibitem[Herring et~al.(2018)Herring, Chen, McKinley, and Lau]{Herring2018}
 Charles~A. Herring, Bob Chen, Eliot~T. McKinley, and Ken~S. Lau.
 \newblock {Single-Cell Computational Strategies for Lineage Reconstruction in
-  Tissue Systems}, jan 2018.
+  Tissue Systems}, 2018.
 
 \bibitem[Keller(2013)]{Keller2013}
 Philipp~J Keller.
 \newblock {Imaging morphogenesis: Technological advances and biological
-  insights}, jun 2013.
+  insights}, 2013.
 
 \bibitem[Sbalzarini(2016)]{Sbalzarini2016}
 Ivo~F. Sbalzarini.
@@ -319,7 +315,7 @@ Brian Munsky, Karen~Tkach Tuzman, Dirk Fey, Maciej Dobrzynski, Boris~N.
 Christopher~L. Frick, Clare Yarka, Harry Nunns, and Lea Goentoro.
 \newblock {Sensing relative signal in the Tgf-$\beta$/Smad pathway}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 114\penalty0 (14):\penalty0
-  E2975--E2982, mar 2017.
+  E2975--E2982, 2017.
 
 \bibitem[Wolff et~al.(2018)Wolff, Kedziora, Dumitru, Dungee, Zikry, Beltran,
   Haggerty, Cheng, Redick, and Purvis]{Wolff2018}
@@ -328,14 +324,14 @@ Samuel~C. Wolff, Kasia~M. Kedziora, Raluca Dumitru, Cierra~D. Dungee, Tarek~M.
   Redick, and Jeremy~E. Purvis.
 \newblock {Inheritance of OCT4 predetermines fate choice in human embryonic
   stem cells}.
-\newblock \emph{Mol. Syst. Biol.}, 14\penalty0 (9):\penalty0 e8140, jan 2018.
+\newblock \emph{Mol. Syst. Biol.}, 14\penalty0 (9):\penalty0 e8140, 2018.
 
 \bibitem[Petkova et~al.(2019)Petkova, Tka{\v{c}}ik, Bialek, Wieschaus, and
   Gregor]{Petkova2019}
 Mariela~D. Petkova, Ga{\v{s}}per Tka{\v{c}}ik, William Bialek, Eric~F.
   Wieschaus, and Thomas Gregor.
 \newblock {Optimal Decoding of Cellular Identities in a Genetic Network}.
-\newblock \emph{Cell}, 176\penalty0 (4):\penalty0 844--855.e15, feb 2019.
+\newblock \emph{Cell}, 176\penalty0 (4):\penalty0 844--855.e15, 2019.
 
 \bibitem[Aghaeepour et~al.(2013)Aghaeepour, Finak, Hoos, Mosmann, Brinkman,
   Gottardo, Scheuermann, Dougall, Khodabakhshi, Mah, Obermoser, Spidlen,
@@ -373,7 +369,7 @@ Nima Aghaeepour, Greg Finak, Holger Hoos, Tim~R Mosmann, Ryan Brinkman, Raphael
   Strickert, and Jose~M.G. Vilar.
 \newblock {Critical assessment of automated flow cytometry data analysis
   techniques}.
-\newblock \emph{Nat. Methods}, 10\penalty0 (3):\penalty0 228--238, mar 2013.
+\newblock \emph{Nat. Methods}, 10\penalty0 (3):\penalty0 228--238, 2013.
 
 \bibitem[Chen et~al.(2015)Chen, Hasan, Libri, Urrutia, Beitz, Rouilly, Duffy,
   Patin, Chalmond, Rogge, Quintana-Murci, Albert, and Schwikowski]{Chen2015}
@@ -382,7 +378,7 @@ Xiaoyi Chen, Milena Hasan, Valentina Libri, Alejandra Urrutia, Beno{\^{i}}t
   Lars Rogge, Lluis Quintana-Murci, Matthew~L. Albert, and Benno Schwikowski.
 \newblock {Automated flow cytometric analysis across large numbers of samples
   and cell types}.
-\newblock \emph{Clin. Immunol.}, 157\penalty0 (2):\penalty0 249--260, apr 2015.
+\newblock \emph{Clin. Immunol.}, 157\penalty0 (2):\penalty0 249--260, 2015.
 
 \bibitem[Pyne et~al.(2009)Pyne, Maier, Lin, Wang, Rossin, Hu, Tamayo, Hafler,
   {De Jager}, McLachlan, Baecher-Allan, and Mesirov]{Pyne2009}
@@ -391,7 +387,7 @@ Saumyadipta Pyne, Lisa~M Maier, T.-I Lin, Kui Wang, Elizabeth Rossin, Xinli Hu,
   Clare Baecher-Allan, and Jill~P Mesirov.
 \newblock {Automated high-dimensional flow cytometric data analysis}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 106\penalty0 (21):\penalty0
-  8519--8524, may 2009.
+  8519--8524, 2009.
 
 \bibitem[Bernstein et~al.(2008)Bernstein, Brown, Johnson, Liu, Nussbaum, Myers,
   Liu, Li, Meyer, Eeckhoute, and Zhang]{Bernstein2008}
@@ -399,7 +395,7 @@ Bradley~E Bernstein, Myles Brown, David~S Johnson, X~Shirley Liu, Chad
   Nussbaum, Richard~M Myers, Tao Liu, Wei Li, Clifford~A Meyer,
   J{\'{e}}r{\^{o}}me Eeckhoute, and Yong Zhang.
 \newblock {Model-based Analysis of ChIP-Seq (MACS)}.
-\newblock \emph{Genome Biol.}, 9\penalty0 (9):\penalty0 R137, sep 2008.
+\newblock \emph{Genome Biol.}, 9\penalty0 (9):\penalty0 R137, 2008.
 
 \bibitem[Hellemans et~al.(2007)Hellemans, Mortier, {De Paepe}, Speleman, and
   Vandesompele]{Hellemans2007}
@@ -407,18 +403,17 @@ Jan Hellemans, Geert Mortier, Anne {De Paepe}, Frank Speleman, and
   Jo~Vandesompele.
 \newblock {qBase relative quantification framework and software for management
   and automated analysis of real-time quantitative PCR data}.
-\newblock \emph{Genome Biol.}, 8\penalty0 (2), feb 2007.
+\newblock \emph{Genome Biol.}, 8\penalty0 (2), 2007.
 
 \bibitem[Langmead and Salzberg(2012)]{Langmead2012}
 Ben Langmead and Steven~L Salzberg.
 \newblock {Fast gapped-read alignment with Bowtie 2.}
-\newblock \emph{Nat. Methods}, 9\penalty0 (4):\penalty0 357--9, apr 2012.
+\newblock \emph{Nat. Methods}, 9\penalty0 (4):\penalty0 357--9, 2012.
 
 \bibitem[Trapnell et~al.(2009)Trapnell, Pachter, and Salzberg]{Trapnell2009}
 Cole Trapnell, Lior Pachter, and Steven~L. Salzberg.
 \newblock {TopHat: Discovering splice junctions with RNA-Seq}.
-\newblock \emph{Bioinformatics}, 25\penalty0 (9):\penalty0 1105--1111, may
-  2009.
+\newblock \emph{Bioinformatics}, 25\penalty0 (9):\penalty0 1105--1111, 2009.
 
 \bibitem[Costes et~al.(2004)Costes, Daelemans, Cho, Dobbin, Pavlakis, and
   Lockett]{Costes2004}
@@ -426,7 +421,7 @@ Sylvain~V. Costes, Dirk Daelemans, Edward~H. Cho, Zachary Dobbin, George
   Pavlakis, and Stephen Lockett.
 \newblock {Automatic and quantitative measurement of protein-protein
   colocalization in live cells}.
-\newblock \emph{Biophys. J.}, 86\penalty0 (6):\penalty0 3993--4003, jun 2004.
+\newblock \emph{Biophys. J.}, 86\penalty0 (6):\penalty0 3993--4003, 2004.
 
 \bibitem[Kelley et~al.(2015)Kelley, Mezulis, Yates, Wass, and
   Sternberg]{Kelley2015}
@@ -434,7 +429,7 @@ Lawrence~A Kelley, Stefans Mezulis, Christopher~M Yates, Mark~N Wass, and
   Michael~J.E. Sternberg.
 \newblock {The Phyre2 web portal for protein modeling, prediction and
   analysis}.
-\newblock \emph{Nat. Protoc.}, 10\penalty0 (6):\penalty0 845--858, jun 2015.
+\newblock \emph{Nat. Protoc.}, 10\penalty0 (6):\penalty0 845--858, 2015.
 
 \bibitem[Carpenter et~al.(2006)Carpenter, Jones, Lamprecht, Clarke, Kang,
   Friman, Guertin, Chang, Lindquist, Moffat, Golland, and
@@ -444,7 +439,7 @@ Anne~E Carpenter, Thouis~R Jones, Michael~R Lamprecht, Colin Clarke, In~Han
   Moffat, Polina Golland, and David~M Sabatini.
 \newblock {CellProfiler: Image analysis software for identifying and
   quantifying cell phenotypes}.
-\newblock \emph{Genome Biol.}, 7\penalty0 (10):\penalty0 R100, oct 2006.
+\newblock \emph{Genome Biol.}, 7\penalty0 (10):\penalty0 R100, 2006.
 
 \bibitem[Paintdakhi et~al.(2016)Paintdakhi, Parry, Campos, Irnov, Elf,
   Surovtsev, and Jacobs-Wagner]{Paintdakhi2016}
@@ -452,7 +447,7 @@ Ahmad Paintdakhi, Bradley Parry, Manuel Campos, Irnov Irnov, Johan Elf, Ivan
   Surovtsev, and Christine Jacobs-Wagner.
 \newblock {Oufti: An integrated software package for high-accuracy,
   high-throughput quantitative microscopy analysis}.
-\newblock \emph{Mol. Microbiol.}, 99\penalty0 (4):\penalty0 767--777, feb 2016.
+\newblock \emph{Mol. Microbiol.}, 99\penalty0 (4):\penalty0 767--777, 2016.
 
 \bibitem[Schindelin et~al.(2012)Schindelin, Arganda-Carreras, Frise, Kaynig,
   Longair, Pietzsch, Preibisch, Rueden, Saalfeld, Schmid, Tinevez, White,
@@ -461,30 +456,29 @@ Johannes Schindelin, Ignacio Arganda-Carreras, Erwin Frise, Verena Kaynig, Mark
   Longair, Tobias Pietzsch, Stephan Preibisch, Curtis Rueden, Stephan Saalfeld,
   Benjamin Schmid, Jean~Yves Tinevez, Daniel~James White, Volker Hartenstein,
   Kevin Eliceiri, Pavel Tomancak, and Albert Cardona.
-\newblock {Fiji: An open-source platform for biological-image analysis}, jul
-  2012.
+\newblock {Fiji: An open-source platform for biological-image analysis}, 2012.
 
 \bibitem[Sommer et~al.(2011)Sommer, Straehle, Kothe, and Hamprecht]{Sommer2011}
 Christoph Sommer, Christoph Straehle, Ullrich Kothe, and Fred~A. Hamprecht.
 \newblock {Ilastik: Interactive learning and segmentation toolkit}.
 \newblock In \emph{Proc. - Int. Symp. Biomed. Imaging}, pages 230--233. IEEE,
-  mar 2011.
+  2011.
 
 \bibitem[Schindelin et~al.(2015)Schindelin, Rueden, Hiner, and
   Eliceiri]{Schindelin2015}
 Johannes Schindelin, Curtis~T. Rueden, Mark~C. Hiner, and Kevin~W. Eliceiri.
 \newblock {The ImageJ ecosystem: An open platform for biomedical image
-  analysis}, jul 2015.
+  analysis}, 2015.
 
 \bibitem[Jug et~al.(2014)Jug, Pietzsch, Preibisch, and Tomancak]{Jug2014}
 Florian Jug, Tobias Pietzsch, Stephan Preibisch, and Pavel Tomancak.
 \newblock {Bioimage Informatics in the context of Drosophila research}.
-\newblock \emph{Methods}, 68\penalty0 (1):\penalty0 60--73, jun 2014.
+\newblock \emph{Methods}, 68\penalty0 (1):\penalty0 60--73, 2014.
 
 \bibitem[Barkai and Leibler(1997)]{Barkai1997b}
 N.~Barkai and S.~Leibler.
 \newblock {Robustness in simple biochemical networks}.
-\newblock \emph{Nature}, 387\penalty0 (6636):\penalty0 913--917, jun 1997.
+\newblock \emph{Nature}, 387\penalty0 (6636):\penalty0 913--917, 1997.
 
 \bibitem[Yu et~al.(2008)Yu, Pesce, Colman-Lerner, Lok, Pincus, Serra, Holl,
   Benjamin, Gordon, and Brent]{Yu2008a}
@@ -533,17 +527,17 @@ Neta Rahimi, Inna Averbukh, Michal Haskel-Ittah, Neta Degani, Eyal~D Schejter,
 Dirk Benzinger and Mustafa Khammash.
 \newblock {Pulsatile inputs achieve tunable attenuation of gene expression
   variability and graded multi-gene regulation}.
-\newblock \emph{Nat. Commun.}, 9\penalty0 (1):\penalty0 3521, dec 2018.
+\newblock \emph{Nat. Commun.}, 9\penalty0 (1):\penalty0 3521, 2018.
 
 \bibitem[Adler and Alon(2018)]{Adler2018}
 Miri Adler and Uri Alon.
 \newblock {Fold-change detection in biological systems}.
-\newblock \emph{Curr. Opin. Syst. Biol.}, 8:\penalty0 81--89, apr 2018.
+\newblock \emph{Curr. Opin. Syst. Biol.}, 8:\penalty0 81--89, 2018.
 
 \bibitem[Yordanov and Stelling(2018)]{Yordanov2018}
 Pencho Yordanov and J{\"{o}}rg Stelling.
 \newblock {Steady-State Differential Dose Response in Biological Systems}.
-\newblock \emph{Biophys. J.}, 114\penalty0 (3):\penalty0 723--736, feb 2018.
+\newblock \emph{Biophys. J.}, 114\penalty0 (3):\penalty0 723--736, 2018.
 
 \bibitem[Lubensky et~al.(2011)Lubensky, Pennington, Shraiman, and
   Baker]{Lubensky2011}
@@ -583,7 +577,7 @@ Ilaria Rebay and Gerald~M. Rubin.
 Thomas G.~W. Graham, S.~M.~Ali Tabei, Aaron~R. Dinner, and Ilaria Rebay.
 \newblock {Modeling bistable cell-fate choices in the Drosophila eye:
   qualitative and quantitative perspectives}.
-\newblock \emph{Development}, 137\penalty0 (14):\penalty0 2265--78, jul 2010.
+\newblock \emph{Development}, 137\penalty0 (14):\penalty0 2265--78, 2010.
 
 \bibitem[Shwartz et~al.(2013)Shwartz, Yogev, Schejter, and Shilo]{Shwartz2013}
 Arkadi Shwartz, Shaul Yogev, Eyal~D. Schejter, and Ben-Zion Shilo.
@@ -598,7 +592,7 @@ Jean-Fran{\c{c}}ois {Boisclair Lachance}, Nicol{\'{a}}s Pel{\'{a}}ez, Justin~J.
 \newblock {A comparative study of Pointed and Yan expression reveals new
   complexity to the transcriptional networks downstream of receptor tyrosine
   kinase signaling}.
-\newblock \emph{Dev. Biol.}, 385:\penalty0 263--278, jan 2014.
+\newblock \emph{Dev. Biol.}, 385:\penalty0 263--278, 2014.
 
 \bibitem[Freeman(2000)]{Freeman2000}
 Matthew Freeman.
@@ -640,7 +634,7 @@ Tau-Mu Yi, Hiroaki Kitano, and Melvin~I Simon.
 
 \bibitem[Khammash(2016)]{Khammash2016}
 Mustafa Khammash.
-\newblock {An engineering viewpoint on biological robustness}, mar 2016.
+\newblock {An engineering viewpoint on biological robustness}, 2016.
 
 \bibitem[Cassidy et~al.(2016)Cassidy, Straughan, and Carthew]{Cassidy2016a}
 Justin~J. Cassidy, Alexander~J. Straughan, and Richard~W. Carthew.
@@ -754,7 +748,7 @@ Hiroaki Kitano.
   Doyle]{Stelling2004}
 J{\"{o}}rg Stelling, Uwe Sauer, Zoltan Szallasi, Francis~J. Doyle, and John
   Doyle.
-\newblock {Robustness of cellular functions}, sep 2004.
+\newblock {Robustness of cellular functions}, 2004.
 
 \bibitem[Siegal and Leu(2014)]{Siegal2014}
 Mark~L Siegal and Jun-Yi Leu.
@@ -805,22 +799,22 @@ Andreas Wagner.
 Dale Muzzey and Alexander van Oudenaarden.
 \newblock {Quantitative Time-Lapse Fluorescence Microscopy in Single Cells}.
 \newblock \emph{Annu. Rev. Cell Dev. Biol.}, 25\penalty0 (1):\penalty0
-  301--327, nov 2009.
+  301--327, 2009.
 
 \bibitem[Stelzer(2014)]{Stelzer2014}
 Ernst H~K Stelzer.
 \newblock {Light-sheet fluorescence microscopy for quantitative biology}.
-\newblock \emph{Nat. Methods}, 12\penalty0 (1):\penalty0 23--26, dec 2014.
+\newblock \emph{Nat. Methods}, 12\penalty0 (1):\penalty0 23--26, 2014.
 
 \bibitem[Truong and Supatto(2011)]{Truong2011}
 Thai~V. Truong and Willy Supatto.
 \newblock {Toward high-content/high-throughput imaging and analysis of
   embryonic morphogenesis}.
-\newblock \emph{Genesis}, 49\penalty0 (7):\penalty0 555--569, jul 2011.
+\newblock \emph{Genesis}, 49\penalty0 (7):\penalty0 555--569, 2011.
 
 \bibitem[Simpson and Price(2002)]{IanSimpson2002}
 Ian~T. Simpson and David~J. Price.
-\newblock {Pax6; a pleiotropic player in development}, nov 2002.
+\newblock {Pax6; a pleiotropic player in development}, 2002.
 
 \bibitem[Parody and Muskavitch(1993{\natexlab{b}})]{Parody1993}
 T~R Parody and M.~A~T Muskavitch.
@@ -832,30 +826,30 @@ T~R Parody and M.~A~T Muskavitch.
 \bibitem[Shilo and Raz(1991)]{Shilo1991}
 Ben~Zion Shilo and Erez Raz.
 \newblock {Developmental control by the Drosophila EGF receptor homolog DER},
-  nov 1991.
+  1991.
 
 \bibitem[Xu and Rubin(1993)]{Xu1993}
 T~Xu and G~M Rubin.
 \newblock {Analysis of genetic mosaics in developing and adult Drosophila
   tissues.}
-\newblock \emph{Development}, 117\penalty0 (4):\penalty0 1223--37, apr 1993.
+\newblock \emph{Development}, 117\penalty0 (4):\penalty0 1223--37, 1993.
 
 \bibitem[Xu and Rubin(2012)]{Xu2012}
 Tian Xu and Gerald~M Rubin.
 \newblock {The effort to make mosaic analysis a household tool}.
-\newblock \emph{Development}, 139\penalty0 (24):\penalty0 4501--4503, dec 2012.
+\newblock \emph{Development}, 139\penalty0 (24):\penalty0 4501--4503, 2012.
 
 \bibitem[Newsome et~al.(2000)Newsome, Asling, and Dickson]{Newsome2000}
 T~P Newsome, B~Asling, and B~J Dickson.
 \newblock {Analysis of Drosophila photoreceptor axon guidance in eye-specific
   mosaics.}
-\newblock \emph{Development}, 127\penalty0 (4):\penalty0 851--60, feb 2000.
+\newblock \emph{Development}, 127\penalty0 (4):\penalty0 851--60, 2000.
 
 \bibitem[Theodosiou and Xu(1998)]{Theodosiou1998}
 Nicole~A. Theodosiou and Tian Xu.
 \newblock {Use of FLP/FRT system to study Drosophila development}.
 \newblock \emph{Methods A Companion to Methods Enzymol.}, 14\penalty0
-  (4):\penalty0 355--365, apr 1998.
+  (4):\penalty0 355--365, 1998.
 
 \bibitem[Struhl and Basler(1993{\natexlab{b}})]{Struhl1993}
 Gary Struhl and Konrad Basler.
@@ -866,32 +860,32 @@ Gary Struhl and Konrad Basler.
 K~Halfar, C~Rommel, H~Stocker, and E~Hafen.
 \newblock {Ras controls growth, survival and differentiation in the Drosophila
   eye by different thresholds of MAP kinase activity.}
-\newblock \emph{Development}, 128\penalty0 (9):\penalty0 1687--96, may 2001.
+\newblock \emph{Development}, 128\penalty0 (9):\penalty0 1687--96, 2001.
 
 \bibitem[Tomlinson and Struhl(2001)]{Tomlinson2001}
 A~Tomlinson and G~Struhl.
 \newblock {Delta/Notch and Boss/Sevenless signals act combinatorially to
   specify the Drosophila R7 photoreceptor.}
-\newblock \emph{Mol. Cell}, 7\penalty0 (3):\penalty0 487--95, mar 2001.
+\newblock \emph{Mol. Cell}, 7\penalty0 (3):\penalty0 487--95, 2001.
 
 \bibitem[Yang and Baker(2001)]{Yang2001}
 L~Yang and N~E Baker.
 \newblock {Role of the EGFR/Ras/Raf pathway in specification of photoreceptor
   cells in the Drosophila retina.}
-\newblock \emph{Development}, 128\penalty0 (7):\penalty0 1183--91, apr 2001.
+\newblock \emph{Development}, 128\penalty0 (7):\penalty0 1183--91, 2001.
 
 \bibitem[Huang et~al.(2005)Huang, Wu, Barrera, Matthews, and Pan]{Huang2005}
 Jianbin Huang, Shian Wu, Jose Barrera, Krista Matthews, and Duojia Pan.
 \newblock {The Hippo signaling pathway coordinately regulates cell
   proliferation and apoptosis by inactivating Yorkie, the Drosophila homolog of
   YAP}.
-\newblock \emph{Cell}, 122\penalty0 (3):\penalty0 421--434, aug 2005.
+\newblock \emph{Cell}, 122\penalty0 (3):\penalty0 421--434, 2005.
 
 \bibitem[Thompson and Cohen(2006)]{Thompson2006}
 Barry~J. Thompson and Stephen~M. Cohen.
 \newblock {The Hippo Pathway Regulates the bantam microRNA to Control Cell
   Proliferation and Apoptosis in Drosophila}.
-\newblock \emph{Cell}, 126\penalty0 (4):\penalty0 767--774, aug 2006.
+\newblock \emph{Cell}, 126\penalty0 (4):\penalty0 767--774, 2006.
 
 \bibitem[Atkins(2019)]{Atkins2019}
 Mardelle Atkins.
@@ -903,7 +897,7 @@ Mardelle Atkins.
 Wei Dai, Amy Peterson, Thomas Kenney, Haley Burrous, and Denise~J. Montell.
 \newblock {Quantitative microscopy of the Drosophila ovary shows multiple niche
   signals specify progenitor cell fate}.
-\newblock \emph{Nat. Commun.}, 8\penalty0 (1):\penalty0 1244, dec 2017.
+\newblock \emph{Nat. Commun.}, 8\penalty0 (1):\penalty0 1244, 2017.
 
 \bibitem[Bernasek et~al.(2018)Bernasek, Lachance, Pel{\'{a}}ez, Bakker,
   Navarro, Amaral, Bagheri, Rebay, and Carthew]{Bernasek2018}
@@ -912,7 +906,7 @@ Sebastian~M. Bernasek, Jean-Fran{\c{c}}ois~Boisclair Lachance, Nicol{\'{a}}s
   Neda Bagheri, Ilaria Rebay, and Richard~W. Carthew.
 \newblock {Ratio-based sensing of two transcription factors regulates the
   transit to differentiation}.
-\newblock \emph{bioRxiv}, page 430744, sep 2018.
+\newblock \emph{bioRxiv}, page 430744, 2018.
 
 \bibitem[Ghiglione et~al.(2018)Ghiglione, Jouandin, C{\'{e}}r{\'{e}}zo, and
   Noselli]{Ghiglione2018}
@@ -920,7 +914,7 @@ Christian Ghiglione, Patrick Jouandin, Delphine C{\'{e}}r{\'{e}}zo, and
   St{\'{e}}phane Noselli.
 \newblock {The Drosophila insulin pathway controls Profilin expression and
   dynamic actin-rich protrusions during collective cell migration}.
-\newblock \emph{Development}, 145\penalty0 (14):\penalty0 dev161117, jul 2018.
+\newblock \emph{Development}, 145\penalty0 (14):\penalty0 dev161117, 2018.
 
 \bibitem[Li and Baker(2018)]{Li2018}
 Ke~Li and Nicholas~E Baker.
@@ -933,7 +927,7 @@ Ke~Li and Nicholas~E Baker.
 Kirsten Bacia, Zden{\v{e}}k Petr{\'{a}}{\v{s}}ek, and Petra Schwille.
 \newblock {Correcting for spectral cross-talk in dual-color fluorescence
   cross-correlation spectroscopy}.
-\newblock \emph{ChemPhysChem}, 13\penalty0 (5):\penalty0 1221--1231, apr 2012.
+\newblock \emph{ChemPhysChem}, 13\penalty0 (5):\penalty0 1221--1231, 2012.
 
 \bibitem[Elangovan et~al.(2003)Elangovan, Wallrabe, Chen, Day, Barroso, and
   Periasamy]{Elangovan2003}
@@ -941,26 +935,26 @@ Masilamani Elangovan, Horst Wallrabe, Ye~Chen, Richard~N. Day, Margarida
   Barroso, and Ammasi Periasamy.
 \newblock {Characterization of one- and two-photon excitation fluorescence
   resonance energy transfer microscopy}.
-\newblock \emph{Methods}, 29\penalty0 (1):\penalty0 58--73, jan 2003.
+\newblock \emph{Methods}, 29\penalty0 (1):\penalty0 58--73, 2003.
 
 \bibitem[Mort(2009)]{Mort2009}
 Richard~L. Mort.
 \newblock {Quantitative analysis of patch patterns in mosaic tissues with
   ClonalTools software}.
-\newblock \emph{J. Anat.}, 215\penalty0 (6):\penalty0 698--704, dec 2009.
+\newblock \emph{J. Anat.}, 215\penalty0 (6):\penalty0 698--704, 2009.
 
 \bibitem[Helmuth et~al.(2010)Helmuth, Paul, and Sbalzarini]{Helmuth2010}
 Jo~A Helmuth, Gr{\'{e}}gory Paul, and Ivo~F Sbalzarini.
 \newblock {Beyond co-localization: Inferring spatial interactions between
   sub-cellular structures from microscopy images}.
-\newblock \emph{BMC Bioinformatics}, 11\penalty0 (1):\penalty0 372, jul 2010.
+\newblock \emph{BMC Bioinformatics}, 11\penalty0 (1):\penalty0 372, 2010.
 
 \bibitem[Shivanandan et~al.(2013)Shivanandan, Radenovic, and
   Sbalzarini]{Shivanandan2013}
 Arun Shivanandan, Aleksandra Radenovic, and Ivo~F Sbalzarini.
 \newblock {MosaicIA: An ImageJ/Fiji plugin for spatial pattern and interaction
   analysis}.
-\newblock \emph{BMC Bioinformatics}, 14\penalty0 (1):\penalty0 349, dec 2013.
+\newblock \emph{BMC Bioinformatics}, 14\penalty0 (1):\penalty0 349, 2013.
 
 \bibitem[van~der Walt et~al.(2014)van~der Walt, Sch{\"{o}}nberger,
   Nunez-Iglesias, Boulogne, Warner, Yager, Gouillart, and Yu]{VanderWalt2014}
@@ -982,7 +976,7 @@ Milica Bugarski, Maysam Mansouri, Axel Niemann, Aur{\'{e}}lien Rizk, Philipp
   Paul.
 \newblock {Segmentation and quantification of subcellular structures in
   fluorescence microscopy images using Squassh}.
-\newblock \emph{Nat. Protoc.}, 9\penalty0 (3):\penalty0 586--596, mar 2014.
+\newblock \emph{Nat. Protoc.}, 9\penalty0 (3):\penalty0 586--596, 2014.
 
 \bibitem[Zinchuk et~al.(2007)Zinchuk, Zinchuk, and Okada]{Zinchuk2007}
 Vadim Zinchuk, Olga Zinchuk, and Teruhiko Okada.
@@ -996,20 +990,20 @@ Vadim Zinchuk, Olga Zinchuk, and Teruhiko Okada.
 Paul~T. Arsenovic, Carl~R. Mayer, and Daniel~E. Conway.
 \newblock {SensorFRET: A Standardless Approach to Measuring Pixel-based
   Spectral Bleed-through and FRET Efficiency using Spectral Imaging}.
-\newblock \emph{Sci. Rep.}, 7\penalty0 (1), dec 2017.
+\newblock \emph{Sci. Rep.}, 7\penalty0 (1), 2017.
 
 \bibitem[Kim et~al.(2013)Kim, Curthoys, Parent, and Hess]{Kim2013}
 Dahan Kim, Nikki~M Curthoys, Matthew~T Parent, and Samuel~T Hess.
 \newblock {Bleed-through correction for rendering and correlation analysis in
   multi-colour localization microscopy}.
-\newblock \emph{J. Opt.}, 15\penalty0 (9), sep 2013.
+\newblock \emph{J. Opt.}, 15\penalty0 (9), 2013.
 
 \bibitem[McMullen et~al.(2010)McMullen, Morimoto, and Amaral]{McMullen2010}
 Patrick~D. McMullen, Richard~I. Morimoto, and Lu{\'{i}}s A.~Nunes Amaral.
 \newblock {Physically grounded approach for estimating gene expression from
   microarray data}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 107\penalty0 (31):\penalty0
-  13690--13695, aug 2010.
+  13690--13695, 2010.
 
 \bibitem[Furusawa et~al.(2005)Furusawa, Suzuki, Kashiwagi, Yomo, and
   Kaneko]{Furusawa2005}
@@ -1023,13 +1017,12 @@ Chikara Furusawa, Takao Suzuki, Akiko Kashiwagi, Tetsuya Yomo, and Kunihiko
 Jacob Beal.
 \newblock {Biochemical complexity drives log-normal variation in genetic
   expression}.
-\newblock \emph{Eng. Biol.}, 1\penalty0 (1):\penalty0 55--60, jun 2017.
+\newblock \emph{Eng. Biol.}, 1\penalty0 (1):\penalty0 55--60, 2017.
 
 \bibitem[Teicher(1963)]{Teicher1963}
 Henry Teicher.
 \newblock {Identifiability of Finite Mixtures}.
-\newblock \emph{Ann. Math. Stat.}, 34\penalty0 (4):\penalty0 1265--1269, dec
-  1963.
+\newblock \emph{Ann. Math. Stat.}, 34\penalty0 (4):\penalty0 1265--1269, 1963.
 
 \bibitem[Rosvall et~al.(2009)Rosvall, Axelsson, and Bergstrom]{Rosvall2009}
 M.~Rosvall, D.~Axelsson, and C.~T. Bergstrom.
@@ -1044,8 +1037,7 @@ Leo Katz.
 \bibitem[Kamada and Kawai(1989)]{Kamada1989}
 Tomihisa Kamada and Satoru Kawai.
 \newblock {An algorithm for drawing general undirected graphs}.
-\newblock \emph{Inf. Process. Lett.}, 31\penalty0 (1):\penalty0 7--15, apr
-  1989.
+\newblock \emph{Inf. Process. Lett.}, 31\penalty0 (1):\penalty0 7--15, 1989.
 
 \bibitem[Gaudette and Japkowicz(2009)]{Gaudette2009}
 Lisa Gaudette and Nathalie Japkowicz.
@@ -1058,14 +1050,14 @@ Thanh~Minh Nguyen and Q.~M.Jonathan Wu.
 \newblock {Gaussian mixture-model-based spatial neighborhood relationships for
   pixel labeling problems}.
 \newblock \emph{IEEE Trans. Syst. Man. Cybern.}, 42\penalty0 (1):\penalty0
-  193--202, feb 2012.
+  193--202, 2012.
 
 \bibitem[Gambis et~al.(2011)Gambis, Dourlen, Steller, and
   Mollereau]{Gambis2011}
 Alexis Gambis, Pierre Dourlen, Hermann Steller, and Bertrand Mollereau.
 \newblock {Two-color in vivo imaging of photoreceptor apoptosis and development
   in Drosophila}.
-\newblock \emph{Dev. Biol.}, 351\penalty0 (1):\penalty0 128--134, mar 2011.
+\newblock \emph{Dev. Biol.}, 351\penalty0 (1):\penalty0 128--134, 2011.
 
 \bibitem[Dourlen et~al.(2013)Dourlen, Levet, Mejat, Gambis, and
   Mollereau]{Dourlen2013}
@@ -1073,7 +1065,7 @@ Pierre Dourlen, Clemence Levet, Alexandre Mejat, Alexis Gambis, and Bertrand
   Mollereau.
 \newblock {The Tomato/GFP-FLP/FRT Method for Live Imaging of Mosaic Adult
   Drosophila Photoreceptor Cells}.
-\newblock \emph{J. Vis. Exp.}, 79, sep 2013.
+\newblock \emph{J. Vis. Exp.}, 79, 2013.
 
 \bibitem[Fisher et~al.(2017)Fisher, Yang, Isaacman-Beck, Xie, Gohl, and
   Clandinin]{Fisher2017}
@@ -1086,13 +1078,13 @@ Yvette~E Fisher, Helen~H Yang, Jesse Isaacman-Beck, Marjorie Xie, Daryl~M Gohl,
 Joy~S Wu and Liqun Luo.
 \newblock {A protocol for mosaic analysis with a repressible cell marker
   (MARCM) in Drosophila}.
-\newblock \emph{Nat. Protoc.}, 1\penalty0 (6):\penalty0 2583--2589, jan 2007.
+\newblock \emph{Nat. Protoc.}, 1\penalty0 (6):\penalty0 2583--2589, 2007.
 
 \bibitem[Zhou et~al.(2016)Zhou, Neal, and Pignoni]{Zhou2016}
 Qingxiang Zhou, Scott~J. Neal, and Francesca Pignoni.
 \newblock {Mutant analysis by rescue gene excision: New tools for mosaic
   studies in Drosophila}.
-\newblock \emph{Genesis}, 54\penalty0 (11):\penalty0 589--592, nov 2016.
+\newblock \emph{Genesis}, 54\penalty0 (11):\penalty0 589--592, 2016.
 
 \bibitem[Heffern et~al.(2009)Heffern, Perrimon, Hohl, {del Valle Rodriguez},
   Bakal, Bonvin, Sustar, Grunwald, Griffin, Villalta, Wu, Bateman, Desplan,
@@ -1103,14 +1095,14 @@ Elleard Heffern, Norbert Perrimon, Amber~M Hohl, Alberto {del Valle Rodriguez},
   Binari, and Gerold Schubiger.
 \newblock {The twin spot generator for differential Drosophila lineage
   analysis}.
-\newblock \emph{Nat. Methods}, 6\penalty0 (8):\penalty0 600--602, aug 2009.
+\newblock \emph{Nat. Methods}, 6\penalty0 (8):\penalty0 600--602, 2009.
 
 \bibitem[Yu et~al.(2010)Yu, Kao, He, Ding, Kao, and Lee]{Yu2010}
 Hung~Hsiang Yu, Chih~Fei Kao, Yisheng He, Peng Ding, Jui~Chun Kao, and Tzumin
   Lee.
 \newblock {A complete developmental sequence of a Drosophila neuronal lineage
   as revealed by twin-spot MARCM}.
-\newblock \emph{PLoS Biol.}, 8\penalty0 (8):\penalty0 39--40, aug 2010.
+\newblock \emph{PLoS Biol.}, 8\penalty0 (8):\penalty0 39--40, 2010.
 
 \bibitem[Denes et~al.(2013)Denes, Caussinus, Affolter, Kanca, and
   Percival-Smith]{Denes2013}
@@ -1118,7 +1110,7 @@ Alexandru~S. Denes, Emmanuel Caussinus, Markus Affolter, Oguz Kanca, and
   Anthony Percival-Smith.
 \newblock {Raeppli: a whole-tissue labeling tool for live imaging of Drosophila
   development}.
-\newblock \emph{Development}, 141\penalty0 (2):\penalty0 472--480, jan 2013.
+\newblock \emph{Development}, 141\penalty0 (2):\penalty0 472--480, 2013.
 
 \bibitem[Hadjieconomou et~al.(2011)Hadjieconomou, Rotkopf, Alexandre, Bell,
   Dickson, and Salecker]{Hadjieconomou2011}
@@ -1126,7 +1118,7 @@ Dafni Hadjieconomou, Shay Rotkopf, Cyrille Alexandre, Donald~M Bell, Barry~J
   Dickson, and Iris Salecker.
 \newblock {Flybow: Genetic multicolor cell labeling for neural circuit analysis
   in Drosophila melanogaster}.
-\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 260--266, mar 2011.
+\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 260--266, 2011.
 
 \bibitem[Hampel et~al.(2011)Hampel, Chung, McKellar, Hall, Looger, and
   Simpson]{Hampel2011}
@@ -1134,14 +1126,14 @@ Stefanie Hampel, Phuong Chung, Claire~E McKellar, Donald Hall, Loren~L Looger,
   and Julie~H Simpson.
 \newblock {Drosophila Brainbow: a recombinase-based fluorescence labeling
   technique to subdivide neural expression patterns}.
-\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 253--259, mar 2011.
+\newblock \emph{Nat. Methods}, 8\penalty0 (3):\penalty0 253--259, 2011.
 
 \bibitem[Neufeld et~al.(1998)Neufeld, {De La Cruz}, Johnston, and
   Edgar]{Neufeld1998}
 Thomas~P Neufeld, Aida Flor~A. {De La Cruz}, Laura~A Johnston, and Bruce~A
   Edgar.
 \newblock {Coordination of growth and cell division in the Drosophila wing}.
-\newblock \emph{Cell}, 93\penalty0 (7):\penalty0 1183--1193, jun 1998.
+\newblock \emph{Cell}, 93\penalty0 (7):\penalty0 1183--1193, 1998.
 
 \bibitem[Tworoger et~al.(1999)Tworoger, Larkin, Bryant, and
   Ruohola-Baker]{Tworoger1999}
@@ -1153,7 +1145,7 @@ Michael Tworoger, Michele~Keller Larkin, Zev Bryant, and Hannele Ruohola-Baker.
 \bibitem[Collins et~al.(2010)Collins, Linker, and Lewis]{Collins2010}
 Russell~T Collins, Claudia Linker, and Julian Lewis.
 \newblock {MAZe: A tool for mosaic analysis of gene function in zebrafish}.
-\newblock \emph{Nat. Methods}, 7\penalty0 (3):\penalty0 219--223, mar 2010.
+\newblock \emph{Nat. Methods}, 7\penalty0 (3):\penalty0 219--223, 2010.
 
 \bibitem[Mu{\~{n}}oz-Jim{\'{e}}nez et~al.(2017)Mu{\~{n}}oz-Jim{\'{e}}nez,
   Ayuso, Dobrzynska, Torres-Mend{\'{e}}z, Ruiz, and Askjaer]{Munoz-Jimenez2017}
@@ -1161,25 +1153,25 @@ Celia Mu{\~{n}}oz-Jim{\'{e}}nez, Cristina Ayuso, Agnieszka Dobrzynska, Antonio
   Torres-Mend{\'{e}}z, Patricia de la~Cruz Ruiz, and Peter Askjaer.
 \newblock {An efficient FLP-based toolkit for spatiotemporal control of gene
   expression in Caenorhabditis elegans}.
-\newblock \emph{Genetics}, 206\penalty0 (4):\penalty0 1763--1778, aug 2017.
+\newblock \emph{Genetics}, 206\penalty0 (4):\penalty0 1763--1778, 2017.
 
 \bibitem[Wang et~al.(2007)Wang, Warren, and Bradley]{Wang2007}
 Wei Wang, Madhuri Warren, and Allan Bradley.
 \newblock {Induced mitotic recombination of p53 in vivo}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 104\penalty0 (11):\penalty0
-  4501--4505, mar 2007.
+  4501--4505, 2007.
 
 \bibitem[Meijering(2012)]{Meijering2012}
 Erik Meijering.
 \newblock {Cell Segmentation: 50 Years Down the Road}.
 \newblock \emph{IEEE Signal Process. Mag.}, 29\penalty0 (5):\penalty0 140--145,
-  sep 2012.
+  2012.
 
 \bibitem[Zheng and Flavell(1997)]{Zheng1997}
 Wei-ping Zheng and Richard~A. Flavell.
 \newblock {The transcription factor GATA-3 is necessary and sufficient for Th2
   cytokine gene expression in CD4 T cells}.
-\newblock \emph{Cell}, 89\penalty0 (4):\penalty0 587--596, may 1997.
+\newblock \emph{Cell}, 89\penalty0 (4):\penalty0 587--596, 1997.
 
 \bibitem[Ducy et~al.(1997)Ducy, Zhang, Geoffroy, Ridall, and
   Karsenty]{Ducy1997}
@@ -1187,7 +1179,7 @@ Patricia Ducy, Rui Zhang, Val{\'{e}}rie Geoffroy, Amy~L. Ridall, and
   G{\'{e}}rard Karsenty.
 \newblock {Osf2/Cbfa1: a transcriptional activator of osteoblast
   differentiation}.
-\newblock \emph{Cell}, 89\penalty0 (5):\penalty0 747--754, may 1997.
+\newblock \emph{Cell}, 89\penalty0 (5):\penalty0 747--754, 1997.
 
 \bibitem[McGhee et~al.(2009)McGhee, Fukushige, Krause, Minnema, Goszczynski,
   Gaudet, Kohara, Bossinger, Zhao, Khattra, Hirst, Jones, Marra, Ruzanov,
@@ -1211,7 +1203,7 @@ Mary O'Riordan and Rudolf Grosschedl.
 Rachel~A. Evans, Y.~Chung Tian, Robert Steadman, and Aled~O. Phillips.
 \newblock {TGF-$\beta$1-mediated fibroblast-myofibroblast terminal
   differentiation - The role of Smad proteins}.
-\newblock \emph{Exp. Cell Res.}, 282\penalty0 (2):\penalty0 90--100, jan 2003.
+\newblock \emph{Exp. Cell Res.}, 282\penalty0 (2):\penalty0 90--100, 2003.
 
 \bibitem[Kueh et~al.(2013)Kueh, Champhekar, Nutt, Elowitz, and
   Rothenberg]{Kueh2013}
@@ -1219,7 +1211,7 @@ Hao~Y. Kueh, Ameya Champhekar, Stephen~L. Nutt, Michael~B. Elowitz, and
   Ellen~V. Rothenberg.
 \newblock {Positive feedback between PU.1 and the cell cycle controls myeloid
   differentiation}.
-\newblock \emph{Science (80-. ).}, 341:\penalty0 670--673, aug 2013.
+\newblock \emph{Science (80-. ).}, 341:\penalty0 670--673, 2013.
 
 \bibitem[Yao et~al.(2008)Yao, Lee, Mori, Nevins, and You]{Yao2008}
 Guang Yao, Tae~Jun Lee, Seiichi Mori, Joseph~R. Nevins, and Lingchong You.
@@ -1230,7 +1222,7 @@ Guang Yao, Tae~Jun Lee, Seiichi Mori, Joseph~R. Nevins, and Lingchong You.
 Byung~Ouk Park, Robert Ahrends, and Mary~N. Teruel.
 \newblock {Consecutive Positive Feedback Loops Create a Bistable Switch that
   Controls Preadipocyte-to-Adipocyte Conversion}.
-\newblock \emph{Cell Rep.}, 2\penalty0 (4):\penalty0 976--990, oct 2012.
+\newblock \emph{Cell Rep.}, 2\penalty0 (4):\penalty0 976--990, 2012.
 
 \bibitem[Tontonoz et~al.(1994)Tontonoz, Hu, and Spiegelman]{Tontonoz1994}
 Peter Tontonoz, Erding Hu, and Bruce~M Spiegelman.
@@ -1257,7 +1249,7 @@ Hitoshi Niwa, Jun-Ichi Miyazaki, and Austin~G. Smith.
 Lea Goentoro and Marc~W. Kirschner.
 \newblock {Evidence that Fold-Change, and Not Absolute Level, of
   $\beta$-Catenin Dictates Wnt Signaling}.
-\newblock \emph{Mol. Cell}, 36\penalty0 (5):\penalty0 872--884, dec 2009.
+\newblock \emph{Mol. Cell}, 36\penalty0 (5):\penalty0 872--884, 2009.
 
 \bibitem[Kamino et~al.(2017)Kamino, Kondo, Nakajima, Honda-Kitahara, Kaneko,
   and Sawai]{Kamino2017}
@@ -1266,14 +1258,14 @@ Keita Kamino, Yohei Kondo, Akihiko Nakajima, Mai Honda-Kitahara, Kunihiko
 \newblock {Fold-change detection and scale invariance of cell–cell signaling
   in social amoeba}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 114\penalty0 (21):\penalty0
-  E4149--E4157, may 2017.
+  E4149--E4157, 2017.
 
 \bibitem[Antebi et~al.(2017)Antebi, Linton, Klumpe, Bintu, Gong, Su, McCardell,
   and Elowitz]{Antebi2017}
 Yaron~E. Antebi, James~M. Linton, Heidi Klumpe, Bogdan Bintu, Mengsha Gong,
   Christina Su, Reed McCardell, and Michael~B. Elowitz.
 \newblock {Combinatorial Signal Perception in the BMP Pathway}.
-\newblock \emph{Cell}, 170:\penalty0 1184--1196, sep 2017.
+\newblock \emph{Cell}, 170:\penalty0 1184--1196, 2017.
 
 \bibitem[Bush et~al.(2016)Bush, Vasen, Constantinou, Dunayevich, Patop,
   Blaustein, and Colman‐Lerner]{Bush2016}
@@ -1282,20 +1274,20 @@ Alan Bush, Gustavo Vasen, Andreas Constantinou, Paula Dunayevich,
   Colman‐Lerner.
 \newblock {Yeast GPCR signaling reflects the fraction of occupied receptors,
   not the number}.
-\newblock \emph{Mol. Syst. Biol.}, 12:\penalty0 898, dec 2016.
+\newblock \emph{Mol. Syst. Biol.}, 12:\penalty0 898, 2016.
 
 \bibitem[Goentoro et~al.(2009)Goentoro, Shoval, Kirschner, and
   Alon]{Goentoro2009}
 Lea Goentoro, Oren Shoval, Marc~W. Kirschner, and Uri Alon.
 \newblock {The incoherent feedforward loop can provide fold-change detection in
   gene regulation}.
-\newblock \emph{Mol. Cell}, 36:\penalty0 894--899, dec 2009.
+\newblock \emph{Mol. Cell}, 36:\penalty0 894--899, 2009.
 
 \bibitem[Doe(2017)]{Doe2017}
 Chris~Q. Doe.
 \newblock {Temporal patterning in the Drosophila CNS}.
 \newblock \emph{Annu. Rev. Cell Dev. Biol.}, 33\penalty0 (1):\penalty0
-  219--240, oct 2017.
+  219--240, 2017.
 
 \bibitem[Erclik et~al.(2017)Erclik, Li, Courgeon, Bertet, Chen, Baumert, Ng,
   Koo, Arain, Behnia, {Del Valle Rodriguez}, Senderowicz, Negre, White, and
@@ -1306,7 +1298,7 @@ Ted Erclik, Xin Li, Maximilien Courgeon, Claire Bertet, Zhenqing Chen, Ryan
   Desplan.
 \newblock {Integration of temporal and spatial patterning generates neural
   diversity}.
-\newblock \emph{Nature}, 541\penalty0 (7637):\penalty0 365--370, jan 2017.
+\newblock \emph{Nature}, 541\penalty0 (7637):\penalty0 365--370, 2017.
 
 \bibitem[Gabay et~al.(1996)Gabay, Scholz, Golembo, Klaes, Shilo, and
   Klambt]{Gabay1996}
@@ -1322,7 +1314,7 @@ Marc~S. Halfon, Ana Carmena, Stephen Gisselbrecht, Charles~M. Sackerson,
   Fernando Jim{\'{e}}nez, Mary~K. Baylies, and Alan~M. Michelson.
 \newblock {Ras pathway specificity is determined by the integration of multiple
   signal-activated and tissue-restricted transcription factors}.
-\newblock \emph{Cell}, 103\penalty0 (1):\penalty0 63--74, sep 2000.
+\newblock \emph{Cell}, 103\penalty0 (1):\penalty0 63--74, 2000.
 
 \bibitem[Morimoto et~al.(1996)Morimoto, Jordan, Tietze, Britton, O'Neill, and
   Ruohola-Baker]{Morimoto1996}
@@ -1344,14 +1336,14 @@ Chunyan Xu, Rachele~C. Kauffmann, Jianjun Zhang, Susan Kladny, and Richard~W.
 Gail~V Flores, Hong Duan, Huajun Yan, Raghavendra Nagaraj, Weimin Fu, Yu~Zou,
   Markus Noll, and Utpal Banerjee.
 \newblock {Combinatorial signaling in the specification of unique cell fates}.
-\newblock \emph{Cell}, 103:\penalty0 75--85, sep 2000.
+\newblock \emph{Cell}, 103:\penalty0 75--85, 2000.
 
 \bibitem[Brunner et~al.(1994)Brunner, D{\"{u}}cker, Oellers, Hafen, Scholz, and
   Kl{\"{a}}mbt]{Brunner1994}
 D~Brunner, K~D{\"{u}}cker, N~Oellers, E~Hafen, H~Scholz, and C~Kl{\"{a}}mbt.
 \newblock {The ETS domain protein pointed-P2 is a target of MAP kinase in the
   sevenless signal transduction pathway.}
-\newblock \emph{Nature}, 370\penalty0 (6488):\penalty0 386--9, aug 1994.
+\newblock \emph{Nature}, 370\penalty0 (6488):\penalty0 386--9, 1994.
 
 \bibitem[O'Neill et~al.(1994)O'Neill, Rebay, Tjian, and Rubin]{ONeill1994a}
 Elizabeth~M. O'Neill, Ilaria Rebay, Robert Tjian, and Gerald Rubin.
@@ -1382,7 +1374,7 @@ Gong~Hong Wei, Gwenael Badis, Michael~F. Berger, Teemu Kivioja, Kimmo Palin,
   Taipale.
 \newblock {Genome-wide analysis of ETS-family DNA-binding in vitro and in
   vivo}.
-\newblock \emph{EMBO J.}, 29\penalty0 (13):\penalty0 2147--2160, jul 2010.
+\newblock \emph{EMBO J.}, 29\penalty0 (13):\penalty0 2147--2160, 2010.
 
 \bibitem[Webber et~al.(2013{\natexlab{a}})Webber, Zhang, Cote, Vivekanand, Ni,
   Zhou, Negre, Carthew, White, and Rebay]{Webber2013}
@@ -1398,7 +1390,7 @@ Jemma~L. Webber, Jie Zhang, Lauren Cote, Pavithra Vivekanand, Xiaochun Ni, Jie
 Jemma~L. Webber, Jie Zhang, Aaron Mitchell-Dick, and Ilaria Rebay.
 \newblock {3D chromatin interactions organize Yan chromatin occupancy and
   repression at the even-skipped locus}.
-\newblock \emph{Genes Dev.}, 27\penalty0 (21):\penalty0 2293--2298, nov
+\newblock \emph{Genes Dev.}, 27\penalty0 (21):\penalty0 2293--2298,
   2013{\natexlab{b}}.
 
 \bibitem[{Boisclair Lachance} et~al.(2018){Boisclair Lachance}, Webber, Hong,
@@ -1408,7 +1400,7 @@ Jean-Fran{\c{c}}ois {Boisclair Lachance}, Jemma~L Webber, Lu~Hong, Aaron~R
 \newblock {Cooperative recruitment of Yan via a high-affinity ETS supersite
   organizes repression to confer specificity and robustness to cardiac cell
   fate specification}.
-\newblock \emph{Genes Dev.}, 32:\penalty0 389--401, mar 2018.
+\newblock \emph{Genes Dev.}, 32:\penalty0 389--401, 2018.
 
 \bibitem[Webber et~al.(2018)Webber, Zhang, Massey, Sanchez-Luege, and
   Rebay]{Webber2018}
@@ -1417,13 +1409,13 @@ Jemma~L Webber, Jie Zhang, Alex Massey, Nicelio Sanchez-Luege, and Ilaria
 \newblock {Collaborative repressive action of the antagonistic ETS
   transcription factors Pointed and Yan fine-tunes gene expression to confer
   robustness in Drosophila}.
-\newblock \emph{Development}, 145\penalty0 (13):\penalty0 dev165985, may 2018.
+\newblock \emph{Development}, 145\penalty0 (13):\penalty0 dev165985, 2018.
 
 \bibitem[Freeman(1996)]{Freeman1996}
 Matthew Freeman.
 \newblock {Reiterative use of the EGF receptor triggers differentiation of all
   cell types in the Drosophila eye}.
-\newblock \emph{Cell}, 87:\penalty0 651--660, nov 1996.
+\newblock \emph{Cell}, 87:\penalty0 651--660, 1996.
 
 \bibitem[Wolff and Ready(1993)]{Wolff1993}
 Tanya Wolff and Donald~F. Ready.
@@ -1437,7 +1429,7 @@ Tianyi Zhang, Swati Ranade, Chuan~Qi Cai, Christopher Clouser, and Francesca
   Pignoni.
 \newblock {Direct control of neurogenesis by selector factors in the fly eye:
   regulation of atonal by Ey and So}.
-\newblock \emph{Development}, 133\penalty0 (24):\penalty0 4881--4889, dec 2006.
+\newblock \emph{Development}, 133\penalty0 (24):\penalty0 4881--4889, 2006.
 
 \bibitem[Wolff and Ready(1991)]{Wolff1991}
 T.~Wolff and Donalf~F. Ready.
@@ -1449,7 +1441,7 @@ T.~Wolff and Donalf~F. Ready.
 Mark~E. Fortini, Ilaria Rebay, Laurent~A. Caron, and Spyros Artavanis-Tsakonas.
 \newblock {An activated Notch receptor blocks cell-fate commitment in the
   developing Drosophila eye}.
-\newblock \emph{Nature}, 365:\penalty0 555--557, oct 1993.
+\newblock \emph{Nature}, 365:\penalty0 555--557, 1993.
 
 \bibitem[Pel{\'{a}}ez(2016)]{Pelaez2016}
 Nicol{\'{a}}s Pel{\'{a}}ez.
@@ -1496,13 +1488,13 @@ Feng Qiao, Haiyun Song, Chongwoo~A. Kim, Michael~R. Sawaya, Jacob~B. Hunter,
   Mari Gingery, Ilaria Rebay, Albert~J. Courey, and James~U. Bowie.
 \newblock {Derepression by depolymerization: Structural insights into the
   regulation of Yan by Mae}.
-\newblock \emph{Cell}, 118:\penalty0 163--173, jul 2004.
+\newblock \emph{Cell}, 118:\penalty0 163--173, 2004.
 
 \bibitem[Hope et~al.(2017)Hope, Rebay, and Reinitz]{Hope2017}
 Matthew~C. Hope, Ilaria Rebay, and John Reinitz.
 \newblock {DNA Occupancy of polymerizing transcription factors: A chemical
   model of the ETS family factor Yan}.
-\newblock \emph{Biophys. J.}, 112\penalty0 (1):\penalty0 180--192, jan 2017.
+\newblock \emph{Biophys. J.}, 112\penalty0 (1):\penalty0 180--192, 2017.
 
 \bibitem[Fogler(1987)]{Fogler1987}
 H.~S. Fogler.
@@ -1514,7 +1506,7 @@ John~C. Lucchesi and John~M. Rawls.
 \newblock {Regulation of gene function: A comparison of enzyme activity levels
   in relation to gene dosage in diploids and triploids of Drosophila
   melanogaster}.
-\newblock \emph{Biochem. Genet.}, 9\penalty0 (1):\penalty0 41--51, may 1973.
+\newblock \emph{Biochem. Genet.}, 9\penalty0 (1):\penalty0 41--51, 1973.
 
 \bibitem[Rohrbaugh et~al.(2002)Rohrbaugh, Ramos, Nguyen, Price, Wen, and
   Lai]{Rohrbaugh2002}
@@ -1528,7 +1520,7 @@ Margaret Rohrbaugh, Edward Ramos, Duc Nguyen, Mitch Price, Yu~Wen, and Zhi-Chun
 Justin~P. Kumar, Frank Hsiung, Maureen~A. Powers, and Kevin Moses.
 \newblock {Nuclear translocation of activated MAP kinase is developmentally
   regulated in the developing Drosophila eye}.
-\newblock \emph{Development}, 130\penalty0 (16):\penalty0 3703--14, apr 2003.
+\newblock \emph{Development}, 130\penalty0 (16):\penalty0 3703--14, 2003.
 
 \bibitem[Cagan and Ready(1989)]{Cagan1989}
 Ross~L. Cagan and Donald~F. Ready.
@@ -1540,7 +1532,7 @@ Ross~L. Cagan and Donald~F. Ready.
 Yanxia Li and Nicholas~E. Baker.
 \newblock {Proneural enhancement by Notch overcomes suppressor-of-hairless
   repressor function in the developing Drosophila eye}.
-\newblock \emph{Curr. Biol.}, 11\penalty0 (5):\penalty0 330--338, mar 2001.
+\newblock \emph{Curr. Biol.}, 11\penalty0 (5):\penalty0 330--338, 2001.
 
 \bibitem[Kumar et~al.(1998)Kumar, Tio, Hsiung, Akopyan, Gabay, Seger, Shilo,
   and Moses]{Kumar1998}
@@ -1556,7 +1548,7 @@ Michael~A. Simon, David~D.L. Bowtell, G.~Steven Dodson, Todd~R. Laverty, and
   Gerald~M. Rubin.
 \newblock {Ras1 and a putative guanine nucleotide exchange factor perform
   crucial steps in signaling by the sevenless protein tyrosine kinase}.
-\newblock \emph{Cell}, 67\penalty0 (4):\penalty0 701--716, nov 1991.
+\newblock \emph{Cell}, 67\penalty0 (4):\penalty0 701--716, 1991.
 
 \bibitem[Fortini et~al.(1992)Fortini, Simon, and Rubin]{Fortini1992}
 Mark~E. Fortini, Michael~A. Simon, and Gerald~M. Rubin.
@@ -1568,8 +1560,7 @@ Mark~E. Fortini, Michael~A. Simon, and Gerald~M. Rubin.
 Fran{\c{c}}ois Spitz and Eileen E.~M. Furlong.
 \newblock {Transcription factors: From enhancer binding to developmental
   control}.
-\newblock \emph{Nat. Rev. Genet.}, 13\penalty0 (9):\penalty0 613--626, sep
-  2012.
+\newblock \emph{Nat. Rev. Genet.}, 13\penalty0 (9):\penalty0 613--626, 2012.
 
 \bibitem[Nagaraj et~al.(2002)Nagaraj, Canon, and Banerjee]{Nagaraj2002}
 Raghavendra Nagaraj, Jude Canon, and Utpal Banerjee.
@@ -1581,7 +1572,7 @@ Raghavendra Nagaraj, Jude Canon, and Utpal Banerjee.
 Yihan Lin, Chang~Ho Sohn, Chiraj~K. Dalal, Long Cai, and Michael~B. Elowitz.
 \newblock {Combinatorial gene regulation by modulation of relative pulse
   timing}.
-\newblock \emph{Nature}, 527:\penalty0 54--58, nov 2015.
+\newblock \emph{Nature}, 527:\penalty0 54--58, 2015.
 
 \bibitem[Kim et~al.(2001)Kim, Phillips, Kim, Gingery, Tran, Robinson, Faham,
   and Bowie]{Kim2001}
@@ -1598,14 +1589,13 @@ Jie Zhang, Thomas~G.W. Graham, Pavithra Vivekanand, Lauren Cote, Maureen
 \newblock {Sterile alpha motif domain-mediated self-association plays an
   essential role in modulating the activity of the Drosophila ETS family
   transcriptional repressor Yan}.
-\newblock \emph{Mol. Cell. Biol.}, 30\penalty0 (5):\penalty0 1158--1170, mar
-  2010.
+\newblock \emph{Mol. Cell. Biol.}, 30\penalty0 (5):\penalty0 1158--1170, 2010.
 
 \bibitem[Yang and Baker(2006)]{Yang2006}
 Lihui Yang and Nicholas~E. Baker.
 \newblock {Notch activity opposes ras-induced differentiation during the second
   mitotic wave of the developing Drosophila eye}.
-\newblock \emph{BMC Dev. Biol.}, 6\penalty0 (8):\penalty0 1--10, feb 2006.
+\newblock \emph{BMC Dev. Biol.}, 6\penalty0 (8):\penalty0 1--10, 2006.
 
 \bibitem[Ebisuya and Briscoe(2018)]{Ebisuya2018}
 Miki Ebisuya and James Briscoe.
@@ -1756,7 +1746,7 @@ A~W Shingleton, J~Das, L~Vinicius, and D~L Stern.
 James.~F. Gillooly, Eric~L. Charnov, Geoffrey~B. West, Van~M. Savage, and
   James~H. Brown.
 \newblock {Effects of size and temperature on developmental time.}
-\newblock \emph{Nature}, 417\penalty0 (6884):\penalty0 70--3, may 2002.
+\newblock \emph{Nature}, 417\penalty0 (6884):\penalty0 70--3, 2002.
 
 \bibitem[Cusanovich et~al.(2018)Cusanovich, Reddington, Garfield, Daza,
   Aghamirzaie, Marco-Ferreres, Pliner, Christiansen, Qiu, Steemers, Trapnell,
@@ -1905,6 +1895,12 @@ S~Pressman, C~A Reinke, X~Wang, and R~W Carthew.
   Drosophila}.
 \newblock \emph{G3}, 2\penalty0 (4):\penalty0 437--448, 2012.
 
+\bibitem[Arrowsmith and Place(1992)]{Arrowsmith1992}
+D.~K. Arrowsmith and C.~M. Place.
+\newblock {The Linearization Theorem}.
+\newblock In \emph{Dyn. Syst. Differ. Equations, Maps, Chaotic Behav.} Chapman
+  {\&} Hall, London, 1992.
+
 \bibitem[Seborg et~al.(2011)Seborg, Edgar, Mellicamp, and {Doyle
   III}]{Seborg2011}
 D.~Seborg, T.~Edgar, D.~Mellicamp, and F.~{Doyle III}.
@@ -1986,7 +1982,7 @@ Matthew~J Brauer, Curtis Huttenhower, Edoardo~M Airoldi, Rachel Rosenstein,
   Botstein.
 \newblock {Coordination of growth rate, cell cycle, stress response, and
   metabolic activity in yeast}.
-\newblock \emph{Mol Biol Cell}, 19\penalty0 (1):\penalty0 352--367, jan 2008.
+\newblock \emph{Mol Biol Cell}, 19\penalty0 (1):\penalty0 352--367, 2008.
 
 \bibitem[Lu et~al.(2009)Lu, Brauer, and Botstein]{Lu2009}
 C~Lu, M~J Brauer, and D~Botstein.
@@ -2015,14 +2011,14 @@ Marieke Visscher, Sasha {De Henau}, Mattheus~H.E. Wildschut, Robert~M. van Es,
   Braeckman, Boudewijn~M.T. Burgering, Harmjan~R. Vos, and Tobias~B. Dansen.
 \newblock {Proteome-wide Changes in Protein Turnover Rates in C. elegans Models
   of Longevity and Age-Related Disease}.
-\newblock \emph{Cell Rep.}, 16\penalty0 (11):\penalty0 3041--3051, sep 2016.
+\newblock \emph{Cell Rep.}, 16\penalty0 (11):\penalty0 3041--3051, 2016.
 
 \bibitem[Tollerson et~al.(2018)Tollerson, Witzky, and Ibba]{Tollerson2018}
 Rodney Tollerson, Anne Witzky, and Michael Ibba.
 \newblock {Elongation factor P is required to maintain proteome homeostasis at
   high growth rate}.
 \newblock \emph{Proc. Natl. Acad. Sci.}, 115\penalty0 (43):\penalty0
-  11072--11077, oct 2018.
+  11072--11077, 2018.
 
 \bibitem[Burnaevskiy et~al.(2018)Burnaevskiy, Sands, Yun, Tedesco, Johnson,
   Kaeberlein, Brent, and Mendenhall]{Burnaevskiy2018}
@@ -2030,31 +2026,31 @@ Nikolay Burnaevskiy, Bryan Sands, Soo Yun, Patricia~M Tedesco, Thomas~E
   Johnson, Matt Kaeberlein, Roger Brent, and Alexander Mendenhall.
 \newblock {Differences in protein dosage underlie nongenetic differences in
   traits}.
-\newblock \emph{bioRxiv}, page 431643, oct 2018.
+\newblock \emph{bioRxiv}, page 431643, 2018.
 
 \bibitem[Sotiropoulos and Kaznessis(2011)]{Sotiropoulos2011}
 Vassilios Sotiropoulos and Yiannis~N. Kaznessis.
 \newblock {Analytical derivation of moment equations in stochastic chemical
   kinetics}.
-\newblock \emph{Chem. Eng. Sci.}, 66\penalty0 (3):\penalty0 268--277, feb 2011.
+\newblock \emph{Chem. Eng. Sci.}, 66\penalty0 (3):\penalty0 268--277, 2011.
 
 \bibitem[Singh and Hespanha(2011)]{Singh2011}
 Abhyudai Singh and Joao~P. Hespanha.
 \newblock {Approximate moment dynamics for chemically reacting systems}.
 \newblock \emph{IEEE Trans. Automat. Contr.}, 56\penalty0 (2):\penalty0
-  414--418, feb 2011.
+  414--418, 2011.
 
 \bibitem[Munsky and Khammash(2006)]{Munsky2006}
 Brian Munsky and Mustafa Khammash.
 \newblock {The finite state projection algorithm for the solution of the
   chemical master equation}.
-\newblock \emph{J. Chem. Phys.}, 124\penalty0 (4):\penalty0 044104, jan 2006.
+\newblock \emph{J. Chem. Phys.}, 124\penalty0 (4):\penalty0 044104, 2006.
 
 \bibitem[Gesztelyi et~al.(2012)Gesztelyi, Zsuga, Kemeny-Beke, Varga, Juhasz,
   and Tosaki]{Gesztelyi2012}
 Rudolf Gesztelyi, Judit Zsuga, Adam Kemeny-Beke, Balazs Varga, Bela Juhasz, and
   Arpad Tosaki.
-\newblock {The Hill equation and the origin of quantitative pharmacology}, jul
+\newblock {The Hill equation and the origin of quantitative pharmacology},
   2012.
 
 \bibitem[Gillespie(1977)]{Gillespie1977}

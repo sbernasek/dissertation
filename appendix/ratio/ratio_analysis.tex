@@ -28,7 +28,7 @@ None of our conclusions are sensitive to our choice of filtration or smoothing m
 
 Cells were aligned with a reference population by shifting them in time. The magnitude of this shift was determined by maximizing the cross-correlation of progenitor Pnt-GFP expression $Y(t)$ with the corresponding reference time series $X(t)$. Rather than raw measurements, moving averages within a window of ten cells were used to improve robustness against noise. This operation amounts to:
 \begin{equation}
-z = \argmax_{dt} \ { E \Big[ \frac{(Y(t+dt)-\mu_Y)(X(t+dt)-\mu_X)}{\sigma_Y \sigma_X} \Big] }
+\argmax_{dt} \ { E \Big[ \frac{(Y(t+dt)-\mu_Y)(X(t+dt)-\mu_X)}{\sigma_Y \sigma_X} \Big] }
 \end{equation}
 where, $\mu$ and $\sigma$ are the mean and standard deviation of each time series, and $dt$ is the time by which the population should be shifted.
 

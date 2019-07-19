@@ -1,7 +1,8 @@
-*.pdf
 *.png
 *.ai
 *.jpg
 /figure_resizing
 /figures
 /scraps
+/text/legacy
+/rendered
